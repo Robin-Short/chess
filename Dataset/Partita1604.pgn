@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vX8wuwcu"]
+[White "JackDuffy"]
+[Black "toba_nomade"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:09:02"]
+[WhiteElo "1403"]
+[BlackElo "1242"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 c5 3. c3 c4 4. f4 Nf6 5. Nf3 Ne4 6. Ne5 Be6 7. Qh5 g6 8. Qf3 Nc6 9. Nd2 Nxd2 10. Bxd2 Nxe5 11. fxe5 Bg7 12. Be2 Qd7 13. O-O f5 14. a4 a5 15. Be1 O-O-O 16. Bh4 h6 17. Bg3 g5 18. h4 g4 19. Qf4 Rdf8 20. h5 b6 21. Bd1 Bf7 22. Qxf5 e6 23. Qxg4 Qe8 24. Qxg7 Rfg8 25. Qxf7 Qxf7 26. Rxf7 Rxg3 27. Rf6 Rxe3 28. Rxe6 Re1+ 29. Kf2 Re4 30. Bf3 Rf8 31. Rxh6 Rh4 32. e6 Rh2 33. e7 Rxf3+ 34. Kxf3 Rxh5 35. Rxh5 b5 36. e8=R+ Kb7 37. Rh7+ Ka6 38. Re6# 1-0
+

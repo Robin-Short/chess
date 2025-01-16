@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OQtob3dv"]
+[White "chycha"]
+[Black "MrXZK"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:10"]
+[WhiteElo "1515"]
+[BlackElo "1426"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+18"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e3 { [%eval 0.22] } 1... d5 { [%eval 0.16] } 2. a3 { [%eval 0.0] } 2... c5 { [%eval 0.0] } 3. h3 { [%eval -0.17] } 3... Nc6 { [%eval -0.08] } 4. g4?! { [%eval -0.8] } 4... e5 { [%eval -0.8] } 5. Bg2 { [%eval -0.87] } 5... g6 { [%eval -0.69] } 6. Nc3 { [%eval -0.6] } 6... Bg7?! { [%eval 0.29] } 7. Nxd5 { [%eval 0.14] } 7... Be6 { [%eval 0.22] } 8. Nc3 { [%eval 0.18] } 8... Qh4?! { [%eval 0.93] } 9. Nf3 { [%eval 0.51] } 9... Qe7 { [%eval 0.63] } 10. Ne4? { [%eval -0.7] } 10... O-O-O { [%eval -0.29] } 11. Nfg5?! { [%eval -0.81] } 11... f6?? { [%eval 2.27] } 12. Nxe6 { [%eval 2.24] } 12... Qxe6 { [%eval 2.28] } 13. Nxc5 { [%eval 2.3] } 13... Qc4?! { [%eval 3.02] } 14. Nb3? { [%eval 1.3] } 14... f5?! { [%eval 2.04] } 15. Bxc6? { [%eval 0.86] } 15... bxc6? { [%eval 2.04] } 16. d3 { [%eval 1.92] } 16... Qd5 { [%eval 2.06] } 17. f3 { [%eval 1.87] } 17... e4?! { [%eval 2.37] } 18. fxe4 { [%eval 2.18] } 18... fxe4 { [%eval 2.16] } 19. d4 { [%eval 2.3] } 19... h5 { [%eval 2.1] } 20. Nc5? { [%eval 0.94] } 20... Bf6? { [%eval 2.04] } 21. Kf1?? { [%eval -2.75] } 21... Rf8?? { [%eval 0.55] } 22. Kg2 { [%eval 0.5] } 22... Bh4?! { [%eval 1.2] } 23. Rf1?! { [%eval 0.63] } 23... Nh6? { [%eval 1.82] } 24. Qe2 { [%eval 1.13] } 24... hxg4 { [%eval 2.14] } 25. Rxf8+?? { [%eval -0.88] } 25... Rxf8 { [%eval 0.0] } 26. Qa6+ { [%eval -0.94] } 26... Kc7? { [%eval 1.53] } 27. Qb7+? { [%eval 0.34] } 27... Kd8 { [%eval 0.9] } 28. Qb8+?! { [%eval 0.31] } 28... Ke7 { [%eval 0.66] } 29. Qxa7+ { [%eval 0.0] } 29... Ke8 { [%eval 0.0] } 30. Qb8+ { [%eval 0.0] } 30... Ke7? { [%eval 1.53] } 31. Qc7+ { [%eval 1.47] } 31... Ke8 { [%eval 1.22] } 32. Qe5+? { [%eval -0.39] } 32... Qxe5 { [%eval -0.48] } 33. dxe5 { [%eval -0.39] } 33... Rf2+ { [%eval -0.61] } 34. Kg1?? { [%eval -5.22] } 34... gxh3 { [%eval -5.21] } 35. b4?? { [%eval #-4] } 35... h2+?? { [%eval -0.78] } 36. Kh1 { [%eval -1.07] } 36... Nf5 { [%eval -0.95] } 37. Bb2?? { [%eval #-1] } 37... Ng3# 0-1
+

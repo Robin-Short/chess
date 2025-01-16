@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IfIsl6CE"]
+[White "chrisbarcelona"]
+[Black "explem"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:04"]
+[WhiteElo "1313"]
+[BlackElo "1251"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 e5 3. d4 exd4 4. Qxd4 f6 5. Bg5 Bg7 6. Bf4 Nc6 7. Qc5 b6 8. Qc4 Qe7 9. f3 Na5 10. Qd3 Bb7 11. Bxc7 f5 12. Nd5 Bxd5 13. Qxd5 Rc8 14. Bd6 Qe6 15. Bb5 Qxd5 16. exd5 Bxb2 17. Rd1 Bc3+ 18. Kf2 Nf6 19. Ne2 Bb4 20. c3 Bxd6 21. Rhe1 Bc5+ 22. Nd4+ Kf7 23. a4 Nxd5 24. Bc4 Nxc4 25. Kg3 Nxc3 26. Rd3 Bd6+ 27. f4 Nxa4 28. Nb5 Bb8 29. Rxd7+ Kf8 30. Ree7 Re8 31. Rf7+ Kg8 32. Rg7+ Kf8 33. Rdf7# 1-0
+

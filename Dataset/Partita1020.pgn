@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XyBoW4hg"]
+[White "nobleway"]
+[Black "iflhbycr"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:43"]
+[WhiteElo "1737"]
+[BlackElo "1560"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Be3 e6 4. Nf3 c5 5. Qd2 Nc6 6. c3 cxd4 7. cxd4 Nge7 8. Nc3 Qa5 9. Bd3 O-O 10. O-O b6 11. a3 Qh5 12. Be2 f5 13. Ng5 Qh4 14. g3 Qxg5 15. Bxg5 fxe4 16. Nxe4 Nf5 17. Rfe1 Nfxd4 18. Be3 Nxe2+ 19. Rxe2 d5 20. Ng5 Ne5 21. f4 Ng4 22. Bd4 Re8 23. Bxg7 Kxg7 24. Qc3+ Kg8 25. Qc7 Rf8 26. Qxh7# 1-0
+

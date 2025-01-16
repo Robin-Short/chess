@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/U6h1k7gT"]
+[White "-dexter-"]
+[Black "Richard10"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:40"]
+[WhiteElo "1282"]
+[BlackElo "1587"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+[ECO "A00"]
+[Opening "Kadas Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. h4 d5 2. h5 c5 3. e3 Nc6 4. g4 e5 5. Bg2 e4 6. c3 Qg5 7. f4 Qxg4 8. Qxg4 Bxg4 9. Bh3 Bxh3 10. Rxh3 O-O-O 11. Na3 a6 12. b3 f5 13. Bb2 Be7 14. c4 Bf6 15. Bxf6 Nxf6 16. Rg3 Rd7 17. cxd5 Nxd5 18. Rg5 Rf8 19. Rc1 b6 20. Nc4 Kb7 21. a4 Ncb4 22. a5 Nd3+ 23. Kd1 Nxc1 24. Kxc1 bxa5 25. Nxa5+ Kb6 26. Nc4+ Kb5 27. Rxf5 0-1
+

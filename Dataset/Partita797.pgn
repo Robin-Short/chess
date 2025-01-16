@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n50kKX46"]
+[White "etelepon"]
+[Black "villasana"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:33"]
+[WhiteElo "1982"]
+[BlackElo "1890"]
+[WhiteRatingDiff "+29"]
+[BlackRatingDiff "-9"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Bd6 5. Nf3 Nd7 6. Bd3 Ne7 7. O-O O-O 8. Bd2 h6 9. Rc1 e5 10. cxd5 cxd5 11. Nb5 Bb8 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Bc3 Bxc3 15. Rxc3 Bd7 16. Nd4 Rc8 17. Rxc8 Qxc8 18. Qb3 b6 19. Qa3 Nc6 20. Nxc6 Qxc6 21. Bh7+ Kxh7 22. Qxf8 Be6 23. Qb4 a5 24. Qd2 Qc4 25. b3 Qg4 26. Rc1 Qg5 27. Rc6 Bh3 28. f4 Qg6 29. Rxg6 1-0
+

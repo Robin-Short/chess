@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sMmy4AUN"]
+[White "franktaolin"]
+[Black "DOMARBOR"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:46"]
+[WhiteElo "1505"]
+[BlackElo "1630"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e6 4. a3 f5 5. e4 fxe4 6. Nxe4 Nf6 7. Bg5 Be7 8. Bxf6 Bxf6 9. Bxc4 O-O 10. Qb3 Bxd4 11. Bxe6+ Bxe6 12. Qxe6+ Kh8 13. O-O-O Bxb2+ 14. Kc2 Bd4 15. Nf3 c5 16. Nxc5 Qc7 17. Rxd4 Qxc5+ 18. Rc4 Qxf2+ 19. Kc3 Nc6 20. Ng5 Rae8 0-1
+

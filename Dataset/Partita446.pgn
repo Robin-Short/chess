@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/hIZ2v4cQ"]
+[White "cholo19"]
+[Black "Gardienov"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:17:45"]
+[WhiteElo "1206"]
+[BlackElo "1084"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+14"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Qe7 3. d4 Nf6 4. Qf3 Nc6 5. dxe5 Ng8 6. Bc4 Qb4+ 7. c3 Qxc4 8. Nh3 Nxe5 9. Qf4 Bd6 10. Ng5 h6 11. Nd2 Qd3 12. Nxf7 Nxf7 13. e5 Nxe5 14. Ne4 Ng6 15. Qf5 N8e7 16. Nf6+ gxf6 17. Qxf6 Qe4+ 18. Be3 Rf8 19. Qg7 Be5 20. Qxh6 Qxg2 21. Rf1 Rh8 22. Qh5 Rxh5 23. O-O-O Qc6 24. Rfe1 Rxh2 25. f4 Bxc3 26. Rg1 Bd4+ 27. Kb1 Bxe3 28. Rg5 Rd2 29. Re1 Qc2+ 30. Ka1 Rd1+ 31. Rxd1 Qxd1# 0-1
+

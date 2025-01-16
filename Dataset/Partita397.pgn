@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AXXBw3eD"]
+[White "LeBleu"]
+[Black "Starknight"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:15:56"]
+[WhiteElo "1241"]
+[BlackElo "1353"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+8"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, Greco Variation"]
+[TimeControl "600+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. b3 cxb3 5. axb3 a6 6. d5 c6 7. Nc3 b4 8. Na4 cxd5 9. exd5 h6 10. Nc5 e6 11. Bc4 Bxc5 12. Nf3 Qb6 13. Qe2 Nf6 14. dxe6 Bxe6 15. Qe5 Bxf2+ 16. Kd2 O-O 17. Rf1 Nbd7 18. Qe2 Bxc4 19. bxc4 Bc5 20. Ne5 Nxe5 21. Qxe5 Rad8+ 22. Kc2 Rfe8 23. Qf4 b3+ 24. Kc3 Qb4+ 25. Kb2 Bd4+ 26. Kb1 Qxc4 27. Ra5 Qd3# 0-1
+

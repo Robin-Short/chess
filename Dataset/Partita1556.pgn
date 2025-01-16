@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1abRXVvh"]
+[White "tofsla"]
+[Black "astrocreep13"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:07:38"]
+[WhiteElo "1347"]
+[BlackElo "1446"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 e6 3. e3 d5 4. Nc3 Ne7 5. b4 Nd7 6. a4 Nf5 7. Ba3 a5 8. b5 Bxa3 9. Rxa3 O-O 10. Bd3 cxb5 11. Nxb5 Nb6 12. c5 Nc4 13. Bxc4 dxc4 14. Nf3 Qd5 15. Nc7 Qc6 16. Nxa8 Rd8 17. Ne5 Qxg2 18. Rf1 f6 19. Ng4 e5 20. d5 Be6 21. d6 Bd5 22. Nc7 Bc6 23. Ne6 Rd7 24. Nxf6+ gxf6 25. Qh5 Qe4 26. Qe8# 1-0
+

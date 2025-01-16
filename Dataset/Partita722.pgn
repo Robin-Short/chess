@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eXULqozM"]
+[White "ribarisah"]
+[Black "sezwho"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:28"]
+[WhiteElo "2021"]
+[BlackElo "2023"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 d5 2. Nf3 Nc6 3. Bg2 e5 4. O-O e4 5. Ne1 f5 6. d3 Nf6 7. c4 dxc4 8. Bg5 cxd3 9. exd3 h6 10. Bxf6 Qxf6 11. Nc3 exd3 12. Qxd3 Bd7 13. Qe3+ Qe7 14. Qd4 O-O-O 15. Qa4 Qb4 16. Bxc6 Bxc6 17. Qxa7 b6 18. Nd3 Rxd3 19. Rad1 Rxd1 20. Rxd1 Bc5 21. Qa6+ Bb7 22. Qd3 Kb8 23. b3 Re8 24. Na4 Re1+ 25. Rxe1 Qxe1+ 26. Qf1 Qe4 0-1
+

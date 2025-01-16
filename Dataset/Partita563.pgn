@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ul0x7eR6"]
+[White "ChiefTimeKeeper"]
+[Black "Iplaypoorly"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:32"]
+[WhiteElo "1525"]
+[BlackElo "1659"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 e6 4. Nc3 Ne7 5. Be2 O-O 6. Bd2 b6 7. Bb5 a6 8. Ba4 b5 9. Bb3 Nbc6 10. a3 Nxd4 11. Nxd4 Bxd4 12. Bf4 e5 13. Bg3 d6 14. Rb1 Bxc3+ 15. bxc3 Bb7 16. f3 Nc6 17. c4 Na5 18. cxb5 Nxb3 19. cxb3 axb5 20. a4 bxa4 21. bxa4 Ba6 22. f4 c6 23. fxe5 Qa5+ 24. Qd2 Qxd2+ 25. Kxd2 dxe5 26. Bxe5 Rfd8+ 27. Ke3 c5 28. Rhc1 c4 29. Rb6 Rd3+ 30. Kf4 h6 31. a5 Rd2 32. Kf3 h5 33. Rd6 Rxd6 34. Bxd6 Rc8 35. Ke3 f6 36. Kd4 Kf7 37. Bc5 Rd8+ 38. Ke3 Ke6 39. Bb6 Rd3+ 40. Ke2 Ke5 41. g3 Kxe4 42. Bd8 f5 43. Bg5 Ra3 44. Bd8 Ra2+ 45. Kf1 Rxh2 46. Kg1 Ra2 47. Bc7 Kf3 48. Rf1+ Kg4 49. Rf2 Ra1+ 50. Rf1 Rxf1+ 51. Kxf1 h4 52. Kg2 h3+ 53. Kh2 c3 54. Bf4 g5 55. Be3 c2 56. Bd2 f4 57. gxf4 gxf4 58. Kg1 f3 59. Bc1 Kg3 60. Be3 h2+ 61. Kh1 Bb7 62. a6 Ba8 63. a7 f2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gR4ume05"]
+[White "DOMARBOR"]
+[Black "franktaolin"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:36"]
+[WhiteElo "1637"]
+[BlackElo "1498"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d3 a6 5. Ba4 b5 6. Bb3 h6 7. Be3 Ng6 8. Nbd2 Bb4 9. c3 Ba5 10. Bd5 Nf4 11. Bxc6 dxc6 12. Nxe5 Nxg2+ 13. Ke2 Qf6 14. Nef3 Bg4 15. h3 Nxe3 16. Kxe3 Bb6+ 17. d4 Bxf3 18. Qxf3 Qg5+ 19. Qf4 Qxf4+ 20. Kxf4 O-O-O 21. Rhg1 g5+ 22. Kf3 c5 23. d5 c4 24. Rad1 f5 25. exf5 Rxd5 26. Kg4 Rhd8 0-1
+

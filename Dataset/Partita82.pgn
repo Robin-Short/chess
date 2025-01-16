@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RxsxGGar"]
+[White "raflig"]
+[Black "usuario822014"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:02:38"]
+[WhiteElo "1827"]
+[BlackElo "1687"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Open"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.17] } 1... c5 { [%eval 0.35] } 2. Nf3 { [%eval 0.3] } 2... Nc6 { [%eval 0.46] } 3. d4 { [%eval 0.18] } 3... cxd4 { [%eval 0.15] } 4. Nxd4 { [%eval 0.08] } 4... Nf6 { [%eval 0.24] } 5. Nc3 { [%eval 0.34] } 5... a6 { [%eval 0.75] } 6. Bg5 { [%eval 0.32] } 6... e5 { [%eval 0.26] } 7. Nxc6 { [%eval 0.24] } 7... bxc6 { [%eval 0.05] } 8. Bd3 { [%eval -0.12] } 8... Bb4 { [%eval 0.12] } 9. O-O { [%eval 0.05] } 9... h6 { [%eval 0.06] } 10. Bh4 { [%eval -0.01] } 10... g5 { [%eval 0.17] } 11. Bg3 { [%eval 0.23] } 11... Bxc3 { [%eval 0.45] } 12. bxc3 { [%eval 0.41] } 12... d6 { [%eval 0.48] } 13. h4?! { [%eval -0.34] } 13... Bg4?! { [%eval 0.18] } 14. Be2 { [%eval 0.04] } 14... h5?! { [%eval 0.93] } 15. hxg5 { [%eval 0.59] } 15... h4? { [%eval 1.76] } 16. gxf6?! { [%eval 0.97] } 16... hxg3?? { [%eval 4.81] } 17. Bxg4 { [%eval 4.55] } 17... Qxf6 { [%eval 4.98] } 18. fxg3 { [%eval 4.82] } 18... Qh6 { [%eval 5.24] } 19. Bh3 { [%eval 4.76] } 19... Qe3+?! { [%eval 5.44] } 20. Kh2 { [%eval 5.64] } 20... Ke7? { [%eval 6.72] } 21. Qf3? { [%eval 4.1] } 21... Qh6?? { [%eval #2] } 22. Qxf7+ { [%eval #1] } 1-0
+

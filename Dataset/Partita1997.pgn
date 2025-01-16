@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fr0ZLckk"]
+[White "E-Online"]
+[Black "tuskerking"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:32:41"]
+[WhiteElo "1877"]
+[BlackElo "1935"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 c6 2. Bg2 d5 3. c4 Nf6 4. Nc3 g6 5. cxd5 cxd5 6. b3 Nc6 7. Bb2 Bg7 8. Qc2 O-O 9. Nh3 Bf5 10. d3 Qd7 11. Nf4 Bg4 12. f3 Be6 13. Nxe6 Qxe6 14. f4 Rad8 15. O-O Ng4 16. Bc1 Ne3 17. Bxe3 Qxe3+ 18. Kh1 Nd4 19. Qb2 Nxe2 20. Nxe2 Bxb2 21. Rae1 Qxd3 22. f5 Bc3 23. Nf4 Qb5 24. Rd1 e6 25. fxe6 fxe6 26. Rg1 e5 27. Ne6 d4 28. Nxf8 Rxf8 29. Be4 Rf2 30. h4 Qe2 31. Rg2 Rxg2 32. Bxg2 Qxd1+ 33. Kh2 d3 34. Bd5+ Kg7 35. h5 Bd4 36. hxg6 Qg1+ 37. Kh3 hxg6 38. Kg4 Kf6 39. Bc4 g5 40. Bxd3 Qd1+ 41. Be2 Qd3 42. Kh3 Qxe2 0-1
+

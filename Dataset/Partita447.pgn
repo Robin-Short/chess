@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VqwupEgP"]
+[White "Hiko1980"]
+[Black "psuter"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:17:20"]
+[WhiteElo "1526"]
+[BlackElo "1634"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-24"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.29] } 1... d5 { [%eval 0.18] } 2. Nf3 { [%eval 0.24] } 2... Nf6 { [%eval 0.27] } 3. c4 { [%eval 0.29] } 3... Bf5 { [%eval 0.71] } 4. Nc3 { [%eval 0.23] } 4... e6 { [%eval 0.06] } 5. e3 { [%eval 0.18] } 5... Nc6 { [%eval 0.15] } 6. cxd5 { [%eval 0.17] } 6... Nxd5 { [%eval 0.29] } 7. Bb5 { [%eval 0.11] } 7... Qd6 { [%eval 0.36] } 8. O-O { [%eval 0.25] } 8... Nxc3 { [%eval 0.43] } 9. bxc3 { [%eval 0.43] } 9... O-O-O?! { [%eval 0.99] } 10. a4 { [%eval 1.06] } 10... a6 { [%eval 1.45] } 11. Bd3?! { [%eval 0.77] } 11... Bg6 { [%eval 1.16] } 12. Ba3 { [%eval 0.85] } 12... Qd5 { [%eval 1.12] } 13. Bxf8 { [%eval 0.91] } 13... Rhxf8 { [%eval 1.11] } 14. Rb1 { [%eval 0.86] } 14... Bxd3 { [%eval 1.28] } 15. Qxd3 { [%eval 1.26] } 15... h5?! { [%eval 1.78] } 16. c4 { [%eval 1.77] } 16... Qd7? { [%eval 2.9] } 17. Qb3 { [%eval 2.8] } 17... Na5? { [%eval 4.37] } 18. Qb4 { [%eval 4.32] } 18... b6 { [%eval 4.2] } 19. Ne5? { [%eval 2.11] } 19... Qd6?? { [%eval 6.46] } 20. c5 { [%eval 6.53] } 20... Qd5? { [%eval 9.41] } 21. cxb6 { [%eval 9.23] } 21... Nb7?! { [%eval 12.65] } 22. bxc7 { [%eval 11.53] } 22... Kxc7?! { [%eval #6] } 23. Rfc1+ { [%eval #6] } 23... Kb8 { [%eval #6] } 24. Nc6+ { [%eval #5] } 24... Qxc6 { [%eval #5] } 25. Rxc6 { [%eval #4] } 25... Rd7 { [%eval #4] } 26. Rb6?! { [%eval #5] } 26... Rc8 { [%eval #3] } 27. Rxb7+ { [%eval #2] } 27... Rxb7 { [%eval #1] } 28. Qxb7# 1-0
+

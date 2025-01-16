@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/InhWDHRu"]
+[White "SmashingU"]
+[Black "JekyllHyde"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:10"]
+[WhiteElo "1388"]
+[BlackElo "1755"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+6"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e5 3. e3 exd4 4. exd4 dxc4 5. Bxc4 Nf6 6. Nf3 Bb4+ 7. Nc3 O-O 8. O-O Bg4 9. Be3 Nc6 10. Be2 Re8 11. d5 Bxf3 12. Bxf3 Ne5 13. a3 Bxc3 14. bxc3 Nxf3+ 15. Qxf3 Qxd5 16. Qg3 Kh8 17. Bd4 Re6 18. Qxc7 Rae8 19. Qxf7 R6e7 20. Qxd5 Nxd5 21. Bxa7 Nxc3 22. Bc5 Re2 23. Bb4 Rc2 24. g3 Ne2+ 25. Kg2 Nd4 26. Rfd1 Nf5 27. Rd5 Ne3+ 28. Kf3 Nxd5 29. Rb1 Nxb4 30. Rxb4 h6 0-1
+

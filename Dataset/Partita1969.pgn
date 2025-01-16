@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GnnYwizy"]
+[White "denko"]
+[Black "PILOTVE"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:33"]
+[WhiteElo "1334"]
+[BlackElo "1593"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. f4 e5 3. Nf3 Bd6 4. f5 Nf6 5. d3 h6 6. Be2 Qe7 7. O-O g5 8. fxg6 fxg6 9. Nc3 h5 10. Nh4 Bc5+ 11. Kh1 d6 12. Nxg6 Qg7 13. Nh4 Rg8 14. Bxh5+ Kd8 15. Qf3 Nxh5 16. Qxh5 Bg4 17. Qh6 Qxh6 18. Bxh6 Nd4 19. Rac1 Kd7 20. Rf7+ Kc6 21. a3 Rg6 22. b4 Bb6 23. b5+ Kc5 24. Be3 Rag8 25. a4 Ba5 26. Nd5 Be6 27. Rxc7+ Bxc7 28. Nxc7 Rg4 29. Nxe6+ Kb4 30. Nxd4 Rxh4 31. Nf5 Rhg4 32. g3 d5 33. c3+ Kxa4 0-1
+

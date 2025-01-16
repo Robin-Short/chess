@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RWIsE2gP"]
+[White "Rigoleto"]
+[Black "goodandbad"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1674"]
+[BlackElo "1794"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uzeJIzgm"]
+[White "Kriton"]
+[Black "espino"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:12"]
+[WhiteElo "1453"]
+[BlackElo "1585"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+27"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 b6 5. Nf3 Ba6 6. Ng5 Bxe2 7. Nxe2 Qg4 8. O-O Qxg5 9. d4 Qb5 10. Nc3 Qc6 11. d5 Qg6 12. Qf3 c6 13. dxc6 Qxc6 14. Qxc6+ Nxc6 15. Nd5 Rc8 16. Bf4 Kd7 17. Rfd1 Rd8 18. Nxb6+ Ke8 19. Rxd8+ Kxd8 20. Nd5 e6 21. Ne3 e5 22. Rd1+ Kc8 23. Bg5 f6 24. Bh4 g5 25. Bg3 Nd4 26. h4 h6 27. Nd5 Bg7 28. c3 Nf5 29. Bh2 Nfe7 30. Nb4 Kb7 31. Rd7+ Kb6 32. a4 a5 33. Rd6+ Kc5 0-1
+

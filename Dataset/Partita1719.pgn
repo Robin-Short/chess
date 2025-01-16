@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2i9KnSvl"]
+[White "VEGETAL"]
+[Black "paulmorphy44"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:16:27"]
+[WhiteElo "1768"]
+[BlackElo "1814"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f3 Nc6 3. d3 d6 4. c3 f5 5. f4 Nf6 6. fxe5 Nxe5 7. d4 Nc6 8. d5 Ne5 9. exf5 Bxf5 10. Qe2 Be7 11. Nf3 Nxf3+ 12. Qxf3 Bd7 13. Be2 O-O 14. O-O Bg4 15. Qe3 Bxe2 16. Qxe2 Nxd5 17. Rxf8+ Qxf8 18. Bd2 Qf7 19. Na3 Rf8 20. Rf1 Qxf1+ 21. Qxf1 Rxf1+ 22. Kxf1 Bf6 23. Nc4 Kf7 24. Ne3 Nxe3+ 25. Bxe3 b6 26. g3 c5 27. h4 g6 28. Kf2 Ke6 29. Kf3 Kd5 30. Bg5 Bxg5 31. hxg5 Ke5 32. Kg4 a5 33. b3 d5 34. Kf3 b5 35. Ke3 c4 36. b4 axb4 37. cxb4 d4+ 38. Kd2 Ke4 39. g4 Kf4 40. a4 Kxg4 41. a5 Kxg5 42. a6 c3+ 43. Kd3 h5 44. a7 h4 45. a8=Q h3 46. Qh1 Kg4 47. Qg1+ Kf3 48. Qxd4 h2 49. Qh4 Kg2 50. Qg4+ Kh1 51. Qxg6 c2 52. Qh5 c1=Q 53. Qxh2+ 1-0
+

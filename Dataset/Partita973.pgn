@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DU6EOacC"]
+[White "zxcvbnmzxcvbnm"]
+[Black "tuskerking"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:35"]
+[WhiteElo "1993"]
+[BlackElo "1890"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 g6 3. e3 Bg7 4. Nd2 Nf6 5. c3 O-O 6. Ngf3 Nc6 7. h3 Bg4 8. hxg4 Nxg4 9. Be2 h5 10. Be5 Ncxe5 11. Nxe5 Nxe5 12. dxe5 Bxe5 13. Nf3 Bg7 14. Qb3 c6 15. O-O-O Rb8 16. Kb1 e5 17. e4 d4 18. Bc4 c5 19. Bd5 b5 20. cxd4 cxd4 21. Rc1 a5 22. a3 b4 23. a4 Qd7 24. Bc4 Rfc8 25. Bb5 Rxb5 26. axb5 Rxc1+ 27. Rxc1 Qxb5 28. Qc4 Qa4 29. Qc7 b3 30. Qc8+ Kh7 31. Rc3 Qa2+ 32. Kc1 Qa1+ 33. Kd2 Qxb2+ 34. Ke1 dxc3 0-1
+

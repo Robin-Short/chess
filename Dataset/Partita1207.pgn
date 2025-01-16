@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fyp7Mroe"]
+[White "kors"]
+[Black "Vicious"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:43"]
+[WhiteElo "1800"]
+[BlackElo "1789"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 e6 3. Bxf6 Qxf6 4. Nf3 Be7 5. e4 d6 6. e5 dxe5 7. dxe5 Qg6 8. Nc3 f6 9. Be2 Qf7 10. exf6 Bxf6 11. O-O g6 12. Bc4 O-O 13. Re1 Nc6 14. Nb5 Na5 15. Bb3 Nxb3 16. axb3 a6 17. Nc3 c6 18. Nd4 Bd7 19. Nf3 Rad8 20. Qe2 e5 21. Nxe5 Bxe5 22. Qxe5 Qxf2+ 23. Kh1 Bf5 24. Qg3 Qxg3 25. hxg3 Rd2 26. Rec1 Rxc2 27. Rxc2 Bxc2 28. Rd1 Bxb3 29. Rd7 Bd5 30. Rxb7 Rf2 31. Nxd5 cxd5 32. Rb8+ Kg7 33. Ra8 Rxb2 34. Rxa6 d4 35. Kg1 Rd2 36. Ra7+ Kh6 37. Kf1 d3 38. Ra3 Rd1+ 39. Kf2 d2 40. Ke2 Rg1 41. Kxd2 Rxg2+ 42. Ke3 Rxg3+ 0-1
+

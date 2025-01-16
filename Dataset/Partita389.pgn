@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ebzHVW7G"]
+[White "makina"]
+[Black "lpaulmp"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:15:42"]
+[WhiteElo "1614"]
+[BlackElo "1451"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bc4 g6 5. Qf3 Nf6 6. d3 Bg7 7. Bg5 O-O 8. Bxf6 Bxf6 9. Nge2 Nd7 10. O-O c6 11. Ne4 Bg7 12. c3 Qc7 13. N2g3 b5 14. Bb3 Bb7 15. a3 a6 16. c4 c5 17. cxb5 axb5 18. a4 b4 19. Rfc1 Bxb2 20. Nxc5 Bxf3 21. gxf3 Bxa1 22. Rxa1 Nxc5 23. Rb1 Nxa4 24. Bxa4 Rxa4 25. Ne4 Qc2 26. Rf1 Qxd3 27. Kg2 b3 28. Nc5 Qd4 29. Nxb3 Qh4 30. Nd2 Ra2 31. Ne4 Rd8 32. Ng3 Rdd2 33. h3 Qd4 34. Ne4 Re2 35. Kg3 Rxe4 36. fxe4 Qxe4 37. f3 Qe5+ 38. f4 Qe3+ 39. Rf3 Qe1+ 40. Kg4 Qg1+ 41. Kh4 Rg2 42. f5 Qh2 43. fxg6 hxg6 44. Rd3 Kg7 45. Rc3 Qf4# 0-1
+

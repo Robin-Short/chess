@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mi9yhVRm"]
+[White "montycantsin"]
+[Black "VENNE"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:32:04"]
+[WhiteElo "1564"]
+[BlackElo "1514"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-9"]
+[ECO "C44"]
+[Opening "Scotch Game: Goering Gambit"]
+[TimeControl "1800+1"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.25] } 2. Nf3 { [%eval 0.25] } 2... Nc6 { [%eval 0.27] } 3. d4 { [%eval -0.06] } 3... exd4 { [%eval 0.24] } 4. c3 { [%eval -0.03] } 4... dxc3 { [%eval -0.08] } 5. Nxc3 { [%eval 0.05] } 5... f6?! { [%eval 0.97] } 6. Bc4 { [%eval 1.09] } 6... Bb4 { [%eval 1.13] } 7. Qb3?! { [%eval 0.5] } 7... Qe7 { [%eval 0.4] } 8. O-O { [%eval 0.39] } 8... Bxc3 { [%eval 0.86] } 9. bxc3?! { [%eval 0.01] } 9... Nh6?! { [%eval 0.75] } 10. Ba3 { [%eval 0.87] } 10... d6 { [%eval 0.95] } 11. e5?! { [%eval 0.25] } 11... fxe5 { [%eval 0.39] } 12. Rfe1?! { [%eval -0.24] } 12... Bg4?? { [%eval 4.41] } 13. Qxb7 { [%eval 4.42] } 13... Rb8? { [%eval 6.66] } 14. Qxc6+ { [%eval 6.59] } 14... Qd7 { [%eval 6.79] } 15. Qe4? { [%eval 4.41] } 15... c6?? { [%eval 22.27] } 16. Nxe5 { [%eval 22.42] } 16... dxe5?! { [%eval #7] } 17. Qxe5+ { [%eval #6] } 17... Be6 { [%eval #6] } 18. Bxe6 { [%eval #5] } 18... Qd2 { [%eval #2] } 19. Qxb8+?! { [%eval #2] } 19... Qd8 { [%eval #2] } 20. Bc4+ { [%eval #1] } 20... Kd7 { [%eval #1] } 21. Rad1# 1-0
+

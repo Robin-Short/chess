@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PATQFDLT"]
+[White "caralperu"]
+[Black "bijean"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:10"]
+[WhiteElo "1326"]
+[BlackElo "1363"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C21"]
+[Opening "Center Game"]
+[TimeControl "360+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 d6 4. Bc4 Nf6 5. Bg5 Be7 6. Nf3 Bg4 7. Qd1 O-O 8. h3 Bh5 9. g4 Bg6 10. Bd3 Nxe4 11. Be3 d5 12. h4 h5 13. gxh5 Bxh5 14. Nbd2 Nxd2 15. Bxd2 d4 16. a4 c5 17. Ra3 Nc6 18. Bc4 Ne5 19. Rh3 Nxf3+ 20. Rhxf3 Bxh4 21. Qe2 Qd6 22. Qe4 Bxf3 23. Rxf3 Rae8 24. Bxf7+ Kh8 25. Bxe8 Bxf2+ 26. Kxf2 Qh2+ 27. Ke1 Rxf3 28. Qxf3 Qe5+ 29. Qe2 Qg3+ 30. Kd1 d3 31. cxd3 Qg1+ 32. Kc2 Qd4 33. Bh5 1-0
+

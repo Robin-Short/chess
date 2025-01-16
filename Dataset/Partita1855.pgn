@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/naMy6PDo"]
+[White "jlf1975"]
+[Black "venceslav"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:58"]
+[WhiteElo "1302"]
+[BlackElo "1219"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C41"]
+[Opening "Philidor Defense: Philidor Countergambit"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Nfd2 d5 6. Bb5+ c6 7. Ba4 Nd7 8. Nf1 Nxe5 9. Bf4 Bb4+ 10. c3 Nd3+ 11. Ke2 Bg4+ 12. f3 exf3+ 13. Kxd3 Bf5+ 14. Ke3 Qe7+ 15. Kxf3 Qe4+ 16. Kg3 Nf6 17. Nbd2 Qe6 18. cxb4 Ne4+ 19. Nxe4 Qxe4 20. Ne3 g5 21. Qh5+ Bg6 22. Qg4 O-O 23. Rhe1 gxf4+ 24. Kh3 Rae8 25. Bc2 Qxe3+ 26. Rxe3 Rxe3+ 27. Kh4 h5 28. Qxg6+ Kh8 29. Qh7# 1-0
+

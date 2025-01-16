@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/isqrz8OW"]
+[White "HoxHound"]
+[Black "Pekka-1953"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:46"]
+[WhiteElo "1572"]
+[BlackElo "1527"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-41"]
+[ECO "A41"]
+[Opening "Old Indian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. c4 e6 3. Nf3 h6 4. Bf4 g5 5. Bg3 c6 6. e3 Nd7 7. Nc3 Nb6 8. Be2 Bd7 9. h3 Be7 10. O-O f5 11. b4 g4 12. hxg4 fxg4 13. Ne1 h5 14. c5 Nd5 15. Nxd5 cxd5 16. cxd6 Bxd6 17. Bxd6 Nf6 18. Be5 Rg8 19. Nd3 Ne4 20. Bh2 g3 21. fxg3 h4 22. Bh5+ Ke7 23. Rf7+ Kd6 24. gxh4+ Kc6 25. Ne5+ Kb6 26. Nxd7+ Kb5 27. a4+ Kxb4 28. Rb1+ Ka5 29. Qe1+ Ka6 30. Qe2+ b5 31. Qxb5# 1-0
+

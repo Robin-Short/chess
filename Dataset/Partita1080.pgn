@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zNTGOEV9"]
+[White "ChessPapa"]
+[Black "Mooossieurpatate"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:43:45"]
+[WhiteElo "1549"]
+[BlackElo "1671"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+7"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. Nc3 Bb7 3. Nf3 e6 4. d4 Nf6 5. Bg5 Be7 6. Qd2 h6 7. Bxf6 Bxf6 8. e5 Be7 9. d5 exd5 10. Nxd5 O-O 11. O-O-O Nc6 12. Bc4 a5 13. Bb5 Nb4 14. Nxe7+ Qxe7 15. Qxd7 Qxd7 16. Rxd7 Nxa2+ 17. Kb1 c6 18. Rxb7 cxb5 19. Rxb6 Nb4 20. Rxb5 Nc6 21. Rd1 Rfc8 22. Rbd5 Nb4 23. R5d2 a4 24. Rc1 a3 25. Rd4 a2+ 26. Ka1 Nc6 27. Rc4 Ra6 28. Nd4 Nxd4 29. Rxc8+ Kh7 30. c3 Ne2 0-1
+

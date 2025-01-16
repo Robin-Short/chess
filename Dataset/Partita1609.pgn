@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/HK1KwoUQ"]
+[White "zurka"]
+[Black "Sult4nt"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:45"]
+[WhiteElo "1534"]
+[BlackElo "1533"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 d6 3. g3 Nc6 4. Bg2 b6 5. e3 Bb7 6. d3 Qd7 7. c3 Be7 8. Nd2 Nf6 9. Qc2 h6 10. Ne2 g6 11. f3 d5 12. e4 dxe4 13. fxe4 Ng4 14. Bc1 Ne3 15. Kf2 Nxc2 16. Bb2 Bc5+ 17. d4 exd4 18. cxd4 N2xd4 19. Bxd4 Nxd4 20. Rad1 Nxe2+ 21. Kxe2 Qd4 22. Kf3 Qe3+ 23. Kg4 h5+ 24. Kh3 g5 25. Rhe1 g4+ 26. Kh4 Be7# 0-1
+

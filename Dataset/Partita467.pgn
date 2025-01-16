@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4GCv9AHh"]
+[White "niccol"]
+[Black "katanca"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:17:58"]
+[WhiteElo "1500"]
+[BlackElo "1513"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... e6 { [%eval 0.25] } 2. Nf3 { [%eval 0.18] } 2... d5 { [%eval 0.15] } 3. exd5 { [%eval 0.16] } 3... exd5 { [%eval 0.12] } 4. d4 { [%eval 0.2] } 4... Be6 { [%eval 0.39] } 5. c3 { [%eval 0.14] } 5... c5 { [%eval 0.44] } 6. dxc5 { [%eval 0.12] } 6... Bxc5 { [%eval 0.21] } 7. Qe2?! { [%eval -0.66] } 7... Nf6 { [%eval -0.39] } 8. Be3 { [%eval -0.57] } 8... Bd6 { [%eval -0.33] } 9. Qd2 { [%eval -0.51] } 9... O-O { [%eval -0.56] } 10. Be2 { [%eval -0.83] } 10... Nc6 { [%eval -0.7] } 11. h3 { [%eval -0.98] } 11... Rc8 { [%eval -0.7] } 12. O-O { [%eval -0.7] } 12... Na5 { [%eval -0.28] } 13. Nd4 { [%eval -0.39] } 13... Nc4 { [%eval -0.12] } 14. Bxc4 { [%eval -0.15] } 14... Rxc4 { [%eval -0.13] } 15. Qd1 { [%eval -0.12] } 15... Qc7? { [%eval 0.95] } 16. Nd2 { [%eval 0.9] } 16... Rc5 { [%eval 1.17] } 17. Re1? { [%eval 0.16] } 17... Bh2+? { [%eval 1.37] } 18. Kh1 { [%eval 1.37] } 18... Qe5?? { [%eval 8.41] } 19. Nxe6 { [%eval 8.44] } 19... fxe6? { [%eval 9.91] } 20. Bxc5 { [%eval 9.96] } 20... Rc8 { [%eval 13.49] } 21. Rxe5 { [%eval 13.58] } 21... Bxe5 { [%eval 13.58] } 22. Be3 { [%eval 11.57] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/GBhVV4VT"]
+[White "victor1031"]
+[Black "atikus"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:11"]
+[WhiteElo "1629"]
+[BlackElo "1789"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. g3 e5 3. Bg2 d6 4. Ne2 Nc6 5. c3 Be6 6. d4 exd4 7. cxd4 cxd4 8. Nxd4 Qb6 9. Nxe6 fxe6 10. O-O Nf6 11. Nc3 Be7 12. Bg5 O-O 13. Bxf6 Rxf6 14. Na4 Qd4 15. b3 Raf8 16. Qxd4 Nxd4 17. Nc3 Bd8 18. Rad1 e5 19. Nd5 R6f7 20. f4 exf4 21. Rxd4 fxg3 22. Rxf7 gxh2+ 23. Kxh2 Rxf7 24. Ne3 Rf2 25. Rxd6 Bc7 26. Nc4 Bxd6+ 27. Nxd6 b6 28. a4 Rb2 29. Nb5 a6 30. Nd4 Kf7 31. Kg3 Kf6 32. Bf1 a5 33. Bc4 Ke5 34. Nf5 g6 35. Ne7 Kxe4 36. Ng8 Kd4 37. Nh6 Kc3 38. Nf7 Rxb3 39. Bxb3 Kxb3 40. Ne5 Kxa4 41. Nc4 Kb5 42. Na3+ Kc5 43. Kg4 h6 44. Kf4 b5 45. Ke5 b4 46. Nc2 b3 47. Na3 Kb4 48. Nb1 a4 49. Kf6 g5 50. Kg6 g4 51. Kxh6 g3 52. Kg5 g2 53. Nd2 g1=Q+ 0-1
+

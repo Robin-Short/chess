@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FwP8o0R6"]
+[White "majid-ganji"]
+[Black "GIL180363"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:23"]
+[WhiteElo "1827"]
+[BlackElo "1636"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "D02"]
+[Opening "Queen's Gambit Refused: Baltic Defense"]
+[TimeControl "240+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Bf5 3. cxd5 Qxd5 4. Nc3 Qd8 5. Nf3 h5 6. Bf4 e6 7. Qa4+ c6 8. e3 Nf6 9. Bg5 Be7 10. h3 Nbd7 11. Be2 Ne4 12. Bxe7 Qxe7 13. Rc1 Nxc3 14. bxc3 Nf6 15. Ne5 O-O 16. c4 Bg6 17. Nxg6 fxg6 18. O-O Ne4 19. Qc2 Qh4 20. Bf3 Rxf3 21. gxf3 Ng5 22. Qxg6 Nxf3+ 23. Kg2 Rf8 24. Qxe6+ Kh8 25. Qg6 Ng5 26. f4 Qxh3+ 27. Kf2 Qf3+ 28. Ke1 Qxe3+ 29. Kd1 Qxd4+ 30. Kc2 Qxc4+ 31. Kb2 Qd4+ 32. Kc2 Qe4+ 33. Qxe4 Nxe4 34. Rh1 g6 35. Rce1 Nc5 36. Ref1 Rf5 37. Kc3 Kg7 38. Kd4 b6 39. Rh2 Kf6 40. Re2 Ne6+ 41. Ke3 c5 42. Rd2 Nd4 43. Rg2 a5 44. Rg5 Rxg5 45. fxg5+ Kxg5 46. Rg1+ Kf5 47. Rf1+ Ke5 48. Rf7 Nf5+ 49. Kf2 b5 50. Rc7 Kd5 51. Rb7 b4 52. Ra7 Kc4 53. Rxa5 Kd4 54. Rb5 Kc4 55. Ra5 Nd4 56. Ra8 g5 57. Rg8 g4 58. Rh8 Kc3 59. Rxh5 c4 60. Rh4 b3 61. axb3 cxb3 62. Rxg4 b2 63. Rg1 Nb3 64. Rb1 Kc2 65. Rxb2+ Kxb2 1/2-1/2
+

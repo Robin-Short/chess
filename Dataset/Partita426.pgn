@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NwYI8HZD"]
+[White "tuskerking"]
+[Black "Berezkin"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:17:09"]
+[WhiteElo "1921"]
+[BlackElo "1923"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Perreux Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Bc4 Nf6 5. Ng5 Ne5 6. Bb3 c5 7. f4 c4 8. fxe5 cxb3 9. exf6 Qc7 10. axb3 gxf6 11. Nf3 Bc5 12. Nxd4 h5 13. Be3 Qe5 14. Qf3 d5 15. exd5 Bxd4 16. Kd2 Bxb2 17. Ra4 Bg4 18. Qe4 Qxe4 19. Rxe4+ Kd7 20. c3 Bf5 21. Rf4 Bg6 22. Rxf6 a5 23. Rxg6 fxg6 24. Kc2 Rhe8 25. Re1 Bxc3 26. Nxc3 Rac8 27. Kd3 Rc5 28. Bxc5 Rxe1 29. h3 Ra1 30. g4 hxg4 31. hxg4 Kc7 32. g5 b6 33. Be3 1-0
+

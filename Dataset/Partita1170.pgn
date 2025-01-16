@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fRwsVQGv"]
+[White "FMAS"]
+[Black "PILOTVE"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:29"]
+[WhiteElo "1566"]
+[BlackElo "1594"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. d4 { [%eval 0.16] } 2... Nc6 { [%eval 0.53] } 3. Nf3 { [%eval 0.06] } 3... d6?! { [%eval 0.58] } 4. d5 { [%eval 0.6] } 4... Nce7 { [%eval 0.8] } 5. Be2 { [%eval 0.4] } 5... Ng6 { [%eval 0.48] } 6. Nc3 { [%eval 0.57] } 6... Qe7?! { [%eval 1.1] } 7. h3 { [%eval 1.03] } 7... Bd7 { [%eval 0.87] } 8. Bg5 { [%eval 0.58] } 8... Nf6 { [%eval 0.76] } 9. Qd2 { [%eval 0.53] } 9... h6 { [%eval 0.6] } 10. Be3 { [%eval 0.54] } 10... Nh5?! { [%eval 1.06] } 11. O-O-O { [%eval 1.12] } 11... Nhf4 { [%eval 1.12] } 12. g3 { [%eval 0.67] } 12... Ng2 { [%eval 0.92] } 13. Rhg1?! { [%eval 0.3] } 13... Nxe3 { [%eval 0.34] } 14. Qxe3 { [%eval 0.41] } 14... Bxh3 { [%eval 0.15] } 0-1
+

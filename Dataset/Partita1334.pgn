@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4hHwg1qM"]
+[White "venceslav"]
+[Black "johnpike"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:17"]
+[WhiteElo "1209"]
+[BlackElo "1324"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-14"]
+[ECO "A00"]
+[Opening "Clemenz Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. h3 e5 2. e4 Nf6 3. Bc4 Nc6 4. d3 Bb4+ 5. c3 Bc5 6. Bg5 O-O 7. Nf3 h6 8. Bh4 Be7 9. O-O d6 10. d4 exd4 11. cxd4 Nxe4 12. Bxe7 Nxe7 13. Re1 Re8 14. Rxe4 d5 15. Bxd5 Nxd5 16. Rxe8+ Qxe8 17. Nbd2 Bd7 18. Nc4 b5 19. Nce5 Be6 20. Rc1 f6 21. Nc6 Nb4 22. Nxb4 a5 23. Nd3 Bxa2 24. Rxc7 Rc8 25. Rb7 Rb8 26. Nc5 a4 27. b3 axb3 28. Rxb8 Qxb8 29. Nxb3 Bxb3 30. Qxb3+ Kh7 31. Qd3+ Kg8 32. Nh4 b4 33. Qb3+ Kh7 34. g4 Qb6 35. d5 Qd6 36. Qd3+ Kg8 37. Nf5 Qd7 38. d6 g6 39. Ne7+ Kf7 40. Qd5+ Kg7 41. Qg8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cZRne5oP"]
+[White "aderbalco"]
+[Black "rsydor"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:13"]
+[WhiteElo "1555"]
+[BlackElo "1571"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "780+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.29] } 2... d6 { [%eval 0.27] } 3. Bc4 { [%eval 0.25] } 3... Nc6 { [%eval 0.18] } 4. d4 { [%eval 0.23] } 4... cxd4 { [%eval 0.17] } 5. Nxd4 { [%eval 0.17] } 5... Nf6 { [%eval 0.17] } 6. Nxc6 { [%eval -0.03] } 6... bxc6 { [%eval -0.1] } 7. Nc3 { [%eval -0.08] } 7... g6?! { [%eval 0.48] } 8. Bg5 { [%eval 0.18] } 8... Bg7 { [%eval 0.29] } 9. h3 { [%eval -0.17] } 9... h6 { [%eval 0.26] } 10. Bh4?! { [%eval -0.49] } 10... O-O { [%eval -0.25] } 11. Qe2 { [%eval -0.57] } 11... Be6?! { [%eval -0.05] } 12. Bd3?! { [%eval -0.71] } 12... Qb6 { [%eval -0.88] } 13. b3? { [%eval -2.29] } 13... Nh5 { [%eval -2.16] } 14. Bxe7?? { [%eval -7.08] } 14... Bxc3+ { [%eval -7.13] } 15. Kd1? { [%eval -8.24] } 15... Bxa1 { [%eval -7.92] } 16. Bxf8 { [%eval -8.1] } 16... Kxf8?! { [%eval -7.39] } 17. Kd2? { [%eval -8.62] } 17... Qb4+?! { [%eval -8.1] } 18. Ke3?! { [%eval -8.87] } 18... Bd4+?! { [%eval -8.37] } 19. Kf3 { [%eval -8.81] } 19... Nf6?! { [%eval -8.06] } 20. g4?! { [%eval -8.87] } 20... g5? { [%eval -7.44] } 21. Kg2 { [%eval -7.5] } 21... h5 { [%eval -7.43] } 22. f3 { [%eval -7.87] } 22... Re8?! { [%eval -7.36] } 23. h4? { [%eval -9.84] } 23... gxh4?! { [%eval -9.31] } 24. Rxh4 { [%eval -9.78] } 24... d5?! { [%eval -8.89] } 25. exd5? { [%eval -19.17] } 25... Bxd5 { [%eval -17.6] } 26. Qf1 { [%eval -103.55] } 26... Qd2+ { [%eval #-7] } 27. Kh3 { [%eval #-7] } 27... Re1 { [%eval #-7] } 28. Qg2 { [%eval #-7] } 28... hxg4+ { [%eval #-8] } 29. Rxg4 { [%eval #-8] } 29... Nxg4?? { [%eval -2.68] } 30. Qxd2 { [%eval -2.96] } 30... Rd1?? { [%eval 1.93] } 31. Qb4+ { [%eval 2.02] } 31... Bc5?? { [%eval 8.2] } 32. Qxc5+ { [%eval 8.15] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LZfP9rXK"]
+[White "Snowden"]
+[Black "datboij"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:58:45"]
+[WhiteElo "1465"]
+[BlackElo "1526"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense #2"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 Nxe4 5. dxe5 Bc5 6. Qd5 Bxf2+ 7. Kf1 O-O 8. Qxe4 Bc5 9. Nc3 Re8 10. Bg5 Be7 11. h4 h6 12. Nd5 Bxg5 13. hxg5 g6 14. Nf6+ Kg7 15. gxh6+ Kh8 16. Bxf7 Rf8 17. Qxg6 Rxf7 18. Qxf7 Qe7 19. Qg8# 1-0
+

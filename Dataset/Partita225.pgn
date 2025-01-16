@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UnyoHwwK"]
+[White "mabolek"]
+[Black "karenins_smile"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:20"]
+[WhiteElo "1556"]
+[BlackElo "1592"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "600+10"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.17] } 1... e5 { [%eval 0.16] } 2. Nf3 { [%eval 0.16] } 2... Nc6 { [%eval 0.2] } 3. Bc4 { [%eval 0.15] } 3... Bc5 { [%eval 0.28] } 4. d3 { [%eval 0.16] } 4... h6 { [%eval 0.38] } 5. Nc3 { [%eval 0.23] } 5... Nf6 { [%eval 0.12] } 6. a3 { [%eval 0.15] } 6... a5 { [%eval 0.17] } 7. Nb5 { [%eval -0.01] } 7... Ng4 { [%eval 0.4] } 8. O-O { [%eval 0.36] } 8... Bxf2+? { [%eval 1.42] } 9. Rxf2 { [%eval 1.42] } 9... Nxf2 { [%eval 1.36] } 10. Kxf2 { [%eval 1.37] } 10... b6?! { [%eval 1.95] } 11. Kg1 { [%eval 2.03] } 11... Ba6 { [%eval 2.25] } 12. Qf1?! { [%eval 1.72] } 12... Bxb5 { [%eval 1.94] } 13. Bxb5 { [%eval 2.12] } 13... Qf6 { [%eval 2.39] } 14. Be3 { [%eval 2.46] } 14... a4 { [%eval 2.36] } 15. d4?! { [%eval 1.84] } 15... exd4 { [%eval 2.05] } 16. Nxd4 { [%eval 2.02] } 16... Nxd4?! { [%eval 2.98] } 17. Qxf6 { [%eval 3.02] } 17... Ne2+ { [%eval 3.2] } 18. Bxe2 { [%eval 3.13] } 18... gxf6 { [%eval 3.24] } 19. Rf1 { [%eval 3.05] } 19... Ke7 { [%eval 3.5] } 20. Rf5? { [%eval 2.5] } 20... Ra5 { [%eval 2.48] } 21. Rxa5 { [%eval 2.6] } 21... bxa5 { [%eval 2.48] } 22. Bb5 { [%eval 2.49] } 22... Rb8 { [%eval 2.41] } 23. Bxa4 { [%eval 2.46] } 23... Rxb2 { [%eval 2.37] } 24. Kf2 { [%eval 2.41] } 24... Ra2?! { [%eval 3.35] } 25. Bc1? { [%eval 2.1] } 25... Kd6?! { [%eval 2.71] } 26. Ke3? { [%eval 1.61] } 26... Ke5?? { [%eval 8.22] } 27. g3?? { [%eval 2.58] } 27... d6?? { [%eval 8.91] } 28. Kd3? { [%eval 6.44] } 28... Ra1?? { [%eval 10.39] } 29. Bb2+ { [%eval 10.36] } 29... Ke6 { [%eval 10.35] } 30. Bxa1 { [%eval 10.31] } 30... d5 { [%eval 11.82] } 31. exd5+ { [%eval 11.78] } 31... Kxd5 { [%eval 12.28] } 32. Bb3+ { [%eval 12.8] } 32... Kd6 { [%eval 17.72] } 33. Bd4 { [%eval 10.82] } 33... Ke7 { [%eval 11.13] } 34. Bc5+ { [%eval 10.93] } 34... Ke8 { [%eval 11.27] } 35. Ba4+ { [%eval 10.95] } 35... Kd8 { [%eval 49.66] } 36. Kd4 { [%eval 10.91] } 36... f5 { [%eval 13.18] } 37. Ke5 { [%eval 19.21] } 1-0
+

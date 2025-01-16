@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/S0KQfgbK"]
+[White "l_alexsp1"]
+[Black "MPC4000"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:48"]
+[WhiteElo "1786"]
+[BlackElo "1790"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-11"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "1020+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 Nc6 4. Nf3 g6 5. c4 Bh6 6. a3 Bxc1 7. Qxc1 Na5 8. Qc3 Nf6 9. Nbd2 Nc6 10. d5 Nb8 11. h3 O-O 12. O-O c6 13. e5 Nh5 14. g3 cxd5 15. cxd5 Bxd5 16. Be4 Bxe4 17. Nxe4 Nc6 18. Qe3 Rc8 19. Qh6 f5 20. Neg5 Rf7 21. Rfd1 Qf8 22. Nxf7 Qxf7 23. Rxd7 f4 24. Ng5 Qg7 25. Qxg7+ Nxg7 26. e6 fxg3 27. fxg3 Ne5 28. Rxe7 h6 29. Nf7 Nxf7 30. exf7+ Kf8 31. Rxa7 Nf5 32. g4 Ne7 33. Rf1 b5 34. b4 Rd8 35. Kg2 h5 36. gxh5 gxh5 37. Kg3 h4+ 38. Kxh4 Ng6+ 39. Kg5 Ne5 40. Rf5 Ng6 41. Kxg6 Rd6+ 42. Rf6 Rxf6+ 43. Kg5 Rxf7 44. Rxf7+ Kxf7 45. h4 Ke6 46. Kg6 Kd5 47. h5 Kc4 48. h6 Kb3 49. h7 Kxa3 50. h8=Q Kxb4 51. Qf8+ Ka5 52. Qc5 Ka4 53. Kf5 b4 54. Ke4 b3 55. Kd3 b2 56. Qc4+ Ka3 57. Qc3+ Ka2 58. Qc2 Ka1 59. Qa4+ Kb1 60. Kc3 Kc1 61. Qc2# 1-0
+

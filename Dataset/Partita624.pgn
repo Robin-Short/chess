@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SMVWwKVH"]
+[White "Den-Den-2013"]
+[Black "equs58"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:24:53"]
+[WhiteElo "1689"]
+[BlackElo "1746"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "420+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. a3 d6 5. Bc4 Nf6 6. Nc3 a6 7. d3 Be7 8. O-O b5 9. Ba2 Bb7 10. Be3 Ng4 11. Qd2 Nxe3 12. Qxe3 Qd7 13. Kh1 h6 14. f5 g5 15. fxe6 fxe6 16. e5 d5 17. Qe2 O-O-O 18. Rad1 g4 19. Ng1 Nd4 20. Qxg4 Rdg8 21. Qh3 Nf5 22. b4 cxb4 23. axb4 Bxb4 24. Nce2 d4 25. Nf4 Ne3 26. Bxe6 Bxg2+ 27. Nxg2 Ng4 28. Bxd7+ Kxd7 29. e6+ Ke7 30. Qh4+ Kd6 1-0
+

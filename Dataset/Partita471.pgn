@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YRZNTurR"]
+[White "faramir"]
+[Black "1nate2nate"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:57"]
+[WhiteElo "1797"]
+[BlackElo "2021"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. f4 b6 2. Nf3 Bb7 3. g3 g6 4. Bg2 Bg7 5. O-O d6 6. Ng5 Bxg2 7. Kxg2 e6 8. Nf3 Qe7 9. e4 Nd7 10. d4 h5 11. c3 Bh6 12. h4 f6 13. Be3 g5 14. Nbd2 gxf4 15. Bxf4 Bxf4 16. gxf4 Nh6 17. Kf2 Ng4+ 18. Ke2 f5 19. Kd3 c5 20. e5 dxe5 21. Nxe5 Ndxe5+ 22. fxe5 O-O-O 23. Kc2 Ne3+ 24. Kb1 Nxd1 25. Rxd1 cxd4 26. Nb3 dxc3 27. Rxd8+ Rxd8 28. bxc3 Rd1+ 29. Kb2 Rxa1 30. Nxa1 Qc5 31. Nc2 Qxe5 32. Nb4 Qe2+ 33. Kb3 f4 34. Nc6 f3 35. Nxa7+ Kb7 36. Nb5 f2 37. Nd4 Qb5+ 38. Nxb5 f1=Q 39. Nd6+ Kc6 40. Ne4 Qh1 41. Nd2 Qxh4 42. Nc4 Qg4 43. Ne5+ Kd6 44. Nxg4 Kd5 45. Nh2 e5 46. Kc2 e4 47. Kd2 Ke5 48. a4 Kf4 49. c4 h4 50. Ke2 Ke5 51. Ke3 h3 52. Ng4+ Kf5 53. Nh2 Ke5 54. Ke2 Kd4 55. Kd2 Kxc4 56. Ke3 Kb4 57. Kxe4 Kxa4 58. Kd3 b5 59. Kc2 b4 60. Kb2 b3 61. Kb1 Kb4 62. Kb2 Kc4 63. Nf3 Kd3 64. Nh2 Ke3 65. Ng4+ Kf3 66. Nh2+ Kg2 67. Nf1 Kxf1 68. Kxb3 h2 69. Kb4 h1=Q 70. Kc5 Qf3 71. Kd6 Qd3+ 72. Ke5 Qe3+ 73. Kf5 Kf2 74. Kf6 Kg3 75. Kf7 Qf4+ 76. Kg6 Qe5 77. Kh6 Qf5 0-1
+

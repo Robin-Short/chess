@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/yQcDuNwg"]
+[White "vadimdim"]
+[Black "Laos"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:06:13"]
+[WhiteElo "1627"]
+[BlackElo "1528"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... Nc6 { [%eval 0.35] } 2. f4 { [%eval 0.05] } 2... f5?! { [%eval 0.63] } 3. exf5 { [%eval 0.4] } 3... g6?! { [%eval 1.13] } 4. g4? { [%eval -0.05] } 4... Nf6 { [%eval 0.36] } 5. Be2 { [%eval 0.08] } 5... d5 { [%eval -0.05] } 6. c4?! { [%eval -1.0] } 6... d4? { [%eval 0.39] } 7. Qc2? { [%eval -1.94] } 7... Nb4? { [%eval 0.0] } 8. Qa4+ { [%eval 0.0] } 8... Nc6 { [%eval 0.0] } 9. Bd3? { [%eval -1.9] } 9... Nxg4?! { [%eval -1.04] } 10. fxg6?! { [%eval -1.98] } 10... hxg6? { [%eval 0.65] } 11. Bxg6+ { [%eval 0.65] } 11... Kd7 { [%eval 0.69] } 12. Nf3 { [%eval 0.44] } 12... Bg7?! { [%eval 0.96] } 13. d3 { [%eval 0.64] } 13... Rh3?! { [%eval 1.37] } 14. Ng5?! { [%eval 0.67] } 14... Rxh2?? { [%eval 5.06] } 15. O-O?? { [%eval -5.06] } 15... e6?? { [%eval 3.48] } 16. f5 { [%eval 3.91] } 16... Ne3?? { [%eval 15.13] } 17. fxe6+ { [%eval 13.83] } 17... Kd6 { [%eval 28.88] } 18. Bxe3 { [%eval 10.38] } 18... dxe3 { [%eval 122.72] } 19. c5+ { [%eval 12.79] } 19... Ke7?! { [%eval #8] } 20. Kxh2? { [%eval 9.2] } 20... Be5+?! { [%eval 10.43] } 21. Kg2?? { [%eval 5.0] } 21... Qh8?? { [%eval 14.08] } 22. Rf7+ { [%eval 14.36] } 22... Kd8 { [%eval 13.75] } 23. Rh7 { [%eval 14.48] } 23... Qf6?! { [%eval #8] } 24. Qg4? { [%eval 8.91] } 24... Ne7? { [%eval 111.78] } 25. Nf7+ { [%eval 119.32] } 25... Ke8 { [%eval 109.9] } 26. Nxe5+ { [%eval 13.83] } 26... Kf8?! { [%eval #7] } 27. Nc3?! { [%eval 14.48] } 27... Bxe6 { [%eval 14.63] } 28. Nd7+? { [%eval 7.6] } 28... Kg8? { [%eval #3] } 29. Nxf6+ { [%eval #2] } 29... Kf8 { [%eval #2] } 30. Rh8+?! { [%eval #3] } 30... Kg7 { [%eval #3] } 31. Be8+?! { [%eval 13.59] } 31... Kxf6?! { [%eval #2] } 32. Rf1+?! { [%eval #3] } 32... Ke5 { [%eval #1] } 33. Qe4# 1-0
+

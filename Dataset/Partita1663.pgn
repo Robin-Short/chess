@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fyUNsrLZ"]
+[White "Tappita"]
+[Black "mistakeman"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:59"]
+[WhiteElo "1657"]
+[BlackElo "1574"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Mengarini's Opening"]
+[TimeControl "840+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... e5 { [%eval 0.24] } 2. a3 { [%eval 0.02] } 2... Nf6 { [%eval 0.0] } 3. Bd3?! { [%eval -0.54] } 3... Nc6 { [%eval -0.16] } 4. c3? { [%eval -1.52] } 4... Bc5?! { [%eval -0.81] } 5. h3?! { [%eval -1.8] } 5... a6? { [%eval -0.5] } 6. Ne2?! { [%eval -1.43] } 6... d6? { [%eval -0.33] } 7. b4 { [%eval -0.53] } 7... Bb6 { [%eval -0.45] } 8. Ng3 { [%eval -0.8] } 8... Be6 { [%eval -0.63] } 9. a4 { [%eval -1.02] } 9... g6?! { [%eval -0.24] } 10. O-O { [%eval -0.34] } 10... Qd7 { [%eval 0.05] } 11. Kh2 { [%eval -0.36] } 11... h5 { [%eval -0.44] } 12. a5 { [%eval -0.75] } 12... Ba7 { [%eval -0.77] } 13. Re1? { [%eval -3.17] } 13... Ng4+? { [%eval -0.81] } 14. hxg4 { [%eval -1.1] } 14... hxg4+ { [%eval -1.36] } 15. Kg1 { [%eval -1.52] } 15... O-O-O? { [%eval 0.6] } 16. b5 { [%eval 1.46] } 16... axb5 { [%eval 1.82] } 17. Bxb5 { [%eval 1.98] } 17... Qe7? { [%eval 4.55] } 18. Bxc6?? { [%eval 0.0] } 18... bxc6 { [%eval 0.0] } 19. Qe2? { [%eval -1.2] } 19... Kd7? { [%eval 0.0] } 20. Ba3?? { [%eval -4.55] } 20... Rh4?? { [%eval 1.93] } 21. Kf1?? { [%eval -1.52] } 21... f5 { [%eval -2.0] } 22. Qa6? { [%eval -3.84] } 22... Bb8?? { [%eval 0.96] } 23. d3? { [%eval -1.73] } 23... f4 { [%eval -2.17] } 24. Ne2? { [%eval -3.56] } 24... Rh1+ { [%eval -5.42] } 25. Ng1 { [%eval -5.46] } 25... f3 { [%eval -4.13] } 26. g3?? { [%eval #-5] } 26... Qh7 { [%eval #-4] } 27. Rd1 { [%eval #-4] } 27... Qh3+?! { [%eval #-5] } 28. Ke1 { [%eval #-5] } 28... Rxg1+?! { [%eval -14.07] } 29. Kd2 { [%eval -13.71] } 29... Qh6+ { [%eval -12.72] } 30. Kc2 { [%eval -13.27] } 30... Rxd1 { [%eval -12.65] } 31. Kxd1?! { [%eval #-4] } 31... Bb3+ { [%eval #-3] } 32. Ke1 { [%eval #-3] } 32... Qh1+ { [%eval #-2] } 33. Kd2 { [%eval #-2] } 33... Qd1+ { [%eval #-1] } 34. Ke3 { [%eval #-1] } 34... Qe2# 0-1
+

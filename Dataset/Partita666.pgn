@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DkZZ8uF5"]
+[White "taqa2001"]
+[Black "Maxime21"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:36"]
+[WhiteElo "1650"]
+[BlackElo "1681"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "120+7"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. Be3 b6 4. Nc3 Bb7 5. f3 d6 6. Bc4 Nd7 7. Bb3 e6 8. Nge2 Ne7 9. Qd2 O-O 10. g4 c5 11. O-O-O cxd4 12. Nxd4 Nc5 13. h4 Nxb3+ 14. Nxb3 d5 15. exd5 Bxc3 16. Qxc3 Nxd5 17. Qd2 Rc8 18. Bh6 Re8 19. h5 Qf6 20. hxg6 fxg6 21. Bg5 Qg7 22. Qh2 Nb4 23. Bh6 Qf6 24. Be3 Rxc2+ 0-1
+

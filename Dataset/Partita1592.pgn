@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wgqWdfYE"]
+[White "tedancheta"]
+[Black "BadBeat"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:09:50"]
+[WhiteElo "1455"]
+[BlackElo "1483"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[TimeControl "180+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. Nc3 Bc5 5. Bxc6 dxc6 6. d3 Bg4 7. a3 Bxf3 8. gxf3 Qh4 9. Qe2 O-O-O 10. b4 Bd4 11. Bb2 Rd6 12. Na4 Bxb2 13. Nxb2 Rg6 14. Nc4 Rg2 15. Nxe5 Nf6 16. h3 Nh5 17. Ng4 Nf4 18. Qe3 Nxh3 19. O-O-O g6 20. Qxa7 Kd7 21. Ne5+ Ke6 22. d4 Qg5+ 23. Kb1 Nxf2 24. Rhe1 Nxd1 25. Rxd1 Rg1 26. d5+ cxd5 27. Rxg1 Qd2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0BgaHQgq"]
+[White "piskopos"]
+[Black "infsys08"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:25:10"]
+[WhiteElo "1722"]
+[BlackElo "1870"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "B05"]
+[Opening "Alekhine Defense: Modern Variation, Main Line"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. exd6 exd6 6. Nc3 Nb6 7. h3 Bh5 8. g4 Bg6 9. Be3 Be7 10. Qd2 O-O 11. O-O-O c6 12. h4 h6 13. g5 hxg5 14. hxg5 f6 15. gxf6 Bxf6 16. Kb1 N8d7 17. Bg5 d5 18. Bxf6 Qxf6 19. Nh4 Bh5 20. Be2 Bxe2 21. Qxe2 Qxf2 22. Qe6+ Qf7 23. Qxf7+ Rxf7 24. Ng6 Nf6 25. Rh8# 1-0
+

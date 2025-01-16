@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SUSnAzFX"]
+[White "leguizcaro"]
+[Black "gamlet"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:23"]
+[WhiteElo "1912"]
+[BlackElo "2008"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nf3 d6 3. c4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 c5 7. Be3 cxd4 8. Nxd4 Nc6 9. O-O Bd7 10. Qd2 Rc8 11. f3 Ne5 12. b3 Nc6 13. Rfd1 Nxd4 14. Bxd4 a6 15. Rac1 Bc6 16. Be3 Re8 17. Nd5 Nd7 18. g4 Nc5 19. h3 a5 20. Kh2 b6 21. h4 Be5+ 22. Kg2 Bg7 23. h5 e6 24. Nc3 gxh5 25. gxh5 Nb7 26. Rg1 Kh8 27. Kf1 Rg8 28. Rd1 Rc7 29. Bxb6 f5 30. h6 Bf6 31. Rxg8+ Kxg8 32. Bxc7 Qxc7 33. Nb5 Qf7 34. Nxd6 Qh5 35. Qf4 Qh1+ 36. Kf2 Qh5 37. Rg1+ Kf8 38. Nxb7 Bd4+ 39. Kf1 Qh3+ 40. Ke1 Bxg1 41. Qb8+ Ke7 42. Qd6+ Kf7 43. Nd8+ Kg6 44. Qxe6+ Kh5 45. Nxc6 Qg3+ 46. Kd2 Kh4 47. Qxf5 Qd6+ 0-1
+

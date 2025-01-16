@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/76HyeYfF"]
+[White "Mandril"]
+[Black "komba44"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:55:59"]
+[WhiteElo "1567"]
+[BlackElo "1591"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-31"]
+[ECO "E10"]
+[Opening "Indian Game: Anti-Nimzo-Indian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.27] } 1... Nf6 { [%eval 0.18] } 2. c4 { [%eval 0.21] } 2... e6 { [%eval 0.21] } 3. Nf3 { [%eval 0.21] } 3... d5 { [%eval 0.18] } 4. cxd5 { [%eval 0.14] } 4... exd5 { [%eval 0.11] } 5. Nc3 { [%eval 0.18] } 5... h6 { [%eval 0.25] } 6. g3 { [%eval 0.06] } 6... Be7 { [%eval 0.07] } 7. Bg2 { [%eval 0.07] } 7... Bg4 { [%eval 0.48] } 8. O-O { [%eval 0.37] } 8... O-O { [%eval 0.31] } 9. Ne1 { [%eval 0.16] } 9... Qd7 { [%eval 0.43] } 10. f3 { [%eval 0.4] } 10... Bh3 { [%eval 0.46] } 11. Qb3 { [%eval 0.0] } 11... b6? { [%eval 1.01] } 12. Bxh3 { [%eval 1.05] } 12... Qxh3 { [%eval 1.0] } 13. Nxd5 { [%eval 0.89] } 13... Nxd5 { [%eval 1.0] } 14. Qxd5 { [%eval 1.07] } 14... Nd7 { [%eval 1.02] } 15. Nd3 { [%eval 1.01] } 15... Nf6 { [%eval 1.41] } 16. Qc6 { [%eval 1.18] } 16... Bd6 { [%eval 1.1] } 17. Bf4 { [%eval 1.24] } 17... Nh5 { [%eval 1.65] } 18. Bxd6 { [%eval 1.64] } 18... cxd6 { [%eval 1.41] } 19. g4 { [%eval 1.45] } 19... Rad8? { [%eval 3.48] } 20. gxh5 { [%eval 3.55] } 1-0
+

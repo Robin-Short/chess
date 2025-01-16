@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/tDShwxOu"]
+[White "paulmorphy44"]
+[Black "VEGETAL"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:18"]
+[WhiteElo "1822"]
+[BlackElo "1761"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 c5 3. d5 d6 4. Nc3 Ba6 5. e4 Nd7 6. f4 Qc7 7. Nf3 Qb7 8. Bd3 b5 9. cxb5 Bxb5 10. Bxb5 a6 11. Bd3 Qb4 12. a3 Qa5 13. Bd2 c4 14. Bxc4 Nc5 15. Be2 Qc7 16. O-O f6 17. Rc1 Rc8 18. Na4 Nh6 19. Nxc5 dxc5 20. b4 e5 21. bxc5 Bxc5+ 22. Kh1 O-O 23. f5 Ng4 24. h3 Ne3 25. Bxe3 Bxe3 26. Rxc7 Rxc7 27. Qd3 Bd4 28. Nxd4 exd4 29. Qxd4 Rfc8 30. Rd1 Rc1 31. Rxc1 Rxc1+ 32. Kh2 Rc8 33. d6 Rf8 34. d7 Rd8 35. Qd5+ Kf8 36. Qe6 g6 37. Bxa6 gxf5 38. exf5 Kg7 39. Qe8 Rxe8 40. dxe8=Q Kh6 41. Qe7 Kg5 42. Qf7 Kxf5 43. Qxh7+ Ke5 44. Qf7 f5 45. h4 Kf4 46. h5 Kg4 47. h6 f4 48. h7 f3 49. Qxf3+ Kg5 50. h8=Q Kg6 51. Qg8+ Kh6 52. Qh3# 1-0
+

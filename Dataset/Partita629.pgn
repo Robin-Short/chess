@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/W1bvVNKw"]
+[White "subteacher"]
+[Black "yesse2"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:25:10"]
+[WhiteElo "1541"]
+[BlackElo "1130"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-19"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f3 Nc6 3. d3 Nd4 4. Be3 c5 5. Ne2 d5 6. c3 Nc6 7. g3 d4 8. cxd4 cxd4 9. Bf2 Be6 10. a3 Qa5+ 11. Qd2 Qb6 12. b4 Nxb4 13. axb4 Bxb4 14. Nbc3 Bxc3 15. Nxc3 dxc3 16. Qxc3 Rc8 17. Qd2 Qb5 18. Be2 Nf6 19. O-O O-O 20. Rfb1 Qd7 21. Rd1 b6 22. d4 Qe7 23. d5 Rcd8 24. Qe3 Bd7 25. f4 exf4 26. gxf4 Nxd5 27. Rxd5 Qf6 28. Rad1 Rfe8 29. Qg3 Bf5 30. Bf3 Bxe4 31. Rxd8 1-0
+

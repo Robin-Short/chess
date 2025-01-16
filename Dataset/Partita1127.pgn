@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wPOf5ysN"]
+[White "Markinhos"]
+[Black "Rigoleto"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:45:44"]
+[WhiteElo "1794"]
+[BlackElo "1665"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C40"]
+[Opening "Latvian Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Nd4 Nf6 5. Bc4 c5 6. Nb3 d5 7. Bb5+ Nc6 8. O-O Bxf5 9. d3 exd3 10. Re1+ Be7 11. Qf3 Be4 12. Qg3 O-O 13. cxd3 Bd6 14. Qe3 Ng4 15. Qe2 Rxf2 16. dxe4 Rxe2 17. Rxe2 Bxh2+ 18. Kh1 Qh4 19. Nc3 Bg3+ 20. Kg1 Qh2+ 0-1
+

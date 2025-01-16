@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Lg0eRMP7"]
+[White "prtprtprt"]
+[Black "edmario"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:42"]
+[WhiteElo "1500"]
+[BlackElo "1547"]
+[WhiteRatingDiff "-153"]
+[BlackRatingDiff "+8"]
+[ECO "A17"]
+[Opening "English Opening: Anglo-Indian Defense, Hedgehog System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 { [%eval 0.03] } 1... e6 { [%eval 0.24] } 2. Nc3 { [%eval 0.18] } 2... Nf6 { [%eval 0.34] } 3. Nf3 { [%eval 0.19] } 3... d5 { [%eval 0.27] } 4. d3?! { [%eval -0.25] } 4... Bb4 { [%eval 0.05] } 5. Be3 { [%eval -0.39] } 5... c5 { [%eval -0.12] } 6. Rc1? { [%eval -2.53] } 6... d4 { [%eval -2.44] } 7. Nxd4? { [%eval -5.05] } 7... cxd4 { [%eval -5.08] } 8. Bxd4 { [%eval -5.13] } 8... Qxd4 { [%eval -5.15] } 9. g4?! { [%eval -6.07] } 9... Nxg4 { [%eval -5.8] } 10. Rg1?? { [%eval -14.12] } 10... Qxf2+ { [%eval -14.12] } 11. Kd2 { [%eval -14.1] } 11... Qxg1 { [%eval -14.08] } 12. Qe1 { [%eval -13.95] } 12... Nc6 { [%eval -13.46] } 13. e4 { [%eval -21.8] } 13... Nd4 { [%eval -13.89] } 14. a3 { [%eval -25.98] } 14... Nf3+ { [%eval -25.65] } 15. Kd1 { [%eval -119.39] } 15... Bxc3 { [%eval -25.22] } 16. bxc3?! { [%eval #-8] } 16... Nxe1 { [%eval #-6] } 17. Kxe1 { [%eval #-2] } 17... Qe3+?! { [%eval -29.99] } 18. Be2?! { [%eval #-8] } 18... Qxc1+ { [%eval -106.94] } 19. Bd1 { [%eval #-7] } 19... Qxc3+ { [%eval #-6] } 20. Ke2 { [%eval #-5] } 20... f5?! { [%eval #-7] } 21. c5 { [%eval #-5] } 21... fxe4?! { [%eval #-5] } 22. dxe4 { [%eval #-2] } 22... Qe3+ { [%eval #-1] } 23. Kf1 { [%eval #-1] } 23... Qf2# 0-1
+

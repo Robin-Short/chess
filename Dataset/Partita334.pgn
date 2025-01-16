@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7MWF911U"]
+[White "aVes"]
+[Black "barabass"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:41"]
+[WhiteElo "1315"]
+[BlackElo "1180"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-27"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit"]
+[TimeControl "120+9"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Qe7 4. Qxe7+ Bxe7 5. Nc3 O-O 6. e5 Ng4 7. Nd5 Na6 8. Nxe7+ Kh8 9. Nxc8 Raxc8 10. Nf3 Rfe8 11. Bxa6 bxa6 12. b3 Nxe5 13. Nxe5 Rxe5+ 14. Kf1 Rce8 15. Bb2 Re2 16. Bc3 d5 17. Rd1 c5 18. g3 d4 19. Bb2 h5 20. h4 g6 21. Kg2 R2e4 22. a3 Kh7 23. a4 Kh6 24. d3 Re2 25. Rc1 f6 26. Ba3 Rd8 27. Bxc5 g5 28. Bxa7 Rd7 29. Bc5 Rc7 30. Bxd4 Rcxc2 31. Rxc2 Rxc2 32. Bxf6 gxh4 33. Rxh4 Rd2 34. d4 Rd3 35. b4 Rb3 36. b5 axb5 37. axb5 Rxb5 38. Be5 Kg5 39. Bh8 Rd5 40. Kh3 Rd8 41. Be5 Re8 42. g4 hxg4+ 43. Rxg4+ Kh5 44. f4 Rf8 45. Rg5+ Kh6 46. Kh4 Rf7 47. f5 Rf8 48. Rg6+ Kh7 49. Kg5 Rf7 50. f6 Rf8 51. Rg7+ Kh8 52. Kh6 Rd8 53. Rh7+ Kg8 54. f7+ Kf8 55. Rg7 Ke7 56. Kg6 Rf8 57. Bf6+ Ke6 58. d5+ Kxd5 59. Be7 Rh8 60. f8=Q Rxf8 61. Bxf8 Ke6 62. Ba3 Ke5 63. Rd7 Ke6 64. Rd1 Ke5 65. Re1+ Kf4 66. Bd6+ Kf3 67. Kg5 Kf2 68. Re4 Kf3 69. Rf4+ Ke3 70. Kf5 Ke2 71. Ke4 Kd2 72. Kd4 Ke2 73. Re4+ Kf3 74. Kd3 Kf2 75. Re3 Kf1 76. Re2 Kg1 77. Ke3 Kh1 78. Kf3 Kg1 79. Re1# 1-0
+

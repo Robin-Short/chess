@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jTUoiXNj"]
+[White "Vicious"]
+[Black "denko"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:15"]
+[WhiteElo "1773"]
+[BlackElo "1361"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "C27"]
+[Opening "Vienna Game"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 d6 3. Bc4 Be6 4. Bxe6 fxe6 5. d3 Nf6 6. Nge2 Be7 7. O-O c5 8. f4 Nc6 9. Ng3 g6 10. f5 gxf5 11. exf5 Qd7 12. fxe6 Qxe6 13. Nh5 O-O-O 14. Qf3 Nd4 15. Qd1 Nxh5 16. Qxh5 Nxc2 17. Rb1 Nd4 18. Ne4 Rdg8 19. Kh1 Rg4 20. Be3 Rhg8 21. g3 Ne2 22. Qf5 Qxf5 23. Rxf5 d5 24. Nf2 Rxg3 25. hxg3 Nxg3+ 26. Kh2 Nxf5 27. Nh3 Nxe3 28. Re1 d4 29. Kh1 Rg3 30. Nf2 Rg2 31. Ne4 Rxb2 32. a4 Ra2 33. a5 Rxa5 34. Rg1 Ra3 35. Rg8+ Kd7 36. Rg7 Rxd3 37. Rxh7 1-0
+

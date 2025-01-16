@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Xq1uN4wf"]
+[White "lilbigchunk"]
+[Black "ChiefTimeKeeper"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:50"]
+[WhiteElo "1549"]
+[BlackElo "1518"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 c6 5. Bc4 Bf5 6. Ng5 e6 7. O-O Bxc2 8. Qh5 Bg6 9. Qg4 Nf6 10. Qf4 h6 11. Nxe6 Nbd7 12. b4 Qf5 13. Nc7+ Kd8 14. Qxf5 Bxf5 15. Nxa8 Bd6 16. b5 c5 17. b6 axb6 18. Bb5 Kc8 19. Bxd7+ Nxd7 20. Nd5 Be5 21. Rb1 Kb8 22. Rxb6 Nxb6 23. Naxb6 Bd3 24. Re1 f6 25. g3 Be4 26. f4 Bd4+ 27. Kf1 Bd3+ 28. Kg2 Be4+ 29. Kh3 Re8 30. g4 Bg2+ 31. Kxg2 Rxe1 32. Ba3 Re2+ 33. Kf3 Rxh2 34. Ne3 h5 35. gxh5 Rxh5 36. Nbc4 g5 37. fxg5 fxg5 38. Kg4 Rh4+ 39. Kxg5 Re4 40. Bb2 Bxb2 41. Nxb2 Rd4 42. Nbc4 b5 43. Nf5 Rxc4 44. Nd6 Rc2 45. Nxb5 Rxd2 46. Nc3 Kb7 47. Kf4 Rd3 48. Ne4 c4 49. Nd6+ Kc6 50. Nxc4 Rd4+ 51. Ke3 Rxc4 52. Kd3 Rc5 53. a4 Kb6 54. Kd4 Rc8 55. Kd5 Ka5 56. Kd6 Kxa4 57. Kd7 Rc5 58. Kd6 Rf5 59. Ke6 Rc5 60. Kd6 Kb5 61. Ke6 Kc6 62. Ke7 Rd5 63. Ke6 Kc5 64. Kf6 Kd6 65. Kf7 Ke5 66. Kf8 Rd7 67. Ke8 Ra7 68. Kd8 Ke6 69. Kc8 Kd6 70. Kb8 Rh7 71. Kc8 Kd5 72. Kd8 Ke6 73. Kc8 Kd6 74. Kb8 Kc6 75. Ka8 Kb6 76. Kb8 Kc6 77. Ka8 Kb6 78. Kb8 Rh8# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/S4TUMKRF"]
+[White "yesse2"]
+[Black "laloli"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:08"]
+[WhiteElo "1331"]
+[BlackElo "1248"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nc6 2. e3 e5 3. Bc4 e4 4. Nh3 Bb4+ 5. Bd2 Qh4 6. Bxb4 d6 7. Nf4 Nf6 8. Bd2 Bg4 9. g3 Qg5 10. Qc1 O-O-O 11. h4 Bf3 12. hxg5 Bxh1 13. gxf6 gxf6 14. Ke2 Nxd4+ 15. exd4 d5 16. Qxh1 dxc4 17. Ke3 Rhe8 18. Nc3 1-0
+

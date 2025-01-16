@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GNMSdHhA"]
+[White "Icasper"]
+[Black "ak-tr"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:30"]
+[WhiteElo "1394"]
+[BlackElo "1533"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C23"]
+[Opening "Bishop's Opening: Philidor Counterattack"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 c6 3. a3 d5 4. exd5 cxd5 5. Ba2 Be6 6. Qf3 Nc6 7. c3 Nh6 8. d3 Nf5 9. c4 Nfd4 10. Qd1 dxc4 11. dxc4 Bc5 12. Be3 Qf6 13. Ne2 Nxe2 14. Bxc5 Ned4 15. O-O Rd8 16. Qa4 Qg6 17. Bxd4 Rxd4 18. Re1 O-O 19. Qb5 e4 20. Qxb7 Bh3 21. g3 Rc8 22. c5 Ne5 23. f4 Nf3+ 24. Kf2 Nxe1 25. Kxe1 Rcd8 26. Nc3 e3 27. c6 h6 28. Rd1 Rxd1+ 29. Nxd1 Rxd1+ 30. Kxd1 Qd6+ 31. Kc2 Bf5+ 32. Kc3 Qd3+ 33. Kb4 Qd2+ 34. Kc5 Qc2+ 35. Bc4 Be6 36. b3 e2 37. c7 Qf5+ 38. Kd4 e1=Q 39. c8=Q+ Bxc8 40. Bxf7+ Qxf7 41. Qxc8+ Kh7 42. Qf5+ Qxf5 0-1
+

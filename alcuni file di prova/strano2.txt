@@ -1,0 +1,621 @@
+strano2.txt
+mode: 0p
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 
+ 6                 
+ 5                 
+ 4                 
+ 3               ♙ 
+ 2 ♙ ♙ ♙ ♙ ♙ ♙ ♙   
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟   ♟ 
+ 6                 
+ 5             ♟   
+ 4                 
+ 3               ♙ 
+ 2 ♙ ♙ ♙ ♙ ♙ ♙ ♙   
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟   ♟ 
+ 6                 
+ 5             ♟   
+ 4                 
+ 3 ♙             ♙ 
+ 2   ♙ ♙ ♙ ♙ ♙ ♙   
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟   ♟ ♟ ♟   ♟ 
+ 6                 
+ 5     ♟       ♟   
+ 4                 
+ 3 ♙             ♙ 
+ 2   ♙ ♙ ♙ ♙ ♙ ♙   
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟   ♟ ♟ ♟   ♟ 
+ 6                 
+ 5     ♟       ♟   
+ 4                 
+ 3 ♙     ♙       ♙ 
+ 2   ♙ ♙   ♙ ♙ ♙   
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟     ♟ ♟   ♟ 
+ 6                 
+ 5     ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙       ♙ 
+ 2   ♙ ♙   ♙ ♙ ♙   
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟     ♟ ♟   ♟ 
+ 6                 
+ 5     ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙   ♙ ♙     
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟     ♟     ♟ 
+ 6           ♟     
+ 5     ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙   ♙ ♙     
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟     ♟     ♟ 
+ 6           ♟     
+ 5     ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝   ♜ 
+ 7 ♟ ♟     ♟     ♟ 
+ 6           ♟   ♞ 
+ 5     ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝   ♜ 
+ 7 ♟ ♟     ♟     ♟ 
+ 6           ♟   ♞ 
+ 5     ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙   ♘ ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6           ♟   ♞ 
+ 5     ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙   ♘ ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6           ♟   ♞ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6           ♟     
+ 5     ♟ ♟     ♟   
+ 4       ♘     ♞   
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6           ♟     
+ 5     ♟ ♟     ♟   
+ 4       ♘     ♞   
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗   ♕ ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6           ♟   ♞ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗   ♕ ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6           ♟   ♞ 
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗   ♕ ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞   ♛   ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6         ♝ ♟   ♞ 
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗   ♕ ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞   ♛   ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6         ♝ ♟   ♞ 
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞     ♛ ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6         ♝ ♟   ♞ 
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙     ♙     ♙ ♙ 
+ 2   ♙ ♙ ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞     ♛ ♝   ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6         ♝ ♟   ♞ 
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙   ♙ ♙     ♙ ♙ 
+ 2   ♙   ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞     ♛ ♝ ♞ ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6         ♝ ♟     
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙   ♙ ♙     ♙ ♙ 
+ 2   ♙   ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞     ♛ ♝ ♞ ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6         ♝ ♟     
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2       ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞   ♛   ♝ ♞ ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6         ♝ ♟     
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2       ♔ ♙ ♙     
+ 1 ♖ ♘ ♗ ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞   ♛   ♝ ♞ ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6         ♝ ♟     
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗   ♔ ♙ ♙     
+ 1 ♖ ♘   ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞       ♝ ♞ ♜ 
+ 7 ♟ ♟   ♛ ♟ ♚   ♟ 
+ 6         ♝ ♟     
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗   ♔ ♙ ♙     
+ 1 ♖ ♘   ♕   ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞       ♝ ♞ ♜ 
+ 7 ♟ ♟   ♛ ♟ ♚   ♟ 
+ 6         ♝ ♟     
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗     ♙ ♙     
+ 1 ♖ ♘   ♕ ♔ ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞         ♞ ♜ 
+ 7 ♟ ♟   ♛ ♟ ♚   ♟ 
+ 6         ♝ ♟   ♝ 
+ 5   ♘ ♟ ♟     ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗     ♙ ♙     
+ 1 ♖ ♘   ♕ ♔ ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞         ♞ ♜ 
+ 7 ♟ ♟   ♛ ♟ ♚   ♟ 
+ 6         ♝ ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗     ♙ ♙     
+ 1 ♖ ♘   ♕ ♔ ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞         ♞ ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6     ♛   ♝ ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗     ♙ ♙     
+ 1 ♖ ♘   ♕ ♔ ♗   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞         ♞ ♜ 
+ 7 ♟ ♟     ♟ ♚   ♟ 
+ 6     ♛   ♝ ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗     ♙ ♙ ♗   
+ 1 ♖ ♘   ♕ ♔     ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞         ♞ ♜ 
+ 7 ♟ ♟     ♟   ♚ ♟ 
+ 6     ♛   ♝ ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗     ♙ ♙ ♗   
+ 1 ♖ ♘   ♕ ♔     ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞         ♞ ♜ 
+ 7 ♟ ♟     ♟   ♚ ♟ 
+ 6     ♛   ♝ ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗   ♔ ♙ ♙ ♗   
+ 1 ♖ ♘   ♕       ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟ ♟     ♟   ♚ ♟ 
+ 6         ♝ ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗   ♔ ♙ ♙ ♗   
+ 1 ♖ ♘   ♕       ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟ ♟     ♟   ♚ ♟ 
+ 6         ♝ ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗ ♔   ♙ ♙ ♗   
+ 1 ♖ ♘   ♕       ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟ ♟     ♟ ♝ ♚ ♟ 
+ 6           ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗ ♔   ♙ ♙ ♗   
+ 1 ♖ ♘   ♕       ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟ ♟     ♟ ♝ ♚ ♟ 
+ 6           ♟   ♝ 
+ 5     ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗ ♔   ♙ ♙ ♗   
+ 1 ♖ ♘       ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6           ♟   ♝ 
+ 5   ♟ ♟ ♟     ♟   
+ 4       ♘         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2   ♗ ♔   ♙ ♙ ♗   
+ 1 ♖ ♘       ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6           ♟   ♝ 
+ 5   ♟ ♟ ♟     ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙   ♘ ♙ ♙ 
+ 2   ♗ ♔   ♙ ♙ ♗   
+ 1 ♖ ♘       ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6               ♝ 
+ 5   ♟ ♟ ♟   ♟ ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙   ♘ ♙ ♙ 
+ 2   ♗ ♔   ♙ ♙ ♗   
+ 1 ♖ ♘       ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6               ♝ 
+ 5   ♟ ♟ ♟   ♟ ♟   
+ 4                 
+ 3 ♙ ♙ ♙ ♙   ♘ ♙ ♙ 
+ 2   ♗ ♔ ♘ ♙ ♙ ♗   
+ 1 ♖         ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6               ♝ 
+ 5   ♟ ♟     ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙   ♘ ♙ ♙ 
+ 2   ♗ ♔ ♘ ♙ ♙ ♗   
+ 1 ♖         ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♛       ♞ ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6               ♝ 
+ 5   ♟ ♟     ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙   ♘ ♙ ♙ 
+ 2     ♔ ♘ ♙ ♙ ♗   
+ 1 ♖   ♗     ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞         ♞ ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6         ♛     ♝ 
+ 5   ♟ ♟     ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙   ♘ ♙ ♙ 
+ 2     ♔ ♘ ♙ ♙ ♗   
+ 1 ♖   ♗     ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞         ♞ ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6         ♛     ♝ 
+ 5   ♟ ♟     ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2     ♔ ♘ ♙ ♙ ♗   
+ 1 ♖   ♗   ♘ ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞           ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6         ♛ ♞   ♝ 
+ 5   ♟ ♟     ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2     ♔ ♘ ♙ ♙ ♗   
+ 1 ♖   ♗   ♘ ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞           ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6         ♛ ♞   ♝ 
+ 5   ♟ ♟     ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2     ♔   ♙ ♙ ♗   
+ 1 ♖ ♘ ♗   ♘ ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞           ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6           ♞   ♝ 
+ 5   ♟ ♟   ♛ ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙     ♙ ♙ 
+ 2     ♔   ♙ ♙ ♗   
+ 1 ♖ ♘ ♗   ♘ ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞           ♜ 
+ 7 ♟       ♟ ♝ ♚ ♟ 
+ 6           ♞   ♝ 
+ 5   ♟ ♟   ♛ ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙   ♘ ♙ ♙ 
+ 2     ♔   ♙ ♙ ♗   
+ 1 ♖ ♘ ♗     ♕   ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞           ♜ 
+ 7         ♟ ♝ ♚ ♟ 
+ 6           ♞   ♝ 
+ 5 ♟ ♟ ♟   ♛ ♟ ♟   
+ 4       ♟         
+ 3 ♙ ♙ ♙ ♙   ♘ ♙ ♙ 
+ 2     ♔   ♙ ♙ ♗   
+ 1 ♖ ♘ ♗     ♕   ♖ 
+   A B C D E F G H
+
+Sequenza Mosse:
+
+	0.	h2h3 giocata dal BIANCO	in 0.00603 s. (Avanza1)
+	1.	g7g5 giocata dal NERO	in 0.0063 s. (Avanza2)
+	2.	a2a3 giocata dal BIANCO	in 0.00563 s. (Avanza1)
+	3.	c7c5 giocata dal NERO	in 0.00554 s. (Avanza2)
+	4.	d2d3 giocata dal BIANCO	in 0.00542 s. (Avanza1)
+	5.	d7d5 giocata dal NERO	in 0.00477 s. (Avanza2)
+	6.	g2g3 giocata dal BIANCO	in 0.00514 s. (Avanza1)
+	7.	f7f6 giocata dal NERO	in 0.00583 s. (Avanza1)
+	8.	e1d2 giocata dal BIANCO	in 0.00476 s. (Sposta)
+	9.	g8h6 giocata dal NERO	in 0.00506 s. (Sposta)
+	10.	g1f3 giocata dal BIANCO	in 0.00472 s. (Sposta)
+	11.	e8f7 giocata dal NERO	in 0.00515 s. (Sposta)
+	12.	f3d4 giocata dal BIANCO	in 0.00447 s. (Sposta)
+	13.	h6g4 giocata dal NERO	in 0.0052 s. (Sposta)
+	14.	d1e1 giocata dal BIANCO	in 0.00462 s. (Sposta)
+	15.	g4h6 giocata dal NERO	in 0.00536 s. (Sposta)
+	16.	d4b5 giocata dal BIANCO	in 0.00485 s. (Sposta)
+	17.	c8e6 giocata dal NERO	in 0.00527 s. (Sposta)
+	18.	e1d1 giocata dal BIANCO	in 0.00413 s. (Sposta)
+	19.	d8e8 giocata dal NERO	in 0.00508 s. (Sposta)
+	20.	c2c3 giocata dal BIANCO	in 0.00465 s. (Avanza1)
+	21.	h6g8 giocata dal NERO	in 0.00473 s. (Sposta)
+	22.	b2b3 giocata dal BIANCO	in 0.00451 s. (Avanza1)
+	23.	e8d8 giocata dal NERO	in 0.00437 s. (Sposta)
+	24.	c1b2 giocata dal BIANCO	in 0.00433 s. (Sposta)
+	25.	d8d7 giocata dal NERO	in 0.00477 s. (Sposta)
+	26.	d2e1 giocata dal BIANCO	in 0.00448 s. (Sposta)
+	27.	f8h6 giocata dal NERO	in 0.00428 s. (Sposta)
+	28.	b5d4 giocata dal BIANCO	in 0.00422 s. (Sposta)
+	29.	d7c6 giocata dal NERO	in 0.0047 s. (Sposta)
+	30.	f1g2 giocata dal BIANCO	in 0.00453 s. (Sposta)
+	31.	f7g7 giocata dal NERO	in 0.00532 s. (Sposta)
+	32.	e1d2 giocata dal BIANCO	in 0.00566 s. (Sposta)
+	33.	c6c8 giocata dal NERO	in 0.00547 s. (Sposta)
+	34.	d2c2 giocata dal BIANCO	in 0.00618 s. (Sposta)
+	35.	e6f7 giocata dal NERO	in 0.00498 s. (Sposta)
+	36.	d1f1 giocata dal BIANCO	in 0.00626 s. (Sposta)
+	37.	b7b5 giocata dal NERO	in 0.00528 s. (Avanza2)
+	38.	d4f3 giocata dal BIANCO	in 0.00535 s. (Sposta)
+	39.	f6f5 giocata dal NERO	in 0.00548 s. (Avanza1)
+	40.	b1d2 giocata dal BIANCO	in 0.00537 s. (Sposta)
+	41.	d5d4 giocata dal NERO	in 0.00589 s. (Avanza1)
+	42.	b2c1 giocata dal BIANCO	in 0.00574 s. (Sposta)
+	43.	c8e6 giocata dal NERO	in 0.00553 s. (Sposta)
+	44.	f3e1 giocata dal BIANCO	in 0.00511 s. (Sposta)
+	45.	g8f6 giocata dal NERO	in 0.00539 s. (Sposta)
+	46.	d2b1 giocata dal BIANCO	in 0.00544 s. (Sposta)
+	47.	e6e5 giocata dal NERO	in 0.0068 s. (Sposta)
+	48.	e1f3 giocata dal BIANCO	in 0.0063 s. (Sposta)
+	49.	a7a5 giocata dal NERO	in 0.0078 s. (Avanza2)
+
+Totale Tempo impiegato dal BIANCO: 0.12802 s
+Totale Tempo impiegato dal NERO:   0.13449 s
+
+esito: PATTA per 50 mosse senza mangiare..

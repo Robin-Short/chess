@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CzW9zyfQ"]
+[White "Bethoven"]
+[Black "YAYALOULOU"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:20"]
+[WhiteElo "1862"]
+[BlackElo "1720"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation, Cordel Gambit"]
+[TimeControl "1800+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.28] } 2. Nf3 { [%eval 0.24] } 2... Nc6 { [%eval 0.28] } 3. Bb5 { [%eval 0.28] } 3... Bc5 { [%eval 0.46] } 4. c3 { [%eval 0.6] } 4... f5 { [%eval 0.47] } 5. Bxc6 { [%eval 0.2] } 5... dxc6 { [%eval 0.28] } 6. Nxe5 { [%eval 0.01] } 6... Bd6 { [%eval 0.19] } 7. Qh5+ { [%eval 0.12] } 7... g6 { [%eval 0.06] } 8. Nxg6 { [%eval 0.16] } 8... Nf6 { [%eval 0.03] } 9. Qh4 { [%eval -0.1] } 9... Rg8 { [%eval 0.15] } 10. e5 { [%eval 0.07] } 10... Rxg6 { [%eval 0.24] } 11. exf6 { [%eval 0.15] } 11... Be6 { [%eval 0.27] } 12. f7+?! { [%eval -0.45] } 12... Bxf7 { [%eval -0.36] } 13. Qxh7?? { [%eval -8.44] } 13... Rxg2?? { [%eval -2.12] } 14. d4? { [%eval -3.91] } 14... Bc4?? { [%eval -0.15] } 15. Qh5+ { [%eval 0.0] } 15... Bf7 { [%eval 0.0] } 16. Qxf5 { [%eval -0.13] } 16... Rxh2?! { [%eval 0.66] } 17. Rxh2 { [%eval 0.4] } 17... Bxh2 { [%eval 0.33] } 18. Bg5 { [%eval 0.52] } 18... Qd5 { [%eval 0.52] } 19. Qf6?! { [%eval -0.42] } 19... Bd6?! { [%eval 0.47] } 20. Qh8+?! { [%eval -0.39] } 20... Bf8?! { [%eval 0.15] } 21. Qe5+ { [%eval 0.15] } 21... Qxe5+ { [%eval 0.33] } 22. dxe5 { [%eval 0.27] } 22... Be7 { [%eval 0.25] } 23. Bxe7 { [%eval 0.03] } 23... Kxe7 { [%eval 0.1] } 24. Nd2 { [%eval 0.0] } 24... Bh5?! { [%eval 0.6] } 25. f4? { [%eval -0.66] } 25... Rf8 { [%eval -0.58] } 26. Kf2 { [%eval -0.74] } 26... Rxf4+ { [%eval -0.71] } 27. Ke3 { [%eval -0.69] } 27... Rh4?! { [%eval 0.0] } 28. Rg1 { [%eval -0.06] } 28... Bg4 { [%eval -0.06] } 29. Ne4 { [%eval -0.14] } 29... Ke6 { [%eval -0.18] } 30. Kd4?? { [%eval -4.09] } 30... Bf5 { [%eval -4.01] } 31. Re1 { [%eval -4.05] } 31... c5+ { [%eval -4.07] } 32. Kd3? { [%eval -5.13] } 32... Kxe5 { [%eval -5.18] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dYvrs4td"]
+[White "NahuelCastrignano"]
+[Black "leonariel"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:16:14"]
+[WhiteElo "1438"]
+[BlackElo "1103"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-3"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "360+2"]
+[Termination "Time forfeit"]
+
+1. g3 e5 2. c4 d6 3. Bg2 a6 4. a4 Nf6 5. e3 Be7 6. Nf3 O-O 7. O-O e4 8. Ng5 Ng4 9. Nxe4 Bh4 10. gxh4 Qxh4 11. h3 Nh6 12. d4 Bxh3 13. Bxh3 Qxh3 14. f4 Ng4 15. Qe2 Qh4 16. Rf3 Nd7 17. Qg2 f5 18. Rh3 Qe7 19. Nf2 Rf6 20. Nxg4 Rg6 21. Rg3 fxg4 22. Rxg4 Rxg4 23. Qxg4 Nf6 24. Qf3 Rf8 25. Nc3 c6 26. Bd2 Qe8 27. Kf2 Qg6 28. Rg1 1-0
+

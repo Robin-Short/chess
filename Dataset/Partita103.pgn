@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lxFcbsWk"]
+[White "roichile"]
+[Black "Richard10"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:16"]
+[WhiteElo "1545"]
+[BlackElo "1598"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. c4 c6 3. Nc3 Nf6 4. Qb3 e6 5. Nf3 Nbd7 6. Ng5 h6 7. Nf3 Bd6 8. d4 b6 9. Qc2 Bb7 10. b3 O-O 11. h3 Rc8 12. Nd2 Bb4 13. a3 Bxc3 14. Qxc3 c5 15. g4 dxc4 16. Rg1 cxd4 17. exd4 cxb3 18. Qxb3 Bd5 19. Bc4 Bxc4 20. Nxc4 Qc7 21. Ne5 Qc3+ 22. Qxc3 Rxc3 23. Bb2 Rxh3 24. Nxd7 Nxd7 25. g5 hxg5 26. Rxg5 Rh1+ 27. Ke2 Rxa1 28. Bxa1 Nf6 29. d5 Kh7 30. d6 Rd8 31. Be5 Ne4 32. Rh5+ Kg6 33. Rh3 f6 34. Bg3 e5 35. Rh1 Rxd6 36. Rd1 Rxd1 37. Kxd1 Nxg3 38. fxg3 f5 39. Ke2 Kf6 40. Kf3 g5 41. Kf2 e4 42. a4 Ke5 43. a5 f4 44. gxf4+ gxf4 45. axb6 axb6 46. Ke2 b5 47. Kd2 b4 48. Kc2 f3 49. Kb3 e3 50. Kxb4 e2 51. Kc5 e1=Q 52. Kc6 f2 53. Kc7 f1=Q 54. Kd7 Qc4 55. Ke7 Qd2 56. Kf8 Kd5 57. Kf7 Qe4 58. Kg7 Qf2 0-1
+

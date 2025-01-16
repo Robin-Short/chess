@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I2KitAo8"]
+[White "raflig"]
+[Black "atikus"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:15:28"]
+[WhiteElo "1815"]
+[BlackElo "1778"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Godiva Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Be3 Qd8 8. f3 a6 9. Qd2 d6 10. O-O-O Be7 11. Bf4 e5 12. Bg5 h6 13. Bxf6 gxf6 14. Nd5 Be6 15. Kb1 Bxd5 16. Qxd5 Qb6 17. Qd2 a5 18. Bc4 a4 19. Nc1 Rc8 20. Bd5 Nb4 21. Ne2 Rxc2 22. Qxc2 Nxc2 23. Kxc2 O-O 24. Nc3 Rc8 25. Kb1 a3 26. Na4 Qb4 27. Bb3 b5 28. Nb6 Rc7 29. Nd5 Qa5 30. Nxc7 Qxc7 31. bxa3 d5 32. exd5 Bxa3 33. Rd3 f5 34. Rhd1 e4 35. fxe4 fxe4 36. Rd4 Qc3 37. R4d2 e3 38. Rc2 Qe5 39. Re1 Bb4 40. Ree2 Qxh2 41. Rxe3 Qg1+ 42. Kb2 Qxe3 43. Rc8+ Kg7 0-1
+

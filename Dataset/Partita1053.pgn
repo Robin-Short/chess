@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rZTPcCip"]
+[White "Gambito13193"]
+[Black "GATOFELIX"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:42:02"]
+[WhiteElo "1629"]
+[BlackElo "1585"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 a6 3. c3 Nc6 4. d4 cxd4 5. cxd4 e5 6. d5 Nce7 7. Bg5 f6 8. Bh4 Ng6 9. Bg3 d6 10. Bd3 Bg4 11. Nbd2 Be7 12. h3 Bxf3 13. Nxf3 Nh6 14. O-O O-O 15. Bh2 f5 16. Re1 f4 17. a4 Nh4 18. b4 Nxf3+ 19. Qxf3 Rf6 20. b5 axb5 21. Bxb5 Rg6 22. g3 fxg3 23. Bxg3 Rf6 24. Qe3 Rg6 25. Re2 Bh4 26. Kf1 Qc8 27. Bxh4 Qf8 28. Ke1 Nf7 29. Kd2 Rh6 30. Bg5 Nxg5 31. Qxg5 Rxh3 32. Qg4 Rb3 33. Qe6+ Kh8 34. Rb1 Qf4+ 35. Kc2 Ra3 36. Qxd6 Rc8+ 37. Bc6 bxc6 38. Qxc6 Rxc6+ 39. dxc6 Qf8 40. Rb3 Qc5+ 41. Kb2 Rxb3+ 42. Kxb3 Qb6+ 43. Ka3 Qxc6 44. Rb2 Qc3+ 45. Rb3 Qc1+ 46. Ka2 Qc4 47. Ka3 Qc5+ 48. Ka2 Qc4 49. Ka3 Qc1+ 50. Ka2 Qc2+ 51. Rb2 Qxa4+ 52. Kb1 Qxe4+ 53. Ka2 Qa4+ 54. Kb1 Qd1+ 55. Ka2 Qd5+ 56. Kb1 Qh1+ 57. Ka2 Qa8+ 58. Kb1 Qf8 59. Re2 Qf5+ 60. Rc2 h5 61. Kb2 h4 62. Rc3 e4 63. Re3 h3 64. Rxh3+ Qxh3 65. Kc2 Qf3 66. Kd2 Qxf2+ 67. Kc3 e3 68. Kd4 e2+ 69. Kd5 e1=Q 70. Kd6 Qfd2+ 71. Kc6 Qec1+ 72. Kb6 Qdb2+ 73. Ka6 Qca1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w4KTjefY"]
+[White "kick"]
+[Black "ThatAmine"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:50"]
+[WhiteElo "1725"]
+[BlackElo "1738"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 a6 6. O-O Bc5 7. c3 e5 8. Nf5 O-O 9. Bg5 d6 10. Nd2 Bxf5 11. exf5 Nbd7 12. Ne4 Qc7 13. Nxf6+ gxf6 14. Bh6 Kh8 15. Bxf8 Rxf8 16. Qh5 d5 17. Rad1 e4 18. Bc2 Ne5 19. Bb3 Rg8 20. Rxd5 Qb6 21. Rd2 Nf3+ 22. Kh1 Nxd2 23. Rd1 Nxb3 24. axb3 Qxb3 25. Rf1 Qxb2 26. Qxf7 Qxc3 27. h4 Bd4 28. g3 Qd3 29. Kg2 Qf3+ 30. Kg1 e3 31. Qa2 e2 32. Rb1 Rxg3+ 0-1
+

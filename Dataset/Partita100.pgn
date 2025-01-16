@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eTfO0D4N"]
+[White "clifford"]
+[Black "HerbyW"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:10"]
+[WhiteElo "1512"]
+[BlackElo "1241"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-13"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nfg5 Nxe4 7. Bxf7# 1-0
+

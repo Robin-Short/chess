@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3yPvLo0t"]
+[White "eshatos"]
+[Black "mirzador"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:10"]
+[WhiteElo "1450"]
+[BlackElo "1481"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 f6 3. Nh4 g5 4. Qh5+ Ke7 5. Nf5+ Ke6 6. Bc4+ d5 7. exd5+ Kxf5 8. Qf3+ Kg6 9. Bd3+ Kg7 10. O-O Qe7 11. Nc3 Nh6 12. Ne4 f5 13. d6 Qd7 14. Nc5 Qxd6 15. b4 e4 16. Bxe4 fxe4 17. Nxe4 Qe5 18. d4 Qxd4 0-1
+

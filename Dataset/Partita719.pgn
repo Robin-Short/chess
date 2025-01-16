@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3lfRHnw2"]
+[White "henriquefacundes"]
+[Black "salagonic"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:27:58"]
+[WhiteElo "1677"]
+[BlackElo "1416"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-12"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, Greco Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.21] } 1... d5 { [%eval 0.19] } 2. c4 { [%eval 0.26] } 2... dxc4 { [%eval 0.59] } 3. e4?! { [%eval 0.08] } 3... b5 { [%eval 0.43] } 4. Nc3 { [%eval 0.18] } 4... Ba6 { [%eval 0.12] } 5. Nf3 { [%eval 0.12] } 5... Nf6 { [%eval 0.11] } 6. Be2 { [%eval -0.13] } 6... e6 { [%eval -0.12] } 7. e5 { [%eval -0.08] } 7... Nd5 { [%eval -0.06] } 8. a3 { [%eval -0.51] } 8... Nxc3 { [%eval -0.21] } 9. bxc3 { [%eval -0.15] } 9... Be7 { [%eval -0.24] } 10. a4 { [%eval -0.44] } 10... c6?! { [%eval 0.39] } 11. axb5?! { [%eval -0.31] } 11... Bxb5?! { [%eval 0.25] } 12. O-O { [%eval 0.2] } 12... O-O { [%eval 0.24] } 13. Nd2 { [%eval -0.05] } 13... c5 { [%eval 0.23] } 14. Bxc4 { [%eval 0.09] } 14... cxd4? { [%eval 2.81] } 15. Bxb5 { [%eval 2.76] } 15... dxc3 { [%eval 2.84] } 16. Nf3?! { [%eval 2.34] } 16... Qxd1 { [%eval 2.46] } 17. Rxd1 { [%eval 2.22] } 17... c2? { [%eval 3.31] } 18. Rd2 { [%eval 3.22] } 18... Rd8 { [%eval 3.29] } 19. Rxd8+ { [%eval 3.22] } 19... Bxd8 { [%eval 3.18] } 20. Ra2 { [%eval 3.22] } 20... a6 { [%eval 3.15] } 21. Ba4 { [%eval 2.89] } 21... f6?? { [%eval 7.89] } 22. exf6? { [%eval 4.91] } 22... Bxf6? { [%eval 7.37] } 23. Rxc2 { [%eval 7.25] } 23... a5? { [%eval #7] } 24. Bf4?? { [%eval 4.2] } 24... Na6 { [%eval 4.03] } 25. h3?! { [%eval 3.17] } 25... Nb4 { [%eval 3.17] } 26. Rc7? { [%eval 2.15] } 26... Nd5 { [%eval 2.14] } 27. Rc4 { [%eval 2.08] } 27... Rd8? { [%eval 3.5] } 28. Be5 { [%eval 3.11] } 28... Nb6 { [%eval 3.05] } 29. Rf4?! { [%eval 2.48] } 29... Rd1+?? { [%eval 9.65] } 30. Kh2?? { [%eval 2.61] } 30... Nxa4?! { [%eval 3.29] } 31. Rxa4 { [%eval 3.36] } 31... Be7?! { [%eval 4.06] } 32. Rxa5 { [%eval 4.03] } 32... Bd8? { [%eval 5.08] } 33. Ra7?! { [%eval 4.19] } 33... Bb6? { [%eval 6.65] } 34. Rxg7+ { [%eval 6.74] } 34... Kf8 { [%eval 6.82] } 35. Kg3?! { [%eval 6.19] } 35... Rf1 { [%eval 6.33] } 36. Rxh7 { [%eval 6.12] } 36... Rxf2? { [%eval 8.36] } 37. Bd4? { [%eval 5.91] } 37... Bxd4 { [%eval 5.41] } 38. Nxd4 { [%eval 5.52] } 38... Rf6 { [%eval 5.44] } 39. Kg4 { [%eval 5.93] } 39... Rg6+ { [%eval 5.93] } 40. Kh5? { [%eval 3.96] } 40... Rf6?? { [%eval 7.91] } 41. g4 { [%eval 7.15] } 41... e5 { [%eval 10.65] } 42. Nf5 { [%eval 8.27] } 42... e4? { [%eval 52.96] } 43. Kg5? { [%eval 8.6] } 43... Rxf5+? { [%eval #8] } 44. Kxf5 { [%eval #8] } 44... e3 { [%eval #10] } 45. Ra7 { [%eval #10] } 45... e2 { [%eval #10] } 46. Ra1 { [%eval #10] } 46... Ke7 { [%eval #11] } 47. Re1 { [%eval #8] } 1-0
+

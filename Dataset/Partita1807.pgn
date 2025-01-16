@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ABzJhGL7"]
+[White "sorro1976"]
+[Black "sidacotel"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:07"]
+[WhiteElo "1664"]
+[BlackElo "1552"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "D08"]
+[Opening "Queen's Gambit Refused: Albin Countergambit"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. c4 d5 3. dxe5 Nc6 4. f4 dxc4 5. Qxd8+ Nxd8 6. e3 Be6 7. Nc3 Bb4 8. Bd2 Ne7 9. Nf3 Ndc6 10. a3 Ba5 11. Ne4 Bxd2+ 12. Nexd2 O-O-O 13. Nxc4 Nd5 14. Kf2 f6 15. exf6 Nxf6 16. h3 Ne4+ 17. Ke2 Bxc4+ 18. Ke1 Bxf1 19. Kxf1 Na5 20. Ke2 Nb3 21. Rad1 Rde8 22. Rd3 Nbc5 23. Rdd1 Ng3+ 24. Kf2 Nxh1+ 25. Rxh1 Nd3+ 26. Ke2 Nxb2 27. Rc1 Rd8 28. Nd4 Rd7 29. g4 Re8 0-1
+

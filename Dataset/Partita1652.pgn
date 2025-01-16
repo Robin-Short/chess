@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/adjJJcpX"]
+[White "farmer1144"]
+[Black "Flowerofevil"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:37"]
+[WhiteElo "1278"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+65"]
+[BlackRatingDiff "-299"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "600+8"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 c5 3. dxc5 Bd6 4. cxd6 Qa5+ 5. c3 Qb6 1-0
+

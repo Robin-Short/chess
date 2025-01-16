@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bhR45o9E"]
+[White "hazes"]
+[Black "alajmoff"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:37"]
+[WhiteElo "1899"]
+[BlackElo "1780"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-49"]
+[ECO "A61"]
+[Opening "Benoni Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 c5 3. d5 Nf6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 Bg7 8. Qa4+ Bd7 9. Qb3 b6 10. h3 O-O 11. e3 Na6 12. Bxd6 Re8 13. Bxa6 Bc8 14. Bxc8 Qxd6 15. Ba6 Ne4 16. Nxe4 Rxe4 17. O-O Rb4 18. Qd3 Rxb2 19. e4 Rb4 20. Rab1 Ra4 21. Bc4 a6 22. Bb3 Ra3 23. Rfe1 b5 24. Qe2 c4 25. e5 Qxd5 26. Bd1 Rd8 27. e6 fxe6 28. Qxe6+ Qxe6 29. Rxe6 Rxa2 30. Rb6 c3 31. Bb3+ Kf8 32. Bxa2 c2 33. Re1 Rd1 34. Rb8+ Rd8 35. Rxd8# 1-0
+

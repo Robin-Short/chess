@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L0LTPB4n"]
+[White "Sevastopol25"]
+[Black "ntiy"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:40"]
+[WhiteElo "1500"]
+[BlackElo "1346"]
+[WhiteRatingDiff "-269"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Mengarini's Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. a3 e5 2. e4 Nf6 3. d3 Nc6 4. Nf3 d5 5. Be3 dxe4 6. dxe4 Qxd1+ 7. Kxd1 Nxe4 0-1
+

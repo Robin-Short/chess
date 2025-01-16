@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UMwoJQqg"]
+[White "PILOTVE"]
+[Black "FMAS"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:51"]
+[WhiteElo "1589"]
+[BlackElo "1570"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Reversed Mexican Defense"]
+[TimeControl "0+2"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. Nc3 e6 3. d4 c5 4. Bf4 cxd4 5. Qxd4 Nc6 6. Qd1 f6 7. e3 e5 8. Bg3 d4 9. exd4 exd4 10. Ne4 Bg4 11. Be2 Bb4+ 12. Nfd2 Bxe2 13. Qxe2 Nge7 14. a3 Ba5 15. O-O-O Bxd2+ 16. Nxd2 Qc7 17. Bxc7 Rc8 18. Bd6 O-O 1-0
+

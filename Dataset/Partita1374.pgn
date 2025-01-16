@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/A6PVOq9L"]
+[White "zurka"]
+[Black "69696969"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:58:22"]
+[WhiteElo "1522"]
+[BlackElo "1588"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 d6 2. Bb2 Nf6 3. g3 g6 4. Bg2 Bg7 5. f3 e5 6. e3 c6 7. d3 O-O 8. c3 Be6 9. Nd2 Nbd7 10. Qc2 Qc7 11. Ne2 d5 12. h3 Rad8 13. g4 a6 14. h4 Ne8 15. h5 c5 16. hxg6 fxg6 17. O-O-O d4 18. exd4 cxd4 19. c4 Nc5 20. Ne4 Nxe4 21. fxe4 Bxg4 22. Bh3 Bxe2 23. Qxe2 Nf6 24. Be6+ Kh8 25. Qh2 Nh5 26. Rdg1 Rd6 27. Bd5 b5 28. Kb1 bxc4 29. dxc4 Rff6 30. Qd2 Nf4 31. Qb4 Rb6 32. Qa3 a5 33. Rh2 Nd3 34. Rgh1 1-0
+

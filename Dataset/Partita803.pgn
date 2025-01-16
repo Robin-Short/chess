@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oNfPzp5e"]
+[White "Scientist1989"]
+[Black "VictorHugo7891"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:51"]
+[WhiteElo "1484"]
+[BlackElo "1715"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "900+10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Bd7 6. Qe2 e6 7. Bg5 Be7 8. h4 Bxb5 9. Qxb5+ Qd7 10. Qxd7+ Nbxd7 11. c3 Ne4 12. Bxe7 Kxe7 13. Nbd2 Nxd2 14. Nxd2 Nf6 15. f3 Kd6 16. g4 b6 17. Nf1 Rae8 18. O-O-O e5 19. Ng3 exd4 20. Nf5+ Kc5 21. cxd4+ Kb4 22. a3+ Kb3 23. Rd3+ Ka2 24. Rh2 Re1+ 25. Kc2 Rhe8 26. Nxg7 R8e2+ 27. Rxe2 Rxe2+ 28. Rd2 Rxd2+ 29. Kxd2 Kxb2 30. Nf5 Kxa3 31. Ne3 Kb4 32. g5 Nh5 33. Nxd5+ Kc4 0-1
+

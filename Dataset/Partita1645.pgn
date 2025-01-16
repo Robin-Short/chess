@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WGO1klAx"]
+[White "simplicio"]
+[Black "toronga123"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:47"]
+[WhiteElo "1682"]
+[BlackElo "1580"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-10"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "900+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. e3 c5 4. cxd5 Qxd5 5. Nc3 Qc6 6. Nf3 Nd7 7. Bb5 Qb6 8. dxc5 Qxc5 9. O-O a6 10. Be2 Ngf6 11. a3 Ne5 12. Na4 Nxf3+ 13. Bxf3 Qc7 14. Bd2 Bd6 15. g3 O-O 16. Rc1 Qd7 17. Nb6 Qb5 18. Nxa8 Bd7 19. a4 Qxb2 20. Bc3 Qa3 21. Nb6 Rd8 22. Bxf6 gxf6 23. Nxd7 Rxd7 24. Rc8+ Kg7 25. Bg2 Qxa4 26. Qxa4 1-0
+

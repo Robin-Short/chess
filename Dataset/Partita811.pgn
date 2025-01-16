@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jHioJyCt"]
+[White "Eray1996"]
+[Black "julmerozo"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:27"]
+[WhiteElo "1358"]
+[BlackElo "1621"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C21"]
+[Opening "Center Game: Kieseritzky Variation #2"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 h6 4. Nxd4 d6 5. b4 Nd7 6. Bc4 Ne5 7. Nc3 Nxc4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/32E1YbdW"]
+[White "yaavarmo"]
+[Black "koaloia"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:49"]
+[WhiteElo "1637"]
+[BlackElo "1765"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-29"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. g3 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Bg2 e4 6. Qe2 Be7 7. Nc3 Bxf3 8. Nxd5 Bxe2 9. Nxc7+ Kd8 10. Nxa8 Nc6 11. Kxe2 Nf6 12. d3 exd3+ 13. cxd3 Kc8 14. Bf4 Ne8 15. Bxc6 bxc6 16. Rhc1 Kb7 17. Kf1 c5 18. Nc7 Nxc7 19. Bxc7 Kxc7 20. b4 Kb6 21. bxc5+ Bxc5 22. Rab1+ Kc6 23. a4 Kd6 24. Rd1 Re8 25. d4 Bb6 26. d5 Rc8 27. Kg2 Rc2 28. h4 Rxf2+ 29. Kh3 Ra2 30. Rb4 Bc5 31. Rc4 Ra1 32. Rxa1 1-0
+

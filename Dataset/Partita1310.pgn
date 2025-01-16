@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sOn7W8Mw"]
+[White "tosquiman1"]
+[Black "khan"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:55:00"]
+[WhiteElo "1432"]
+[BlackElo "1444"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Qxd4 5. Qxd4 Nxd4 6. Bd3 Bf5 7. Bf4 Bxe4 8. Bxe4 c6 9. Nf3 Nxf3+ 10. Bxf3 Nf6 11. O-O e6 12. a3 Nd5 13. Bxd5 cxd5 14. Rad1 Be7 15. Rfe1 O-O 16. g4 g5 17. Be5 f6 18. Bg3 Rac8 19. c3 e5 20. Rxd5 b6 21. Rd7 Bc5 22. Rxa7 Rfd8 23. Kg2 Rd2 24. Ra4 Rxb2 25. h4 gxh4 26. Bxh4 Rb3 27. c4 Rf8 28. f3 f5 29. Rxe5 fxg4 30. Rg5+ Kh8 31. Rxg4 Rb2+ 32. Kh3 Rxf3+ 33. Rg3 Rxg3+ 34. Bxg3 Rb3 35. Ra8+ Kg7 36. Kg4 Rxg3+ 37. Kxg3 h5 38. a4 Kh6 39. a5 bxa5 40. Rxa5 Bd4 41. Kh4 Bf2+ 42. Kh3 h4 43. c5 Bg3 44. c6 Kg6 45. Rc5 Kf7 46. c7 Bxc7 47. Rxc7+ Ke6 1-0
+

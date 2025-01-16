@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/PjfUCAB6"]
+[White "molinerov"]
+[Black "ujura"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:07:28"]
+[WhiteElo "1847"]
+[BlackElo "2015"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. Nf3 Bg7 3. e4 e6 4. Bf4 Ne7 5. d5 O-O 6. dxe6 fxe6 7. Bc4 Rxf4 8. O-O Rf8 9. Qd2 d5 10. exd5 exd5 11. Bd3 Bxb2 12. Nc3 Bxa1 13. Rxa1 c6 14. Re1 Nf5 15. Ne5 Nd7 16. Qg5 Qxg5 0-1
+

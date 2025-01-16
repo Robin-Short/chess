@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nWadK9PD"]
+[White "JekyllHyde"]
+[Black "Maconouchi"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:10"]
+[WhiteElo "1708"]
+[BlackElo "1657"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-10"]
+[ECO "C31"]
+[Opening "King's Gambit, Falkbeer Countergambit Accepted"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nf3 exf4 5. Nc3 Qb5 6. Bxb5+ 1-0
+

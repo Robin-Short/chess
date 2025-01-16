@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/i6yIFLr2"]
+[White "honorarycitizen"]
+[Black "denko"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:55"]
+[WhiteElo "1910"]
+[BlackElo "1349"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.25] } 1... e6 { [%eval 0.2] } 2. d4 { [%eval 0.31] } 2... d6 { [%eval 0.59] } 3. Nc3 { [%eval 0.44] } 3... c6 { [%eval 0.57] } 4. Nf3 { [%eval 0.59] } 4... Be7 { [%eval 0.79] } 5. Be3 { [%eval 0.4] } 5... Nf6 { [%eval 0.29] } 6. Bd3 { [%eval 0.35] } 6... b6 { [%eval 0.51] } 7. Qd2 { [%eval 0.15] } 7... Bb7 { [%eval 0.18] } 8. h3 { [%eval 0.19] } 8... Nbd7 { [%eval 0.12] } 9. O-O { [%eval 0.18] } 9... Qc7 { [%eval 0.16] } 10. Rfe1 { [%eval 0.16] } 10... O-O-O?! { [%eval 1.05] } 11. Rad1?! { [%eval 0.51] } 11... g6 { [%eval 0.77] } 12. b4 { [%eval 0.86] } 12... h6 { [%eval 1.27] } 13. a4 { [%eval 1.13] } 13... g5 { [%eval 0.92] } 14. b5?! { [%eval -0.02] } 14... c5 { [%eval 0.03] } 15. dxc5 { [%eval -0.22] } 15... dxc5 { [%eval -0.24] } 16. a5 { [%eval -0.32] } 16... g4?! { [%eval 0.18] } 17. hxg4 { [%eval 0.35] } 17... Nxg4 { [%eval 0.39] } 18. axb6?! { [%eval -0.14] } 18... axb6 { [%eval -0.25] } 19. Ra1? { [%eval -1.94] } 19... Nxe3? { [%eval -0.5] } 20. Qxe3 { [%eval -0.79] } 20... Ne5?! { [%eval -0.17] } 21. Nxe5 { [%eval -0.62] } 21... Qxe5 { [%eval -0.5] } 22. f4?? { [%eval -5.13] } 22... Qxc3 { [%eval -5.02] } 23. Reb1?? { [%eval -9.07] } 1-0
+

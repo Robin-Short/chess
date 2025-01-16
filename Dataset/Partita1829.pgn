@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/caGVUiOL"]
+[White "Maeutics"]
+[Black "Grumms"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:45"]
+[WhiteElo "1499"]
+[BlackElo "1708"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 Nd7 5. Bd3 Bxd3 6. Qxd3 e6 7. O-O c5 8. c4 dxc4 9. Qxc4 cxd4 10. Nxd4 Nxe5 11. Qb5+ Nd7 12. Qxb7 Bc5 13. Nc6 Qc8 14. Qb5 a6 15. Qa4 Ngf6 16. Bg5 Nb6 17. Ne5+ Nxa4 0-1
+

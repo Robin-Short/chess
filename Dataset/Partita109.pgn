@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fzA7piVc"]
+[White "AI-I"]
+[Black "mehmetuca78"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:25"]
+[WhiteElo "1432"]
+[BlackElo "1366"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. f4 Bb7 3. Nc3 e6 4. d4 Bb4 5. Ne2 Nf6 6. a3 Nxe4 7. axb4 Nxc3 8. Nxc3 Nc6 9. Be3 Nxb4 10. Bd3 Nd5 11. Nxd5 Bxd5 12. O-O h5 13. c4 Bb7 14. b4 h4 15. d5 h3 16. g3 Rg8 17. f5 exd5 18. cxd5 Qe7 19. Re1 O-O-O 20. Bf4 Qxb4 21. Ba6 Qc5+ 22. Be3 Qxd5 23. Bxb7+ Qxb7 24. Qa4 g6 25. fxg6 Rxg6 26. Bf4 Rc6 27. Rec1 Rxc1+ 28. Rxc1 Kb8 29. Bxc7+ Ka8 30. Bxd8 Qb8 31. Bh4 Qb7 0-1
+

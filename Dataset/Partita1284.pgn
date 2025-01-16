@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1hDaunYQ"]
+[White "Vicious"]
+[Black "kors"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:08"]
+[WhiteElo "1823"]
+[BlackElo "1768"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 Bg4 3. Qxg4 Nf6 4. Qe2 d4 5. Nd5 c5 6. Nxf6+ exf6 7. e5 fxe5 8. Qxe5+ Be7 9. Bc4 Nc6 10. Qe2 O-O 11. Nf3 Kh8 12. O-O a6 13. Ne5 Na5 14. Bd3 f6 15. Nf3 Rc8 16. Be4 b5 17. d3 c4 18. Bf4 cxd3 19. cxd3 Nc6 20. Rac1 Ne5 21. Nxe5 fxe5 22. Bxe5 Bg5 23. f4 1-0
+

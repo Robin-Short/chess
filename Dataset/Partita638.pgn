@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PaSK7PIK"]
+[White "CapitainJupi"]
+[Black "checkmatekingdom"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:02"]
+[WhiteElo "1131"]
+[BlackElo "1323"]
+[WhiteRatingDiff "+31"]
+[BlackRatingDiff "-16"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bb5 Bc5 4. O-O Be7 5. d4 exd4 6. Qxd4 c6 7. Ba4 b5 8. Bb3 Qg6 9. Re1 d5 10. exd5 Bh3 11. Nh4 Qg4 12. Qe4 Nf6 13. Qxe7# 1-0
+

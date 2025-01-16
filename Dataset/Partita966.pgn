@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UGMptioQ"]
+[White "mozbet"]
+[Black "tor48"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:20"]
+[WhiteElo "1454"]
+[BlackElo "1351"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nf3 Bg7 3. c3 Nf6 4. e5 Nd5 5. Bc4 c6 6. O-O O-O 7. d4 Nb6 8. Be2 d5 9. Bg5 Qd7 10. Nbd2 Na4 11. Qc2 Nb6 12. Rad1 Qe6 13. Bh4 N8d7 14. Ng5 Qf5 15. Qxf5 gxf5 16. Ngf3 e6 17. Be7 Re8 18. Bh4 Na4 19. Ng5 Nxb2 20. Rde1 b6 21. Bh5 Rf8 22. f4 Nd3 23. Re3 Ba6 24. Rg3 N3xe5 25. Rf2 Nd3 26. Rff3 Nc1 27. Nh3 Ne2+ 28. Kh1 Nxg3+ 29. Rxg3 f6 30. Nf2 c5 31. dxc5 Nxc5 32. Bxf6 1-0
+

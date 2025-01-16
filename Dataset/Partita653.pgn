@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gPHL0Sh1"]
+[White "Berezkin"]
+[Black "spojar"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:25:55"]
+[WhiteElo "2122"]
+[BlackElo "2094"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 Nf6 4. Bxc6 dxc6 5. d3 Bc5 6. O-O Qe7 7. c3 Bg4 8. h3 Bxf3 9. Qxf3 O-O-O 10. b4 Bb6 11. a4 a6 12. b5 Qd6 13. bxa6 Qxd3 14. axb7+ Kxb7 15. Be3 Qxe4 16. Qg3 Nh5 17. Qg5 Bxe3 18. Qxh5 g6 19. Qe2 Bxf2+ 20. Qxf2 f5 21. Nd2 Qd3 22. Nf3 Rhe8 23. Rfb1+ Ka8 24. Qc5 Qa6 25. Nxe5 Rd5 26. Qxc6+ Qxc6 27. Nxc6 Rc5 28. Nd4 Rxc3 29. Nb5 Rc2 30. Rc1 Ree2 31. Nxc7+ Kb7 32. Rxc2 Rxc2 33. Nb5 g5 34. Nd4 Rc5 35. a5 f4 36. a6+ Ka7 37. Ne6 Re5 38. Nc7 h5 39. Rb1 1-0
+

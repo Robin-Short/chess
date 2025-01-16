@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ek073XgX"]
+[White "tomi36"]
+[Black "vitaminccc"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:45"]
+[WhiteElo "1808"]
+[BlackElo "1821"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 d4 3. Ne5 c5 4. Qf3 f6 5. Qh5+ g6 6. Nxg6 Kd7 7. Nxh8 Kc7 8. Qxh7 Be6 0-1
+

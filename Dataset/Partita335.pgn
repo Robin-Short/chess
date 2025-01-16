@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XpynUAJd"]
+[White "Vytas123"]
+[Black "princechess"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:48"]
+[WhiteElo "1496"]
+[BlackElo "1593"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #4"]
+[TimeControl "1500+4"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd7 5. Bxc6 Bxc6 6. Bxe5 Qe7 7. d4 f6 8. Bf4 Bd7 9. h3 O-O-O 10. Nf3 g5 11. Bg3 h5 12. Qd2 Qe4 13. Qc3 a5 14. Qxc7# 1-0
+

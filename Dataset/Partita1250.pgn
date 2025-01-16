@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3WWrtqOZ"]
+[White "simppa"]
+[Black "Regisantos"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:51:11"]
+[WhiteElo "1495"]
+[BlackElo "1389"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+20"]
+[ECO "C22"]
+[Opening "Center Game: Normal Variation"]
+[TimeControl "720+10"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.26] } 2. d4 { [%eval -0.02] } 2... exd4 { [%eval -0.06] } 3. Qxd4 { [%eval -0.24] } 3... Nc6 { [%eval -0.12] } 4. Qd3 { [%eval -0.34] } 4... Nb4?! { [%eval 0.18] } 5. Bd2?? { [%eval -6.36] } 5... d5?? { [%eval -0.23] } 6. Nc3?? { [%eval -6.38] } 6... Nf6? { [%eval -4.36] } 7. e5? { [%eval -6.65] } 7... Nxd3+ { [%eval -6.78] } 8. cxd3 { [%eval -7.01] } 8... Ng4 { [%eval -7.12] } 9. f3?! { [%eval -8.09] } 9... Nxe5 { [%eval -8.14] } 10. d4? { [%eval -9.9] } 10... Nc6? { [%eval -8.25] } 11. Bb5 { [%eval -8.5] } 11... Bd7 { [%eval -8.21] } 12. Nxd5? { [%eval -10.89] } 12... Bb4?? { [%eval -6.35] } 13. Nxb4 { [%eval -6.52] } 13... Nxb4?! { [%eval -5.95] } 14. Bxd7+ { [%eval -6.07] } 14... Qxd7?! { [%eval -5.22] } 15. Bxb4 { [%eval -5.36] } 15... Qxd4 { [%eval -5.21] } 16. Bc3 { [%eval -5.59] } 16... Qd5? { [%eval -4.48] } 17. Bxg7?? { [%eval -7.68] } 17... Qe6+?? { [%eval -4.35] } 18. Ne2?? { [%eval -7.64] } 18... Rg8 { [%eval -7.46] } 19. Bc3? { [%eval -8.93] } 19... Rxg2 { [%eval -8.96] } 0-1
+

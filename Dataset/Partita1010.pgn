@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IcKuHw9U"]
+[White "fuoriuso"]
+[Black "ivan62"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:16"]
+[WhiteElo "1568"]
+[BlackElo "1706"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 Nf6 3. Nc3 Bg4 4. Bf4 a6 5. e3 e6 6. Be2 Bd6 7. Bg3 Bxg3 8. fxg3 O-O 9. O-O Nbd7 10. Nd2 Bxe2 11. Qxe2 c5 12. dxc5 Nxc5 13. e4 d4 14. Nd1 e5 15. b4 Ne6 16. Nf2 Rc8 17. Rac1 Qd6 18. a3 b5 19. Nd3 Rc7 20. Nf3 Nd7 21. Nh4 Rfc8 22. Qg4 Nf6 23. Qe2 Rc3 24. Nf5 Qc7 25. Rf2 Nd7 26. Qf3 Rxa3 27. Ne7+ Kh8 28. Nxc8 Qxc8 29. Qxf7 1-0
+

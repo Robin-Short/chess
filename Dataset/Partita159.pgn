@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FlF5n3LB"]
+[White "Ksv2012"]
+[Black "VictorHugo7891"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:26"]
+[WhiteElo "1642"]
+[BlackElo "1703"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B00"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[TimeControl "840+5"]
+[Termination "Normal"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb3 Nf6 5. d4 Nc6 6. c3 Bf5 7. h3 e6 8. Nf3 Bd6 9. O-O O-O 10. Bg5 h6 11. Bxf6 Qxf6 12. Re1 Ne7 13. Ne5 Bxe5 14. dxe5 Qg6 15. Kh2 a5 16. Re2 a4 17. Bxa4 Ra7 18. Bc2 Rfa8 19. a3 Ra4 20. Bxf5 Qxf5 21. Nd2 Ng6 22. Nf3 Nh4 23. Nxh4 Rxh4 24. Qb3 Rb8 25. a4 g5 26. f3 h5 27. Qb5 g4 28. Kg3 gxf3 29. Kxh4 Qf4+ 30. Kxh5 Kg7 31. gxf3 Rh8# 0-1
+

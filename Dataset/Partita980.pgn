@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bn9kI4av"]
+[White "FMAS"]
+[Black "Mooossieurpatate"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:23"]
+[WhiteElo "1579"]
+[BlackElo "1673"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. f4 b6 0-1
+

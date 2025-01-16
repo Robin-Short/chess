@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/X1dw8RUy"]
+[White "najjih"]
+[Black "mr28554"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:57"]
+[WhiteElo "1584"]
+[BlackElo "1377"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f6 3. c3 d6 4. Bc4 Ne7 5. h3 b6 6. a3 Nbc6 7. O-O Bb7 8. d3 Qd7 9. Nbd2 O-O-O 10. Re1 Kb8 11. b4 Rc8 12. Nf1 h6 13. d4 exd4 14. cxd4 f5 15. d5 Nd8 16. Nd4 fxe4 17. Rxe4 Nf5 18. Bb5 Qf7 19. Nxf5 Qxf5 20. Rf4 Qxd5 21. Qxd5 Bxd5 22. Bd7 Ne6 23. Rf5 Rd8 24. Rxd5 Rxd7 25. Be3 Be7 26. Rad1 Bf6 27. Ng3 g6 28. Ne4 Bg5 29. Bxg5 hxg5 30. Nxg5 Rh5 31. Nxe6 Rxd5 32. Rxd5 Re7 33. Nf4 Re1+ 34. Kh2 Ra1 35. Nxg6 Rxa3 36. Ne7 Rb3 37. h4 Kb7 38. h5 Rxb4 39. g3 a5 40. h6 Rb2 41. Kg2 a4 42. h7 a3 43. h8=Q a2 44. Qc8+ Ka7 45. Qxc7+ Ka6 46. Qc8+ Ka7 47. Nc6# 1-0
+

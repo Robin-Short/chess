@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/F26jw65E"]
+[White "souayahaymen"]
+[Black "MILBUC"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:07"]
+[WhiteElo "1352"]
+[BlackElo "1121"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C45"]
+[Opening "Scotch Game: Malaniuk Variation"]
+[TimeControl "600+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Nxd4 6. Qxd4 Ba5 7. b4 Bb6 8. Qe5+ Qe7 9. Qxg7 Qf6 10. Qg3 d6 11. Bg5 Bxf2+ 12. Qxf2 Qxf2+ 13. Kxf2 Be6 14. Bd3 f6 15. Bf4 O-O-O 16. Re1 Ne7 17. Kg1 Ng6 18. Be3 Ne5 19. Rd1 Bg4 20. Rd2 Rhg8 21. Bxa7 Bf3 22. Bf1 Bxe4 23. Na3 b6 24. Nb5 Kb7 25. Re1 Bc6 26. a4 Nf3+ 27. Kf2 Nxd2 28. Bd3 Bxb5 29. Bxb5 Kxa7 30. c4 Rde8 31. Bxe8 Nxc4 32. Bf7 1-0
+

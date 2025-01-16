@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iI3fZkAZ"]
+[White "jlf1975"]
+[Black "CapitainJupi"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:35"]
+[WhiteElo "1294"]
+[BlackElo "1148"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-13"]
+[ECO "C22"]
+[Opening "Center Game: Berger Variation"]
+[TimeControl "600+1"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.27] } 2. d4 { [%eval 0.06] } 2... exd4 { [%eval 0.04] } 3. Qxd4 { [%eval -0.17] } 3... Nc6 { [%eval -0.16] } 4. Qe3 { [%eval -0.1] } 4... Nf6 { [%eval -0.17] } 5. e5?! { [%eval -0.77] } 5... Nd5?! { [%eval -0.06] } 6. Qe4 { [%eval -0.15] } 6... Nce7?! { [%eval 0.64] } 7. c4 { [%eval 0.5] } 1-0
+

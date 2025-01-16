@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lGNYTg0Z"]
+[White "knucklesthebully"]
+[Black "Mahach01"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:32"]
+[WhiteElo "1921"]
+[BlackElo "1715"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.18] } 1... g6 { [%eval 0.63] } 2. h4 { [%eval 0.2] } 2... h5 { [%eval 0.57] } 3. e4 { [%eval 0.67] } 3... Bg7 { [%eval 0.56] } 4. e5?! { [%eval -0.11] } 4... e6?! { [%eval 0.4] } 5. Bd3 { [%eval 0.24] } 5... Ne7 { [%eval 0.25] } 6. g4?! { [%eval -0.7] } 6... hxg4 { [%eval -0.56] } 7. Qxg4 { [%eval -0.71] } 7... Nf5? { [%eval 1.79] } 8. Ne2? { [%eval -0.72] } 8... Rxh4 { [%eval -0.63] } 9. Rxh4 { [%eval -0.56] } 9... Qxh4 { [%eval -0.7] } 10. Bxf5 { [%eval -0.95] } 10... Qxg4?? { [%eval 2.54] } 11. Bxg4 { [%eval 2.65] } 11... Nc6 { [%eval 2.56] } 12. c3 { [%eval 2.35] } 12... Na5?! { [%eval 3.05] } 13. b4 { [%eval 2.72] } 13... Nc4 { [%eval 2.7] } 14. Nd2 { [%eval 2.63] } 14... Nxd2 { [%eval 2.72] } 15. Bxd2 { [%eval 2.79] } 15... d6 { [%eval 2.7] } 16. f4 { [%eval 2.7] } 16... dxe5 { [%eval 3.09] } 17. dxe5 { [%eval 3.01] } 17... b6 { [%eval 3.31] } 18. Bf3 { [%eval 3.46] } 18... Rb8 { [%eval 3.41] } 19. Bc6+ { [%eval 3.17] } 19... Ke7 { [%eval 3.55] } 20. Ng3?! { [%eval 2.75] } 20... Bd7 { [%eval 2.78] } 21. Bxd7 { [%eval 2.75] } 21... Kxd7 { [%eval 2.8] } 22. Ne4 { [%eval 2.75] } 22... Rd8 { [%eval 3.06] } 23. Be3 { [%eval 3.0] } 23... Kc8 { [%eval 3.44] } 24. Ke2 { [%eval 3.45] } 24... Bh6? { [%eval 4.65] } 25. Rh1 { [%eval 4.55] } 25... Bg7?! { [%eval 5.25] } 26. Rh7 { [%eval 5.33] } 26... Rg8 { [%eval 5.24] } 27. Ng5 { [%eval 5.3] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/n399Quog"]
+[White "zurka"]
+[Black "misaaa"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:37"]
+[WhiteElo "1584"]
+[BlackElo "1550"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 Nf6 2. Bb2 g6 3. e4 Bg7 4. d3 O-O 5. Nf3 d5 6. e5 Nfd7 7. d4 c5 8. h4 Nc6 9. h5 cxd4 10. Nxd4 Ncxe5 11. hxg6 hxg6 12. c3 Nc5 13. f4 Ng4 14. Nd2 e5 15. fxe5 Bxe5 16. Qe2 Bg3+ 17. Kd1 Re8 18. Qb5 Nf2+ 19. Kc2 Nxh1 20. Qxc5 Bd6 21. Qxd5 Be6 22. Qf3 Bc5 23. Re1 Bxd4 24. cxd4 Rc8+ 25. Kb1 Bf5+ 26. Ka1 Rxe1+ 27. Bc1 Rcxc1+ 28. Kb2 Qxd4+ 29. Ka3 Qd6+ 30. b4 Qb6 31. Nc4 Rc3+ 32. Kb2 Qxb4# 0-1
+

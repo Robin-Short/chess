@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OBaRkJs0"]
+[White "edmario"]
+[Black "s_dvoryanchikov"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:17:38"]
+[WhiteElo "1565"]
+[BlackElo "1293"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. g3 a6 3. Bg2 c6 4. O-O Be7 5. d3 Nf6 6. c4 O-O 7. Bg5 Ne8 8. Bxe7 Qxe7 9. Nbd2 Nf6 10. a3 d5 11. Rb1 dxc4 12. Nxc4 b5 13. Nb6 Ra7 14. Qc2 Nd5 15. Nxc8 Rxc8 16. e4 Nf6 17. Rfc1 Ng4 18. h3 Nf6 19. Qc5 Qd7 20. d4 Nxe4 21. Qb6 Nf6 22. Ne5 Qe7 23. Nxc6 Nxc6 24. Rxc6 Raa8 25. Rbc1 Rf8 26. Rc7 Nd7 27. Qc6 Rfd8 28. Rxd7 Qf8 29. Rxd8 Rxd8 30. Qxa6 Rxd4 31. Qxb5 g6 32. b4 Qh6 33. Qc5 Rd8 34. b5 Kg7 35. b6 Rd5 36. Bxd5 exd5 37. Qxd5 Qxc1+ 38. Kg2 Qxa3 39. b7 Qb2 40. Qc6 h5 41. Qc8 Qb5 42. b8=Q Qd5+ 43. Kh2 1-0
+

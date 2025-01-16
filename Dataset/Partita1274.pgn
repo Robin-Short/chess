@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/762qpedX"]
+[White "makina"]
+[Black "yesse2"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:53:13"]
+[WhiteElo "1540"]
+[BlackElo "1328"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+17"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Be2 Nc6 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Bxd5 Qxd5 7. Nf3 Bg4 8. Qe2 Nd4 9. Nxd4 Bxe2 10. Nxe2 Bc5 11. Rf1 Rd8 12. Nbc3 Qxg2 13. Ne4 Rxd3 14. Bd2 Rxd2 15. Kxd2 Qxe4 16. Rfe1 Bb4+ 17. c3 Qd5+ 18. Kc2 Bd6 19. Rad1 Qe6 0-1
+

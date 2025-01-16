@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GB5Obchz"]
+[White "BearJr"]
+[Black "robovlas"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:46"]
+[WhiteElo "1798"]
+[BlackElo "1798"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bc4 c6 5. Nge2 Nf6 6. d4 Bf5 7. f3 Bg6 8. Bf4 e6 9. Qd2 Bd6 10. h4 Bxf4 11. Nxf4 Nbd7 12. h5 Bf5 13. g4 g5 14. Nfe2 Nxg4 15. fxg4 Bxg4 16. O-O-O Nb6 17. Bb3 Qe7 18. Rdg1 Bxe2 19. Qxe2 O-O-O 20. Qe3 f6 21. Qxe6+ Qxe6 22. Bxe6+ Kc7 23. Rd1 Rhf8 24. d5 h6 25. dxc6 bxc6 26. Rxd8 Rxd8 27. Rd1 Rxd1+ 28. Nxd1 Kd6 29. Bf5 Ke5 30. Ne3 Kf4 31. Kd2 Na4 32. b3 Nc5 33. b4 Ne4+ 34. Bxe4 Kxe4 35. Ke2 f5 36. Kf2 f4 0-1
+

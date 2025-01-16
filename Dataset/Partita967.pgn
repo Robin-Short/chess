@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sAN7uXPp"]
+[White "xnell90"]
+[Black "b200"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:21"]
+[WhiteElo "1854"]
+[BlackElo "1848"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-33"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted, Abbazia Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. d4 Nxd5 6. Bc4 Qe7+ 7. Be2 Ne3 8. Bxe3 Qxe3 9. Nc3 Bg4 10. Nd5 Qe4 11. Nxc7+ Kd8 12. Nxa8 Bb4+ 13. c3 Bd6 14. O-O Re8 15. Bc4 Qc6 16. Bxf7 Re7 17. Qb3 Bxf3 18. Rxf3 g5 19. Bd5 Qd7 20. h3 h5 21. Qc2 g4 22. hxg4 hxg4 23. Rf2 f3 24. Qg6 Bg3 25. Qg8+ Re8 26. Qg5+ Kc8 27. Rxf3 gxf3 28. Qxg3 f2+ 29. Kxf2 Rf8+ 30. Kg1 Na6 31. Bc4 Nc7 32. Nxc7 Qxc7 33. Be6+ Kb8 34. Qxc7+ Kxc7 35. Rf1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/M6LNVrMU"]
+[White "Molder"]
+[Black "simplicio"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:34"]
+[WhiteElo "1671"]
+[BlackElo "1693"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense, Beverwijk Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Bc4 O-O 6. d3 d6 7. h3 a6 8. Bg5 b5 9. Bb3 Na5 10. Bd5 c6 11. Bb3 Nxb3 12. axb3 h6 13. Bxf6 Qxf6 14. Nc3 Be6 15. d4 exd4 16. e5 dxe5 17. Ne4 Qe7 18. Nxe5 Bd5 19. Nxc5 Qxc5 20. Nd7 Qd6 21. Nxf8 Rxf8 22. Qd2 c5 23. Rfe1 Qc6 24. f3 Be6 25. Qd3 Rd8 26. Qe4 Bd5 27. Qf4 Be6 28. Qh4 Rc8 29. Qe4 Bd5 30. Qd3 Be6 31. b4 Bc4 32. Qa3 cxb4 33. Qxa6 Qxa6 34. Rxa6 f6 35. Rb6 Rd8 36. b3 Bf7 37. Rxb5 d3 38. cxd3 Rxd3 39. Rb1 Bxb3 40. Rxb4 Bf7 41. Kh2 Rd2 42. R1b2 Rd3 43. Rb8+ Kh7 44. R2b7 Bg6 45. Rb3 Rd2 46. Rc3 h5 47. h4 Bf5 48. Rc7 Rd7 49. Rxd7 Bxd7 50. Kg3 Kg6 51. Kf4 Be6 52. g4 hxg4 53. fxg4 Ba2 54. Rh8 Bb1 55. h5+ Kf7 56. Ra8 Bc2 57. Ra7+ Kg8 58. g5 fxg5+ 59. Kxg5 Bd3 60. Rd7 Bb1 61. Rd6 Bc2 62. Kf4 Bb1 63. Ke5 Kh7 64. Kd4 Bc2 65. Ke3 Bb1 66. Kf4 Bc2 67. Kg5 Bb1 68. Rd7 Kg8 69. Rc7 Bd3 70. h6 gxh6+ 71. Kxh6 Bb1 72. Rg7+ Kh8 73. Rg5 Bc2 74. Kh5 Bb1 75. Kg4 Bc2 76. Kf4 Bb1 77. Ke5 Bc2 78. Kf6 Bb1 79. Kf7 Ba2+ 80. Ke7 Kh7 81. Rg2 Kh8 82. Kf8 Bg8 83. Rg4 Bh7 84. Kf7 Bb1 85. Rg8+ Kh7 86. Rg1 Ba2+ 87. Kf6 Bb3 88. Rh1+ Kg8 89. Rb1 Bd5 90. Rb2 Bc4 91. Rc2 Bb3 92. Rc3 Bd5 93. Rd3 Bc4 94. Rd4 Ba2 95. Rg4+ Kh8 96. Ra4 Bb3 97. Rb4 Ba2 98. Kg6 Bd5 99. Rb5 Ba2 100. Rb7 Bd5 101. Rb8+ Bg8 102. Kf6 Kh7 103. Rb5 Ba2 104. Ra5 Bd5 105. Rxd5 Kg8 106. Rd7 Kh8 107. Kg6 Kg8 108. Rd8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/dpsOSJVG"]
+[White "tehmeh"]
+[Black "sabou"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:17"]
+[WhiteElo "1719"]
+[BlackElo "1473"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-20"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Mokele Mbembe"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.19] } 1... Nf6 { [%eval 0.47] } 2. e5 { [%eval 0.48] } 2... Ne4?! { [%eval 1.16] } 3. d3 { [%eval 1.11] } 3... Nc5 { [%eval 1.19] } 4. Nf3 { [%eval 0.78] } 4... Nc6?! { [%eval 1.68] } 5. b4? { [%eval 0.6] } 5... Nxb4 { [%eval 0.62] } 6. d4 { [%eval 0.51] } 6... Ne4 { [%eval 0.72] } 7. Ng5? { [%eval -0.43] } 7... Nxg5 { [%eval -0.58] } 8. Bxg5 { [%eval -0.41] } 8... h6 { [%eval -0.41] } 9. Bd2 { [%eval -0.41] } 9... e6 { [%eval -0.42] } 10. a3 { [%eval -0.75] } 10... Nd5?! { [%eval -0.11] } 11. c4 { [%eval -0.14] } 11... Nb6 { [%eval -0.01] } 12. c5?! { [%eval -0.6] } 12... Nd5 { [%eval -0.68] } 13. Bb5?! { [%eval -1.36] } 13... c6 { [%eval -1.24] } 14. Ba4?! { [%eval -1.87] } 14... Qh4 { [%eval -1.75] } 15. Bc1 { [%eval -2.23] } 15... Qe4+ { [%eval -1.8] } 16. Kf1 { [%eval -1.78] } 16... b6 { [%eval -1.81] } 17. Bc2 { [%eval -1.73] } 17... Ba6+ { [%eval -1.88] } 18. Kg1 { [%eval -1.89] } 18... Nf4?? { [%eval 3.69] } 19. Bxe4 { [%eval 3.75] } 19... Ne2+ { [%eval 3.79] } 20. Kf1 { [%eval 3.75] } 20... Nxc1+? { [%eval 6.37] } 21. Ke1 { [%eval 6.48] } 21... Nb3? { [%eval 8.97] } 22. Qxb3 { [%eval 8.75] } 22... Be7 { [%eval 8.85] } 23. cxb6 { [%eval 8.93] } 23... axb6 { [%eval 8.91] } 24. Qxb6 { [%eval 8.64] } 24... h5? { [%eval 12.26] } 25. Bxc6 { [%eval 12.28] } 25... dxc6 { [%eval 19.24] } 26. Qxc6+ { [%eval 19.51] } 26... Kf8?! { [%eval #3] } 27. Qxa8+ { [%eval #2] } 27... Bd8 { [%eval #1] } 28. Qxd8# 1-0
+

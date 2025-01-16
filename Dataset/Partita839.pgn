@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2FoTWsP7"]
+[White "tabelatabela"]
+[Black "sajadkhani"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:00"]
+[WhiteElo "1755"]
+[BlackElo "1929"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. f4 Nf6 5. Qe2 Be7 6. Nf3 O-O 7. O-O h6 8. c3 Nh7 9. h3 d6 10. a4 a5 11. Na3 f6 12. f5 e5 13. d5 Ba6 14. Nb5 Bxb5 15. Bxb5 Ng5 16. Nxg5 fxg5 17. Qh5 Nd7 18. Bc6 Rb8 19. Qg6 Nc5 20. Re1 Nd3 21. Re3 Nf4 22. Bd7 Nxg6 23. Be6+ Kh7 24. fxg6+ Kxg6 25. Bf5+ Rxf5 26. exf5+ Kxf5 27. Rf3+ Kg6 28. Be3 Qd7 29. Raf1 Qxa4 30. Rf7 Re8 31. R1f3 Qb5 32. h4 Qxd5 33. h5+ Kh7 34. g4 Kg8 35. Kh2 Qxf7 0-1
+

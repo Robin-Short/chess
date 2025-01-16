@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nzxk77Ee"]
+[White "denko"]
+[Black "x23"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:25:25"]
+[WhiteElo "1637"]
+[BlackElo "1826"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Bf5 3. d3 e6 4. f4 c5 5. Nf3 Nc6 6. b3 b5 7. Bb2 d4 8. Be2 Qa5+ 9. Nbd2 Nge7 10. h3 Nd5 11. O-O Ne3 12. Qc1 Nxf1 13. Qxf1 Nb4 14. c4 bxc4 15. dxc4 Nc2 16. Rc1 Ne3 17. Qe1 Qxa2 18. Bxd4 cxd4 19. Nxd4 Bc5 20. Nb5 Nc2+ 21. Qf2 Bxf2+ 22. Kxf2 O-O 23. c5 Rfd8 24. Nd6 Nd4 25. Bc4 Qxd2+ 26. Kg3 Qxc1 27. c6 Nxc6 28. b4 Rxd6 29. exd6 Qxc4 0-1
+

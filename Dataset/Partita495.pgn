@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AZx4CKHb"]
+[White "Snowden"]
+[Black "javidjoon"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:19:39"]
+[WhiteElo "1519"]
+[BlackElo "1543"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. c3 Nc6 4. d4 exd4 5. cxd4 Bb4+ 6. Nc3 d5 7. e5 Qe6 8. Ng5 Qf5 9. Bd3 Qd7 10. O-O f6 11. exf6 Nxf6 12. Ne6 Qxe6 13. Re1 Ne4 14. f3 Nxd4 15. fxe4 Qb6 16. exd5+ Kd8 17. Be3 Re8 18. Bxd4 Rxe1+ 19. Qxe1 Qxd4+ 20. Kh1 Bxc3 21. bxc3 Qxd3 22. Rd1 Qg6 23. Qh4+ Qf6 24. Qxh7 Bd7 25. Qg8+ Be8 26. Re1 Kd7 27. c4 Rd8 28. c5 Bf7 29. Qh7 Bxd5 30. Rd1 0-1
+

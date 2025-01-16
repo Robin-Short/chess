@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DDIShHwf"]
+[White "vizcaino6791"]
+[Black "megaledon"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:44"]
+[WhiteElo "1627"]
+[BlackElo "1694"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C07"]
+[Opening "French Defense: Tarrasch Variation, Open System, Suechting Line"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e4 d5 3. Nd2 c5 4. c3 Nc6 5. Ngf3 Qb6 6. exd5 exd5 7. Nb3 Be6 8. dxc5 Bxc5 9. Nxc5 Qxc5 10. Be2 O-O-O 11. Be3 Qd6 12. b4 a6 13. O-O h6 14. Qc2 g5 15. Nd4 f5 16. Nxf5 Qe5 17. Nd4 Nge7 18. Nxe6 Qxe6 19. b5 axb5 20. Bxb5 Rhf8 21. Bxc6 Nxc6 22. Qa4 g4 23. Bb6 Rde8 24. Qa8+ Nb8 25. Ba7 Qd6 26. Bxb8 Qxb8 27. Qa5 Re5 28. Qc5+ Qc7 29. Qxf8+ Qd8 30. Qc5+ Kb8 31. Rab1 Re7 32. Rfd1 Rd7 33. g3 h5 34. c4 h4 35. cxd5 hxg3 36. hxg3 Qg5 0-1
+

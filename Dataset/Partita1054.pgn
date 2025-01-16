@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HlTxmjfZ"]
+[White "fischerman"]
+[Black "novatojugad"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:42:05"]
+[WhiteElo "1623"]
+[BlackElo "1596"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. Nc3 Qxc5 4. Nf3 a6 5. Be3 Qa5 6. Qd5 Nc6 7. Qxa5 Nxa5 8. Nd5 Nc4 9. Nc7+ Kd8 10. Nxa8 Nxe3 11. fxe3 Nf6 12. O-O-O Ne4 13. Rd4 Nd6 14. Nb6 f6 15. Nxc8 Kxc8 16. e4 e5 17. Rd5 Nxe4 18. e3 Bc5 19. Bd3 Bxe3+ 20. Kb1 Nc5 21. Re1 Bf2 22. Re2 Nxd3 23. Rxd3 Bb6 24. Rc3+ Kb8 25. Rd2 Rd8 26. Rb3 Bc5 27. Rd5 Be7 28. Ra5 Ka7 29. Nd2 d5 30. Rbb5 b6 31. Rxd5 bxa5 32. Rxd8 Bxd8 33. Kc1 Kb7 34. Ne4 Kc6 35. Kd2 f5 36. Nc3 Bf6 37. Ke3 e4 38. h3 Bxc3 39. bxc3 Kc5 40. g4 g6 41. gxf5 gxf5 42. h4 Kc4 43. Kd2 f4 44. h5 e3+ 45. Ke2 Kxc3 0-1
+

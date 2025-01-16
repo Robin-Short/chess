@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZuCBWe3p"]
+[White "sezwho"]
+[Black "ribarisah"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:06"]
+[WhiteElo "2051"]
+[BlackElo "1992"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 { [%eval -0.16] } 1... b6 { [%eval 0.14] } 2. Bg2 { [%eval 0.27] } 2... Nc6 { [%eval 0.4] } 3. d4 { [%eval 0.34] } 3... Bb7 { [%eval 0.7] } 4. d5 { [%eval 0.44] } 4... Nb8 { [%eval 0.89] } 5. e4 { [%eval 0.89] } 5... Nf6?! { [%eval 1.41] } 6. c4?! { [%eval 0.62] } 6... e6?! { [%eval 1.3] } 7. Nc3 { [%eval 0.94] } 7... exd5 { [%eval 0.96] } 8. exd5 { [%eval 0.86] } 8... Bb4 { [%eval 0.9] } 9. Ne2 { [%eval 0.88] } 9... O-O { [%eval 0.91] } 10. O-O { [%eval 0.99] } 10... Re8 { [%eval 0.97] } 11. a3 { [%eval 1.02] } 11... Bc5 { [%eval 1.17] } 12. b4 { [%eval 1.09] } 12... Bd6 { [%eval 1.33] } 13. Be3 { [%eval 0.96] } 13... a5 { [%eval 0.95] } 14. Qb3 { [%eval 0.57] } 14... Na6 { [%eval 0.55] } 15. Na2?! { [%eval 0.05] } 15... Be5?! { [%eval 0.56] } 16. Rad1 { [%eval 0.66] } 16... axb4 { [%eval 0.67] } 17. axb4 { [%eval 0.75] } 17... Nb8 { [%eval 1.05] } 18. Nac3 { [%eval 1.07] } 18... Bxc3 { [%eval 1.25] } 19. Nxc3 { [%eval 1.27] } 19... d6 { [%eval 1.31] } 20. Nb5 { [%eval 1.18] } 20... Nbd7 { [%eval 0.94] } 21. f4 { [%eval 0.86] } 21... Ba6 { [%eval 0.82] } 22. Nd4?! { [%eval 0.21] } 22... Qe7? { [%eval 1.54] } 23. Rfe1 { [%eval 1.53] } 23... Qf8 { [%eval 1.57] } 24. Nf5 { [%eval 1.34] } 24... Bb7 { [%eval 1.51] } 25. Bd4 { [%eval 1.35] } 25... g6 { [%eval 1.23] } 26. Ne3 { [%eval 1.29] } 26... Kg7? { [%eval 3.33] } 27. Qc3 { [%eval 3.35] } 27... h6? { [%eval 5.03] } 28. Ng4 { [%eval 3.89] } 28... Rxe1+ { [%eval 3.86] } 29. Rxe1 { [%eval 4.11] } 29... Qd8 { [%eval 3.26] } 30. Nxf6 { [%eval 5.93] } 30... Nxf6 { [%eval 6.17] } 31. g4 { [%eval 6.0] } 31... g5?? { [%eval 11.55] } 32. fxg5 { [%eval 11.98] } 32... hxg5 { [%eval 12.44] } 33. Rf1 { [%eval 12.99] } 33... Bc8 { [%eval 23.64] } 34. Bxf6+ { [%eval 24.35] } 1-0
+

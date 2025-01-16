@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4odZ8FMB"]
+[White "sadikh"]
+[Black "rey8"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:19:25"]
+[WhiteElo "1627"]
+[BlackElo "1566"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C50"]
+[Opening "Italian Game: Rousseau Gambit"]
+[TimeControl "120+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 4. d3 Nf6 5. Nbd2 h6 6. O-O d6 7. Re1 g5 8. c3 Na5 9. exf5 Nxc4 10. Qa4+ c6 11. Qxc4 Bxf5 12. Nxe5 dxe5 13. Rxe5+ Be7 14. Rxf5 Qc7 15. Nf3 O-O-O 16. Be3 Nd5 17. Bd4 Rhg8 18. Rf7 g4 19. Ne5 Qd6 0-1
+

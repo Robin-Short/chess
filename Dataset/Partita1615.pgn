@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GMyRUiAt"]
+[White "molinerov"]
+[Black "ujura"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:02"]
+[WhiteElo "1857"]
+[BlackElo "2005"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Symmetrical Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 e6 4. O-O Ne7 5. e4 O-O 6. d4 d6 7. c4 Nbc6 8. Nc3 f5 9. d5 exd5 10. exd5 Ne5 11. Nxe5 dxe5 12. Bg5 h6 13. Bxe7 Qxe7 14. Re1 e4 15. Qb3 Kh8 16. c5 Qxc5 17. Rad1 a6 18. Qc2 Rb8 19. Qb3 b5 20. Qc2 b4 21. Qe2 bxc3 22. bxc3 Qxc3 23. d6 cxd6 24. Rxd6 Qe5 25. Rxg6 Kh7 26. Rc6 Bd7 27. Rcc1 Bb5 28. Qe3 Bf6 29. Rc5 Qe7 30. Rxf5 Bg5 31. Bxe4 Bxe3 32. Rf7+ Kg8 33. Rxe7 Bxf2+ 34. Kg2 Bxe1 35. Bd5+ Kh8 36. Ra7 Be8 37. Rxa6 Bf7 0-1
+

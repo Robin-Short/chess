@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eVTgJs2o"]
+[White "srenault"]
+[Black "ndimon"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:16"]
+[WhiteElo "1311"]
+[BlackElo "1266"]
+[WhiteRatingDiff "-133"]
+[BlackRatingDiff "+10"]
+[ECO "C22"]
+[Opening "Center Game: Hall Variation"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qc4 Nf6 5. Nf3 d5 6. exd5 Nxd5 7. Qe4+ Be7 8. Ng5 f5 9. Qe2 h6 10. Nf3 O-O 11. Ne5 Bf6 12. Ng6 Re8 13. Be3 Bxb2 14. Qd3 Nxe3 15. fxe3 Qxd3 16. Bxd3 Bxa1 17. Bc4+ Kh7 18. Nh4 Rxe3+ 19. Kd2 Re4 20. Kd3 Rxh4 21. Nc3 Bxc3 22. Kxc3 Ne5 23. Bb3 Bd7 24. Rd1 Rxh2 25. Rd5 Re8 26. Kd4 Bc6 27. Rd7 Nxd7 0-1
+

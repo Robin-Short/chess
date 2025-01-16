@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NdE7XxGR"]
+[White "MisterBiggStuff"]
+[Black "zxcvbnmzxcvbnm"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:12:25"]
+[WhiteElo "2304"]
+[BlackElo "1946"]
+[WhiteRatingDiff "-26"]
+[BlackRatingDiff "+19"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Push Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 e6 5. Bc4 a6 6. a4 Nc6 7. Nf3 Qc7 8. O-O h6 9. Qe2 Nf6 10. h3 b6 11. e5 Ng8 12. Nbd2 Nge7 13. Re1 Ng6 14. Nf1 Bb7 15. h4 Na5 16. Ba2 Rc8 17. h5 Ne7 18. Ng3 Nc4 19. Bf4 Nd5 20. Bd2 Nxb2 21. Rec1 Nc4 22. Rab1 Be7 23. Nd4 O-O 24. Qg4 Nxe5 25. Qe2 Nc4 26. Be1 Bf6 27. Ne4 Be7 28. Nd2 Na3 29. Rb3 Nf4 30. Qg4 Nd3 31. Bb1 Nxc1 32. Rb2 Qxc3 33. Rxb6 Ba8 34. N4f3 Nd3 35. Bxd3 Qxd3 36. Kh2 Rc1 37. Rb3 Qd5 38. Re3 Bd6+ 39. g3 Rxe1 40. Rxe1 Nc2 41. Re2 Nd4 42. Re3 Nxf3+ 43. Nxf3 Qa2 44. Kh3 Qxf2 45. Re5 Qxf3 46. Qxf3 Bxf3 47. Re3 Bd5 48. Rc3 Be7 49. Rc8 Rd8 50. Rxd8+ Bxd8 51. g4 Bc7 52. g5 d6 53. g6 e5 54. gxf7+ Bxf7 55. Kh4 Be6 56. a5 Kf7 0-1
+

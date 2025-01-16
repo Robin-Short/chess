@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PVyIoZvv"]
+[White "Speedzord"]
+[Black "joaob"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:19:36"]
+[WhiteElo "918"]
+[BlackElo "1343"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+2"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "180+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.28] } 2. g3 { [%eval -0.2] } 2... Nf6 { [%eval -0.35] } 3. Bh3 { [%eval -0.78] } 3... Nxe4 { [%eval -0.9] } 4. f3?! { [%eval -1.43] } 4... Nf6 { [%eval -1.27] } 5. c4?! { [%eval -2.22] } 5... Bc5 { [%eval -2.11] } 6. a3 { [%eval -2.25] } 6... e4? { [%eval -0.32] } 7. fxe4 { [%eval -0.25] } 7... Nxe4 { [%eval -0.04] } 8. Qc2? { [%eval -2.88] } 8... Bf2+? { [%eval -0.74] } 9. Kd1?! { [%eval -1.25] } 9... Qe7? { [%eval -0.07] } 10. d3 { [%eval -0.22] } 10... Bxg3?? { [%eval 2.79] } 11. dxe4? { [%eval 1.63] } 11... Bf2?? { [%eval 5.23] } 12. Qxf2 { [%eval 5.2] } 12... Qxe4 { [%eval 5.18] } 13. c5?? { [%eval 0.62] } 13... O-O?? { [%eval 3.73] } 14. Bg2 { [%eval 3.92] } 14... Qa4+ { [%eval 4.18] } 15. Ke1 { [%eval 4.35] } 15... Nc6 { [%eval 4.62] } 16. Nf3? { [%eval 2.51] } 16... d6? { [%eval 3.76] } 17. Rf1? { [%eval 1.85] } 17... dxc5? { [%eval 2.95] } 18. Ng5? { [%eval 1.81] } 18... f6? { [%eval 4.49] } 19. Nh3?? { [%eval -5.58] } 19... Bxh3? { [%eval -3.17] } 20. Bxh3 { [%eval -3.15] } 20... Rae8+?! { [%eval -2.49] } 21. Be3 { [%eval -2.58] } 21... Nd4? { [%eval 0.0] } 22. Nc3 { [%eval 0.24] } 22... Qb3 { [%eval 0.0] } 23. Bf5? { [%eval -2.63] } 23... Nxf5 { [%eval -2.65] } 24. Qxf5 { [%eval -2.63] } 24... Rxe3+? { [%eval -1.22] } 25. Ne2?? { [%eval -5.94] } 25... Qxb2 { [%eval -5.94] } 26. Rf2?? { [%eval -20.59] } 26... Qxa1+ { [%eval -22.2] } 27. Kd2 { [%eval -20.12] } 27... Qxa3 { [%eval -13.08] } 28. Qf4?! { [%eval #-4] } 28... Rd8+ { [%eval #-3] } 29. Ke1 { [%eval #-1] } 29... Qa1# 0-1
+

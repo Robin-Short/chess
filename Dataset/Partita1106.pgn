@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/l8bdaHeg"]
+[White "drvce"]
+[Black "charlyelf"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:38"]
+[WhiteElo "1545"]
+[BlackElo "1415"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. g3 e6 3. Bg2 c5 4. e3 cxd4 5. Qxd4 Nc6 6. Qd1 g6 7. Ne2 Bg7 8. O-O Nge7 9. c3 a6 10. Nd4 b5 11. Nd2 O-O 12. Nxc6 Nxc6 13. f3 Ne5 14. Nb3 Nc4 15. e4 dxe4 16. fxe4 Qxd1 17. Rxd1 Bb7 18. Bf4 Ne3 19. Bxe3 Rfd8 20. Bd4 Bxd4+ 21. Nxd4 e5 22. Ne2 f6 23. Kf2 Kf7 24. Ke3 Ke7 25. Rd3 Rd7 26. Rad1 Rad8 27. Rxd7+ Rxd7 28. Rxd7+ Kxd7 29. Nc1 Kd6 30. Nb3 Bc6 31. Na5 Kc5 32. b4+ Kd6 33. Nxc6 Kxc6 34. Kd3 Kd6 35. Bh3 h5 36. Bc8 Kc7 37. Bxa6 Kb6 38. Bc8 g5 39. Bf5 h4 40. g4 Kc6 41. c4 Kb6 42. cxb5 Kxb5 43. Kc3 Kb6 44. Kc4 Kc6 45. a4 Kb6 46. a5+ Ka6 47. Kc5 Ka7 48. Kc6 Ka6 49. b5+ Ka7 50. b6+ Ka8 51. a6 Kb8 52. a7+ Ka8 53. b7+ Kxa7 54. Kc7 1-0
+

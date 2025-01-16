@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pgFgoish"]
+[White "Maxime21"]
+[Black "taqa2001"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:43"]
+[WhiteElo "1688"]
+[BlackElo "1644"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[TimeControl "120+7"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. Qa4 a6 6. d4 cxd4 7. Nxd4 Nxd4 8. cxd4 Nf6 9. Nc3 O-O 10. Bg5 d6 11. O-O Be6 12. Bd3 b5 13. Qc2 Rc8 14. Qe2 Bc4 15. Rad1 Bxd3 16. Rxd3 Nd7 17. Rfd1 Re8 18. e5 dxe5 19. dxe5 Rc7 20. e6 fxe6 21. Qxe6+ Kh8 22. Rxd7 Rxd7 23. Rxd7 Qc8 24. Nd5 Qc2 25. h3 Qd1+ 26. Kh2 1-0
+

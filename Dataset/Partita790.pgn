@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cvDoRnOV"]
+[White "rt0306"]
+[Black "rodrigoma"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:14"]
+[WhiteElo "1995"]
+[BlackElo "1732"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed Krebs"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. Nf3 e4 3. Nfd2 d5 4. c4 c6 5. Nc3 Nf6 6. Qb3 Be6 7. Qxb7 Nbd7 8. Qxc6 Bb4 9. cxd5 Bxc3 10. dxe6 Bxd2+ 11. Bxd2 fxe6 12. Qxe6+ Qe7 13. Qxe7+ Kxe7 14. e3 Rab8 15. b3 Rbc8 16. Bc4 Nb6 17. Bb4+ Kd8 18. Rc1 Nxc4 19. Rxc4 Kd7 20. Kd2 Nd5 21. Rhc1 g5 22. Rxc8 Rxc8 23. Rxc8 Kxc8 24. Bc5 a6 25. b4 Kc7 26. a4 Kc6 27. Kc2 a5 28. b5+ Kc7 29. Kd2 h6 30. f3 Nf6 31. Ba3 Kb6 32. h3 exf3 33. gxf3 Nh5 34. Bd6 Nf6 35. e4 h5 36. d5 g4 37. hxg4 hxg4 38. Ke3 g3 39. Bxg3 Kc5 40. Be5 Nd7 41. Bc7 Kb4 42. b6 Kxa4 43. b7 Kb5 44. b8=Q+ Nxb8 45. Bxb8 a4 46. Bd6 Kc4 47. f4 Kb3 48. f5 a3 49. Bxa3 Kxa3 50. Kd4 Kb4 51. f6 Kb5 52. f7 Kb6 53. f8=Q Kc7 54. Qe7+ Kb6 55. Qd6+ Kb5 56. Qc7 Kb4 57. Qb7+ Ka3 58. Kc4 Ka2 59. Kc3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UNJCkier"]
+[White "espinacla"]
+[Black "robovlas"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:14:30"]
+[WhiteElo "1842"]
+[BlackElo "1802"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 c6 3. Bd3 Nf6 4. h3 Nbd7 5. f4 Ne4 6. Nf3 Nd6 7. Nbd2 a6 8. O-O Nb6 9. Ne5 f6 10. Qh5+ g6 11. Nxg6 hxg6 12. Qxh8 Bf5 13. Bxf5 Nxf5 14. Qh7 Nxe3 15. Qxg6+ Kd7 16. Rf2 Nxc2 17. Rb1 Nxd4 18. Nf3 Qc7 19. Nxd4 c5 20. Qf5+ Ke8 21. Ne6 Qc6 22. Qg6+ Kd7 23. Nxf8+ Rxf8 24. Bd2 c4 25. Bc3 Qe6 26. Re1 Qf7 27. Qf5+ e6 28. Qc2 Re8 29. Bd4 Nc8 30. Qa4+ b5 31. Qxa6 Nd6 32. Qa7+ Kd8 33. Qxf7 Nxf7 34. f5 e5 35. Bc5 Kd7 36. b3 Kc6 37. bxc4 Kxc5 38. cxd5 Kxd5 39. Rd1+ Ke4 40. Re2+ Kxf5 41. Rf1+ Ke6 42. Rb2 Nd6 43. a4 Rb8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/INykPAzF"]
+[White "subzero"]
+[Black "Alexiv4"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:50"]
+[WhiteElo "1380"]
+[BlackElo "1100"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "600+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. h3 Nc6 4. Bb5 Bd7 5. O-O Nd4 6. Bxd7+ Qxd7 7. Nxd4 exd4 8. c3 c5 9. cxd4 cxd4 10. d3 d5 11. exd5 Qxd5 12. Nd2 Bb4 13. Nf3 Nf6 14. Qa4+ Nd7 15. Qxb4 b6 16. Nxd4 Rc8 17. Re1+ Kd8 18. Qe7+ Kc7 19. Bf4+ Kb7 20. Qe4 Qxe4 21. dxe4 Rc4 22. Nf5 Rg8 23. Nd6+ 1-0
+

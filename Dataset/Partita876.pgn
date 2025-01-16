@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GKNgJgBb"]
+[White "ULI123"]
+[Black "Peyman100"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:21"]
+[WhiteElo "1483"]
+[BlackElo "1766"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-22"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d5 3. Nc3 d4 4. Nb5 Bg4 5. h3 Bd7 6. Nxe5 Bxb5 7. Bxb5+ c6 8. Bc4 Qe7 9. Bxf7+ Kd8 10. Qh5 Nf6 11. Qf5 g6 12. Qf4 Bg7 13. Bb3 Nh5 14. Nf7+ Kc8 15. Qg4+ Nd7 16. Nxh8 Bxh8 17. d3 Kc7 18. O-O Rf8 19. Bg5 Qf7 20. Bxf7 Rxf7 21. f4 Bf6 22. e5 Bxg5 23. Qxg5 Nc5 24. f5 Ng7 25. fxg6 Rxf1+ 26. Rxf1 Nge6 27. Qe7+ Kb6 28. gxh7 Nc7 29. h8=Q Nd5 30. Qed8+ Kb5 31. c4+ dxc3 32. bxc3 Nxc3 33. e6 Ne2+ 34. Kf2 Nf4 35. Qb2+ Ka6 36. Qa3+ Kb5 37. Rb1+ Nb3 38. Rxb3# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/72HXOrFX"]
+[White "faulschlamm1"]
+[Black "RRsS"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:24:06"]
+[WhiteElo "2106"]
+[BlackElo "1848"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+50"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. Nc3 e6 5. Ngxe4 Nxe4 6. Nxe4 c6 7. d4 Be7 8. c3 O-O 9. Bd3 g6 10. h4 h5 11. Be3 Nd7 12. g4 hxg4 13. Qxg4 Nf6 14. Nxf6+ Bxf6 15. h5 e5 16. Qg2 g5 17. Qe4 Re8 18. O-O-O exd4 19. Qh7+ Kf8 20. Bc4 Be6 21. Bxd4 Bxd4 22. Rxd4 Qf6 23. f4 Bf5 24. Qxf7+ Qxf7 25. Bxf7 Kxf7 26. fxg5 Rad8 27. Rf1 Ke6 28. Rdf4 Rd5 29. g6 Rg8 30. c4 Re5 31. Kd2 b6 32. Kc3 a5 33. Kd4 Rd8+ 34. Kc3 Rd3+ 35. Kc2 Rf3+ 36. Kd1 Rxf1+ 37. Rxf1 Bg4+ 38. Kc1 Bxh5 39. g7 Rg5 40. Re1+ Kd6 41. c5+ bxc5 42. Rh1 Bf7 43. Rh6+ Kc7 44. g8=Q Rxg8 45. Rh7 Rf8 46. Kd2 Kb6 47. Kc3 Bd5 48. Rh4 Rf3+ 49. Kc2 c4 50. a3 Kb5 51. Rg4 Kc5 52. Rh4 a4 53. Rg4 Kb5 54. Rh4 c5 55. Rh5 Rb3 56. Rh6 Be4+ 57. Kc1 Rg3 58. Rh7 c3 59. bxc3 Kc4 60. Rh6 Rxc3+ 0-1
+

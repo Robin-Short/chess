@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/y4wg0oLV"]
+[White "AI-I"]
+[Black "mehmetuca78"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:47"]
+[WhiteElo "1424"]
+[BlackElo "1374"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Symmetrical Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 { [%eval -0.2] } 1... b6 { [%eval 0.24] } 2. Bb2 { [%eval 0.05] } 2... Bb7 { [%eval 0.18] } 3. f3 { [%eval -0.28] } 3... e6 { [%eval -0.38] } 4. e4?! { [%eval -1.0] } 4... f6? { [%eval 0.29] } 5. Ne2 { [%eval 0.11] } 5... Qe7 { [%eval 0.41] } 6. g3 { [%eval 0.44] } 6... d5 { [%eval 0.55] } 7. Bg2 { [%eval 0.21] } 7... dxe4 { [%eval 0.28] } 8. fxe4 { [%eval 0.39] } 8... Nh6 { [%eval 0.41] } 9. O-O { [%eval 0.34] } 9... Ng4? { [%eval 2.14] } 10. d4?? { [%eval -0.91] } 10... h5? { [%eval 1.2] } 11. e5?? { [%eval -3.06] } 11... h4?? { [%eval 6.24] } 12. c4?? { [%eval -2.47] } 12... Bxg2 { [%eval -2.29] } 13. Kxg2?? { [%eval -8.98] } 13... hxg3?? { [%eval -3.15] } 14. Nxg3?? { [%eval -9.07] } 14... Rxh2+?? { [%eval -5.44] } 15. Kg1 { [%eval -6.52] } 15... Rxb2?? { [%eval -1.74] } 16. Qxg4 { [%eval -1.98] } 16... g5?? { [%eval 3.93] } 17. exf6? { [%eval 1.81] } 17... Qd6? { [%eval 2.95] } 18. Qxg5? { [%eval 0.07] } 18... Qxd4+ { [%eval 0.32] } 19. Kh1 { [%eval 0.5] } 19... Nc6?? { [%eval 4.91] } 20. f7+?? { [%eval -2.26] } 20... Kd7 { [%eval -2.98] } 21. Na3?? { [%eval -8.76] } 21... Ne7?? { [%eval 9.72] } 22. Rad1 { [%eval 10.11] } 22... Rd2 { [%eval 15.47] } 23. Rxd2 { [%eval 15.77] } 23... Qxd2 { [%eval 16.42] } 24. Qb5+?? { [%eval -1.59] } 24... c6? { [%eval 0.0] } 25. Qe5?! { [%eval -0.5] } 25... Rc8 { [%eval -0.06] } 26. Re1? { [%eval -1.28] } 26... Qd6? { [%eval 0.68] } 27. Qg5? { [%eval -0.78] } 27... Qc5? { [%eval 1.07] } 28. Qg8?? { [%eval -2.34] } 28... Rd8?? { [%eval 1.17] } 29. Ne4? { [%eval -1.18] } 29... Qb4?? { [%eval 3.25] } 30. Nf6+?? { [%eval -3.32] } 30... Kc8 { [%eval -3.44] } 31. Ne8?? { [%eval #-7] } 31... Qd6?? { [%eval 18.64] } 32. Qxf8?? { [%eval 0.0] } 1-0
+

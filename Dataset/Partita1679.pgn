@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BfF03lUJ"]
+[White "Shotiko"]
+[Black "Bill-Hicks"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:13:52"]
+[WhiteElo "1545"]
+[BlackElo "1592"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed French"]
+[TimeControl "0+2"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 d6 3. dxe5 Nc6 4. exd6 Bxd6 5. Nc3 Be6 6. Nf3 Qe7 7. Bb5 O-O-O 8. Bxc6 bxc6 9. O-O Bxh2+ 10. Kxh2 Rxd1 11. Rxd1 Bf5 12. Bd2 Nf6 13. Ne2 Ng4+ 14. Kg1 Nh6 15. Ng3 Qc5 16. Nxf5 Nxf5 17. Bc3 Nd6 18. Rd2 Rg8 19. Rad1 Qb6 20. Nd4 Kb7 21. Nb3 h5 22. Bd4 c5 23. Be5 Qc6 24. Bxd6 cxd6 25. Rxd6 Qe8 26. Rd7+ Kb6 27. R1d6+ Kb5 28. Rb7+ Kc4 29. Nd2# 1-0
+

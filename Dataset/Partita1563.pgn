@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7dzSAIsL"]
+[White "Richard10"]
+[Black "-dexter-"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:01"]
+[WhiteElo "1590"]
+[BlackElo "1278"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 d4 3. f4 Bf5 4. d3 Nc6 5. Nf3 Qd7 6. b3 O-O-O 7. Bb2 Bg4 8. Nbd2 Qf5 9. g3 g6 10. Bg2 e6 11. h3 Bxf3 12. Bxf3 Nge7 13. Be4 Qh5 14. Qxh5 gxh5 15. Nf3 Rg8 16. Bxh7 Rxg3 17. Kf2 Rg7 18. Be4 Nf5 19. Bxf5 exf5 20. Rag1 Rxg1 21. Rxg1 Bb4 22. Rg5 f6 23. Rxf5 fxe5 24. Nxe5 Nxe5 25. Rxe5 Rf8 26. Kf3 Bc3 27. Bxc3 dxc3 28. Rc5 h4 29. Rxc3 Rg8 30. Rc5 Rg3+ 31. Ke4 Rxh3 32. Rh5 Kd7 33. f5 Ke7 34. Rh7+ Kf6 35. Rxc7 Rg3 36. Rxb7 Rg5 37. Rxa7 Rh5 38. Ra6+ Ke7 39. Rg6 h3 40. Rg1 h2 41. Rh1 Kf6 42. a4 Kg5 43. a5 Kg4 44. a6 Kg3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bpHxGfFx"]
+[White "AI-I"]
+[Black "mustroll"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:50:07"]
+[WhiteElo "1475"]
+[BlackElo "1401"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 b6 2. Ne2 Bb7 3. d4 e6 4. c4 c5 5. d5 exd5 6. cxd5 d6 7. Nbc3 Nf6 8. Bd2 Qe7 9. f3 Nbd7 10. Ng3 O-O-O 11. Be2 Ne5 12. O-O h6 13. f4 Ned7 14. a4 g5 15. Nb5 gxf4 16. exf4 Ne4 17. Nxe4 Qxe4 18. Bf3 Qc4 19. Rc1 Qa2 20. Nxa7+ Kb8 21. Nb5 Qxb2 22. a5 Ba6 23. Be2 Bxb5 24. Bxb5 Qxb5 25. axb6 Nxb6 26. Rb1 Qc4 27. Rxb6+ Kc7 28. Rb1 Qxd5 29. Ba5+ 1-0
+

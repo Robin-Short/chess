@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/40jlsDUZ"]
+[White "chycha"]
+[Black "PedroMarhaJimenez"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:51"]
+[WhiteElo "1462"]
+[BlackElo "1261"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Creepy Crawly Formation: Classical Defense"]
+[TimeControl "360+0"]
+[Termination "Time forfeit"]
+
+1. a3 e5 2. h3 d5 3. b4 e4 4. Bb2 Nf6 5. g4 Nc6 6. b5 Na5 7. a4 Be6 8. e3 Qd7 9. Ne2 O-O-O 10. Nf4 Nc4 11. Bd4 b6 12. d3 Na5 13. g5 exd3 14. Qxd3 Ne4 15. Bg2 Nc4 16. Nxe6 Qxe6 17. Na3 Nxa3 18. Rxa3 Bb4+ 19. Kf1 Bxa3 20. Qxa3 Nd2+ 21. Ke2 Nc4 22. Qc3 f5 23. Bxg7 Rhg8 24. Bf6 f4 25. Bxd8 Kxd8 26. Qf6+ Qxf6 27. gxf6 Rf8 28. Bxd5 Ne5 29. exf4 Rxf6 30. fxe5 Rg6 31. e6 h5 32. f4 Rf6 33. Ke3 Ke7 34. Ke4 Kd6 35. f5 c6 36. bxc6 a6 37. c4 Rf8 38. Rb1 Rg8 39. Rxb6 Rg3 40. Rxa6 Rxh3 41. Ra7 Rh4+ 42. Kd3 Rh3+ 43. Kc2 Rh2+ 44. Kb3 h4 45. c7 Rh3+ 46. Kb4 Rh1 47. c8=Q Rb1+ 48. Ka5 h3 49. Qd7+ Ke5 50. e7 h2 51. e8=Q+ Kf4 52. f6 h1=Q 53. Bxh1 Rxh1 54. Qee6 Rh5+ 55. Kb6 Re5 56. Qd4+ Re4 57. Qexe4+ Kg5 58. Qf4+ 1-0
+

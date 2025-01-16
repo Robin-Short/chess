@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/uCnRcsy8"]
+[White "cmath"]
+[Black "Tarama"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:26"]
+[WhiteElo "1641"]
+[BlackElo "1883"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 d5 2. c4 dxc4 3. Qa4+ Bd7 4. Qxc4 e6 5. Bg2 Nf6 6. Bxb7 Nc6 7. Bxa8 Ne5 8. Qc2 Qxa8 9. Nf3 Nxf3+ 10. exf3 Qxf3 11. O-O Ng4 12. Qd1 Bc6 13. Qxf3 Bxf3 14. Nc3 Bc5 15. d3 O-O 16. h3 Nxf2 17. Rxf2 Rd8 18. Kf1 Bxf2 19. Kxf2 Bb7 20. d4 Rxd4 21. Be3 Re4 22. Rd1 g6 23. Rd8+ Kg7 24. Bd4+ Rxd4 25. Rxd4 e5 26. Ra4 Bd5 27. Rxa7 c6 28. Nxd5 cxd5 29. Rd7 d4 30. Ke2 Kf6 31. b4 g5 32. b5 h5 33. b6 h4 34. b7 hxg3 35. b8=Q g2 36. Qb1 g1=Q 37. Qxg1 Kf5 38. Qxd4 exd4 39. Rxd4 Kg6 40. Rb4 f6 41. Rg4 f5 42. Rxg5+ Kxg5 43. a4 Kh4 44. Kf1 Kxh3 45. a5 Kg3 46. a6 f4 47. a7 f3 48. a8=Q f2 49. Qf8 Kg4 50. Qxf2 Kg5 51. Kg2 Kg6 52. Qf4 Kg7 53. Kg3 Kg8 54. Qf5 Kh8 1/2-1/2
+

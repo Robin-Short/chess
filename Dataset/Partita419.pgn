@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/5IrZkj4k"]
+[White "rt0306"]
+[Black "Vicious"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:16:58"]
+[WhiteElo "2007"]
+[BlackElo "1784"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. d4 f5 2. Nf3 Nf6 3. c4 d6 4. Nc3 g6 5. Qc2 Bg7 6. e4 O-O 7. exf5 Bxf5 8. Bd3 Bxd3 9. Qxd3 Nc6 10. Bg5 Qe8 11. O-O-O Nb4 12. Qd2 Rd8 13. Rhe1 Qf7 14. d5 c5 15. Kb1 h6 16. Bxh6 Ng4 17. Bxg7 Qxg7 18. h3 Nh6 19. Re6 Nf5 20. Rde1 Rde8 21. Ng5 a5 22. R6e4 Nd4 23. Ne6 Nxe6 24. Rxe6 Rf6 25. Rxf6 Qxf6 26. Re6 Qf5+ 27. Kc1 Nd3+ 28. Kd1 Nxf2+ 29. Ke1 Nd3+ 30. Kd1 Nf2+ 31. Ke2 Rf8 32. Qe3 Qc2+ 33. Qd2 Qf5 34. Re3 Nh1 35. Rf3 Qe5+ 36. Kd1 Rxf3 37. gxf3 Qg3 38. Qe3 Nf2+ 39. Kc2 Nh1 40. Ne4 Qf2+ 41. Qxf2 Nxf2 42. Nxf2 Kf7 43. Ng4 Kg7 44. Kd3 g5 45. Ke4 Kg6 46. f4 Kh5 47. f5 Kh4 48. Kf3 Kxh3 49. Nh6 Kh4 50. Nf7 g4+ 51. Kg2 g3 52. Nd8 Kg4 53. Nxb7 Kxf5 54. Nxa5 Ke4 55. Nb3 Kd3 56. a4 Kxc4 57. a5 Kxb3 58. a6 Kxb2 59. a7 c4 60. a8=Q Kc2 61. Qb7 c3 62. Qxe7 Kd2 63. Qxd6 c2 64. Qc5 Kd1 65. Qxc2+ 1-0
+

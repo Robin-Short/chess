@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eUIlAzR5"]
+[White "coledavis"]
+[Black "merabi61"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:09:27"]
+[WhiteElo "1463"]
+[BlackElo "1197"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+9"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, MacLeod Defense"]
+[TimeControl "240+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 exf4 4. c3 Nf6 5. d4 Nxe4 6. Bd3 d5 7. O-O Bf5 8. Re1 Bd6 9. Nbd2 O-O 10. Nxe4 dxe4 11. Bxe4 Bxe4 12. Rxe4 Re8 13. Qe2 Rxe4 14. Qxe4 Qd7 15. Bxf4 Re8 16. Qc2 Bxf4 17. g3 Bd6 18. Ng5 g6 19. Rf1 Bf8 20. Rxf7 Re1+ 21. Kf2 Re7 22. Rxe7 Qxe7 23. Qb3+ Kh8 24. Qxb7 Qxg5 25. Qxc6 Qf5+ 26. Kg2 Qf7 27. Qb7 a5 28. Qa6 Qf5 29. Qc6 Bd6 30. Qe8+ Kg7 31. Qc6 Qc2+ 32. Kh3 Qxb2 33. Qd7+ Kh6 34. Qg4 Qxc3 35. Qh4+ Kg7 36. Qe4 Qc1 37. Qd5 Qh6+ 38. Kg2 Qd2+ 39. Kh3 Qe2 40. Qxa5 1/2-1/2
+

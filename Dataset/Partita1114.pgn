@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fQlCpivK"]
+[White "freddyraul57"]
+[Black "vizcaino6791"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:45:41"]
+[WhiteElo "1636"]
+[BlackElo "1634"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OV16rZKA"]
+[White "Beatnick"]
+[Black "vatoo"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:06"]
+[WhiteElo "1653"]
+[BlackElo "1505"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+25"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "480+10"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd7 4. Nf3 a6 5. d4 c5 6. d5 Nh6 7. Ne5 Qd6 8. Qe2 b6 9. Bxh6 gxh6 10. Qh5 Qf6 11. Bd3 Bb7 12. Ne4 Qg7 13. g3 Bxd5 14. Qf5 e6 15. Qf6 Qxf6 16. Nxf6+ Ke7 17. Be4 Kxf6 18. Bxd5 exd5 19. Ng4+ Kg5 20. Ne5 Kf6 21. Ng4+ Ke6 22. O-O Bg7 23. c3 Kf5 24. h3 d4 25. cxd4 cxd4 26. Rad1 Nc6 27. b3 b5 28. Nh2 Nb4 29. a3 Nc2 30. a4 bxa4 31. bxa4 Rac8 32. Nf3 Rc4 33. a5 Ra4 34. Rd2 Na3 35. Rfd1 Ke4 36. Nh4 Rxa5 37. f3+ Kd5 38. Nf5 Be5 39. Nxd4 Bxd4+ 40. Rxd4+ Ke6 41. Re1+ Re5 42. Rde4 Rxe4 43. Rxe4+ Kf6 44. Ra4 Nc2 45. Rxa6+ Kg7 46. g4 Rd8 47. Kg2 Ne3+ 48. Kg3 Rd2 49. Kf4 Ng2+ 50. Kg3 Ne1 51. Ra3 Rg2+ 52. Kf4 Rh2 53. Kg3 Rf2 54. Kxf2 Nc2 55. Ra6 Nd4 56. Ke3 Ne6 57. f4 Nc5 58. Rb6 Na4 59. Ra6 Nc3 60. h4 Nd5+ 61. Ke4 Nc7 62. Rb6 Ne6 63. f5 Nc5+ 64. Kd4 Nd7 65. Ra6 Nb8 66. Rd6 h5 67. g5 f6 68. Rxf6 Nd7 69. Rd6 Nf8 70. Ke5 Kg8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yhmt9n8o"]
+[White "bernino"]
+[Black "yjunior13000"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:29:16"]
+[WhiteElo "1710"]
+[BlackElo "1765"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+32"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 a6 4. d4 Nc6 5. d5 Na5 6. Be2 b5 7. dxe6 fxe6 8. Ne5 Nf6 9. Bg5 Be7 10. Bxf6 Bxf6 11. f4 O-O 12. c3 Bxe5 13. fxe5 Qh4+ 14. g3 Qxe4 15. Rg1 Nc4 16. Nd2 Nxd2 17. Qxd2 Bb7 18. O-O-O Qxe5 19. Qxd7 Bd5 20. Rge1 Qe3+ 21. Kb1 Rad8 22. Qe7 Be4+ 23. Ka1 Rxd1+ 24. Rxd1 Qxe2 25. Qxe6+ Kh8 26. Rc1 Bd3 27. Qxa6 b4 28. Qc6 bxc3 29. bxc3 Rb8 0-1
+

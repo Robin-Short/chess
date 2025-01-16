@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GisoPrzE"]
+[White "honzarusnak"]
+[Black "nichiren1967"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:35"]
+[WhiteElo "1507"]
+[BlackElo "1727"]
+[WhiteRatingDiff "+140"]
+[BlackRatingDiff "-15"]
+[ECO "C27"]
+[Opening "Vienna Game"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 c6 3. Bc4 Qe7 4. d3 d6 5. f4 f6 6. Bxg8 Rxg8 7. f5 g6 8. g4 Na6 9. Be3 Bd7 10. Qd2 Nc7 11. O-O-O d5 12. d4 dxe4 13. dxe5 fxe5 14. Nxe4 O-O-O 15. Bxa7 Bxf5 16. Qxd8+ Qxd8 17. Rxd8+ Kxd8 18. gxf5 Nb5 19. Bb6+ Kd7 20. Nf6+ Ke7 21. Nxg8+ Kf7 22. Nf3 Kxg8 23. Nxe5 gxf5 24. Rg1+ Kh8 25. Nf7# 1-0
+

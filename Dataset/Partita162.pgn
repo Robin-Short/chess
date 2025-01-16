@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K7q77jgB"]
+[White "glovio_net"]
+[Black "PedroMarhaJimenez"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:32"]
+[WhiteElo "1477"]
+[BlackElo "1186"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense, Big Center Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e4 Nf6 3. Bg5 Be7 4. Bxf6 Bxf6 5. e5 Bg5 6. Nf3 Be7 7. Bd3 d5 8. c4 dxc4 9. Bxc4 c6 10. O-O b5 11. Bb3 a5 12. a4 b4 13. Nbd2 Ba6 14. Bc4 O-O 15. Bxa6 Nxa6 16. Nc4 c5 17. dxc5 Nxc5 18. Nd6 Bxd6 19. exd6 Nb3 20. Qxb3 Qxd6 21. Rad1 Qc5 22. Rc1 Qd5 23. Qxd5 exd5 24. b3 Rfd8 25. Nd4 Rac8 26. Rc5 Rxc5 27. h3 Rdc8 28. Rd1 Rc1 29. Rxc1 Rxc1+ 30. Kh2 Rd1 31. Nf3 d4 32. Kg3 d3 33. Kf4 Rb1 34. Nd2 Rb2 35. Ke3 f5 36. Kxd3 g5 37. f3 f4 38. h4 h6 39. h5 Kf7 40. Ke2 Ke6 41. Kd3 Kd5 42. Ke2 Kd4 43. Kd1 Kc3 44. Ne4+ Kd3 45. Kc1 Rxb3 46. Nc5+ Kc3 47. Nxb3 Kxb3 48. Kd2 Kxa4 49. Kc2 b3+ 50. Kb2 Kb4 51. Kb1 a4 52. Kb2 a3+ 53. Kb1 a2+ 54. Kb2 Ka4 55. Ka1 1-0
+

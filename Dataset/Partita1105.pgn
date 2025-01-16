@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vI9nYvzq"]
+[White "poya77"]
+[Black "vectra"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:55"]
+[WhiteElo "1706"]
+[BlackElo "1694"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. c3 Nf6 4. d3 Be7 5. h3 O-O 6. Be2 c5 7. O-O Be6 8. Nbd2 Nc6 9. b3 a6 10. Bb2 h6 11. d4 cxd4 12. cxd4 exd4 13. Nxd4 Nxd4 14. Bxd4 Qa5 15. Re1 Qg5 16. Nf3 Qg6 17. Kh2 Nxe4 18. Bd3 Bf5 19. Bxe4 Bxe4 20. Qe2 Bxf3 21. Qxf3 Bd8 22. Qxb7 Bf6 23. Bxf6 Qxf6 24. Qf3 Qxf3 25. gxf3 Rfd8 26. Red1 Kf8 27. Rd4 Ke7 28. Re1+ Kf6 29. f4 Rac8 30. Rd5 Rc2 31. Ra5 Rxf2+ 32. Kg3 Rc2 33. Rxa6 Rc3+ 34. Kg4 g6 35. Rd1 h5+ 36. Kh4 Ke6 37. b4 Rc4 38. Kg5 Rxb4 39. h4 Rb2 40. Re1+ Kd7 41. Kf6 Rf2 42. Kxf7 Rxf4+ 43. Kxg6 Rxh4 44. Rf1 Rh2 45. Rf7+ Ke6 46. Rf6+ Ke5 47. Rf5+ Ke4 0-1
+

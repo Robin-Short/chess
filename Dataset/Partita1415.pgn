@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y3ZqFGGb"]
+[White "JohndoThat"]
+[Black "jlf1975"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:22"]
+[WhiteElo "1317"]
+[BlackElo "1305"]
+[WhiteRatingDiff "+33"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+1"]
+[Termination "Time forfeit"]
+
+1. g3 e5 2. Bg2 d5 3. e3 e4 4. Ne2 Bg4 5. h3 Bf3 6. Bxf3 exf3 7. Nd4 Qf6 8. Nxf3 Ne7 9. Nc3 c6 10. b4 b5 11. a4 a6 12. a5 Nd7 13. Bb2 Qg6 14. g4 h5 15. g5 h4 16. Rg1 Nf5 17. Qe2 Bd6 18. O-O-O O-O-O 19. d3 Rde8 20. e4 d4 21. exf5 Qxf5 22. Ne4 Bf4+ 23. Kb1 Bh2 24. Rg4 Bf4 25. Bxd4 f6 26. Nxh4 Qh7 27. gxf6 Bh6 28. Nd6+ Kc7 29. Nxe8+ Kb7 30. Nd6+ Kb8 31. Re1 Qg8 32. Nhf5 Qd5 33. c4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wS7fz7Dd"]
+[White "Kocourish"]
+[Black "NahuelCastrignano"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:07"]
+[WhiteElo "1493"]
+[BlackElo "1628"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-88"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 c6 5. axb5 cxb5 6. Qf3 Nc6 7. Qxc6+ Bd7 8. Qb7 a6 9. Rxa6 Bc8 10. Qxa8 Bxa6 11. Qxa6 1-0
+

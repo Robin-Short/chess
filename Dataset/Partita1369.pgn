@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0Rp7Lr70"]
+[White "Scientist1989"]
+[Black "ivan01"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:58:12"]
+[WhiteElo "1479"]
+[BlackElo "1540"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation"]
+[TimeControl "900+10"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bb4+ 6. c3 Bc5 7. Nxe5 Qh4 8. g3 Qf6 9. d4 Bd6 10. Ng4 Bxg4 11. Qxg4 Nh6 12. Bxh6 Qxh6 13. Nd2 O-O 14. O-O-O Rfe8 15. e5 Be7 16. Qd7 Rac8 17. f4 g5 18. Rdf1 gxf4 19. Qg4+ Qg6 20. Qxf4 Bg5 21. Qg4 Bxd2+ 0-1
+

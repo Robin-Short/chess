@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BNv6m6AI"]
+[White "SmashingU"]
+[Black "billybilly71"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:45:26"]
+[WhiteElo "1394"]
+[BlackElo "1577"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-17"]
+[ECO "D30"]
+[Opening "Semi-Slav Defense: Quiet Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.19] } 1... e6 { [%eval 0.19] } 2. c4 { [%eval 0.18] } 2... d5 { [%eval 0.23] } 3. e3 { [%eval 0.14] } 3... c6 { [%eval 0.35] } 4. Nf3 { [%eval 0.31] } 4... Nf6 { [%eval 0.34] } 5. Nbd2 { [%eval 0.2] } 5... Bd6 { [%eval 0.51] } 6. Be2 { [%eval 0.13] } 6... Qc7 { [%eval 0.34] } 7. a3 { [%eval 0.18] } 7... Bd7?! { [%eval 0.69] } 8. b4 { [%eval 0.81] } 8... O-O { [%eval 0.68] } 9. Bb2 { [%eval 0.78] } 9... dxc4 { [%eval 1.09] } 10. Rc1? { [%eval -1.07] } 10... c3? { [%eval 0.63] } 11. Bxc3 { [%eval 0.67] } 11... b5?! { [%eval 1.17] } 12. Bb2?! { [%eval 0.55] } 12... a6?! { [%eval 1.33] } 13. Nb3 { [%eval 1.13] } 13... a5?! { [%eval 1.81] } 14. Nc5? { [%eval 0.25] } 14... Bxc5?! { [%eval 1.07] } 15. dxc5 { [%eval 1.06] } 15... axb4 { [%eval 1.07] } 16. axb4 { [%eval 1.03] } 16... Bc8 { [%eval 1.21] } 17. O-O { [%eval 0.84] } 17... Rd8 { [%eval 1.08] } 18. Qc2 { [%eval 0.91] } 18... Bd7? { [%eval 3.05] } 19. Be5 { [%eval 3.2] } 19... Be8?? { [%eval 11.52] } 20. Bxc7 { [%eval 11.62] } 1-0
+

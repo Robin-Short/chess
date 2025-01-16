@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MKqjH65N"]
+[White "guardman"]
+[Black "Permanganato"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:36"]
+[WhiteElo "1798"]
+[BlackElo "1702"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Exchange Variation, Marshall Gambit"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nc6 4. Nc3 Qxd4 5. Qxd4 Nxd4 6. Nd5 Nxc2+ 7. Ke2 Kd8 8. Nf6 Nxf6 9. Kd3 Nxa1 10. Kd4 Nc2+ 11. Ke5 Ng4+ 12. Kd5 Nxf2 13. Ba6 bxa6 14. Bh6 Nxh1 0-1
+

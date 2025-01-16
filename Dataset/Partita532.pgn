@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kNglYFSC"]
+[White "Berezkin"]
+[Black "tuskerking"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:44"]
+[WhiteElo "1912"]
+[BlackElo "1932"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.19] } 1... d5 { [%eval 0.51] } 2. exd5 { [%eval 0.54] } 2... Nf6 { [%eval 0.54] } 3. Bb5+ { [%eval 0.4] } 3... c6 { [%eval 0.68] } 4. dxc6 { [%eval 0.67] } 4... Nxc6 { [%eval 0.76] } 5. Nf3 { [%eval 0.82] } 5... Bg4 { [%eval 0.75] } 6. h3 { [%eval 0.65] } 6... Bxf3 { [%eval 0.72] } 7. Qxf3 { [%eval 0.63] } 7... Rc8 { [%eval 0.68] } 8. Bxc6+ { [%eval 0.65] } 8... Rxc6 { [%eval 0.52] } 9. c3 { [%eval 0.28] } 9... Re6+ { [%eval 0.39] } 10. Kd1 { [%eval 0.06] } 10... Rd6?! { [%eval 0.56] } 11. Qxb7 { [%eval 0.37] } 11... Rd7 { [%eval 0.2] } 12. Qc6 { [%eval 0.1] } 12... e5 { [%eval 0.34] } 13. Re1 { [%eval 0.28] } 13... e4? { [%eval 1.67] } 14. d4 { [%eval 1.44] } 14... Bd6? { [%eval 2.59] } 15. Bg5 { [%eval 2.78] } 15... Kf8?! { [%eval 3.3] } 16. Bxf6 { [%eval 3.21] } 16... gxf6 { [%eval 3.22] } 17. Rxe4 { [%eval 2.88] } 17... Rg8 { [%eval 2.88] } 18. g3 { [%eval 2.44] } 18... Be5? { [%eval 3.64] } 19. Nd2 { [%eval 3.61] } 19... Rd6?! { [%eval 4.17] } 20. Qc5 { [%eval 4.22] } 20... Bxg3? { [%eval 5.96] } 21. fxg3 { [%eval 5.67] } 21... Rxg3?? { [%eval 11.75] } 22. Kc2?? { [%eval 5.78] } 22... Rg2? { [%eval 6.86] } 23. Rae1 { [%eval 6.93] } 23... Qd7?! { [%eval 7.66] } 24. Re8+ { [%eval 7.92] } 24... Kg7 { [%eval 8.27] } 25. R8e2? { [%eval 5.9] } 25... Rd5?? { [%eval #11] } 26. Qc4?? { [%eval 5.42] } 26... Rg6? { [%eval 7.31] } 27. Qd3? { [%eval 5.79] } 27... Rh5?! { [%eval 6.36] } 28. Re3 { [%eval 5.93] } 28... Qa4+ { [%eval 6.08] } 29. Kb1 { [%eval 6.38] } 29... Ra5 { [%eval 6.42] } 30. a3 { [%eval 6.55] } 30... Rb5?! { [%eval 7.12] } 31. Nc4?! { [%eval 6.62] } 31... Rb3? { [%eval 8.44] } 32. Kc1? { [%eval 6.82] } 32... Rb8 { [%eval 6.72] } 33. Nd6 { [%eval 6.91] } 33... Qc6?! { [%eval 7.64] } 34. Nf5+ { [%eval 7.52] } 34... Kf8? { [%eval 11.03] } 35. Qe4?? { [%eval 6.1] } 35... Qb5?? { [%eval #4] } 36. Qe7+ { [%eval #3] } 36... Kg8 { [%eval #3] } 37. Qe8+ { [%eval #2] } 37... Rxe8 { [%eval #2] } 38. Rxe8+ { [%eval #1] } 38... Qxe8 { [%eval #1] } 39. Rxe8# 1-0
+

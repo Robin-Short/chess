@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QeUjo29I"]
+[White "1917rio"]
+[Black "elo1562"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:26:17"]
+[WhiteElo "1337"]
+[BlackElo "1716"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+5"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "720+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.21] } 2. d3 { [%eval 0.0] } 2... Nf6 { [%eval -0.05] } 3. a3 { [%eval -0.08] } 3... Bc5 { [%eval 0.03] } 4. h3 { [%eval -0.31] } 4... d5 { [%eval -0.51] } 5. Bg5 { [%eval -0.48] } 5... dxe4 { [%eval -0.3] } 6. dxe4?? { [%eval -4.48] } 6... Qxd1+? { [%eval -2.76] } 7. Kxd1 { [%eval -2.89] } 7... Nxe4 { [%eval -2.89] } 8. Ke2? { [%eval -5.22] } 8... Nxg5 { [%eval -5.26] } 9. f3?! { [%eval -6.18] } 9... O-O { [%eval -5.79] } 10. h4 { [%eval -6.13] } 10... Ne6 { [%eval -6.05] } 11. Nc3 { [%eval -6.02] } 11... Nc6 { [%eval -6.05] } 12. Nd5? { [%eval -8.77] } 12... Ncd4+ { [%eval -8.94] } 13. Kd2 { [%eval -8.78] } 13... b6? { [%eval -6.67] } 14. b4 { [%eval -7.1] } 14... Bd6? { [%eval -5.96] } 15. Ne2 { [%eval -6.2] } 15... Bb7 { [%eval -6.23] } 16. Nxd4? { [%eval -8.37] } 16... Nxd4? { [%eval -5.59] } 17. Ne3 { [%eval -5.74] } 17... c5 { [%eval -5.6] } 18. c3? { [%eval -8.17] } 18... Nb3+ { [%eval -8.24] } 19. Kc2 { [%eval -8.16] } 19... Nxa1+ { [%eval -8.32] } 20. Kb2 { [%eval -8.27] } 20... cxb4 { [%eval -8.32] } 21. axb4 { [%eval -8.29] } 21... Rac8?! { [%eval -7.42] } 22. Kxa1? { [%eval -11.9] } 22... Rxc3 { [%eval -11.78] } 23. Kb2 { [%eval -14.04] } 23... Rc4?? { [%eval -3.36] } 24. Bxc4 { [%eval -3.38] } 24... Bxb4 { [%eval -3.36] } 25. Nd5 { [%eval -3.78] } 25... Bc5 { [%eval -3.77] } 26. Rd1 { [%eval -3.74] } 26... Rc8 { [%eval -3.27] } 27. Kb3 { [%eval -3.37] } 27... Rd8?? { [%eval 1.24] } 28. Ne7+?? { [%eval -7.46] } 28... Bxe7 { [%eval -7.43] } 29. Rxd8+?! { [%eval -8.2] } 29... Bxd8 { [%eval -8.03] } 0-1
+

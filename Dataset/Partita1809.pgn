@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/avAiha2N"]
+[White "jacktheripper75"]
+[Black "jovi"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:37"]
+[WhiteElo "1428"]
+[BlackElo "1553"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. Bc4 Bb7 3. Qf3 e6 4. Nh3 h6 5. O-O d5 6. exd5 exd5 7. Re1+ Be7 8. Bb3 Nf6 9. d4 O-O 10. Qe3 Re8 11. Ba4 c6 12. c3 b5 13. Bb3 a5 14. Qg3 Kh8 15. Nd2 Bd6 16. f4 Nh5 17. Qf2 Rxe1+ 18. Qxe1 Nxf4 19. Nxf4 Bxf4 20. Nf3 Bxc1 21. Rxc1 Nd7 22. Rc2 c5 23. Re2 c4 24. Bc2 a4 25. Bf5 Nf6 26. Ne5 Qc7 27. Bh3 Bc8 28. Bxc8 Rxc8 29. Nf3 Ne4 30. Ne5 Kh7 31. Qb1 f6 32. Nf3 Qf4 33. Nd2 Re8 34. g3 Qg4 35. Nxe4 dxe4 36. Re1 f5 37. a3 Qf3 38. Rf1 Qe3+ 39. Kg2 Rf8 40. Re1 Qf3+ 41. Kg1 h5 0-1
+

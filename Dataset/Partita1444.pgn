@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4WkNRARt"]
+[White "kors"]
+[Black "Vicious"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:01:09"]
+[WhiteElo "1747"]
+[BlackElo "1844"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. f4 d5 3. d3 Ne7 4. exd5 1-0
+

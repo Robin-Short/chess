@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/woRrJBQK"]
+[White "ves"]
+[Black "ChessPapa"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:35"]
+[WhiteElo "1775"]
+[BlackElo "1575"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nf6 3. e3 Nc6 4. Nf3 Bg4 5. Nbd2 Bxf3 6. Nxf3 Qd6 7. a3 e5 8. c5 Qe6 9. dxe5 Nxe5 10. Be2 Nxf3+ 11. Bxf3 Ne4 12. O-O Bxc5 13. Qc2 b6 14. b4 Bd6 15. Bb2 Be5 16. Bxe5 Qxe5 17. Rad1 Rd8 18. Bxe4 Qxe4 19. Qxe4+ dxe4 20. Rxd8+ Kxd8 21. Rd1+ Ke7 22. Rd4 f5 23. g4 Rd8 24. gxf5 Rxd4 25. exd4 Kf6 26. Kg2 Kxf5 27. f3 Kf4 28. fxe4 Kxe4 29. d5 Kd4 30. d6 Kd5 31. Kf3 cxd6 32. Ke3 Kc4 33. Ke4 d5+ 34. Ke3 d4+ 35. Kd2 Kb3 36. Kd3 Kxa3 37. Kxd4 Kxb4 38. h4 a5 39. h5 a4 40. Kd5 a3 41. Kc6 a2 42. Kxb6 a1=Q 43. Kc6 Qc1+ 44. Kd6 Qc5+ 45. Ke6 Kc4 46. Kf7 Qd4 47. Kg8 Qd5+ 48. Kxh7 Qe6 49. Kxg7 Qf5 50. h6 Qf6+ 51. Kxf6 1-0
+

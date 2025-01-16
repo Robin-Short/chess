@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rNL5pErE"]
+[White "stampan"]
+[Black "dague"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:55"]
+[WhiteElo "1398"]
+[BlackElo "1431"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 h6 3. Qh5 Qf6 4. Nf3 d6 5. d3 Be6 6. Bg5 Qg6 7. Qxg6 fxg6 8. Bxe6 hxg5 9. Nxg5 Nh6 10. Nd2 Be7 11. Ndf3 Nc6 12. c3 Nd8 13. O-O Nxe6 14. Nxe6 Kd7 15. Neg5 Bxg5 16. Nxg5 Ng4 17. h3 Nf6 18. f4 Nh5 19. fxe5 dxe5 20. Rf7+ Kc6 21. b4 Rhf8 22. Raf1 Rxf7 23. Rxf7 Rd8 24. Ne6 Rd7 25. Rxd7 Kxd7 26. Nc5+ Kc6 27. Kf2 b6 28. Ne6 Kd6 29. Ng5 Nf4 30. Ke3 Nxg2+ 31. Kd2 Nf4 32. Nf7+ Ke6 33. Nd8+ Kd7 34. Nf7 Ke6 35. Ng5+ Kf6 36. Nh7+ Ke7 37. h4 Ng2 38. Ng5 Nxh4 39. Ke3 a6 40. d4 exd4+ 41. cxd4 Ng2+ 42. Kd3 Nf4+ 43. Kc4 Ne6 44. d5 Nxg5 0-1
+

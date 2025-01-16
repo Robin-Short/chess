@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Bmg01ZaO"]
+[White "laloli"]
+[Black "yesse2"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:43:41"]
+[WhiteElo "1222"]
+[BlackElo "1337"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nd4 exd4 4. Qh5 Qe7 5. Qxf7+ Qxf7 6. Nc3 dxc3 7. Bb5+ Bd7 8. O-O Bxb5 9. dxc3 Bxf1 10. Bg5 Nc6 11. a4 Be7 12. Ra3 Bxg5 13. c4 Nge7 14. Re3 Rf8 15. c5 Bxe3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PId6zoPd"]
+[White "jorquerov"]
+[Black "escalibut"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:46"]
+[WhiteElo "2067"]
+[BlackElo "2038"]
+[WhiteRatingDiff "-30"]
+[BlackRatingDiff "+12"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Push Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nf6 5. Bf4 Nc6 6. Nf3 d6 7. h3 e5 8. Bg5 Be7 9. O-O O-O 10. Nbd2 Be6 11. Re1 h6 12. Bh4 g5 13. Nxg5 hxg5 14. Bxg5 Nh7 15. Bh6 Kh8 16. Qh5 Rg8 17. Nf3 Qd7 18. Nh4 Rg6 19. Nxg6+ fxg6 20. Qe2 Rg8 21. Bc4 g5 22. h4 gxh4 23. Qd3 h3 24. g3 a6 25. Bb3 Na5 26. Bxe6 Qxe6 27. Be3 Ng5 28. Bxg5 Bxg5 29. Qf3 Nc4 30. Rad1 Qh6 31. Kh2 Be7 32. Re2 Nb6 33. b3 Nd7 34. Qf5 Nf6 35. Qxh3 Ng4+ 36. Kg2 Qxh3+ 37. Kxh3 Nf6 38. f3 Kg7 39. g4 Kf7 40. c4 b6 41. a3 a5 42. b4 axb4 43. axb4 Rh8+ 44. Kg2 Ra8 45. Rdd2 Ra3 46. Ra2 Rb3 47. Reb2 Rc3 48. Rc2 Rb3 49. Rab2 Rd3 50. c5 dxc5 51. bxc5 Bxc5 52. Ra2 Nh7 53. Ra7+ Kg6 54. Rc1 Ng5 55. Rh1 Nxf3 56. Rh8 Kg5 57. Rf7 Nh4+ 58. Kh2 Rd2+ 59. Kh3 Rd3+ 60. Kh2 Nf3+ 61. Kg2 Kxg4 62. Rg8+ Ng5 63. Rfg7 Be3 64. Kf1 Bf4 65. Rb7 Rb3 66. Rgb8 Be3 67. Rg8 Rb2 68. Ke1 Kf3 69. Rf8+ Kxe4 70. Kd1 Nf3 71. Rbf7 Nd4 72. Rf4+ exf4 73. Re8+ Kd3 74. Rxe3+ fxe3 75. Kc1 Rh2 76. Kb1 b5 77. Ka1 b4 78. Kb1 b3 79. Ka1 Kc3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GDSi6NSF"]
+[White "milesaway"]
+[Black "HoxHound"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:54"]
+[WhiteElo "1343"]
+[BlackElo "1560"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+12"]
+[ECO "B57"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bb5+ Bd7 6. O-O Nxe4 7. f3 Nf6 8. h4 Nc6 9. Be3 Nxd4 10. Bxd7+ Qxd7 11. Bxd4 Qf5 12. Qd3 Qf4 13. Be3 Qxh4 14. Qb5+ Nd7 15. Qxb7 Rd8 16. Bxa7 g6 17. Bb6 Rb8 18. Qa7 Rxb6 19. Qa8+ Rb8 20. Qc6 Bg7 21. Qe4 Qxe4 22. fxe4 Bxb2 23. Nc3 Bxc3 24. Rad1 O-O 25. Rd3 Be5 26. Rh3 Nc5 27. Kf2 Nxe4+ 28. Ke3 Ng5 29. Rh6 Ra8 30. Rfh1 f6 31. Kd3 Ra3+ 32. Kc4 Rxa2 33. Kd5 Ra4 34. Kc6 Ra5 35. Kb6 Rc5 36. Ra1 Rb8+ 37. Ka7 Rcc8 38. Rhh1 Bd4+ 39. Ka6 Rc7 40. Ra4 Ra7# 0-1
+

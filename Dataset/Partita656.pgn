@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/sXDVEOxc"]
+[White "JekyllHyde"]
+[Black "clifford"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:10"]
+[WhiteElo "1744"]
+[BlackElo "1509"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-5"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d4 Nc6 3. c3 cxd4 4. Nf3 d5 5. e5 Bg4 6. cxd4 Bxf3 7. gxf3 Qa5+ 8. Bd2 Qb6 9. Bc3 e6 10. Nd2 Bb4 11. Nb3 Nxd4 12. Qxd4 Qxd4 13. Nxd4 Bxc3+ 14. bxc3 Ne7 15. Rb1 O-O 16. Rxb7 Ng6 17. Bd3 Nf4 18. Kd2 Rab8 19. Rhb1 Rbc8 20. Rxa7 f6 21. exf6 Rxf6 22. Rbb7 Kf8 23. Rxg7 Ke8 24. Rg8+ 1-0
+

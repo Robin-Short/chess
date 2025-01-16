@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PL3YSST0"]
+[White "Grumms"]
+[Black "Maeutics"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:40"]
+[WhiteElo "1713"]
+[BlackElo "1493"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.28] } 2... Nc6 { [%eval 0.28] } 3. Bc4 { [%eval 0.12] } 3... h6 { [%eval 0.46] } 4. d4 { [%eval 0.63] } 4... exd4 { [%eval 0.5] } 5. Nxd4 { [%eval 0.36] } 5... Nxd4 { [%eval 0.84] } 6. Qxd4 { [%eval 0.93] } 6... d6 { [%eval 0.9] } 7. Qd5 { [%eval 0.63] } 7... Qe7 { [%eval 0.56] } 8. O-O { [%eval 0.49] } 8... Nf6 { [%eval 0.46] } 9. Qd3 { [%eval 0.5] } 9... Be6 { [%eval 0.78] } 10. Bxe6 { [%eval 0.35] } 10... fxe6 { [%eval 0.41] } 11. Re1 { [%eval 0.2] } 11... e5 { [%eval 0.55] } 12. Qb3 { [%eval 0.4] } 12... O-O-O { [%eval 0.31] } 13. f3 { [%eval 0.18] } 13... g5 { [%eval 0.18] } 14. Be3 { [%eval 0.0] } 14... Kb8 { [%eval 0.34] } 15. Qa3 { [%eval -0.06] } 15... a6 { [%eval -0.08] } 16. Nc3 { [%eval -0.36] } 16... d5?! { [%eval 0.28] } 17. Qxe7 { [%eval 0.26] } 17... Bxe7 { [%eval 0.23] } 18. Nxd5 { [%eval 0.26] } 18... Nxd5 { [%eval 0.15] } 19. exd5 { [%eval 0.26] } 19... Rxd5 { [%eval 0.27] } 20. c4 { [%eval 0.15] } 20... Rd7 { [%eval 0.19] } 21. a3 { [%eval -0.13] } 21... Rhd8 { [%eval 0.0] } 22. b4 { [%eval -0.13] } 22... Rd3 { [%eval -0.06] } 23. c5 { [%eval -0.32] } 23... b6?! { [%eval 0.5] } 24. cxb6 { [%eval 0.76] } 24... cxb6 { [%eval 0.83] } 25. Bxb6 { [%eval 0.79] } 25... Rc8 { [%eval 1.04] } 26. Rac1? { [%eval 0.0] } 26... Rxc1 { [%eval 0.05] } 27. Rxc1 { [%eval 0.0] } 27... Rxa3 { [%eval 0.0] } 28. Ba7+ { [%eval -0.12] } 28... Ka8 { [%eval 0.0] } 29. Bc5 { [%eval 0.0] } 29... Bf6?! { [%eval 0.93] } 30. b5 { [%eval 0.83] } 30... Ra4 { [%eval 0.77] } 31. b6? { [%eval -0.38] } 31... Bd8? { [%eval 1.87] } 32. Rd1 { [%eval 1.93] } 32... Bf6? { [%eval 3.75] } 33. Rd7 { [%eval 4.0] } 33... Kb8? { [%eval 6.32] } 34. Bd6+ { [%eval 6.27] } 1-0
+

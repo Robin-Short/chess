@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iI8J8uwf"]
+[White "cixon123"]
+[Black "osvaldo123"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:32"]
+[WhiteElo "1514"]
+[BlackElo "1712"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "660+1"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c3 Bf5 3. e3 e6 4. Nf3 h6 5. Nbd2 Nf6 6. Qa4+ Qd7 7. Qb3 b6 8. Qd1 a5 9. Be2 c5 10. Nf1 Bd6 11. Bd2 Nc6 12. Ng3 Bxg3 13. hxg3 c4 14. Nh4 Bh7 15. f3 g5 0-1
+

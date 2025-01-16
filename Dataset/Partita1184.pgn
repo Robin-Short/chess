@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AHv9ohJ3"]
+[White "Ocelot44"]
+[Black "mandeep"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:39"]
+[WhiteElo "1645"]
+[BlackElo "1446"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. Nf3 c5 2. e4 Nc6 3. b3 e5 4. Bb2 Bd6 5. Nc3 Nf6 6. Be2 O-O 7. O-O a6 8. Nh4 b5 9. Nf5 Nd4 10. Nxd6 Qe7 11. Nf5 Qe6 12. Bg4 Qc6 13. Ne7+ Kh8 14. Nxc6 dxc6 15. Bxc8 Raxc8 16. Ne2 Nxe2+ 17. Qxe2 Rcd8 18. Bxe5 Rfe8 19. Bxf6 gxf6 20. Qh5 Rxe4 21. Rfe1 Red4 22. Re7 Rxd2 23. Rxf7 R8d5 24. Qxh7# 1-0
+

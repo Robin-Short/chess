@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xmMZMaLE"]
+[White "patrimpas"]
+[Black "helgust"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:43:54"]
+[WhiteElo "2013"]
+[BlackElo "1444"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be3 Qb6 6. b3 Bb4+ 7. c3 Bxb1 8. cxb4 Be4 9. a3 Ne7 10. Be2 Bxf3 11. Bxf3 O-O 12. O-O Nd7 13. Qd3 f5 14. exf6 Nxf6 15. Rfe1 Nf5 16. Rad1 Nxe3 17. Rxe3 Rfe8 18. Rde1 a5 19. bxa5 Qxa5 20. a4 b5 21. axb5 Qxb5 22. Qxb5 cxb5 23. h3 Ra6 24. Be2 Rb6 25. Bd3 Rc6 26. Bxb5 Rcc8 27. Bxe8 Nxe8 28. Rxe6 Rc3 29. Rxe8+ Kf7 30. Rd8 Rxb3 31. Rxd5 Kf6 32. Rd6+ Kf5 33. Rd7 Kf6 34. d5 Rd3 35. Re6+ Kf5 36. Rf7+ Kg5 37. Rxg7+ Kf5 38. Rf7+ Kg5 39. d6 Rd1+ 40. Kh2 h5 41. d7 Kh4 42. Re8 Rd4 43. g3+ Kg5 44. Rg8+ Kh6 45. d8=Q Rxd8 46. Rxd8 Kg6 47. Rb7 Kf6 48. Rd5 Kg6 49. Rb6+ Kf7 50. Rd7+ Ke8 51. Ra7 Kd8 52. Rb8# 1-0
+

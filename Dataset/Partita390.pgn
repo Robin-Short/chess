@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aeXo4lHh"]
+[White "GATOFELIX"]
+[Black "subaido"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:15:43"]
+[WhiteElo "1588"]
+[BlackElo "1703"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. f4 c6 3. d4 d5 4. e5 g6 5. Nf3 h5 6. c4 Ne7 7. Nc3 Nf5 8. Bd2 Be7 9. Qc2 Bh4+ 10. g3 Bxg3+ 11. hxg3 Nxg3 12. Rh3 Nf5 13. Qd3 h4 14. O-O-O Nd7 15. Be1 dxc4 16. Qxc4 Qa5 17. Kb1 Ne3 18. Qd3 Nxd1 19. Nxd1 Qd5 20. Ne3 Qb5 21. Nc4 Kf8 22. Rxh4 Rxh4 23. Bxh4 Nb6 24. Qa3+ Kg8 25. Ng5 Nxc4 26. Qc3 Nd2+ 0-1
+

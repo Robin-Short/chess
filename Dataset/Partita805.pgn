@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WH9OMZ9Z"]
+[White "pepe_reina"]
+[Black "timtim"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:56"]
+[WhiteElo "1209"]
+[BlackElo "1242"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+19"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 h6 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 c5 8. Qd3 Be7 9. Nd5 Nxd5 10. Qxd5 O-O 11. e5 d6 12. e6 fxe6 13. Qe4 Rf6 14. Bd3 Rf5 15. Bxh6 Re5 16. O-O Rxe4 17. Bxe4 Bg5 18. Bxg5 Qxg5 19. f4 Qg4 20. Rae1 d5 21. h3 Qh4 22. Bd3 c4 23. Be2 b5 24. Bg4 Qf6 25. f5 exf5 26. Re8+ Kh7 27. Bf3 Qd4+ 28. Kh1 Bb7 29. Re7 Rb8 30. c3 Qd3 31. Rfe1 Qd2 32. Rg1 a6 33. Re5 Bc6 34. Rxf5 Re8 35. Rh5+ Kg6 36. g4 Re2 37. Rg2 Rxg2 38. Bxg2 Qe1+ 39. Kh2 Qf2 40. h4 d4 41. Rg5+ Kf7 42. Rf5+ Kg8 0-1
+

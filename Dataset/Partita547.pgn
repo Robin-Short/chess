@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/telKW0zb"]
+[White "SmashingU"]
+[Black "Heisenberg2"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:10"]
+[WhiteElo "1373"]
+[BlackElo "936"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-4"]
+[ECO "D30"]
+[Opening "Semi-Slav Defense: Quiet Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. e3 e6 4. Nf3 c6 5. Nbd2 Bb4 6. Be2 O-O 7. a3 Bxd2+ 8. Nxd2 a6 9. b4 b5 10. cxb5 axb5 11. Bb2 Nbd7 12. O-O Ne4 13. Rc1 Nxd2 14. Qxd2 Bb7 15. Bf3 f5 16. Be2 g6 17. f3 Re8 18. Qc3 Kf8 19. e4 dxe4 20. fxe4 Kg8 21. exf5 exf5 22. Bf3 Qc8 23. d5 cxd5 24. Qg7# 1-0
+

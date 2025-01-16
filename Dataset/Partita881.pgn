@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/7jigNBPz"]
+[White "insidejob911"]
+[Black "irina"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:34"]
+[WhiteElo "1678"]
+[BlackElo "1646"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. c3 e6 2. d3 d5 3. Qc2 Nf6 4. e4 dxe4 5. dxe4 e5 6. Bg5 Bd6 7. Nf3 h6 8. Bh4 O-O 9. Nbd2 Bg4 10. Be2 Bxf3 11. Bxf3 g5 12. Bg3 g4 13. Be2 h5 14. Nc4 Qe7 15. Nxd6 cxd6 16. h3 Qe6 17. hxg4 Nxg4 18. O-O-O Nd7 19. Bh4 Nxf2 20. Bxf2 Nf6 1-0
+

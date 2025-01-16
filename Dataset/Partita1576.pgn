@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/26c1fsAs"]
+[White "Sult4nt"]
+[Black "ves"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:44"]
+[WhiteElo "1538"]
+[BlackElo "1784"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. d3 dxe4 3. d4 c5 4. d5 e6 5. Bd2 exd5 6. Bb5+ Nc6 7. c4 d4 8. Nh3 Nf6 9. O-O Be7 10. Re1 O-O 11. Qc1 a6 12. Bxc6 bxc6 13. Bg5 Bxh3 14. gxh3 Ne8 15. Bxe7 Qxe7 16. Kh1 Nf6 17. Rg1 g6 18. Nd2 e3 19. fxe3 Qxe3 20. Qf1 Qxd2 21. Qxf6 Rae8 22. Rad1 Qxb2 23. Rdf1 Re2 24. h4 Rxh2# 0-1
+

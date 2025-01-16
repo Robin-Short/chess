@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JWkv5fhn"]
+[White "vid"]
+[Black "rasko"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:17"]
+[WhiteElo "1984"]
+[BlackElo "1791"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Bd3 Bb4 5. Bd2 Nf6 6. Nge2 h6 7. a3 Bxc3 8. Nxc3 a6 9. Qe2 Nc6 10. Be3 d5 11. e5 Nh7 12. f4 f5 13. Qh5+ Kd7 14. b4 b5 15. g4 fxg4 16. Qxg4 Qf8 17. f5 Nd8 18. a4 h5 19. Qg6 Qe7 20. fxe6+ Nxe6 21. axb5 Qxb4 22. Kd2 Nhf8 23. Rab1 Qxc3+ 24. Kxc3 Nxg6 25. Bxg6 axb5 26. Rxb5 Bc6 27. Rbb1 Ra4 28. Bf5 Rc4+ 29. Kd2 Ba4 30. Rhg1 Rxc2+ 31. Bxc2 c5 32. Bxa4+ 1-0
+

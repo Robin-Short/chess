@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TkruHGGj"]
+[White "pece_29"]
+[Black "venceslav"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:56"]
+[WhiteElo "1410"]
+[BlackElo "1226"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. c3 d5 5. exd5 Nxd5 6. Bxd5 Qxd5 7. Qf3 Be6 8. Qxd5 Bxd5 9. f3 O-O-O 10. Ne2 Bc5 11. b4 Bd6 12. O-O e4 13. fxe4 Be6 14. Bb2 a5 15. a3 b5 16. c4 bxc4 17. dxc4 Bxc4 18. Re1 axb4 19. axb4 Nxb4 20. Ra8+ Kb7 21. Rxd8 Rxd8 22. Bxg7 Nc2 23. Rc1 Ne3 24. Bd4 Ng4 25. g3 Re8 26. Rxc4 Rxe4 27. Nec3 Re1+ 28. Kg2 Be5 29. Bxe5 Nxe5 30. Re4 Rc1 31. Rxe5 Rc2+ 32. Kf3 Kb6 33. h4 f6 34. Re7 h5 35. Rh7 Kc5 36. Rxh5+ Kd4 37. Rh7 c5 38. Rf7 Ke5 39. h5 Rb2 40. h6 Rb8 41. g4 Rh8 42. h7 c4 43. Na3 Kd4 44. Ne4 c3 45. Nxf6 Kd3 46. Re7 Kd2 47. Re8 c2 48. Nxc2 Rxh7 49. Nxh7 Kxc2 50. Rd8 Kc3 51. Ke4 Kc4 52. Rc8+ Kb5 53. Kd5 Kb6 54. Rc2 Kb5 55. Rb2+ Ka4 56. Kc4 Ka3 57. Rb7 Ka4 58. Ra7# 1-0
+

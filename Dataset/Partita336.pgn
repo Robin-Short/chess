@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Itu35gj2"]
+[White "serge_vw1"]
+[Black "sadikh"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:09"]
+[WhiteElo "2032"]
+[BlackElo "1616"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Fried Liver Attack"]
+[TimeControl "120+3"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... e5 { [%eval 0.2] } 2. Nf3 { [%eval 0.17] } 2... Nc6 { [%eval 0.16] } 3. Bc4 { [%eval 0.18] } 3... Nf6 { [%eval 0.15] } 4. Ng5 { [%eval -0.24] } 4... d5 { [%eval -0.32] } 5. exd5 { [%eval -0.21] } 5... Nxd5? { [%eval 1.03] } 6. Nxf7 { [%eval 0.89] } 6... Kxf7 { [%eval 1.03] } 7. Qf3+ { [%eval 0.99] } 7... Ke6 { [%eval 0.74] } 8. Nc3 { [%eval 0.87] } 8... Nb4 { [%eval 1.11] } 9. a3? { [%eval -1.27] } 9... Nxc2+ { [%eval -0.2] } 10. Kd1 { [%eval -1.6] } 10... c6?? { [%eval 2.48] } 11. Kxc2 { [%eval 2.25] } 11... Bc5? { [%eval 3.6] } 12. d3? { [%eval 1.8] } 12... Rf8 { [%eval 1.81] } 13. Qg4+? { [%eval 0.09] } 13... Kd6?! { [%eval 1.03] } 14. Ne4+ { [%eval 1.1] } 14... Kc7 { [%eval 1.18] } 15. Qxg7+ { [%eval 1.1] } 15... Qe7 { [%eval 1.17] } 16. Qxe7+ { [%eval 0.81] } 16... Bxe7 { [%eval 0.72] } 17. f3 { [%eval 0.51] } 17... Be6 { [%eval 0.76] } 18. b4?! { [%eval 0.21] } 18... Rad8?! { [%eval 0.95] } 19. Re1 { [%eval 0.96] } 19... Rg8 { [%eval 1.15] } 20. g3 { [%eval 0.92] } 20... Rgf8 { [%eval 0.81] } 21. Bb2 { [%eval 0.77] } 21... Bd6? { [%eval 2.33] } 22. Nxd6 { [%eval 2.35] } 22... Kxd6 { [%eval 2.39] } 23. Bxe5+ { [%eval 2.37] } 23... Kd7 { [%eval 2.39] } 24. f4 { [%eval 2.37] } 24... Bh3 { [%eval 2.74] } 25. Bxd5?! { [%eval 2.01] } 25... cxd5 { [%eval 2.01] } 26. Rac1 { [%eval 1.99] } 26... Rc8+ { [%eval 2.03] } 27. Kb3?! { [%eval 1.44] } 27... Rxc1 { [%eval 1.4] } 28. Rxc1 { [%eval 1.46] } 28... Ke6?! { [%eval 2.36] } 29. Rc7 { [%eval 2.37] } 29... Rf7 { [%eval 2.31] } 30. Rxf7? { [%eval 1.18] } 30... Kxf7 { [%eval 1.19] } 31. Kc3 { [%eval 1.21] } 31... Bg2 { [%eval 1.33] } 32. Kd4 { [%eval 1.41] } 32... h5 { [%eval 1.69] } 33. Kc5 { [%eval 1.75] } 33... Ke6 { [%eval 1.76] } 34. Bb8 { [%eval 1.71] } 34... Kf5 { [%eval 2.17] } 35. Bxa7 { [%eval 2.14] } 35... Kg4 { [%eval 2.46] } 36. Bb8 { [%eval 2.63] } 36... Kf3?? { [%eval 7.27] } 37. f5 { [%eval 6.7] } 37... Ke3?? { [%eval 10.85] } 38. d4?? { [%eval 5.78] } 38... Ke4?? { [%eval 11.49] } 39. f6 { [%eval 11.5] } 1-0
+

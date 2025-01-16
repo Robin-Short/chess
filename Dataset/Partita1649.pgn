@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/CWQwYhXp"]
+[White "amirsalarkhan"]
+[Black "atikus"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:19"]
+[WhiteElo "1642"]
+[BlackElo "1796"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-17"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Godiva Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nxc6 bxc6 6. Bd3 e6 7. O-O d5 8. exd5 cxd5 9. Qe2 a5 10. Bb5+ Bd7 11. Bxd7+ Kxd7 12. Nc3 Nf6 13. Qb5+ Qxb5 14. Nxb5 Be7 15. a4 Rhc8 16. c3 Ne4 17. Be3 Bc5 18. Bxc5 Nxc5 19. b4 Ne4 20. Ra3 Rc4 21. bxa5 Rxa5 22. Rfa1 Nc5 23. Rb1 Rcxa4 24. Rxa4 Rxa4 25. Nd4 Kc7 26. f3 Ra3 27. Nb5+ Kc6 28. Nxa3 Na4 29. c4 Kc5 30. cxd5 exd5 31. Rb7 d4 32. Rxf7 Nc3 33. Rxg7 d3 34. Rd7 Nd5 35. Nb1 Kc4 36. Kf2 Nf4 37. g3 Nh3+ 38. Kg2 Ng5 39. f4 Ne4 40. Kf3 Nc5 41. Rxh7 Kb3 42. Nd2+ Kc2 43. Nf1 Nb3 44. Rc7+ Kd1 45. Ke3 d2 46. Nxd2 Nxd2 47. Rd7 Ke1 48. Rxd2 Kf1 49. Re2 Kg1 50. Rf2 Kh1 51. Kf3 Kg1 52. g4 Kh1 53. Kg3 Kg1 54. Rf3 Kh1 55. Rf1# 1-0
+

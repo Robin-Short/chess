@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/wALPneE1"]
+[White "yawhehe"]
+[Black "Dolce_Denise"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:26:14"]
+[WhiteElo "1582"]
+[BlackElo "1670"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 b6 3. Nc3 Bb7 4. d4 Nf6 5. e5 Nd5 6. Bg5 Be7 7. Be3 Nxc3 8. bxc3 d6 9. Qd2 Nd7 10. Bd3 O-O 11. O-O dxe5 12. Qe2 exd4 13. Bxd4 c5 14. Be5 Nxe5 15. Nxe5 Qd5 16. Qh5 Qxg2# 0-1
+

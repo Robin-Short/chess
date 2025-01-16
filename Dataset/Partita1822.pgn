@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WWpC725M"]
+[White "alexey87"]
+[Black "yesse2"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:00"]
+[WhiteElo "1587"]
+[BlackElo "1517"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Ne2 d5 3. exd5 Qxd5 4. Ng3 Qe5+ 5. Be2 Nc6 6. d3 Bc5 7. Nc3 Qf6 8. Nce4 Qe5 9. f4 Qd5 10. c4 Qd4 11. Bf3 Nf6 12. Ne2 Qd8 13. Nxc5 Nd4 14. Be3 Nxf3+ 15. gxf3 O-O 16. Qd2 b6 17. Ne4 Bb7 18. Nxf6+ Qxf6 19. O-O-O Rfd8 20. Rhf1 b5 21. b3 Qa1+ 22. Kc2 Qxa2+ 23. Kc3 Qa5+ 24. Kc2 b4 25. Ra1 Qf5 26. Nd4 Qf6 27. Nb5 Rd7 28. Qxb4 Rad8 29. Rfd1 e5 30. Nxa7 exf4 31. Bxf4 Qxf4 32. Qc3 Qxf3 33. Kb2 Ra8 34. Rf1 Qe2+ 35. Qc2 Qxd3 36. Qxd3 Rxd3 37. Nb5 Rf8 38. Nxc7 Be4 39. Nb5 Rd2+ 40. Ka3 Rc2 41. Kb4 1-0
+

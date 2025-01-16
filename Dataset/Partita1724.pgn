@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2YMo4tzN"]
+[White "Andre729"]
+[Black "Philosopher12"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:16:40"]
+[WhiteElo "1284"]
+[BlackElo "1364"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A49"]
+[Opening "East Indian Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. e3 Bg7 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. O-O O-O 8. Ng5 c5 9. dxc5 Nxc5 10. e4 Ncxe4 11. Ncxe4 Nxe4 12. Nxe4 dxe4 13. Qxd8 Rfxd8 14. Re1 h6 15. Rxe4 Rd1+ 0-1
+

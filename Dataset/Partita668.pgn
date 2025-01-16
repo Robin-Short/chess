@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5j6M5kcu"]
+[White "novatojugad"]
+[Black "fischerman"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:51"]
+[WhiteElo "1607"]
+[BlackElo "1612"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 Bc5 4. fxe5 Nge7 5. d4 Bb6 6. Nc3 O-O 7. Na4 Ng6 8. Nxb6 axb6 9. Bg5 Qe8 10. Be2 d6 11. c3 dxe5 12. d5 Nce7 13. O-O Nf4 14. Bxf4 exf4 15. Qd2 Ng6 16. Bd3 Bg4 17. Nd4 Qe7 18. h3 Bd7 19. a3 Qg5 20. Rae1 Bxh3 21. Nf3 Qg3 22. e5 Bg4 23. Bxg6 fxg6 24. e6 Rfe8 25. Ne5 f3 26. Nxf3 Bxf3 27. Rxf3 Qd6 28. c4 c6 29. Rd1 cxd5 30. cxd5 Rad8 31. Rd3 Qc5+ 32. Qf2 Qxf2+ 33. Kxf2 Rf8+ 34. Kg3 Rfe8 35. Kf4 h6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/sF0OPWo7"]
+[White "Arcticpenguin"]
+[Black "Yorka"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:25:10"]
+[WhiteElo "1515"]
+[BlackElo "1765"]
+[WhiteRatingDiff "+31"]
+[BlackRatingDiff "-18"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line, Mieses Variation"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.48] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.53] } 3. Nc3 { [%eval 0.53] } 3... Qa5 { [%eval 0.81] } 4. d4 { [%eval 0.73] } 4... Nf6 { [%eval 0.79] } 5. Bd2 { [%eval 0.53] } 5... Bg4 { [%eval 0.6] } 6. Nf3 { [%eval 0.54] } 6... e6 { [%eval 0.6] } 7. h3 { [%eval 0.74] } 7... Bxf3 { [%eval 0.74] } 8. Qxf3 { [%eval 0.6] } 8... Nc6 { [%eval 0.92] } 9. Bb5 { [%eval 0.5] } 9... O-O-O { [%eval 0.87] } 10. Bxc6 { [%eval 0.86] } 10... bxc6 { [%eval 0.87] } 11. Qxc6 { [%eval 0.85] } 11... Bb4 { [%eval 0.98] } 12. O-O { [%eval 0.96] } 12... Kb8 { [%eval 1.24] } 13. Be3 { [%eval 1.05] } 13... Rd6 { [%eval 1.21] } 14. Qb5+ { [%eval 0.96] } 14... Qxb5 { [%eval 1.04] } 15. Nxb5 { [%eval 0.98] } 15... Rd5 { [%eval 1.13] } 16. c4 { [%eval 1.19] } 16... Rh5 { [%eval 1.37] } 17. a3 { [%eval 1.41] } 17... Be7 { [%eval 1.44] } 18. b4 { [%eval 1.39] } 18... a6 { [%eval 1.5] } 19. Nc3 { [%eval 1.45] } 19... h6 { [%eval 1.76] } 20. d5? { [%eval 0.68] } 20... exd5 { [%eval 0.72] } 21. Nxd5?! { [%eval 0.11] } 21... Nxd5 { [%eval 0.05] } 22. cxd5 { [%eval 0.07] } 22... Rd8 { [%eval 0.17] } 23. Rfd1 { [%eval 0.0] } 23... Rhxd5 { [%eval 0.0] } 24. Rxd5 { [%eval 0.0] } 24... Rxd5 { [%eval 0.0] } 25. Kf1 { [%eval 0.06] } 25... Rd6 { [%eval 0.3] } 26. Ke2 { [%eval 0.32] } 26... Rd7 { [%eval 0.35] } 27. Rd1 { [%eval 0.08] } 27... Rxd1 { [%eval 0.05] } 28. Kxd1 { [%eval 0.07] } 28... Kb7 { [%eval 0.02] } 29. Bd4 { [%eval 0.05] } 29... f6 { [%eval 0.1] } 30. f4 { [%eval -0.07] } 30... Kc6 { [%eval -0.13] } 31. g4?! { [%eval -0.84] } 31... Kb5?! { [%eval -0.23] } 32. Bb2 { [%eval -0.7] } 32... Ka4 { [%eval -0.69] } 33. Ke2? { [%eval -2.33] } 33... Kb3 { [%eval -2.31] } 34. Bc1 { [%eval -2.47] } 34... c6? { [%eval -0.64] } 35. Kd3 { [%eval -0.56] } 35... Bd6 { [%eval -0.25] } 36. Kd4 { [%eval -0.48] } 36... Bc7? { [%eval 0.52] } 37. f5? { [%eval -0.54] } 37... Bb6+ { [%eval -0.55] } 38. Ke4 { [%eval -0.55] } 38... Kc2? { [%eval 2.0] } 39. Be3? { [%eval -0.01] } 39... Bxe3 { [%eval -0.3] } 40. Kxe3 { [%eval -0.21] } 40... Kb3 { [%eval 0.0] } 41. Kd4 { [%eval 0.0] } 41... Kxa3 { [%eval 0.0] } 42. Kc5?? { [%eval -6.01] } 42... h5?? { [%eval 0.0] } 43. Kxc6?? { [%eval -49.11] } 43... Kb3?? { [%eval -2.78] } 44. b5?? { [%eval -9.65] } 44... a5?? { [%eval 50.53] } 45. b6 { [%eval 49.21] } 45... a4 { [%eval 49.31] } 46. b7 { [%eval 58.72] } 46... a3 { [%eval 113.47] } 47. b8=Q+ { [%eval 59.79] } 47... Ka2?! { [%eval #6] } 48. Qa7?! { [%eval 59.8] } 48... Kb2 { [%eval 113.47] } 49. Kd6 { [%eval 59.69] } 49... a2 { [%eval 60.23] } 50. Ke6 { [%eval 58.88] } 50... h4 { [%eval 59.84] } 51. Qxa2+ { [%eval #14] } 51... Kxa2 { [%eval #14] } 52. Kf7 { [%eval #13] } 52... Kb3 { [%eval #13] } 53. Kxg7 { [%eval #12] } 53... Kc4 { [%eval #12] } 54. Kxf6 { [%eval #11] } 54... Kd5 { [%eval #11] } 55. Ke7 { [%eval #10] } 55... Ke5 { [%eval #10] } 56. f6 { [%eval #9] } 56... Kf4 { [%eval #9] } 57. f7 { [%eval #8] } 57... Kg3 { [%eval #7] } 58. f8=Q { [%eval #6] } 58... Kxh3 { [%eval #6] } 59. Qg7 { [%eval #9] } 59... Kg3 { [%eval #9] } 60. g5 { [%eval #8] } 60... h3 { [%eval #8] } 61. g6 { [%eval #7] } 61... h2 { [%eval #7] } 62. Qh6 { [%eval #6] } 62... Kg2 { [%eval #6] } 63. g7 { [%eval #5] } 63... h1=Q { [%eval #4] } 64. Qxh1+?! { [%eval #6] } 64... Kxh1 { [%eval #6] } 65. g8=Q { [%eval #5] } 1-0
+

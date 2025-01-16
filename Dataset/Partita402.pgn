@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9ADxJGJY"]
+[White "shammies"]
+[Black "favara"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:16:01"]
+[WhiteElo "1895"]
+[BlackElo "1293"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. d4 d5 3. c4 Nf6 4. cxd5 Qxd5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Ne4 8. g3 h6 9. Bg2 Qb5 10. Rb1 Qd7 11. Ne5 Qe7 12. Bxe4 Nc6 13. Nxc6 bxc6 14. Bxc6+ Bd7 15. Bxa8 Bb5 16. Rxb5 a6 17. Bc6+ Kd8 18. Rb8# 1-0
+

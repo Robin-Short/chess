@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vsJE3LrJ"]
+[White "lopez2013"]
+[Black "Ramram"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:37:42"]
+[WhiteElo "1735"]
+[BlackElo "1469"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "240+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. O-O Bd6 5. Re1 a6 6. d4 exd4 7. Nxd4 Nxd4 8. Qxd4 Ne7 9. f4 Nc6 10. Qd5 Nb4 11. Qf7# 1-0
+

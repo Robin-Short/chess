@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sZWWyrRu"]
+[White "Paupau"]
+[Black "probando"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:23"]
+[WhiteElo "1547"]
+[BlackElo "1738"]
+[WhiteRatingDiff "+34"]
+[BlackRatingDiff "-18"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 Nd7 8. cxd5 cxd5 9. c4 dxc4 10. Bxc4 Rc8 11. Qb3 Qc7 12. Bb5 Ne7 13. Nf3 O-O 14. O-O Nb6 15. Bg5 Ned5 16. Bd3 Bxd3 17. Qxd3 Qc3 18. Qxc3 Rxc3 19. Bd2 Rd3 20. Bb4 Rc8 21. h3 Rb3 22. Rfb1 Rd3 23. Rd1 Rxd1+ 24. Rxd1 Rc2 25. Nd2 Nc4 26. Nb3 Nxb4 27. axb4 Rb2 28. Rc1 b5 29. Nc5 Rxb4 30. Na6 Rb3 31. Nc7 a6 32. Nxa6 Rd3 33. Nc7 Rxd4 34. Nxb5 Re4 35. Nd6 Nxd6 36. exd6 g6 37. d7 Rd4 38. Rc8+ Kg7 39. d8=Q Re4 40. Qg8+ Kh6 41. Qxf7 e5 42. Rh8 Re1+ 43. Kh2 Kg5 44. Rxh7 e4 45. Qd5+ Kf6 46. Rf7# 1-0
+

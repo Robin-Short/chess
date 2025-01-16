@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/r4qEvOIB"]
+[White "Pratadf1951"]
+[Black "CologneHommeSport"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:25:25"]
+[WhiteElo "1223"]
+[BlackElo "1206"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+11"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "1500+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.23] } 1... c5 { [%eval 0.34] } 2. d4 { [%eval 0.18] } 2... b6?! { [%eval 1.07] } 3. d5 { [%eval 0.89] } 3... Nf6?! { [%eval 1.74] } 4. Bg5? { [%eval -0.72] } 4... Nxe4 { [%eval -0.69] } 5. Be3 { [%eval -0.77] } 5... e5?! { [%eval -0.27] } 6. Bd3 { [%eval -0.75] } 6... Nf6 { [%eval -0.5] } 7. Bg5 { [%eval -0.89] } 7... Be7 { [%eval -0.92] } 8. Bxf6 { [%eval -1.07] } 8... Bxf6 { [%eval -1.1] } 9. Nf3? { [%eval -2.21] } 9... O-O?! { [%eval -1.23] } 10. Nc3 { [%eval -1.16] } 10... a6?! { [%eval -0.39] } 11. Ne4?! { [%eval -1.0] } 11... b5 { [%eval -0.68] } 12. Nxc5 { [%eval -1.13] } 12... Qc7? { [%eval 0.2] } 13. Ne4 { [%eval 0.26] } 13... Bb7? { [%eval 2.69] } 14. Nxf6+ { [%eval 2.71] } 14... gxf6 { [%eval 2.74] } 15. Be4?! { [%eval 1.84] } 15... Qc4?? { [%eval 8.0] } 16. Qd3?? { [%eval 0.41] } 16... Qxd3 { [%eval 0.37] } 17. cxd3 { [%eval 0.27] } 17... d6 { [%eval 0.39] } 18. O-O { [%eval 0.31] } 18... Rc8?! { [%eval 0.91] } 19. b4?! { [%eval 0.2] } 19... Rc3 { [%eval 0.43] } 20. Nh4 { [%eval 0.55] } 20... Nd7 { [%eval 0.62] } 21. Nf5 { [%eval 0.6] } 21... Rd8?! { [%eval 1.37] } 22. Nxd6 { [%eval 1.23] } 22... Ba8 { [%eval 1.2] } 23. Rac1?! { [%eval 0.24] } 23... Ra3? { [%eval 1.81] } 24. Rc8? { [%eval 0.58] } 24... Rxc8 { [%eval 0.63] } 25. Nxc8 { [%eval 0.75] } 25... Rxa2 { [%eval 1.08] } 26. d6? { [%eval 0.0] } 26... Bxe4 { [%eval 0.22] } 27. dxe4 { [%eval 0.0] } 27... Ra4?! { [%eval 0.86] } 28. Rb1 { [%eval 0.52] } 28... Nb8? { [%eval 3.24] } 29. Rd1?? { [%eval -0.15] } 29... Nd7?! { [%eval 0.84] } 30. Ne7+ { [%eval 0.79] } 30... Kg7 { [%eval 1.04] } 31. Nf5+ { [%eval 1.46] } 31... Kg6 { [%eval 1.28] } 32. g4? { [%eval -0.43] } 32... Rxb4 { [%eval -0.36] } 33. h4?! { [%eval -1.0] } 33... Rxe4 { [%eval -1.09] } 34. f3 { [%eval -0.97] } 34... h6?? { [%eval 8.43] } 35. h5+? { [%eval 5.49] } 35... Kg5 { [%eval 5.72] } 36. Kf2?? { [%eval -1.75] } 36... b4?? { [%eval 6.26] } 37. Ng3?? { [%eval -2.29] } 37... Rc4 { [%eval -2.02] } 38. Ne4+?! { [%eval -2.62] } 38... Kf4 { [%eval -2.94] } 39. Ra1? { [%eval -4.27] } 39... Rc2+ { [%eval -4.14] } 40. Ke1 { [%eval -4.24] } 40... Kxf3 { [%eval -4.06] } 41. Nd2+ { [%eval -4.07] } 41... Ke3 { [%eval -4.13] } 42. Nf1+ { [%eval -4.21] } 42... Kd3 { [%eval -4.1] } 43. Rd1+ { [%eval -4.02] } 43... Kc3 { [%eval -4.01] } 44. Ne3 { [%eval -3.96] } 44... Ra2?! { [%eval -3.12] } 45. Rc1+ { [%eval -2.69] } 45... Kd3 { [%eval -2.79] } 46. Rc7?? { [%eval -9.03] } 46... Ra1+?? { [%eval -2.15] } 47. Kf2? { [%eval -3.18] } 47... Ra2+?? { [%eval 0.0] } 48. Kf3?? { [%eval -5.98] } 48... Nb6?? { [%eval 0.22] } 49. Rb7?? { [%eval -4.78] } 49... e4+ { [%eval -4.86] } 0-1
+

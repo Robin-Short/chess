@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K6L8nSUV"]
+[White "dastyar"]
+[Black "Richard10"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:58"]
+[WhiteElo "1474"]
+[BlackElo "1566"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 g6 4. c4 Bg7 5. c5 O-O 6. Nf3 c6 7. Bd3 Bg4 8. Nbd2 Nbd7 9. h3 Bxf3 10. Nxf3 Nh5 11. Bh2 Re8 12. Qc2 e5 13. Nd2 e4 14. Be2 Nhf6 15. O-O h5 16. f3 Bh6 17. fxe4 Bxe3+ 18. Kh1 Bxd2 19. Qxd2 Nxe4 20. Qh6 Qg5 21. Qxg5 Nxg5 22. Bf3 Nxf3 23. Rxf3 Re2 24. b3 Rae8 25. Bd6 Re1+ 26. Rxe1 Rxe1+ 27. Kh2 f5 28. Rg3 Kf7 29. a4 Nf6 30. Bb8 a6 31. Be5 Ne4 32. Rf3 Ke6 33. b4 Rb1 34. b5 axb5 35. axb5 Rxb5 36. g4 Rb2+ 37. Kg1 hxg4 38. hxg4 Rb1+ 39. Kg2 Nxc5 40. gxf5+ gxf5 41. dxc5 Kxe5 42. Kf2 d4 43. Ke2 Rb2+ 44. Kd3 Rb3+ 45. Ke2 Rxf3 46. Kxf3 Kd5 47. Kf4 Kxc5 48. Kxf5 b5 49. Ke4 b4 50. Kd3 b3 51. Kd2 Kc4 52. Kc1 Kc3 53. Kb1 d3 54. Kc1 d2+ 55. Kd1 b2 56. Ke2 c5 57. Kd1 c4 58. Ke2 Kc2 59. Ke3 c3 60. Kd4 d1=R+ 61. Kc4 b1=R 62. Kc5 Rd8 63. Kc4 Rbb8 64. Kc5 Kd2 65. Kc4 c2 0-1
+

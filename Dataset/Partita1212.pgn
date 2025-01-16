@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/s4zgF3qF"]
+[White "Icasper"]
+[Black "uashenka072"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:49"]
+[WhiteElo "1687"]
+[BlackElo "1696"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+37"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "420+3"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 e6 4. Nf3 b6 5. Be2 Bb7 6. O-O Nd7 7. d4 c5 8. c3 Rc8 9. b3 a6 10. Be3 Ne7 11. c4 Nf5 12. cxd5 Nxe3 0-1
+

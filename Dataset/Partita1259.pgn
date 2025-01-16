@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fBl3Dup1"]
+[White "lucianolop"]
+[Black "azc"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:50:48"]
+[WhiteElo "1639"]
+[BlackElo "1403"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+18"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[TimeControl "1200+8"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.22] } 1... e6 { [%eval 0.27] } 2. e4 { [%eval 0.17] } 2... d5 { [%eval 0.19] } 3. e5 { [%eval -0.03] } 3... c5 { [%eval 0.01] } 4. c3 { [%eval 0.04] } 4... Nc6 { [%eval -0.03] } 5. Nh3? { [%eval -1.03] } 5... Qb6?! { [%eval -0.51] } 6. Be3? { [%eval -1.66] } 6... Qxb2 { [%eval -1.69] } 7. Nd2 { [%eval -1.75] } 7... Qxc3 { [%eval -1.63] } 8. Rc1 { [%eval -1.73] } 8... Qa5 { [%eval -1.68] } 9. Be2?! { [%eval -2.52] } 9... cxd4 { [%eval -2.44] } 10. Bg5? { [%eval -3.44] } 10... Ba3 { [%eval -3.0] } 11. Rc2? { [%eval -4.25] } 11... Nb4 { [%eval -4.26] } 12. Rc1? { [%eval -5.94] } 12... Bxc1? { [%eval -4.47] } 13. Qxc1?! { [%eval -5.16] } 13... d3?! { [%eval -4.41] } 14. Bd1 { [%eval -4.37] } 14... Nxa2 { [%eval -4.35] } 15. Qa1 { [%eval -4.69] } 15... h6 { [%eval -4.52] } 16. Be3 { [%eval -4.34] } 16... Bd7?! { [%eval -3.78] } 17. O-O { [%eval -3.56] } 17... b6 { [%eval -3.77] } 18. Nf4?! { [%eval -4.44] } 18... Bb5? { [%eval -2.79] } 19. Bb3? { [%eval -4.97] } 19... Nc3 { [%eval -4.97] } 20. Qxa5 { [%eval -5.45] } 20... bxa5 { [%eval -5.46] } 21. Bd4? { [%eval -6.49] } 21... Ne2+ { [%eval -6.48] } 22. Nxe2 { [%eval -6.53] } 22... dxe2 { [%eval -6.48] } 23. Re1 { [%eval -6.58] } 23... Ne7 { [%eval -6.48] } 24. f4 { [%eval -6.56] } 24... O-O?! { [%eval -6.05] } 25. Nf3 { [%eval -6.2] } 25... Rfc8 { [%eval -6.08] } 26. Be3? { [%eval -8.22] } 26... Rc3 { [%eval -8.22] } 27. Nd4? { [%eval -10.57] } 27... Rxe3 { [%eval -10.09] } 28. Kf2 { [%eval -10.67] } 28... Rd3 { [%eval -10.57] } 29. Rxe2 { [%eval -14.9] } 29... Rxd4 { [%eval -15.22] } 0-1
+

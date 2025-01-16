@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/O7z36r94"]
+[White "montecristo"]
+[Black "princechess"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:27:04"]
+[WhiteElo "1406"]
+[BlackElo "1584"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Bc4 e6 3. d3 Bb7 4. Qf3 Qf6 5. Qe2 Bc5 6. Be3 d5 7. Bb5+ c6 8. Nc3 Bb4 9. O-O-O Bxc3 10. e5 Bxe5 11. Ba4 Ba6 12. c3 Ne7 13. Nf3 b5 14. Bc2 b4 15. Bg5 Bf4+ 16. Bxf4 Qxf4+ 17. Rd2 bxc3 18. bxc3 Nd7 19. g3 Qh6 20. Ba4 Bb5 21. Bxb5 cxb5 22. d4 a6 23. h4 Rc8 24. Kb2 Nb6 25. Ka1 Rxc3 26. Rc2 Rxc2 27. Qxc2 Nc4 28. Ne5 O-O 29. f4 f5 30. Qc3 Qh5 31. Qb4 Re8 32. Qd6 Nxd6 0-1
+

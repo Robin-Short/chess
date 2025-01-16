@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/i0ansN2P"]
+[White "ALI29"]
+[Black "uashenka072"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:51:05"]
+[WhiteElo "1697"]
+[BlackElo "1733"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-38"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Nc3 e6 5. Nf3 Nd7 6. Be3 1-0
+

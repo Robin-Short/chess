@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ImXo4ofb"]
+[White "Tarama"]
+[Black "cmath"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:15:53"]
+[WhiteElo "1880"]
+[BlackElo "1644"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. d4 Bf5 5. Nxd5 Qxd5 6. Nf3 Nd7 7. Bd3 Bxd3 8. Qxd3 O-O-O 9. c4 Qa5+ 10. Bd2 Qh5 11. d5 Nc5 12. O-O-O Nxd3+ 13. Kb1 Nxf2 14. Rdf1 Nxh1 15. Rxh1 e6 16. Rd1 exd5 17. cxd5 Rxd5 18. b3 Bb4 19. Kc2 Bxd2 20. Rxd2 Rxd2+ 21. Nxd2 Rd8 22. g3 Rxd2+ 23. Kxd2 Qxh2+ 24. Kc3 Qxa2 25. Kc4 Qxb3+ 26. Kxb3 Kd7 27. Kc3 Ke6 28. Kd4 Kd6 29. Ke3 Kd5 30. Kf4 Kd4 31. g4 c5 32. Kf5 c4 33. g5 c3 34. g6 c2 35. gxf7 c1=Q 36. Ke6 Qf1 37. Ke7 Qxf7+ 38. Kxf7 b5 39. Kxg7 b4 40. Kxh7 b3 41. Kg7 b2 42. Kf7 a5 43. Ke7 b1=Q 44. Kd6 Qe1 45. Kc6 Ke3 46. Kd6 Ke2 47. Ke5 Qd1 48. Kf4 a4 49. Kg3 a3 50. Kg4 a2 51. Kg3 a1=Q 52. Kg4 Qg7+ 53. Kf5 Qf1+ 54. Ke4 Kd1 55. Kd5 Qe2 56. Kc6 Qf8 57. Kb6 Qd8+ 58. Kc6 Qc2+ 59. Kb7 Qdc8+ 60. Ka7 Qb8+ 61. Ka6 Qc5 1/2-1/2
+

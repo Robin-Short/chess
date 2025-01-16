@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SIRCtk76"]
+[White "raflig"]
+[Black "deitana02"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:34"]
+[WhiteElo "1806"]
+[BlackElo "1830"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. e5 Bd7 4. Nf3 c5 5. c3 Nc6 6. a3 Qb6 7. b4 cxd4 8. cxd4 Nge7 9. Nc3 Nf5 10. Na4 Qd8 11. Bb2 a6 12. Bd3 Nh4 13. O-O b5 14. Nc5 Bxc5 15. bxc5 Na5 16. Nxh4 Qxh4 17. f4 Nc4 18. Bxc4 bxc4 19. Bc3 Rb8 20. Rb1 O-O 21. Rb6 Ra8 22. Qf3 Qd8 23. Rfb1 Bb5 24. Qd1 Qc7 25. a4 Bd7 26. Rb7 Qc8 27. Qc2 Bc6 0-1
+

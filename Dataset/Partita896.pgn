@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/U0qXKI6b"]
+[White "edmundocunha"]
+[Black "yesse2"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:59"]
+[WhiteElo "1300"]
+[BlackElo "1493"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d3 Nd4 4. Nc3 h6 5. Nxe5 Qe7 6. Nf3 Nxf3+ 7. Qxf3 d6 8. Qd1 Nf6 9. h3 Be6 10. f4 Qd7 11. f5 Bxa2 12. Rxa2 d5 13. exd5 Nxd5 14. Nxd5 Qxd5 15. Ra1 O-O-O 16. Be2 Bc5 17. Rf1 Rhe8 18. Bd2 Qxg2 19. Rf2 Qg3 20. Be3 Rxe3 21. Qd2 Qg1+ 22. Rf1 Qg3+ 23. Kd1 Re5 24. c4 Be3 25. Qe1 Qg5 26. Kc2 Bd4 27. Qd2 Be3 28. Qc3 Rxf5 29. Rxf5 Qxf5 30. Rf1 Qe5 31. Qxe5 Bc5 32. Qf5+ Kb8 33. Qxc5 b6 0-1
+

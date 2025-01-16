@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mgHxv9a6"]
+[White "edmundocunha"]
+[Black "atol"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:02"]
+[WhiteElo "1295"]
+[BlackElo "1419"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Quiet System"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 a6 3. d3 d6 4. Bd2 e6 5. Nc3 Nc6 6. Be2 Qc7 7. O-O h6 8. Bf4 Ne5 9. Bxe5 dxe5 10. a3 Nf6 11. h3 Bd7 12. Nxe5 Qxe5 13. f4 Qc7 14. f5 e5 15. Nd5 Nxd5 16. exd5 Qd6 17. c4 Be7 18. Bh5 O-O 19. Qg4 Qf6 20. Rf3 Bd6 21. Raf1 Kh8 22. b4 b5 23. bxc5 Bxc5+ 24. Kh1 bxc4 25. dxc4 Rab8 26. Re1 Bd4 27. Re4 Rb1+ 28. Kh2 Rb2 29. Bg6 Be8 30. Rxd4 exd4 31. Qe4 Rb8 32. Rd3 fxg6 33. Rxd4 gxf5 34. Qe6 Qxd4 35. d6 Rd8 36. Qe7 Qxd6+ 37. Qxd6 Rxd6 38. c5 Rc6 0-1
+

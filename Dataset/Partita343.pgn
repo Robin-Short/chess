@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dSGRerl1"]
+[White "Gleidsonp"]
+[Black "Cristian_PD"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:53"]
+[WhiteElo "1584"]
+[BlackElo "1563"]
+[WhiteRatingDiff "-37"]
+[BlackRatingDiff "+10"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. a3 a6 4. b4 b6 5. bxc5 bxc5 6. Bd3 Nc6 7. Bb2 e5 8. O-O Nf6 9. Nc3 Be7 10. Re1 Bb7 11. Ne2 Nd4 12. Ng3 g6 13. c3 Nxf3+ 14. Qxf3 Rc8 15. Bc2 O-O 16. d3 Rb8 17. Bc1 Bc8 18. Bh6 Re8 19. h3 Qa5 20. c4 Rb2 21. Rec1 Kh8 22. Bg5 Kg7 23. Nf1 Qc7 24. Ne3 Bb7 25. Nd5 Nxd5 26. Bxe7 Nxe7 27. Bd1 f5 28. exf5 Bxf3 29. Bxf3 Nxf5 30. g4 Nd4 31. Be4 Qf7 32. Rf1 Reb8 33. f3 Ne2+ 34. Kh1 Ng3+ 35. Kg1 Nxf1 36. Rxf1 Rb1 37. Kg2 Rxf1 38. Kxf1 Rb1+ 39. Kg2 Qb7 40. Kg3 Qb2 41. Kh4 h6 42. Bd5 g5+ 43. Kh5 e4 44. fxe4 Qf6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/MQtnd792"]
+[White "ant77777"]
+[Black "fco_garmx"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:50:16"]
+[WhiteElo "1726"]
+[BlackElo "1862"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-16"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "720+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. d4 c6 3. a3 d5 4. c5 Nf6 5. h3 Nbd7 6. Bf4 Nh5 7. Bh2 Be7 8. e3 Nhf6 9. Nc3 a5 10. b4 axb4 11. axb4 Rxa1 12. Qxa1 b6 13. Nf3 bxc5 14. bxc5 O-O 15. Be2 Ne4 16. Nxe4 dxe4 17. Nd2 f5 18. Nc4 Bf6 19. O-O Nxc5 20. Ne5 Bxe5 21. Bxe5 Nd3 22. Bxd3 exd3 23. Qa3 Qb6 24. Qxd3 Ba6 25. Rb1 Qa5 26. Qb3 Qd5 27. Qxd5 cxd5 28. Rb6 Bc8 29. Rc6 Bd7 30. Rc7 Rf7 31. Kh2 h6 32. f4 Bb5 33. Rc8+ Kh7 34. Rb8 Bd3 35. g4 Ra7 36. Re8 Ra2+ 37. Kg3 Be4 38. Rxe6 Rg2+ 39. Kh4 fxg4 40. hxg4 Rh2+ 41. Kg3 Rg2+ 42. Kh3 Bf3 43. Re7 Rxg4 44. f5 Rg5 45. f6 Rg6 46. fxg7 Kg8 47. Re8+ Kf7 48. Rf8+ Ke6 49. g8=Q+ Rxg8 50. Rxg8 1-0
+

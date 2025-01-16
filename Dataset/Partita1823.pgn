@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/d4f9h4R4"]
+[White "E-Online"]
+[Black "tuskerking"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:56"]
+[WhiteElo "1891"]
+[BlackElo "1921"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 c6 2. Nc3 d5 3. Nce2 Nf6 4. b3 Bg4 5. Bb2 Bxe2 6. Qxe2 Nbd7 7. c3 e5 8. Nf3 Bc5 9. Ng1 O-O 10. Qd1 e4 11. Be2 a5 12. Nh3 a4 13. Nf4 axb3 14. Qxb3 Bb6 15. Qc2 Bc5 16. O-O b5 17. f3 Bd6 18. fxe4 Nxe4 19. Nh3 Ndf6 20. d3 Qc7 21. dxe4 Bxh2+ 22. Kh1 Nxe4 23. Bf3 Ng3+ 24. Kxh2 Nxf1+ 25. Kg1 Nxe3 26. Qf2 Nc4 27. Qh4 Nxb2 28. Ng5 h6 29. Nh3 Qe5 30. Rf1 Qxc3 31. Kh1 Qd3 32. Rg1 Qg6 33. Nf4 Qg5 34. Qxg5 hxg5 35. Nh5 Nc4 36. Re1 Rae8 37. Rc1 Ne3 38. a4 Rc8 39. axb5 cxb5 40. Rb1 Rb8 41. Rb3 d4 42. Be4 Rfd8 43. Ng3 g6 44. Nf5 gxf5 45. Bxf5 Kg7 46. Bd7 Rxd7 47. Rd3 b4 48. Kh2 b3 49. Kg3 b2 50. Kf3 b1=Q 51. Ke4 Qe1 52. g4 Qa5 53. Kf3 Qe5 54. Kf2 Qf4+ 55. Ke2 Nd1 56. Kxd1 Rc7 57. Rf3 Rc1+ 58. Ke2 Rb2+ 0-1
+

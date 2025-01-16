@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/T8mhTUUr"]
+[White "brianmaracay"]
+[Black "ChucksMate"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:16:28"]
+[WhiteElo "1385"]
+[BlackElo "1164"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+18"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "840+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. e5 f6 3. d4 Nc6 4. f4 e6 5. Nf3 f5 6. c4 Bb4+ 7. Nc3 Bxc3+ 8. bxc3 h6 9. Be2 g5 10. h3 gxf4 11. Bxf4 a6 12. Qa4 Bd7 13. Qb3 b5 14. cxb5 axb5 15. Bxb5 Rb8 16. a4 Nge7 17. Qc2 Ng6 18. Qd2 Nxf4 19. Qxf4 Na5 20. Rb1 Bxb5 21. Rxb5 Rxb5 22. axb5 Qd7 23. Kf2 Qxb5 24. Ra1 Qb2+ 0-1
+

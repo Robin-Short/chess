@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xS5nuJfS"]
+[White "romdouze"]
+[Black "shammies"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:00"]
+[WhiteElo "1542"]
+[BlackElo "1896"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+5"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Lputian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.32] } 1... e6 { [%eval 0.25] } 2. d4 { [%eval 0.12] } 2... d5 { [%eval 0.25] } 3. e5 { [%eval 0.05] } 3... c5 { [%eval 0.03] } 4. c3 { [%eval -0.02] } 4... Nc6 { [%eval 0.0] } 5. Nf3 { [%eval 0.06] } 5... Qb6 { [%eval 0.02] } 6. a3 { [%eval -0.01] } 6... Nh6 { [%eval 0.18] } 7. Bd3 { [%eval 0.05] } 7... cxd4 { [%eval 0.08] } 8. cxd4 { [%eval -0.03] } 8... Nf5 { [%eval 0.31] } 9. Bxf5 { [%eval 0.32] } 9... exf5 { [%eval 0.27] } 10. Be3? { [%eval -0.86] } 10... Qxb2 { [%eval -0.84] } 11. Nbd2 { [%eval -0.98] } 11... Qb5 { [%eval -0.93] } 12. Nb3?! { [%eval -1.92] } 12... h6?! { [%eval -1.25] } 13. Rc1? { [%eval -2.62] } 13... Bxa3 { [%eval -2.62] } 14. Rb1 { [%eval -2.26] } 14... b6 { [%eval -2.49] } 15. Nc5? { [%eval -3.81] } 15... Bb4+ { [%eval -3.86] } 16. Bd2? { [%eval -6.26] } 16... Qa5?? { [%eval -1.74] } 17. Bxb4?! { [%eval -2.53] } 17... Nxb4 { [%eval -2.51] } 18. Qd2? { [%eval -4.14] } 18... bxc5 { [%eval -4.11] } 19. dxc5? { [%eval -5.43] } 19... Nd3+ { [%eval -5.36] } 20. Ke2 { [%eval -5.29] } 20... Qxd2+ { [%eval -4.83] } 21. Kxd2 { [%eval -4.71] } 21... Nxc5 { [%eval -4.89] } 22. Nd4 { [%eval -5.34] } 22... O-O { [%eval -4.99] } 23. f4 { [%eval -5.39] } 23... Ne4+ { [%eval -5.34] } 24. Ke3 { [%eval -5.32] } 24... Ba6? { [%eval -3.84] } 25. Rhc1?! { [%eval -4.67] } 25... Rfc8 { [%eval -4.51] } 26. Rxc8+? { [%eval -5.85] } 26... Rxc8 { [%eval -5.84] } 27. Ra1?? { [%eval #-1] } 27... Rc3# 0-1
+

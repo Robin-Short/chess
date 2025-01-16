@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nkMkPkBj"]
+[White "olman2011"]
+[Black "kick"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:33"]
+[WhiteElo "1742"]
+[BlackElo "1747"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. Nf3 d6 3. d4 exd4 4. exd4 Be7 5. Be2 Nf6 6. O-O O-O 7. c4 Bg4 8. Nc3 Nc6 9. h3 Bh5 10. Be3 a6 11. Rc1 Bg6 12. b3 Ne4 13. Nxe4 Bxe4 14. Nd2 Bg6 15. Bf3 Bf6 16. Ne4 Be7 17. Qd2 Qe8 18. Rfe1 Nd8 19. Bg5 Bxg5 20. Nxg5 Qd7 21. Bg4 Qc6 22. Bf3 Qb6 23. Re7 c6 24. Rce1 h6 25. Ne4 Bxe4 26. Bxe4 Ne6 27. d5 Nc5 28. Bb1 Rab8 29. dxc6 bxc6 30. Qxd6 Rbd8 31. Qf4 Nd3 32. Qe4 f5 33. Qe6+ Kh8 34. Qg6 Rg8 35. Bxd3 Rxd3 36. Qxf5 Rd2 37. R1e6 Rf8 38. Rxh6+ 1-0
+

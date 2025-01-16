@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ScPIJzFE"]
+[White "mihael"]
+[Black "phil13"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:55"]
+[WhiteElo "1130"]
+[BlackElo "1230"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. d4 exd4 6. O-O d6 7. Bb5 Bd7 8. Bxc6 Bxc6 9. e5 Bb5 10. Re1 d5 11. Nxd4 Bd7 12. e6 fxe6 13. Nxe6 Qf6 14. Nxc5+ Ne7 15. c3 O-O-O 16. Qb3 b6 17. Na6 Rhf8 18. Rf1 Qg6 19. c4 Bh3 20. Qxh3+ Nf5 21. cxd5 Rxd5 22. Nc3 Ra5 23. Nb4 Re5 24. Qf3 Rfe8 25. Qa8+ Kd7 26. Rd1+ Ke7 27. Qxa7 Kf8 28. Nc6 Re1+ 29. Rxe1 Rxe1# 0-1
+

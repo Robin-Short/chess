@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eGhh0qEi"]
+[White "PedroMarhaJimenez"]
+[Black "glovio_net"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:15:30"]
+[WhiteElo "1182"]
+[BlackElo "1482"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-26"]
+[ECO "C45"]
+[Opening "Scotch Game: Mieses Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Nd5 7. Bc4 Qe7 8. O-O d6 9. exd6 Qxd6 10. Re1+ Be6 11. g3 g6 12. Bxd5 cxd5 13. Bf4 Qb6 14. b3 Bg7 15. Qxd5 Bxa1 16. Qxa8+ Ke7 17. Bg5+ Bf6 18. Qxh8 1-0
+

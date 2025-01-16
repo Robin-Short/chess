@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rBURIP38"]
+[White "proxmeteo"]
+[Black "Spartakus"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:03:26"]
+[WhiteElo "1631"]
+[BlackElo "1798"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. e3 O-O 6. Qc2 b6 7. Bd2 Bb7 8. Be2 Nbd7 9. O-O dxc4 10. e4 c5 11. e5 Nd5 12. Bxc4 cxd4 13. Nxd5 Bxd5 14. Bxd5 exd5 15. Nxd4 Nxe5 16. Rfe1 Bf6 17. Bc3 Rc8 18. Qf5 Qd7 19. Rxe5 Qa4 20. Rxd5 Rc4 21. b3 Qa3 22. bxc4 Qxc3 23. Rd1 Qxc4 24. Nf3 Qxa2 25. Ng5 Bxg5 26. Qxg5 h6 27. Qg3 a5 28. Rh5 Qe6 29. Kh1 Qe2 30. Qf3 Qe6 31. Rg1 Kh7 32. g4 g6 33. Qd3 Kg7 0-1
+

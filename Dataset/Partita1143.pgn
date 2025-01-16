@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Tys3zBeH"]
+[White "sammy1"]
+[Black "denko"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:46:36"]
+[WhiteElo "1588"]
+[BlackElo "1663"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "120+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. Nc3 Nf6 5. Ng5 O-O 6. Qf3 h6 7. Nh3 Bg4 8. Qg3 Nc6 9. Ne2 Qd7 10. f3 Bh5 11. c3 a6 12. d3 b5 13. Bxh6 Bg6 14. Bxg7 Kxg7 15. Bd5 Nxd5 16. exd5 Nd8 17. f4 c6 18. dxc6 Nxc6 19. Rf1 exf4 20. Rxf4 Ne5 21. d4 Nd3+ 22. Kf1 Nxf4 23. Nexf4 Qf5 0-1
+

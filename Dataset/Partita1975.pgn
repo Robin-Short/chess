@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kINFPmvt"]
+[White "mevale"]
+[Black "BenLZ"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:54"]
+[WhiteElo "1533"]
+[BlackElo "1706"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d4 c6 6. Bd2 Bg4 7. f3 Bf5 8. g4 Bg6 9. h4 h6 10. f4 Qc7 11. Rh3 e6 12. Qe2 Be7 13. O-O-O Nbd7 14. f5 exf5 15. g5 hxg5 16. Bxg5 Qd8 17. Re3 Nb6 18. Bb3 Bh5 19. Nf3 Bxf3 20. Qxf3 Qd6 21. Rde1 Nc8 22. Qxf5 O-O 23. Ne4 Nxe4 24. Bxe7 Nxe7 25. Rxe4 Nxf5 0-1
+

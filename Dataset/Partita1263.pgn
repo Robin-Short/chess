@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YQDztXO6"]
+[White "1917rio"]
+[Black "atol"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:51:24"]
+[WhiteElo "1244"]
+[BlackElo "1434"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+6"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... c5 { [%eval 0.38] } 2. d3 { [%eval 0.1] } 2... a6 { [%eval 0.33] } 3. Bf4 { [%eval -0.02] } 3... e6 { [%eval 0.14] } 4. Bxb8?! { [%eval -0.44] } 4... Rxb8 { [%eval -0.38] } 5. Qd2 { [%eval -0.78] } 5... b5 { [%eval -0.63] } 6. Qf4 { [%eval -0.61] } 6... d6 { [%eval -0.68] } 7. Be2 { [%eval -0.87] } 7... e5 { [%eval -0.66] } 8. Qf3 { [%eval -1.01] } 8... Qf6?! { [%eval -0.43] } 9. Qxf6 { [%eval -0.57] } 9... Nxf6 { [%eval -0.6] } 10. h3 { [%eval -0.79] } 10... Be6 { [%eval -0.71] } 11. Nc3 { [%eval -0.82] } 11... Be7 { [%eval -0.75] } 12. a3 { [%eval -0.84] } 12... Bd8 { [%eval -0.62] } 13. Nf3 { [%eval -0.58] } 13... Ba5 { [%eval -0.5] } 14. b4? { [%eval -3.02] } 14... cxb4 { [%eval -2.97] } 15. axb4? { [%eval -4.26] } 15... Bxb4 { [%eval -4.26] } 16. Kd2 { [%eval -4.23] } 16... Rc8 { [%eval -4.22] } 17. Rxa6 { [%eval -4.29] } 17... Bxc3+ { [%eval -4.2] } 18. Ke3 { [%eval -4.24] } 18... Bb4 { [%eval -3.86] } 19. Rha1?! { [%eval -4.49] } 19... O-O { [%eval -4.29] } 20. d4? { [%eval -5.44] } 20... Bc3? { [%eval -3.92] } 21. R1a2? { [%eval -5.62] } 21... b4? { [%eval -3.71] } 22. dxe5? { [%eval -5.32] } 22... dxe5 { [%eval -5.21] } 23. Nxe5? { [%eval -8.06] } 23... Bxe5 { [%eval -8.28] } 24. f4 { [%eval -8.73] } 24... Bc3? { [%eval -7.55] } 25. f5? { [%eval -10.28] } 25... Bxa2 { [%eval -10.03] } 26. Rxa2 { [%eval -10.2] } 26... Rfe8 { [%eval -10.69] } 0-1
+

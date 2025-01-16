@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CUnvnB9E"]
+[White "BUTUS"]
+[Black "gnarl999"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:45:36"]
+[WhiteElo "1594"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-135"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f6 3. d4 exd4 4. Nxd4 Qe7 5. Bd3 d5 6. Nc3 dxe4 7. Bc4 Bd7 8. O-O Nc6 9. Nxe4 O-O-O 10. c3 Ne5 11. Qb3 Nxc4 12. Qxc4 c5 13. Nb5 a6 14. Na3 b5 15. Qxc5+ Bc6 1-0
+

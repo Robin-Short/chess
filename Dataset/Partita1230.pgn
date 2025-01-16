@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/xhYR8mtQ"]
+[White "Grga1"]
+[Black "Argonn3007"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:31"]
+[WhiteElo "1741"]
+[BlackElo "1754"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... g6 { [%eval 0.58] } 2. d3 { [%eval 0.56] } 2... Bg7 { [%eval 0.32] } 3. Nf3 { [%eval 0.2] } 3... c6 { [%eval 0.48] } 4. Be2 { [%eval 0.37] } 4... d5 { [%eval 0.44] } 5. O-O { [%eval 0.37] } 5... dxe4 { [%eval 0.73] } 6. c3?? { [%eval -3.1] } 6... e6?? { [%eval 0.7] } 7. dxe4 { [%eval 0.83] } 7... f5?! { [%eval 1.71] } 8. Qxd8+ { [%eval 1.73] } 8... Kxd8 { [%eval 1.67] } 9. exf5 { [%eval 1.47] } 9... exf5 { [%eval 1.58] } 10. Be3 { [%eval 1.18] } 10... Nd7?! { [%eval 1.79] } 11. Bd4? { [%eval 0.37] } 11... Kc7?? { [%eval 9.4] } 12. Bxg7 { [%eval 9.48] } 1-0
+

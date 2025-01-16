@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5Y6krqmR"]
+[White "libi"]
+[Black "falsoreti"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:00"]
+[WhiteElo "1761"]
+[BlackElo "1511"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+19"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bb4 5. d3 d6 6. h3 h6 7. O-O Bd7 8. a3 Ba5 9. b4 Bb6 10. Na4 Bd4 11. c3 Bb6 12. Nxb6 axb6 13. Bb2 Ne7 14. Bb3 c5 15. c4 O-O 16. Qd2 Nh7 17. Nh2 f5 18. f4 fxe4 19. dxe4 Bxh3 20. gxh3 Ng6 21. f5 Nf4 22. Qe3 Qg5+ 23. Ng4 Qh4 24. Kh2 Nf6 25. Nxf6+ Rxf6 26. Bd1 Raf8 27. bxc5 bxc5 28. Bc3 g5 29. Rb1 g4 30. Rxb7 gxh3 31. Be1 Ng2 32. Qxh3 Qxh3+ 33. Kxh3 Nxe1 34. Rxe1 h5 35. Bxh5 Rh6 36. Kh4 Rff6 37. Rg1+ Kh8 38. Rgg7 Rxh5+ 0-1
+

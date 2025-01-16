@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mHwpzUtr"]
+[White "ALI29"]
+[Black "marcoantonio"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:21:20"]
+[WhiteElo "1704"]
+[BlackElo "1414"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-3"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 h6 2. e4 d5 3. Nc3 c6 4. Nf3 Bg4 5. Be2 Nd7 6. Bf4 Qa5 7. Bd2 Qb6 8. O-O Qxb2 9. Rb1 Qa3 10. Rxb7 dxe4 11. Nxe4 Qxa2 12. Ne5 Bxe2 13. Qxe2 Nxe5 14. dxe5 Qxc2 15. Rc1 Qa4 16. Nd6+ exd6 17. exd6+ Kd8 18. d7 Be7 19. Bb4 a5 20. Bc5 Qf4 21. Bb6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yh9qt9b9"]
+[White "chessnew"]
+[Black "Shotiko"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:50"]
+[WhiteElo "1530"]
+[BlackElo "1544"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A41"]
+[Opening "Rat Defense: English Rat"]
+[TimeControl "0+2"]
+[Termination "Normal"]
+
+1. d4 d6 2. c4 e5 3. Nc3 exd4 4. Qd3 Nc6 5. Nd5 Be6 6. e3 Bxd5 7. cxd5 Ne5 8. Qxd4 Nf6 9. Qd1 Be7 10. Nf3 c6 11. Nxe5 dxe5 12. Bd3 cxd5 13. e4 d4 14. Bd2 O-O 15. Rc1 Rc8 16. O-O Rxc1 17. Qxc1 Qc8 18. f3 Qxc1 19. Rxc1 Bd6 20. h3 Rd8 21. Kf2 Rd7 22. Ke2 Rc7 23. Rxc7 Bxc7 24. b3 Kf8 25. Bg5 Ke7 26. Bc4 h6 27. Bd2 a6 28. a4 Nd7 29. Bb4+ Ke8 30. Kd3 Nb6 31. Bd2 Nxc4 32. Kxc4 Kd7 33. b4 b6 34. b5 axb5+ 35. axb5 Kd6 36. g3 Bd8 37. f4 f6 38. f5 Be7 39. g4 Kd7 40. Bb4 Bxb4 41. Kxb4 Kd6 42. Kc4 d3 43. Kxd3 Kc5 44. Kc3 Kxb5 45. h4 Kc5 46. h5 b5 47. Kb3 b4 48. Kc2 Kc4 49. Kb2 b3 50. Kc1 Kc3 51. Kb1 b2 52. g5 fxg5 53. f6 gxf6 54. Ka2 Kc2 55. Ka3 b1=Q 56. Ka4 0-1
+

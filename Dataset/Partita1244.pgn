@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mnGKSJs5"]
+[White "sammy1"]
+[Black "1962"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:50:15"]
+[WhiteElo "1580"]
+[BlackElo "1454"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "120+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... e6 { [%eval 0.24] } 2. Nf3 { [%eval 0.22] } 2... d5 { [%eval 0.2] } 3. exd5 { [%eval 0.08] } 3... exd5 { [%eval 0.14] } 4. d4 { [%eval 0.16] } 4... Nc6 { [%eval 0.18] } 5. Nc3 { [%eval 0.23] } 5... Be6 { [%eval 0.2] } 6. Bf4 { [%eval 0.08] } 6... Nge7 { [%eval 0.19] } 7. Bb5 { [%eval -0.02] } 7... Ng6 { [%eval 0.04] } 8. Bg5 { [%eval -0.08] } 8... f6 { [%eval -0.08] } 9. Qe2 { [%eval -0.08] } 9... Qd6 { [%eval -0.13] } 10. Bf4?? { [%eval -4.64] } 10... Nxf4 { [%eval -4.54] } 11. Bxc6+? { [%eval -5.81] } 11... bxc6 { [%eval -5.15] } 12. Qf1 { [%eval -5.41] } 12... Be7?! { [%eval -4.74] } 13. O-O-O { [%eval -5.19] } 13... O-O?! { [%eval -4.66] } 14. g3 { [%eval -5.06] } 14... Ng6? { [%eval -3.97] } 15. h3 { [%eval -4.43] } 15... a5 { [%eval -4.06] } 16. Nh4? { [%eval -5.35] } 16... Bf5?? { [%eval 0.3] } 17. Nxf5 { [%eval 0.09] } 17... Qb4 { [%eval 0.51] } 18. a3 { [%eval 0.15] } 18... Qb6?! { [%eval 0.65] } 19. Na4 { [%eval 0.57] } 19... Qb5 { [%eval 0.6] } 20. Nxe7+ { [%eval 0.34] } 20... Nxe7 { [%eval 0.34] } 21. Qxb5 { [%eval 0.07] } 21... cxb5 { [%eval 0.0] } 22. Nc5 { [%eval 0.0] } 22... Nc6 { [%eval 0.46] } 23. Ne6 { [%eval 0.43] } 23... Rfe8? { [%eval 3.05] } 24. Nxc7 { [%eval 3.06] } 24... Re2?? { [%eval 6.52] } 25. Nxa8 { [%eval 6.59] } 25... Nxd4?? { [%eval 10.68] } 26. Rxd4 { [%eval 10.35] } 26... Rxf2 { [%eval 10.31] } 27. Rxd5 { [%eval 10.65] } 27... Rxc2+ { [%eval 17.34] } 28. Kxc2 { [%eval 17.46] } 1-0
+

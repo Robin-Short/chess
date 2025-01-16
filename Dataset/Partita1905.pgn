@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/VW6FpIhG"]
+[White "sicoob"]
+[Black "knuterut"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:27:32"]
+[WhiteElo "1346"]
+[BlackElo "1272"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "C21"]
+[Opening "Center Game #2"]
+[TimeControl "420+9"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 Nf6 3. f3 Nc6 4. d5 Nd4 5. c3 c6 6. cxd4 Bb4+ 7. Nc3 Qa5 8. dxe5 Bxc3+ 9. Bd2 Bxd2+ 10. Qxd2 Qb6 11. exf6 gxf6 12. Qc3 cxd5 13. Qxf6 Qxf6 14. exd5 Qxb2 15. Rd1 d6 16. Ne2 Bf5 17. g4 Bc2 18. Rd2 Qxa2 19. Nc1 Qb1 20. Re2+ Kf8 21. Kd2 Rc8 22. Re1 Qb4+ 23. Ke2 Re8+ 24. Kf2 Rxe1 25. Nd3 Qd4+ 26. Kxe1 Bxd3 27. Be2 Qa1+ 28. Kd2 Qxh1 29. Bxd3 Qxf3 30. Be2 Qg2 31. Ke1 Qxh2 32. Bf3 Qe5+ 33. Kf2 a5 34. Be2 a4 35. Ke1 a3 36. Kd2 a2 37. Bd3 a1=Q 38. Kc2 Qa2+ 39. Kd1 Qexd5 40. g5 Qxd3+ 41. Ke1 Qae2# 0-1
+

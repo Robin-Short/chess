@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7VUNu0gz"]
+[White "sicko72"]
+[Black "arpouille"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:51"]
+[WhiteElo "1985"]
+[BlackElo "2049"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B36"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maroczy Bind"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be3 Ng4 8. Be2 Nxe3 9. fxe3 Bh6 10. Nc2 e6 11. O-O O-O 12. a3 Qb6 13. Qc1 Ne5 14. b4 Bd7 15. Qd2 Rac8 16. Rad1 Nxc4 17. Bxc4 Rxc4 18. Qxd6 Qxd6 19. Rxd6 Rxc3 20. Rxd7 Rxc2 21. Rxb7 Rd8 22. Rbxf7 Rdd2 23. R1f3 Rd1+ 24. Rf1 Rdd2 25. R1f3 Rxg2+ 26. Kf1 Rxh2 27. Kg1 Rhg2+ 28. Kf1 Rgd2 29. Ke1 Re2+ 30. Kd1 Rcd2+ 31. Kc1 Ra2 32. Kb1 Rxa3 33. Rb7 Rb3+ 34. Ka1 Bg7+ 35. e5 Bxe5# 0-1
+

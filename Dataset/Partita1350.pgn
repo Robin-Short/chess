@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bFEPebyM"]
+[White "kruzo"]
+[Black "caralperu"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:57:03"]
+[WhiteElo "1957"]
+[BlackElo "1525"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bc4 Bc5 4. O-O d6 5. d3 h6 6. Be3 g5 7. Bxc5 dxc5 8. Nc3 c6 9. Ne2 g4 10. Nd2 h5 11. f3 g3 12. hxg3 h4 13. g4 h3 14. gxh3 Rxh3 15. Kg2 Qh8 16. Rh1 Rh6 17. Ng3 Nf6 18. Qe2 b5 19. Bb3 Be6 20. Nf5 Bxf5 21. exf5 Qg7 22. Qxe5+ Kd7 23. Rxh6 Qxh6 24. Qe2 Na6 25. Bxf7 Nc7 26. Ne4 Ke7 27. Bg6 Rh8 28. Ng3+ Kf8 29. Nh5 Nxh5 30. Bxh5 Qg5 31. Re1 Rxh5 32. Qe5 Qd2+ 33. Re2 Qg5 34. Qxc7 Rh6 35. Qc8+ Kf7 36. Qd7+ Kg8 37. Re8# 1-0
+

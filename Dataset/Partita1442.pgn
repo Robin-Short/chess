@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dlw8qZ5c"]
+[White "pece_29"]
+[Black "juan_vinet"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:02:15"]
+[WhiteElo "1399"]
+[BlackElo "1420"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-32"]
+[ECO "C23"]
+[Opening "Bishop's Opening: Philidor Counterattack"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 c6 3. Qh5 Qf6 4. d3 g6 5. Qf3 Qxf3 6. Nxf3 Bg7 7. O-O d5 8. exd5 cxd5 9. Bxd5 Ne7 10. Nc3 O-O 11. Re1 Rd8 12. Bc4 Nbc6 13. Bb5 a6 14. Bxc6 bxc6 15. Nxe5 Bxe5 16. Rxe5 Nf5 17. Bg5 Rd7 18. Bf6 Bb7 19. Rae1 h5 20. Re8+ Rxe8 21. Rxe8+ Kh7 22. Rh8# 1-0
+

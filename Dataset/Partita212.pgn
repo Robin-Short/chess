@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/R8vL6P2Z"]
+[Site "https://lichess.org/EsBPF6ny"]
+[White "jackinnet"]
+[Black "AnnaLiseDeSang"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:58"]
+[WhiteElo "1334"]
+[BlackElo "1386"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-17"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.25] } 2... Bc5?! { [%eval 1.13] } 3. Bc4?! { [%eval 0.26] } 3... d5?! { [%eval 0.82] } 4. exd5 { [%eval 0.93] } 4... e4 { [%eval 0.73] } 5. Ne5?! { [%eval 0.19] } 5... Qf6? { [%eval 1.6] } 6. Ng4? { [%eval -0.31] } 6... Bxg4?! { [%eval 0.65] } 7. Qxg4 { [%eval 0.77] } 7... Qxf2+ { [%eval 0.69] } 8. Kd1 { [%eval 0.71] } 8... Nd7 { [%eval 0.75] } 9. Qxe4+ { [%eval 0.6] } 9... Ne7 { [%eval 0.75] } 10. Bb5? { [%eval -0.25] } 10... O-O? { [%eval 1.66] } 11. Bxd7 { [%eval 1.75] } 11... Rad8 { [%eval 1.69] } 12. Qg4? { [%eval -0.72] } 12... f5?? { [%eval 3.17] } 13. Be6+ { [%eval 3.29] } 13... Kh8 { [%eval 3.35] } 14. Qg5?! { [%eval 2.42] } 14... Bd6? { [%eval 3.55] } 15. d3 { [%eval 3.58] } 15... Bxh2? { [%eval 6.44] } 16. Rxh2?? { [%eval 0.0] } 16... Qg1+? { [%eval 1.47] } 17. Kd2? { [%eval 0.0] } 17... Qxh2? { [%eval 1.96] } 18. Qxe7 { [%eval 2.16] } 18... Qxg2+? { [%eval 4.2] } 19. Kc3 { [%eval 4.39] } 19... b5? { [%eval 5.75] } 20. b4?! { [%eval 5.14] } 20... Qf1? { [%eval 6.93] } 21. Na3 { [%eval 6.61] } 21... Qe1+?! { [%eval 7.36] } 22. Kb3 { [%eval 7.2] } 22... f4? { [%eval 9.33] } 23. Nxb5 { [%eval 9.21] } 23... Qe5?! { [%eval 18.77] } 24. Bb2 { [%eval 19.39] } 24... Qg5?! { [%eval #5] } 25. Qxg5 { [%eval #4] } 25... f3 { [%eval #1] } 26. Qxg7# 1-0
+

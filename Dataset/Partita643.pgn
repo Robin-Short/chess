@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hak3D2ZW"]
+[White "y59"]
+[Black "Grumms"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:25:15"]
+[WhiteElo "1639"]
+[BlackElo "1387"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "120+6"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.22] } 1... d5 { [%eval 0.24] } 2. f4?! { [%eval -0.34] } 2... e6 { [%eval -0.35] } 3. e3 { [%eval -0.3] } 3... Nf6 { [%eval -0.39] } 4. Nf3 { [%eval -0.26] } 4... Nc6 { [%eval -0.04] } 5. c3 { [%eval -0.12] } 5... a6 { [%eval 0.0] } 6. Bd3 { [%eval 0.0] } 6... Be7 { [%eval 0.34] } 7. Nbd2 { [%eval 0.41] } 7... O-O { [%eval 0.32] } 8. O-O { [%eval 0.17] } 8... b5 { [%eval 0.31] } 9. Ne5 { [%eval 0.36] } 9... Bb7 { [%eval 0.43] } 10. e4?! { [%eval -0.13] } 10... dxe4 { [%eval 0.0] } 11. Nxe4 { [%eval 0.0] } 11... Qd5?! { [%eval 0.72] } 12. Nxf6+ { [%eval 0.65] } 12... Bxf6 { [%eval 0.51] } 13. Rf2 { [%eval 0.27] } 13... Bh4?! { [%eval 0.92] } 14. Re2?! { [%eval 0.39] } 14... Nxe5 { [%eval 0.84] } 15. fxe5 { [%eval 0.59] } 15... Rae8? { [%eval 1.93] } 16. Be4 { [%eval 1.92] } 16... Qxe4? { [%eval 4.55] } 17. Rxe4 { [%eval 4.53] } 17... Bxe4 { [%eval 4.33] } 18. Qg4 { [%eval 4.46] } 1-0
+

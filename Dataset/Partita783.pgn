@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ARzQ9hjO"]
+[White "simppa"]
+[Black "marcoantonio"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:52"]
+[WhiteElo "1462"]
+[BlackElo "1411"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "420+10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 Qa5+ 3. Nc3 c5 4. Bd2 cxd4 5. Nce2 Qb6 6. Bf4 Nc6 7. Nf3 Qb4+ 8. c3 dxc3 9. bxc3 Qxe4 10. Nd4 e5 11. Nxc6 exf4 12. Nd4 d5 13. Nb5 f3 14. gxf3 Qxf3 15. Nc7+ Ke7 16. Nxa8 Qxh1 17. Nc7 Bh3 18. Nxd5+ Ke8 19. Ndf4 Qxf1+ 20. Kd2 Qxd1+ 21. Rxd1 Bg4 22. Ke3 Bc5+ 23. Kd3 Bf5+ 24. Kc4 Bxf2 25. Nd5 Be6 26. Nf4 Bxd5+ 27. Nxd5 Ne7 28. Nc7+ Kf8 29. Rd8# 1-0
+

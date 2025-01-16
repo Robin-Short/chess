@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/283oXluJ"]
+[White "Icasper"]
+[Black "Indignantary"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:58:35"]
+[WhiteElo "1670"]
+[BlackElo "1417"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. e5 e6 3. d4 d6 4. Be3 d5 5. f4 b6 6. Nf3 c5 7. c3 c4 8. b3 b5 9. Nbd2 a5 10. bxc4 bxc4 11. Rb1 Ba3 12. Qa4+ Bd7 13. Qxa3 Ne7 14. Be2 O-O 15. O-O Ng6 16. f5 Nh8 17. f6 g6 18. Bh6 Re8 19. Ng5 Nc6 20. Rf3 Rb8 21. Rbf1 Rb6 22. Rg3 Qb8 23. Bf3 Rb2 24. Qd6 Rxd2 25. Qxd7 Rxa2 26. Qxc6 Rc8 27. Qd6 Qb2 28. Nxe6 Ra1 29. Bxd5 Rxf1+ 30. Kxf1 Qc1+ 31. Ke2 Qc2+ 32. Bd2 fxe6 33. Bxe6+ Nf7 34. Bxf7+ Kxf7 35. Qe7+ Kg8 36. Qg7# 1-0
+

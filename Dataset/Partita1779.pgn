@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/1ocpOTyO"]
+[White "makafish"]
+[Black "emigrant_bird"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:24"]
+[WhiteElo "1479"]
+[BlackElo "1402"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "1200+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... c5 { [%eval 0.26] } 2. Nf3 { [%eval 0.3] } 2... Nc6 { [%eval 0.36] } 3. Bb5 { [%eval 0.42] } 3... Nb4?! { [%eval 1.07] } 4. a3 { [%eval 0.95] } 4... Qa5 { [%eval 1.33] } 5. axb4? { [%eval -0.76] } 5... Qxb5? { [%eval 1.5] } 6. bxc5 { [%eval 1.52] } 6... Qxc5 { [%eval 1.53] } 7. d4 { [%eval 1.42] } 7... Qb4+ { [%eval 1.59] } 8. Nc3 { [%eval 1.72] } 8... e6 { [%eval 1.49] } 9. Ra4 { [%eval 1.29] } 9... Qb6 { [%eval 1.29] } 10. b3 { [%eval 1.26] } 10... Nf6 { [%eval 1.18] } 11. O-O { [%eval 1.05] } 11... Qc6?! { [%eval 1.94] } 12. e5? { [%eval 0.24] } 12... Ng8? { [%eval 2.91] } 13. Rc4 { [%eval 2.61] } 13... Qb6 { [%eval 3.06] } 14. Bg5? { [%eval 1.31] } 14... Be7? { [%eval 2.91] } 15. Bxe7? { [%eval 1.31] } 15... Nxe7 { [%eval 1.33] } 16. Na4?! { [%eval 0.49] } 16... Qd8 { [%eval 0.41] } 17. Nc3 { [%eval 0.0] } 17... b6 { [%eval 0.46] } 18. Nb5 { [%eval 0.35] } 18... O-O { [%eval 0.39] } 19. h3? { [%eval -1.12] } 19... Ba6 { [%eval -1.11] } 20. Rb4? { [%eval -2.76] } 20... Nc6 { [%eval -2.31] } 21. Qa1?? { [%eval -5.77] } 21... Nxb4 { [%eval -5.63] } 22. Qa4?! { [%eval -6.32] } 22... Qe7? { [%eval -5.13] } 23. Nd6? { [%eval -6.52] } 23... Bxf1 { [%eval -6.52] } 24. Kxf1 { [%eval -6.89] } 24... Nxc2? { [%eval -5.15] } 25. Qc4 { [%eval -5.17] } 25... Na3 { [%eval -4.73] } 26. Qb4 { [%eval -4.8] } 26... Nb1 { [%eval -4.68] } 27. Qe1 { [%eval -4.67] } 27... Na3?? { [%eval 0.0] } 28. Qb4 { [%eval -4.99] } 28... Nc2?? { [%eval 0.0] } 29. Qc3?? { [%eval -5.18] } 29... Na3?? { [%eval 0.0] } 30. Qb4 { [%eval -4.82] } 30... Nc2?? { [%eval 0.0] } 31. Qc3 { [%eval -5.27] } 31... Na3?? { [%eval 0.0] } 32. Qb4 { [%eval -5.03] } 32... Nc2?? { [%eval 0.0] } 33. Qc3 { [%eval -5.07] } 33... Na3?? { [%eval 0.0] } 34. Qb4 { [%eval -4.79] } 1/2-1/2
+

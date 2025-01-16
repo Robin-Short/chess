@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OfZU9cld"]
+[White "pampopp"]
+[Black "jlf1975"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:44"]
+[WhiteElo "1343"]
+[BlackElo "1321"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. c3 Bg4 5. d4 c6 6. dxe5 b5 7. Bb3 Bxf3 8. Qxf3 Nf6 9. exf6 g6 10. O-O g5 11. Rd1 a5 12. e5 a4 13. Bc2 d5 14. b4 Qd7 15. Bf5 Qc7 16. Qh3 Qxe5 17. Bxg5 Kd8 18. Be3 Nd7 19. Bxd7 Ra7 20. Bb6+ Rc7 21. Bxc7+ Qxc7 22. Bf5 Qe5 23. Qe3 Qd6 24. Qb6+ Qc7 25. Qxc7+ Kxc7 26. Nd2 Bd6 27. Nf3 h5 28. h3 h4 29. Re1 Rh5 30. Bg4 Rh6 31. a3 Rxf6 32. Nxh4 Bf4 33. Nf5 Bd2 34. Re7+ Kb6 35. Rd1 Bxc3 36. Rd3 Bb2 37. Rf3 Ba1 38. Ne3 Bd4 39. Rxf6 Bxf6 40. Rxf7 Bg5 41. Nf5 Bd2 42. h4 Bc1 43. h5 Bxa3 44. h6 Bxb4 45. h7 a3 46. h8=Q Kc5 47. Qf8+ Kc4 48. Ne3+ Kb3 49. Qa8 a2 50. Bf5 Kb2 51. Ra7 d4 52. Rxa2+ Kb3 53. Ra1 dxe3 54. Rb1+ Kc4 55. fxe3 1-0
+

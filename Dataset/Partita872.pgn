@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9QU1LVGI"]
+[White "jagos2"]
+[Black "oto"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:31"]
+[WhiteElo "1686"]
+[BlackElo "1810"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-14"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e6 2. Bc4 d5 3. exd5 exd5 4. Bb3 f5 5. Qe2+ Be7 6. d4 c6 7. Nf3 Nf6 8. Bg5 Ne4 9. Bxe7 Qxe7 10. Ne5 O-O 11. O-O Qf6 12. Nd2 Nd7 13. Nxe4 fxe4 14. Nxd7 Bxd7 15. Rad1 Rae8 16. a4 a6 17. a5 Qg5 18. c4 Bg4 19. Qc2 Bxd1 20. Qxd1 h5 21. cxd5 cxd5 22. Kh1 h4 23. h3 Kh7 24. Bc2 Kh6 25. Qe1 Rf7 26. Ba4 Ref8 27. b4 Qf4 28. b5 e3 29. f3 Qxd4 30. Bd1 Rf4 31. g3 hxg3 32. Qxg3 Qd2 33. bxa6 bxa6 34. Re1 d4 35. Be2 d3 36. Rg1 R8f7 37. Qg6# 1-0
+

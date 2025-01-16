@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0v6wN6V9"]
+[White "sasavuk"]
+[Black "Molder"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:29"]
+[WhiteElo "1783"]
+[BlackElo "1667"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[TimeControl "900+1"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. c3 e5 3. e4 Nf6 4. d4 exd4 5. e5 Ng4 6. Nxd4 Ngxe5 7. Qe2 Be7 8. Nxc6 Nxc6 9. Be3 O-O 10. g3 Re8 11. Bg2 Bc5 12. O-O Bxe3 13. fxe3 d6 14. Bd5 Ne5 15. Nd2 c6 16. Be4 h6 17. Rf4 d5 18. Bc2 g5 19. Rf2 Bh3 20. Qh5 f5 21. Qxh3 Ng4 22. Rxf5 Nxe3 23. Qxh6 Nxf5 24. Bxf5 Qb6+ 25. Kf1 Re7 26. Qg6+ Kh8 27. Qf6+ Rg7 28. Qh6+ Kg8 29. Be6+ Kf8 30. Qh8+ Ke7 31. Qxg7+ Kxe6 32. Re1+ Kd6 33. Qe7# 1-0
+

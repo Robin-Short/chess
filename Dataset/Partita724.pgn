@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/UGsf3Ewa"]
+[White "Argonn3007"]
+[Black "sidharth13"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:45"]
+[WhiteElo "1786"]
+[BlackElo "1906"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.25] } 1... b6 { [%eval 0.73] } 2. g3 { [%eval 0.27] } 2... Bb7 { [%eval 0.11] } 3. Nf3 { [%eval 0.03] } 3... Nc6?! { [%eval 0.92] } 4. Bg2?! { [%eval 0.34] } 4... e6 { [%eval 0.44] } 5. e4 { [%eval 0.42] } 5... Qe7?! { [%eval 1.26] } 6. c4 { [%eval 0.88] } 6... O-O-O { [%eval 1.08] } 7. Nc3 { [%eval 0.74] } 7... d5 { [%eval 0.75] } 8. e5?! { [%eval -0.1] } 8... dxc4 { [%eval -0.06] } 9. Be3?! { [%eval -0.93] } 9... Nxe5 { [%eval -0.83] } 10. Nxe5?! { [%eval -1.55] } 10... Bxg2 { [%eval -1.68] } 11. Rg1 { [%eval -1.62] } 11... Bb7 { [%eval -1.24] } 12. Qa4 { [%eval -1.09] } 12... Kb8 { [%eval -1.03] } 13. Nb5? { [%eval -3.15] } 13... a6 { [%eval -3.12] } 14. Nc3 { [%eval -3.13] } 14... f6? { [%eval -1.72] } 15. Qc2?? { [%eval -5.3] } 15... fxe5 { [%eval -5.47] } 16. O-O-O { [%eval -5.5] } 16... exd4 { [%eval -5.39] } 17. Bxd4 { [%eval -5.45] } 17... e5 { [%eval -4.98] } 18. Bxe5 { [%eval -4.99] } 18... Rxd1+ { [%eval -5.02] } 19. Rxd1 { [%eval -5.03] } 19... Nf6?! { [%eval -4.48] } 20. Bxf6?! { [%eval -5.05] } 20... Qxf6 { [%eval -5.29] } 21. Qd2? { [%eval -6.31] } 21... Bd6?! { [%eval -5.75] } 22. Ne4?? { [%eval -11.33] } 22... Bxe4 { [%eval -11.53] } 23. f3 { [%eval -13.61] } 23... Bb7 { [%eval -10.31] } 24. Qd4 { [%eval -12.36] } 24... Qg6 { [%eval -10.89] } 0-1
+

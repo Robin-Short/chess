@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fKxAcwrc"]
+[White "chaman59"]
+[Black "ches_acc_cuandrej"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:19:28"]
+[WhiteElo "1412"]
+[BlackElo "1158"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+21"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. f4 d5 2. d4 0-1
+

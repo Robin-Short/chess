@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uKClKwqd"]
+[White "ULI123"]
+[Black "cande"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:20"]
+[WhiteElo "1502"]
+[BlackElo "1466"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 f6 4. d5 Nb8 5. Nc3 c6 6. Bc4 d6 7. dxc6 bxc6 8. O-O Ne7 9. Be3 Ba6 10. Bxa6 Nxa6 11. a4 Nb4 12. b3 d5 13. exd5 cxd5 14. Bc5 Nec6 15. Bxf8 Rxf8 16. Nb5 e4 17. Nfd4 Nxd4 18. Nxd4 Qd7 19. Qd2 a5 20. c3 Nd3 21. c4 Nb4 22. cxd5 Nxd5 23. Rfe1 f5 24. f3 Kf7 25. fxe4 Nb4 26. exf5 Kg8 27. Rf1 Rad8 28. Rad1 Qa7 29. Rf4 h6 30. g4 Nd5 31. Re4 Nf6 32. Rf4 g5 33. fxg6 Kg7 34. Qc2 Rc8 35. Qb1 h5 36. gxh5 Nxh5 37. Rxf8 Rxf8 38. Kg2 Qb7+ 39. Kh3 Qd7+ 40. Kh4 Rf4+ 41. Kxh5 Qd5+ 42. Nf5+ Rxf5+ 43. Kg4 Qf3+ 44. Kh4 Qf4+ 45. Kh3 Rh5+ 46. Kg2 Rg5+ 47. Kh3 Qg4# 0-1
+

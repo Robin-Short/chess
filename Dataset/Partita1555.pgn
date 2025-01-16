@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LNwAaCGj"]
+[White "xaco100"]
+[Black "luc1111"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:07:50"]
+[WhiteElo "1491"]
+[BlackElo "1616"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+42"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "10800+180"]
+[Termination "Time forfeit"]
+
+1. g3 e5 2. e3 d5 3. Bb5+ Bd7 4. Bxd7+ Kxd7 0-1
+

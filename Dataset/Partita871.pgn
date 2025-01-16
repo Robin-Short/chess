@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/25Mm6wYS"]
+[White "majid-ganji"]
+[Black "Castell"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:04"]
+[WhiteElo "1821"]
+[BlackElo "1686"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Accelerated Mannheim Variation"]
+[TimeControl "240+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Qa4+ c6 4. Qxc4 e6 5. a3 Be7 6. Nf3 Nf6 7. h3 Nbd7 8. Bf4 Nb6 9. Qc2 Nfd5 10. Bh2 O-O 11. e4 Nf6 12. Bd3 h6 13. O-O Nh5 14. Nc3 Nf4 15. Bxf4 Bf6 16. e5 Be7 17. Rac1 Nd5 18. Nxd5 cxd5 19. Qc7 Qe8 20. b4 b5 21. Bg3 f6 22. Qc2 f5 23. Qc7 Bg5 24. Nxg5 hxg5 25. Qc5 f4 26. Bh2 Ba6 27. Qc2 Qe7 28. Bh7+ Kh8 29. Bg6 Rac8 30. Qd3 Rxc1 31. Rxc1 Rc8 32. Rxc8+ Bxc8 33. Qf3 Qc7 34. Qh5+ Kg8 35. Qh7+ Kf8 36. Qh8+ Ke7 37. Qe8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ibnXeTwJ"]
+[White "javidjoon"]
+[Black "DCODECHESS"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:02:57"]
+[WhiteElo "1525"]
+[BlackElo "1301"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+18"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. Qf3 e5 3. Bc4 Qf6 4. Nc3 a6 5. Nd5 Qxf3 6. Nxf3 b5 7. Nc7+ Kd8 8. Nxa8 bxc4 9. Nxe5 Ke7 10. Nb6 Bb7 11. d3 cxd3 12. cxd3 f6 13. Nec4 Nc6 14. O-O g5 15. Ne3 Nh6 16. Nbd5+ Kf7 17. b3 Bd6 18. Bb2 Ne5 19. Nc4 Ke6 20. Nxd6 Bxd5 21. Bxe5 Kxe5 22. Nf5 Be6 23. Rac1 d6 24. Ne7 Re8 25. Nc6+ Kf4 26. g3+ Kg4 27. f3+ Kh3 28. d4 Bd7 29. d5 Bxc6 30. dxc6 Rc8 31. Rc3 Rxc6 32. g4 Nf7 33. Rf2 Ne5 34. Rg2 Kh4 35. b4 h5 36. bxc5 hxg4 37. fxg4 Rxc5 38. Rxc5 dxc5 39. Rc2 c4 40. Kg2 Kxg4 41. h3+ Kf4 42. Re2 g4 43. h4 g3 44. h5 Ng4 45. Rc2 Ne3+ 46. Kg1 Kg5 47. Re2 Ng4 48. Rg2 Kxh5 49. Rxg3 Kg5 50. Kg2 Kf4 51. Kh3 Nf2+ 52. Kh4 Nxe4 53. Rg4+ Ke3 54. Rg2 c3 55. Kg4 Kd3 56. Kf4 c2 57. Rxc2 Kxc2 58. Kxe4 Kb2 59. Kf5 Kxa2 60. Kxf6 Kb3 61. Ke5 a5 62. Ke4 a4 63. Kd3 a3 64. Kd2 a2 65. Kc1 a1=Q+ 66. Kd2 Qc3+ 67. Ke2 Kc2 68. Kf2 Kd2 69. Kg2 Ke2 70. Kh2 Kf2 71. Kh1 Qh3# 0-1
+

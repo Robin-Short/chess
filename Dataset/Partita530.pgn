@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EOWLICwI"]
+[White "Nikvol"]
+[Black "musalipov"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:21:14"]
+[WhiteElo "1819"]
+[BlackElo "1783"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Stonewall Defense"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 f5 5. e3 Nf6 6. Bd3 Ne4 7. O-O Bd6 8. Ne5 Nd7 9. f3 Nxc3 10. bxc3 Nxe5 11. dxe5 Bxe5 12. cxd5 Bxc3 13. Ba3 Bxa1 14. Qxa1 Qg5 15. dxc6 Qxe3+ 16. Kh1 Qxd3 17. Qc1 b6 18. Rd1 Qa6 19. Qc3 Rg8 20. Qb4 Kf7 21. h4 Kg6 22. Qe7 h6 23. Bb2 Qe2 24. h5+ Kh7 25. Qd6 Qxb2 26. Kh2 Ba6 27. c7 Rac8 28. Qxe6 Rxc7 29. Qg6+ Kh8 30. Qxf5 Bb7 31. Rd6 Rcc8 32. Rd7 Rcf8 33. Qg4 Bxf3 34. Qg3 Bxg2 35. Qxg2 Rf2 36. Rxg7 Rxg7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/37q1RV2w"]
+[White "megaledon"]
+[Black "shreadedd"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:50:56"]
+[WhiteElo "1694"]
+[BlackElo "1763"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 c5 3. Bd3 Nc6 4. c3 c4 5. Bc2 Nf6 6. Nf3 g6 7. O-O Bh6 8. b3 cxb3 9. axb3 Bg4 10. Nbd2 Qd7 11. Re1 O-O 12. Bb2 Rac8 13. Qb1 Qc7 14. Bd1 Bf5 15. Bc2 Ne4 16. Nxe4 dxe4 17. Bxe4 Bxe4 18. Qxe4 f5 19. Qd3 Rfd8 20. c4 e5 21. Qc3 e4 22. Ne5 Nxe5 23. dxe5 Rd3 24. Qb4 Bg7 25. Rxa7 Bxe5 26. Rxb7 Qc5 27. Bxe5 Qxe5 28. h3 Rcd8 29. Rb5 Qc7 30. c5 Rd1 31. Qc4+ R8d5 32. Rxd1 Kf8 33. Rxd5 f4 34. exf4 Qxf4 35. Rd8+ Kg7 36. Rb7+ Kh6 37. Qe2 Qf5 38. Qg4 Qxg4 39. hxg4 e3 40. Kh2 exf2 41. Rf8 f1=Q 42. Rxf1 Kg5 43. Kg3 Kh6 0-1
+

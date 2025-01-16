@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rZNLYXBA"]
+[White "Nahuel91"]
+[Black "pampopp"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:19:08"]
+[WhiteElo "1429"]
+[BlackElo "1350"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+15"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[TimeControl "240+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 d6 4. h3 Nc6 5. c3 d5 6. Qc2 d4 7. b4 dxc3 8. b5 Nd4 9. Nxd4 exd4 10. Bg5 Be7 11. Nxc3 dxc3 12. Qxc3 h6 13. Be3 O-O 14. Be2 a5 15. bxa6 Rxa6 16. d4 Ra4 17. O-O Nxe4 18. Qc2 Nc3 19. Qxc3 Ra3 20. Qc2 Bf6 21. Rfd1 g6 22. Qc5 Be7 23. Qc4 Be6 24. d5 Bf5 25. Bd3 Bxd3 26. Rxd3 Bf6 27. Rxa3 Bxa1 28. Bd4 Bxd4 29. Qxd4 Re8 30. g3 Qd6 31. Rb3 Re1+ 32. Kg2 c5 33. Qd2 Re5 34. Rd3 c4 35. Rd4 c3 36. Qxc3 Rxd5 37. Qc8+ Kg7 38. Rxd5 Qxd5+ 39. Kh2 Qxa2 40. Qc3+ f6 41. Qc7+ Qf7 42. Qxf7+ Kxf7 43. Kg2 b5 44. Kf3 Ke6 45. Ke3 Kd5 46. Kd3 Kc5 47. Kc3 b4+ 48. Kb3 Kb5 49. f3 f5 50. h4 h5 51. f4 Ka5 52. Kb2 Ka4 53. Ka2 b3+ 54. Kb2 Kb4 55. Kb1 Ka3 56. Ka1 b2+ 57. Kb1 Kb3 58. g4 g5 59. gxf5 g4 60. f6 g3 61. f7 g2 62. f8=Q g1=Q# 0-1
+

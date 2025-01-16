@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/aXSbDSIe"]
+[White "cocoarg"]
+[Black "VEGETAL"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:36"]
+[WhiteElo "2023"]
+[BlackElo "1702"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 e6 2. Bb2 f6 3. e3 d5 4. d4 e5 5. c4 e4 6. cxd5 Qxd5 7. Nc3 Qd8 8. Qc2 Bf5 9. Nxe4 Qc8 10. Bd3 Ne7 11. Nf3 Ng6 12. Rc1 c6 13. O-O Bg4 14. Nfd2 Bd7 15. Nc5 Bxc5 16. Qxc5 Ne7 17. Bc4 Qd8 18. Ne4 b6 19. Nd6+ Kf8 20. Qh5 g6 21. Qh6# 1-0
+

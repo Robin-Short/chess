@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0pe3ZU1U"]
+[White "inodoro_pereira"]
+[Black "abaza"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:47"]
+[WhiteElo "1653"]
+[BlackElo "1641"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "420+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 c6 3. Nf3 f6 4. Bf4 Nd7 5. e3 h5 6. h3 h4 7. Bd3 e6 8. Bg6+ Ke7 9. a3 Nh6 10. Nxh4 Nf7 11. Nf3 Nb6 12. O-O Nd6 13. Qe2 Bd7 14. e4 Be8 15. Bxe8 Qxe8 16. e5 Nf5 17. exf6+ gxf6 18. Na4 Qg6 19. Kh2 Nxa4 20. c4 Rg8 21. Rg1 Kf7 22. cxd5 exd5 23. Be5 Re8 24. Qc2 Nb6 25. Rae1 Nc4 26. Bxf6 Qxf6 27. Rxe8 Kxe8 28. Re1+ Kf7 29. Ne5+ Nxe5 30. dxe5 Qg6 31. e6+ Kg7 32. Qc3+ d4 33. Qf3 Nh4 34. Qg3 Bd6 35. e7 Bxg3+ 36. fxg3 Nf5 37. g4 Qd6+ 38. Kh1 Ne3 0-1
+

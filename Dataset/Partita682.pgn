@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nLAqChJb"]
+[White "danger79"]
+[Black "hernangfunes"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:41"]
+[WhiteElo "1311"]
+[BlackElo "1356"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "420+6"]
+[Termination "Normal"]
+
+1. e3 e5 2. c3 Nc6 3. a3 d5 4. b4 a6 5. b5 axb5 6. Bxb5 Bd7 7. Bf1 Nf6 8. h3 d4 9. exd4 exd4 10. c4 Be6 11. d3 Bd6 12. g3 Rb8 13. Bd2 b5 14. Bg2 Qd7 15. cxb5 Rxb5 16. a4 Rb8 17. Nf3 Bd5 18. O-O O-O 19. g4 Ne5 20. Nxe5 Bxe5 21. g5 Bxg2 22. gxf6 Qxh3 23. f4 Bxf6 24. Rf2 Qh1# 0-1
+

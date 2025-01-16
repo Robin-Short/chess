@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QK71HnWP"]
+[White "Weakest_Link"]
+[Black "gerardo123"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:22"]
+[WhiteElo "1789"]
+[BlackElo "1845"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "E90"]
+[Opening "King's Indian Defense: Zinnowitz Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. e4 O-O 6. Bg5 Bg4 7. Qd2 Bxf3 8. gxf3 c5 9. d5 Qa5 10. O-O-O Nbd7 11. h4 Rfe8 12. Bd3 Nh5 13. a3 Bxc3 14. Qxc3 Qxc3+ 15. bxc3 Ne5 16. Be2 f6 17. Bh6 Nf7 18. Be3 a6 19. f4 Rab8 20. f5 Ne5 21. fxg6 hxg6 22. Rhg1 Kh7 23. f4 Nf7 24. f5 gxf5 25. Bxh5 Rf8 26. exf5 Ne5 27. Bf4 Nxc4 28. Bg6+ Kh8 29. Rde1 Ne5 30. Bxe5 fxe5 31. h5 Rf6 32. h6 Rbf8 33. Ref1 b5 34. h7 a5 35. Rg4 b4 36. cxb4 axb4 37. axb4 cxb4 38. Rxb4 Rc8+ 39. Kd2 Rcf8 40. Rb7 Kg7 41. Rxe7+ Kh6 42. Rf7 R6xf7 43. Bxf7 Kxh7 44. Rh1+ Kg7 45. Bg6 Kf6 46. Rh7 Kg5 47. Ke3 Rd8 48. Rd7 Rxd7 49. f6 Kxf6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NKR8n2zQ"]
+[White "Markinhos"]
+[Black "Rigoleto"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:06"]
+[WhiteElo "1779"]
+[BlackElo "1680"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C21"]
+[Opening "Center Game: Kieseritzky Variation #4"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 c5 4. Bc4 d5 5. Bxd5 Nc6 6. Ng5 Be6 7. Bxe6 fxe6 8. Nxe6 Qd7 9. Nf4 Nf6 10. O-O Bd6 11. Re1 O-O 12. c3 Rad8 13. cxd4 cxd4 14. Na3 a6 15. Nc4 Bc7 16. e5 Nd5 17. e6 Qe7 18. Nh5 Bxh2+ 19. Kxh2 Qh4+ 20. Kg1 Qxf2+ 21. Kh1 Rf5 22. Rf1 Qh4+ 23. Kg1 Rxh5 24. Qf3 Qh2+ 25. Kf2 Ne5 26. Nxe5 Rf8 27. Nf7 Nf6 28. Bf4 Qh4+ 29. Bg3 Qg5 30. Kg1 1-0
+

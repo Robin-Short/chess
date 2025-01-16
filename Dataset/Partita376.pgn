@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jUSPeTlk"]
+[White "DankoJ"]
+[Black "EX-1"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:15:06"]
+[WhiteElo "1790"]
+[BlackElo "1493"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-10"]
+[ECO "B95"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Be2 Be7 8. O-O O-O 9. f3 Nc6 10. a3 Qb6 11. Be3 Qxb2 12. Na4 Qxa1 13. Qxa1 d5 14. Nxc6 bxc6 15. Nb6 Rb8 16. Nxc8 Rbxc8 17. e5 Nd7 18. f4 c5 19. Qc1 d4 20. Bf2 Nb8 21. c3 Rfd8 22. cxd4 cxd4 23. Qd2 Bxa3 24. Ra1 Rc3 25. Rd1 Rcc8 26. Bxd4 Rxd4 27. Qxd4 Bc5 28. Qxc5 Rxc5 29. Rd8# 1-0
+

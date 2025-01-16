@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/b6POzdb0"]
+[White "protea"]
+[Black "atol"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:27"]
+[WhiteElo "1249"]
+[BlackElo "1428"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-17"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Reti System"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 a6 3. g3 e6 4. Bg2 Ne7 5. O-O d6 6. b3 Nd7 7. Nc3 Qc7 8. Rb1 g6 9. Bb2 Bg7 10. d4 O-O 11. e5 d5 12. Re1 cxd4 13. Nxd4 Nxe5 14. f4 N5c6 15. Nxc6 bxc6 16. g4 Rb8 17. f5 Bxc3 18. Bxc3 gxf5 19. gxf5 Nxf5 20. Re2 f6 21. Bh3 Qf4 22. Rg2+ Kf7 23. Qh5+ Ke7 24. Qxh7+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HUOeBYUO"]
+[White "pulsar"]
+[Black "alberto1949"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:14:12"]
+[WhiteElo "1828"]
+[BlackElo "1825"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. Bf4 Ba6 3. Nf3 Nf6 4. Nbd2 e6 5. e3 Bxf1 6. Nxf1 Nd5 7. Bg3 Be7 8. c3 O-O 9. Qc2 f5 10. N1d2 d6 11. O-O-O a5 12. e4 fxe4 13. Nxe4 Na6 14. h4 c5 15. Neg5 Bxg5+ 16. Nxg5 g6 17. Nxe6 Qf6 18. Nxf8 Rxf8 19. h5 Nf4 20. hxg6 hxg6 21. Qb3+ Rf7 22. Qxb6 Nc7 23. Qb8+ Rf8 24. Qxc7 cxd4 25. Qh7# 1-0
+

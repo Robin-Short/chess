@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T7LiclkR"]
+[White "dastyar"]
+[Black "lespa"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:01"]
+[WhiteElo "1478"]
+[BlackElo "1249"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. c3 Qa5 3. e3 Nf6 4. Bd2 Qb6 5. Qb3 Qc6 6. Nf3 a6 7. Bc4 e6 8. O-O d5 9. Ne5 Qd6 10. Be2 Ne4 11. Qc2 Nd7 12. Nxd7 Bxd7 13. c4 Be7 14. cxd5 Qxd5 15. Bf3 f5 16. Bxe4 fxe4 17. Nc3 Qc4 18. Qxe4 Bc6 19. Qe5 Rg8 20. Qh5+ g6 21. Qxh7 Rf8 22. Qxg6+ Kd7 23. dxc5 Bxc5 24. Rfc1 Qb4 25. Rc2 Rae8 26. Rac1 Rf5 27. Ne2 1-0
+

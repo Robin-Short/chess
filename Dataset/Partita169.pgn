@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JA4tQjnr"]
+[White "Jupp3"]
+[Black "edivillela"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:21"]
+[WhiteElo "1694"]
+[BlackElo "1770"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "420+7"]
+[Termination "Normal"]
+
+1. c4 { [%eval 0.05] } 1... c5 { [%eval 0.21] } 2. Nf3 { [%eval 0.18] } 2... d5 { [%eval 0.66] } 3. cxd5 { [%eval 0.69] } 3... Qxd5 { [%eval 0.86] } 4. Nc3 { [%eval 0.79] } 4... Qd8 { [%eval 0.68] } 5. d4 { [%eval 0.96] } 5... e6 { [%eval 0.82] } 6. Qa4+?! { [%eval -0.02] } 6... Bd7 { [%eval 0.05] } 7. Qc4 { [%eval 0.0] } 7... b6?! { [%eval 0.62] } 8. Ne5?! { [%eval 0.07] } 8... Bd6?! { [%eval 0.75] } 9. Nxd7 { [%eval 0.75] } 9... Nxd7 { [%eval 0.69] } 10. Nb5 { [%eval 0.63] } 10... Be7 { [%eval 0.91] } 11. Bf4 { [%eval 0.96] } 11... Rc8?! { [%eval 1.86] } 12. Nxa7 { [%eval 1.91] } 12... Ra8 { [%eval 1.75] } 13. Nc6 { [%eval 1.9] } 13... Qc8 { [%eval 1.86] } 14. Nxe7? { [%eval 0.71] } 14... Nxe7 { [%eval 0.67] } 15. dxc5 { [%eval 1.04] } 15... Nxc5 { [%eval 0.85] } 16. Bd6?! { [%eval 0.23] } 16... Nf5 { [%eval 0.62] } 17. Qb5+?! { [%eval 0.0] } 17... Nd7 { [%eval 0.13] } 18. Ba3?? { [%eval -3.06] } 18... Nd4? { [%eval -2.06] } 19. Rd1?? { [%eval -13.24] } 19... Nc2+?? { [%eval -1.43] } 20. Kd2 { [%eval -1.39] } 20... Nd4? { [%eval 1.13] } 21. Ke3?? { [%eval -15.09] } 21... Nxb5 { [%eval -15.15] } 0-1
+

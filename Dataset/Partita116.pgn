@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zXk4kDnB"]
+[White "y59"]
+[Black "dionysos199"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:50"]
+[WhiteElo "1638"]
+[BlackElo "1597"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "120+6"]
+[Termination "Normal"]
+
+1. d4 d5 2. f4 c5 3. e3 Bf5 4. c3 e6 5. Bd3 Qh4+ 6. g3 Qf6 7. Nf3 Bg4 8. O-O h5 9. Qa4+ Nc6 10. Ne5 Ne7 11. Bb5 h4 12. Nxc6 hxg3 13. Ne5+ Kd8 14. Nxg4 Qh4 15. Qc2 Qxg4 16. hxg3 Nf5 17. Qg2 Nxg3 18. Rf3 Rh1+ 19. Kf2 Ne4+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t7WSEMjT"]
+[White "yesse2"]
+[Black "roichile"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:56"]
+[WhiteElo "1504"]
+[BlackElo "1562"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. e3 e6 3. c4 c6 4. h3 d5 5. Nd2 Nbd7 6. Ngf3 Nb6 7. Ne5 Nbd7 8. c5 Nxe5 9. dxe5 Ng8 10. Nf3 Bxc5 11. Qc2 Qb6 12. Bd2 Bb4 13. a3 Bxd2+ 14. Nxd2 Qc7 15. Nf3 Ne7 16. Bd3 g6 17. Ng5 h6 18. Nf3 Nf5 19. g4 Ne7 20. h4 a6 21. h5 g5 22. Ke2 Qb6 23. b4 Qc7 24. Rag1 Bd7 25. Rc1 Rc8 26. a4 Qb6 27. a5 Qa7 28. Qb3 Qb8 29. Nd4 Qxe5 30. b5 cxb5 31. Nxb5 Bxb5 32. Bxb5+ axb5 33. Qxb5+ Kf8 34. Qb4 Rxc1 35. Rxc1 Qf6 36. Rc8+ Kg7 37. Rc7 Nc6 38. Qxb7 Ne5 39. a6 Qf3+ 40. Kd2 Qxf2+ 41. Kc3 Qxe3+ 42. Kb4 Qe1+ 43. Kc5 Nd3+ 44. Kd6 Qe5+ 45. Kd7 Qf6 46. Kd6 e5+ 47. Kxd5 Qe6+ 48. Ke4 Rf8 49. a7 Nc5+ 50. Rxc5 Qxg4+ 51. Kd3 Qd4+ 52. Kc2 Qxc5+ 53. Kb3 Qe3+ 54. Ka4 Qd4+ 55. Ka5 Qc5+ 56. Ka6 Qc4+ 57. Ka5 Qa2+ 58. Kb5 1-0
+

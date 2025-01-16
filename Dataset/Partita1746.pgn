@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nhUdsKu5"]
+[White "Bayron7"]
+[Black "JaiSkiesNY"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:15:35"]
+[WhiteElo "1600"]
+[BlackElo "1482"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+16"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Krause Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.21] } 1... d5 { [%eval 0.23] } 2. Nf3 { [%eval 0.15] } 2... c5 { [%eval 0.34] } 3. Bf4 { [%eval 0.13] } 3... cxd4 { [%eval 0.06] } 4. Nxd4 { [%eval -0.21] } 4... e6?! { [%eval 0.54] } 5. Nf3?! { [%eval -0.25] } 5... Bd6 { [%eval 0.15] } 6. Be3?! { [%eval -0.84] } 6... Ne7 { [%eval -0.83] } 7. Nd4?! { [%eval -1.49] } 7... O-O { [%eval -1.41] } 8. Nd2 { [%eval -1.5] } 8... a6 { [%eval -1.2] } 9. N2f3 { [%eval -1.62] } 9... f6 { [%eval -1.18] } 10. a3 { [%eval -1.5] } 10... e5 { [%eval -1.5] } 11. Nb3 { [%eval -1.5] } 11... d4 { [%eval -1.06] } 12. Bd2 { [%eval -1.14] } 12... Nbc6 { [%eval -1.14] } 13. e3 { [%eval -1.13] } 13... Bg4 { [%eval -0.68] } 14. exd4 { [%eval -1.14] } 14... e4 { [%eval -1.22] } 15. d5? { [%eval -3.65] } 15... Nxd5? { [%eval -0.94] } 16. Be2?? { [%eval -4.14] } 16... exf3 { [%eval -4.25] } 17. gxf3?! { [%eval -4.86] } 17... Bh3?! { [%eval -3.93] } 18. Rg1? { [%eval -5.1] } 18... Nf4 { [%eval -4.78] } 19. Bc4+?! { [%eval -5.44] } 19... Kh8 { [%eval -5.38] } 20. Bxf4 { [%eval -5.66] } 20... Bxf4 { [%eval -6.25] } 21. Qd3?? { [%eval -13.29] } 21... Re8+ { [%eval -15.87] } 22. Kd1 { [%eval -17.56] } 22... Qb6 { [%eval -16.94] } 23. Nd2 { [%eval -21.31] } 23... Rad8 { [%eval -16.24] } 24. Qe4?! { [%eval #-5] } 24... Bxd2?! { [%eval -29.31] } 25. Qh4?! { [%eval #-3] } 25... Bg5+?! { [%eval #-3] } 26. Bd3 { [%eval #-2] } 26... Bxh4?! { [%eval #-8] } 27. f4 { [%eval #-4] } 27... Bf5?! { [%eval #-6] } 28. Kd2 { [%eval #-4] } 28... Bxd3 { [%eval #-3] } 29. cxd3 { [%eval #-2] } 29... Qd4?! { [%eval #-4] } 30. Rae1 { [%eval #-2] } 30... Qxd3+?! { [%eval #-3] } 31. Kc1 { [%eval #-3] } 31... Qc4+?! { [%eval #-6] } 32. Kb1 { [%eval #-6] } 32... Qd3+?? { [%eval 0.0] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/g1q9628K"]
+[White "Philosopher12"]
+[Black "giorgos"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:34"]
+[WhiteElo "1370"]
+[BlackElo "1240"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Mengarini's Opening"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. a3 d6 3. Nc3 Nc6 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 Nd4 7. Qd1 Nf6 8. Bc4 a6 9. O-O b5 10. Ba2 Be7 11. d3 O-O 12. Nd5 Nxd5 13. Bxd5 Rb8 14. Be3 c6 15. Ba2 c5 16. Bd5 b4 17. a4 b3 18. c3 Nc2 19. Rb1 Bg5 20. Bxg5 Qxg5 21. Qg4 Qxg4 22. hxg4 h6 23. f4 exf4 24. Rxf4 Rbd8 25. Bxb3 Ne3 26. Bd5 Rde8 27. b4 cxb4 28. cxb4 g5 29. Rf3 Nxg4 30. Bc4 Ne5 31. Rf6 Ng4 32. Rxd6 Re5 33. Rxa6 Kg7 34. Rb6 Ra8 35. Rb5 Rxa4 36. Rxe5 Nxe5 37. b5 Ra8 38. b6 Rb8 39. b7 Nd7 40. d4 h5 41. e5 h4 42. e6 fxe6 43. Bxe6 Nf6 44. d5 Ne4 45. Bc8 Nc5 46. d6 h3 47. gxh3 Nd7 48. Bxd7 Kf6 49. Bc8 Ke5 50. d7 1-0
+

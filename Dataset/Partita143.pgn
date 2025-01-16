@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/z8ghUzb9"]
+[White "maxkuznetsoff"]
+[Black "Vicious"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:37"]
+[WhiteElo "1769"]
+[BlackElo "1774"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "B02"]
+[Opening "Alekhine Defense: John Tracy Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. Bc4 Nf6 4. Nc3 e6 5. d4 d5 6. Bd3 c6 7. Ne2 Be7 8. Ng3 O-O 9. O-O h6 10. Ne5 Nbd7 11. Bf4 Nxe5 12. Bxe5 Nd7 13. Nh5 Nxe5 14. dxe5 f5 15. exf6 Bxf6 16. Qg4 Qe8 17. Bg6 Qe7 18. Rfe1 Bd7 19. f4 Rad8 20. f5 e5 21. Ng3 Be8 22. Nh5 Bxg6 23. fxg6 Qd7 24. Qg3 Qf5 25. Nxf6+ Rxf6 26. Rf1 Qxc2 27. Rxf6 gxf6 28. g7 Re8 29. Qg6 Qxg6 30. Rf1 e4 31. g3 e3 32. Re1 e2 33. Kf2 Qc2 34. Kf3 Qd2 35. Kf2 Qxe1+ 36. Kxe1 d4 37. Kf2 d3 38. Ke1 d2+ 39. Kxd2 e1=Q+ 40. Kd3 Qe3+ 41. Kc4 Rd8 42. a4 b6 43. Kb4 a6 44. b3 b5 45. a5 c5+ 46. Ka3 Rd1 47. g4 Qd2 48. g5 Ra1# 0-1
+

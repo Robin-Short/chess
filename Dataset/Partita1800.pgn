@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G5Tq4Juw"]
+[White "mgolum"]
+[Black "Anl"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:03"]
+[WhiteElo "1543"]
+[BlackElo "1529"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nf3 f5 4. Bg5 Nf6 5. Nc3 c6 6. e3 Bd6 7. Bd3 O-O 8. O-O Nbd7 9. a3 Qe8 10. Qb3 Ne4 11. Bh4 Qh5 12. Be2 Qh6 13. Nxe4 fxe4 14. Ng5 Qxh4 15. f4 exf3 16. Nxf3 Rxf3 17. h3 Rg3 18. Kh1 Nf6 19. Rf3 Rxf3 20. Bxf3 Qg3 21. Kg1 Qh2+ 22. Kf2 Ne4+ 23. Ke2 Qg3 24. Rf1 1-0
+

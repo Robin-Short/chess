@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IzIixM1M"]
+[White "chess19277102"]
+[Black "ripcitys24"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:51"]
+[WhiteElo "1582"]
+[BlackElo "1491"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+47"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 f5 3. d4 e6 4. c3 a6 5. Nf3 h6 6. h3 Ne7 7. Nh2 Bd7 8. Be2 Nbc6 9. Bh5+ g6 10. Bxg6+ Nxg6 11. Qh5 Ne7 12. Nf3 Bg7 13. Nh4 Kf7 14. Nd2 Be8 15. Ndf3 Kf8 16. g4 Nf4 17. Ng6+ Bxg6 18. Qh4 Ng2+ 0-1
+

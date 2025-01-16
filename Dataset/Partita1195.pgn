@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/cco7huKs"]
+[White "asxetos1"]
+[Black "Argonn3007"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:02"]
+[WhiteElo "1571"]
+[BlackElo "1747"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack #2"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 c6 3. d4 cxd5 4. c4 Nc6 5. cxd5 Qxd5 6. Nc3 Qd8 7. Nf3 e5 8. Be2 exd4 9. Nb5 a6 10. Na3 Bb4+ 0-1
+

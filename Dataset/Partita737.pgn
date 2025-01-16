@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/82lxPyQD"]
+[White "Corgatha"]
+[Black "DBAA"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:47"]
+[WhiteElo "1830"]
+[BlackElo "1810"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 h6 8. Bh4 Be6 9. Qc2 Nc6 10. a3 Nd7 11. Bxe7 Qxe7 12. Nf3 Bg4 13. Nd2 Nxd4 0-1
+

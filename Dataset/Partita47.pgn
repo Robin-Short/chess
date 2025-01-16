@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OuXmAFmV"]
+[White "t-o-l-y"]
+[Black "goodandbad"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:01:52"]
+[WhiteElo "1787"]
+[BlackElo "1767"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8. Bg5 Be7 9. c4 0-1
+

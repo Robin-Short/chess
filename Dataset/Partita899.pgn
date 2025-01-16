@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/egF4XEe4"]
+[White "Arcticpenguin"]
+[Black "leoam"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:02"]
+[WhiteElo "1478"]
+[BlackElo "1326"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-90"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 h6 3. d4 a6 4. Nc3 Be7 5. Bd3 Nf6 6. e5 Nc6 7. exf6 Bxf6 8. Be3 d5 9. O-O O-O 10. Re1 e5 11. dxe5 Nxe5 12. Nxe5 Bxe5 13. Bf1 Bxh2+ 14. Kxh2 Qh4+ 15. Kg1 Bg4 16. Qd4 Rae8 17. f3 Bh3 18. gxh3 Qg3+ 19. Bg2 Re6 20. Bf2 Qg5 21. Rxe6 fxe6 22. Re1 Rf6 23. Qg4 Qc1 24. Rxc1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TMkrKUME"]
+[White "Tappita"]
+[Black "Anatoly_12345"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:50"]
+[WhiteElo "1664"]
+[BlackElo "1815"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "840+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bc2 e5 6. d3 h6 7. Nd2 Nf6 8. h3 d6 9. Ne2 Be6 10. O-O Qd7 11. Nf3 g5 12. Ng3 g4 13. hxg4 Bxg4 14. Qd2 Ne7 15. Bb3 Ng6 16. Qe1 Nf4 17. Bxf4 exf4 18. Ne2 Bxf3 19. Nxf4 Qg4 20. g3 Nd7 21. Qe3 h5 22. Bd5 Rb8 23. e5 Nxe5 24. Bxf3 Qxf3 25. Qxf3 Nxf3+ 26. Kg2 Ne5 27. Rae1 Kd7 28. d4 cxd4 29. cxd4 Nc4 30. b3 Nb6 31. Rh1 h4 32. Rxh4 Rxh4 33. gxh4 Bg7 34. d5 Be5 35. Nd3 Rg8+ 36. Kf3 f6 37. Nb4 a5 38. Nc2 Nxd5 39. Rh1 Nf4 40. h5 Rh8 41. h6 Rh7 42. Ne3 Ke6 43. Ng4 d5 44. a3 d4 45. a4 b4 46. Nxe5 fxe5 47. Ke4 Kf6 48. f3 d3 49. Ke3 Kg6 50. Rh2 Rxh6 51. Ra2 Kf5 52. Rd2 Rc6 53. Rf2 Rc3 54. Rb2 Rc2 55. Rb1 d2 56. Rd1 Nd5+ 57. Ke2 Rb2 58. Rxd2 Rxd2+ 59. Kxd2 Kf4 60. Kd3 Kxf3 61. Kc4 Nc3 62. Kc5 e4 63. Kb6 e3 64. Kxa5 e2 65. Kxb4 e1=Q 66. Kc4 Ke4 67. a5 Nd5 68. b4 Qxb4# 0-1
+

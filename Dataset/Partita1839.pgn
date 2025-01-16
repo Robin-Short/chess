@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/udHN2XgL"]
+[White "tosquiman1"]
+[Black "pece_29"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:14"]
+[WhiteElo "1428"]
+[BlackElo "1416"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Nc3 c6 7. Bc4 Qf6 8. Qxf6 Nxf6 9. O-O Bb4 10. Bd2 Bxc3 11. Bxc3 Nxe4 12. Bxe5 Nd2 13. Rfe1 O-O 14. Bd3 Re8 15. Bf4 Rxe1+ 16. Rxe1 b5 17. Re8# 1-0
+

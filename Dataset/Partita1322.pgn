@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mevl9fOC"]
+[White "sezwho"]
+[Black "ribarisah"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:01"]
+[WhiteElo "2065"]
+[BlackElo "1977"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b4 g6 2. Bb2 Bg7 3. Bxg7 Nf6 4. Bxh8 1-0
+

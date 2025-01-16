@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6BTCZ3kj"]
+[White "beatable"]
+[Black "VEGETAL"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:32:46"]
+[WhiteElo "1828"]
+[BlackElo "1748"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. f4 f6 2. Nf3 d6 3. d3 e5 4. Nc3 c6 5. e4 d5 6. Be2 d4 7. Na4 Bg4 8. O-O Bxf3 9. Bxf3 b5 10. Nc5 Bxc5 11. a3 Bb6 12. b4 Ne7 13. fxe5 fxe5 14. Bh5+ g6 15. Bg4 Nd7 16. Bh6 Qc7 17. Qf3 O-O-O 18. Be6 Kb8 19. a4 Nf8 20. Bg4 Nd7 21. axb5 cxb5 22. Rac1 Kc8 23. Bd2 h5 24. Bh3 Rhf8 25. Qe2 Rxf1+ 26. Qxf1 Kb7 27. c3 Qd6 28. cxd4 Qxd4+ 29. Kh1 Qf2 30. Qxf2 Bxf2 31. Rf1 Bd4 32. Bc1 Nc8 33. Rf3 Nd6 34. Bf5 Nc4 35. Bxg6 1-0
+

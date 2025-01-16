@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6pQQcU8u"]
+[White "lopez2013"]
+[Black "chess1552"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:59"]
+[WhiteElo "1740"]
+[BlackElo "1717"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[TimeControl "420+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. O-O Ngf6 6. Re1 O-O 7. c3 c6 8. a4 a5 9. h3 h6 10. Be3 Nh7 11. Qd2 Nhf6 12. Bxh6 gxh6 13. Qxh6 Nh7 14. h4 Kh8 15. Re3 Bf6 16. Qh5 Qe7 17. Nbd2 c5 18. Ng5 Bxg5 19. hxg5 Qxg5 20. Rh3 Qxh5 21. Rxh5 Nf6 22. Rh6 Kg7 23. Rh4 Be6 24. d5 Bd7 25. Nf3 Rh8 26. g3 Bg4 27. Nh2 Bd7 28. Rf1 Ng5 29. Be2 Ngxe4 30. Ng4 Rxh4 0-1
+

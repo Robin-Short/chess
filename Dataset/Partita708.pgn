@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KcAA5KFC"]
+[White "nimster"]
+[Black "thelonious"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:39"]
+[WhiteElo "1429"]
+[BlackElo "1602"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation, Winckelmann-Riemer Gambit"]
+[TimeControl "600+8"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 0-1
+

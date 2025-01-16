@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jVZa4w1t"]
+[White "Yorka"]
+[Black "sidacotel"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:29:46"]
+[WhiteElo "1747"]
+[BlackElo "1552"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+16"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Hartlaub-Charlick Gambit"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 d6 3. Nf3 Nc6 4. e4 Bg4 5. Bb5 Qd7 6. O-O O-O-O 7. c3 a6 8. Ba4 Nge7 9. exd6 Ng6 10. dxc7 Qxd1 11. Rxd1 Rxd1+ 12. Bxd1 Bc5 13. Nbd2 Kxc7 14. h3 Bh5 15. g4 Bxg4 16. hxg4 Rd8 17. Be2 Nf4 18. Bf1 f6 19. Nc4 Ng6 20. Bd2 Nce5 21. Ncxe5 Nxe5 22. Nxe5 Rxd2 23. Nc4 Rxf2 24. b4 Ba7 25. Kh1 Rf4 26. Bg2 Rxg4 27. Rd1 Rh4+ 28. Bh3 Rxh3+ 29. Kg2 Rxc3 30. Nd2 Rc2 31. Kf1 Rxa2 32. Ke2 Bd4 33. Rc1+ Kb6 34. Kd3 Be5 35. Nc4+ Ka7 36. Nxe5 fxe5 37. Ke3 Ra3+ 38. Kf2 Ra4 39. Kg3 Rxb4 0-1
+

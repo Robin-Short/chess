@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/q676q1cV"]
+[White "Vax"]
+[Black "Maxime21"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:29"]
+[WhiteElo "1759"]
+[BlackElo "1736"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin"]
+[TimeControl "120+13"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nc6 4. Bb5 Bd7 5. Na3 a6 6. Ba4 b5 7. Bc2 c4 8. b3 cxb3 9. axb3 Nf6 10. d4 g6 11. h3 Bg7 12. O-O O-O 13. Bg5 h6 14. Bh4 Nh7 15. Bd3 f6 16. e5 f5 17. exd6 exd6 18. Bxd8 1-0
+

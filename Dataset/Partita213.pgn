@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jzo6wJLA"]
+[White "vid"]
+[Black "muschi"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:04"]
+[WhiteElo "1994"]
+[BlackElo "2015"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+27"]
+[ECO "C40"]
+[Opening "Latvian Gambit Accepted, Leonhardt Variation"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.22] } 1... e5 { [%eval 0.2] } 2. Nf3 { [%eval 0.26] } 2... f5 { [%eval 0.61] } 3. Nxe5 { [%eval 0.96] } 3... Qf6 { [%eval 0.94] } 4. Nc4 { [%eval 0.99] } 4... fxe4 { [%eval 0.51] } 5. Nc3 { [%eval 0.89] } 5... Na6 { [%eval 1.05] } 6. Ne3 { [%eval 1.17] } 6... Qe6?! { [%eval 1.9] } 7. Bc4 { [%eval 1.83] } 7... Qg6 { [%eval 1.97] } 8. d3 { [%eval 1.82] } 8... Nf6 { [%eval 2.08] } 9. dxe4 { [%eval 2.14] } 9... Bb4?! { [%eval 2.64] } 10. O-O { [%eval 2.79] } 10... Bxc3 { [%eval 2.96] } 11. bxc3 { [%eval 2.7] } 11... d6 { [%eval 2.68] } 12. Kh1?! { [%eval 2.17] } 12... Nc5 { [%eval 2.57] } 13. f3? { [%eval 1.15] } 13... Be6 { [%eval 1.2] } 14. Bd3 { [%eval 0.79] } 14... O-O { [%eval 0.93] } 15. Qe2 { [%eval 0.67] } 15... Rae8 { [%eval 0.84] } 16. Qf2? { [%eval -0.39] } 16... Nfxe4 { [%eval -0.38] } 17. Qe1 { [%eval -0.72] } 17... Nxd3 { [%eval -0.75] } 18. cxd3 { [%eval -0.69] } 18... Nc5 { [%eval -0.7] } 19. d4 { [%eval -0.73] } 19... Nd3 { [%eval -0.76] } 20. Qd2 { [%eval -0.78] } 20... Bf7 { [%eval -0.63] } 21. Rd1 { [%eval -1.1] } 21... Nf4 { [%eval -1.08] } 22. Re1 { [%eval -1.26] } 22... Re6 { [%eval -1.57] } 23. g3 { [%eval -1.51] } 23... Nd5 { [%eval -1.46] } 24. Kg2?? { [%eval -5.32] } 24... Rfe8 { [%eval -4.72] } 25. Qf2? { [%eval -6.24] } 25... Nf4+ { [%eval -6.29] } 0-1
+

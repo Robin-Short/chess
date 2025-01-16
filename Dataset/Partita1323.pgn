@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LzU156LZ"]
+[White "stoneworker"]
+[Black "igor75bgd"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:55:49"]
+[WhiteElo "1723"]
+[BlackElo "1654"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Bc5 4. d4 Bb4+ 5. Nc3 d6 6. Bxf4 Bg4 7. Bc4 f6 8. O-O Bxc3 9. bxc3 Nc6 10. Qd3 Na5 11. e5 Bxf3 12. Rxf3 d5 13. exf6 Nxf6 14. Re1+ Kf8 15. Bb3 h5 16. Qg6 Nc6 17. Bg5 Ne7 18. Rxf6+ gxf6 19. Qxf6+ Kg8 20. Rxe7 Rh7 21. Qg6+ 1-0
+

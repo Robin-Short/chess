@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ITWbejoG"]
+[White "raskolnikov"]
+[Black "Snowden"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:54"]
+[WhiteElo "1323"]
+[BlackElo "1466"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-16"]
+[ECO "C46"]
+[Opening "Three Knights Opening: Winawer Defense"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 e5 3. Nf3 f5 4. Bc4 fxe4 5. Nxe4 d5 6. d3 dxe4 7. dxe4 Qxd1+ 8. Kxd1 Bg4 9. h3 Bh5 10. g4 Bg6 11. Ng5 Nh6 12. f3 O-O-O+ 13. Bd2 Bc5 14. Be6+ Kb8 15. a3 Be3 16. Rh2 Bxg5 17. Kc1 Bf4 18. Bxf4 exf4 19. g5 Nf7 20. h4 Nfe5 21. h5 Be8 22. b4 Rf8 23. g6 hxg6 24. hxg6 Nxf3 25. Rh7 Ncd4 26. Rxg7 Nxe6 27. Re7 Ned4 28. g7 Rg8 29. Kb2 Ba4 30. Rh1 Nxc2 31. Rf7 Ng5 32. Rf8 Ne6 33. Rxd8+ Nxd8 34. Rh8 1-0
+

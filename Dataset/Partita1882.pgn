@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/rLhNzYLG"]
+[White "edivillela"]
+[Black "sidacotel"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:25:59"]
+[WhiteElo "1451"]
+[BlackElo "1566"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "D08"]
+[Opening "Queen's Gambit Refused: Albin Countergambit"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. c4 d5 3. dxe5 Nc6 4. cxd5 Nxe5 5. e4 Nf6 6. f4 Ng6 7. Nc3 Bb4 8. e5 Ne4 9. Ne2 Bg4 10. Qa4+ Qd7 11. Qxb4 Bxe2 12. Bxe2 Nxc3 13. Qxc3 Qxd5 14. Be3 Qe4 15. Bf3 Qf5 16. Bxb7 Rb8 17. Bc6+ Ke7 18. O-O Rb6 19. Bxb6 axb6 20. Qb4+ Ke6 21. Rad1 Ra8 22. Bd7# 1-0
+

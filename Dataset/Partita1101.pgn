@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bSU8DIQx"]
+[White "aVes"]
+[Black "barabass"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:46"]
+[WhiteElo "1307"]
+[BlackElo "1209"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-26"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "120+9"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Qh5 d6 3. Bc4 Qe7 4. Nc3 Nf6 5. Bxf7+ Qxf7 6. Qxf7+ Kxf7 7. Nb5 Na6 8. Nf3 Nxe4 9. b3 c6 10. Nc3 Nxc3 11. dxc3 Bf5 12. Kd1 Nc5 13. h3 Ne4 14. Ng5+ Nxg5 15. Bxg5 h6 16. Be3 g5 17. Kc1 Bg7 18. Kb2 e4 19. Rad1 1-0
+

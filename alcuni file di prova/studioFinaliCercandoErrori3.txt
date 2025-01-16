@@ -1,0 +1,1012 @@
+
+
+ 8                 
+ 7       ♚         
+ 6                 
+ 5 ♕               
+ 4                 
+ 3                 
+ 2         ♛       
+ 1         ♔       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		270 mosse, 		1.99 s
+
+ 8                 
+ 7               ♙ 
+ 6                 
+ 5                 
+ 4     ♔     ♚ ♘   
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per ripetizione. 		254 mosse, 		1.663 s
+
+ 8 ♕               
+ 7         ♗       
+ 6                 
+ 5                 
+ 4                 
+ 3         ♔       
+ 2               ♚ 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		312 mosse, 		1.901 s
+
+ 8   ♔             
+ 7               ♝ 
+ 6                 
+ 5                 
+ 4                 
+ 3     ♚           
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		273 mosse, 		1.523 s
+
+ 8                 
+ 7         ♚       
+ 6 ♖               
+ 5     ♙ ♟         
+ 4             ♜   
+ 3   ♔             
+ 2 ♜ ♛   ♘         
+ 1         ♛       
+   A B C D E F G H		Vince il NERO. 		134 mosse, 		1.245 s
+
+ 8     ♕     ♗     
+ 7           ♟     
+ 6         ♚       
+ 5   ♙ ♝           
+ 4     ♘         ♟ 
+ 3     ♞   ♟       
+ 2       ♕ ♙ ♖     
+ 1   ♖     ♔   ♘ ♗ 
+   A B C D E F G H		Vince il BIANCO. 		107 mosse, 		1.232 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5             ♘   
+ 4   ♚       ♝ ♔   
+ 3                 
+ 2                 
+ 1         ♞       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		281 mosse, 		1.812 s
+
+ 8       ♛   ♝     
+ 7   ♛     ♚       
+ 6       ♟ ♝ ♟   ♜ 
+ 5     ♟   ♙ ♔     
+ 4 ♟   ♙ ♙   ♙ ♙   
+ 3     ♕           
+ 2 ♙           ♖   
+ 1             ♘   
+   A B C D E F G H		Vince il NERO. 		98 mosse, 		1.158 s
+
+ 8   ♝ ♗   ♚   ♕   
+ 7   ♙             
+ 6       ♙         
+ 5 ♜   ♙     ♘     
+ 4   ♟       ♙     
+ 3         ♗     ♖ 
+ 2 ♖         ♔     
+ 1   ♞             
+   A B C D E F G H		Vince il BIANCO. 		139 mosse, 		1.522 s
+
+ 8   ♞ ♝ ♛     ♜   
+ 7       ♟ ♚ ♞     
+ 6             ♙ ♙ 
+ 5 ♜   ♟         ♟ 
+ 4   ♟     ♙ ♟ ♟   
+ 3 ♝ ♟   ♙   ♟     
+ 2 ♙ ♗ ♙     ♔     
+ 1 ♖ ♕   ♗   ♘ ♘ ♖ 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		50 mosse, 		0.675 s
+
+ 8                 
+ 7             ♔ ♙ 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2       ♚       ♗ 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		338 mosse, 		2.276 s
+
+ 8         ♕ ♕ ♜   
+ 7       ♚         
+ 6               ♟ 
+ 5         ♗ ♜     
+ 4         ♔       
+ 3   ♟           ♛ 
+ 2                 
+ 1   ♞   ♛         
+   A B C D E F G H		Vince il BIANCO. 		121 mosse, 		1.262 s
+
+ 8 ♖               
+ 7     ♙   ♘ ♕     
+ 6       ♔       ♚ 
+ 5                 
+ 4             ♙ ♙ 
+ 3                 
+ 2 ♙               
+ 1   ♖             
+   A B C D E F G H		STALLO. 		171 mosse, 		1.643 s
+
+ 8                 
+ 7             ♞   
+ 6                 
+ 5 ♚     ♝         
+ 4             ♔   
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		263 mosse, 		1.755 s
+
+ 8       ♚     ♕   
+ 7     ♜     ♖     
+ 6 ♗               
+ 5                 
+ 4       ♔         
+ 3           ♟     
+ 2       ♝         
+ 1         ♖       
+   A B C D E F G H		Vince il BIANCO. 		181 mosse, 		1.748 s
+
+ 8   ♞ ♕     ♝     
+ 7 ♜ ♛   ♝ ♚   ♙ ♜ 
+ 6 ♟             ♟ 
+ 5       ♟ ♙ ♟     
+ 4   ♙ ♟     ♙     
+ 3 ♘ ♟           ♙ 
+ 2 ♙       ♟       
+ 1 ♖   ♗ ♕ ♔   ♘ ♖ 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		50 mosse, 		0.801 s
+
+ 8                 
+ 7               ♙ 
+ 6                 
+ 5         ♚       
+ 4     ♔         ♘ 
+ 3                 
+ 2 ♕               
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		255 mosse, 		1.737 s
+
+ 8                 
+ 7           ♚     
+ 6                 
+ 5                 
+ 4 ♞               
+ 3       ♔         
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		276 mosse, 		1.894 s
+
+ 8               ♚ 
+ 7           ♙     
+ 6 ♙             ♔ 
+ 5                 
+ 4                 
+ 3                 
+ 2 ♗               
+ 1                 
+   A B C D E F G H		STALLO. 		245 mosse, 		2.034 s
+
+ 8   ♛             
+ 7             ♕   
+ 6                 
+ 5               ♚ 
+ 4 ♔               
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		300 mosse, 		1.863 s
+
+ 8                 
+ 7     ♙           
+ 6 ♔ ♙             
+ 5                 
+ 4   ♕             
+ 3         ♘       
+ 2                 
+ 1     ♚           
+   A B C D E F G H		STALLO. 		251 mosse, 		1.999 s
+
+ 8                 
+ 7 ♔     ♝   ♚     
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		269 mosse, 		1.988 s
+
+ 8 ♕               
+ 7     ♜   ♖       
+ 6           ♖ ♙   
+ 5                 
+ 4             ♚   
+ 3 ♟           ♘   
+ 2 ♔       ♝   ♗   
+ 1   ♛ ♛           
+   A B C D E F G H		Vince il NERO. 		198 mosse, 		2.007 s
+
+ 8                 
+ 7                 
+ 6       ♕         
+ 5           ♚ ♞   
+ 4                 
+ 3             ♜ ♝ 
+ 2       ♔         
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		266 mosse, 		2.221 s
+
+ 8     ♜ ♚ ♜     ♞ 
+ 7 ♟   ♟ ♞   ♟ ♟   
+ 6 ♙   ♕   ♝     ♟ 
+ 5   ♟       ♙   ♛ 
+ 4     ♙       ♙ ♙ 
+ 3 ♘     ♙     ♝   
+ 2   ♙   ♟   ♘     
+ 1 ♖   ♗ ♔ ♖     ♗ 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		50 mosse, 		0.707 s
+
+ 8         ♚   ♕   
+ 7 ♟   ♟           
+ 6     ♞     ♟     
+ 5   ♙ ♙ ♘ ♟       
+ 4       ♟ ♙   ♗ ♜ 
+ 3 ♙               
+ 2         ♔     ♟ 
+ 1 ♗ ♛             
+   A B C D E F G H		Vince il BIANCO. 		93 mosse, 		1.199 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2           ♗ ♔   
+ 1   ♚             
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		289 mosse, 		1.93 s
+
+ 8                 
+ 7 ♛               
+ 6 ♙               
+ 5   ♖             
+ 4           ♚   ♜ 
+ 3           ♕     
+ 2             ♔   
+ 1                 
+   A B C D E F G H		Vince il BIANCO. 		191 mosse, 		1.789 s
+
+ 8           ♛ ♖   
+ 7                 
+ 6         ♔       
+ 5                 
+ 4                 
+ 3     ♚           
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		263 mosse, 		1.882 s
+
+ 8                 
+ 7 ♟   ♞     ♟ ♜   
+ 6     ♕           
+ 5 ♙   ♚           
+ 4 ♟     ♖ ♗     ♙ 
+ 3     ♔   ♙   ♟   
+ 2               ♟ 
+ 1                 
+   A B C D E F G H		Vince il BIANCO. 		133 mosse, 		1.486 s
+
+ 8               ♔ 
+ 7                 
+ 6                 
+ 5     ♗           
+ 4                 
+ 3                 
+ 2         ♚       
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		331 mosse, 		2.022 s
+
+ 8       ♚         
+ 7 ♜               
+ 6     ♔           
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		336 mosse, 		2.303 s
+
+ 8                 
+ 7             ♔   
+ 6     ♜           
+ 5                 
+ 4                 
+ 3                 
+ 2   ♟       ♚     
+ 1         ♛       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		317 mosse, 		2.087 s
+
+ 8 ♕               
+ 7                 
+ 6   ♜           ♚ 
+ 5                 
+ 4     ♝           
+ 3 ♔               
+ 2               ♟ 
+ 1 ♜               
+   A B C D E F G H		Vince il NERO. 		276 mosse, 		1.965 s
+
+ 8                 
+ 7 ♜       ♚       
+ 6                 
+ 5             ♞   
+ 4   ♛             
+ 3           ♞     
+ 2             ♔   
+ 1         ♛       
+   A B C D E F G H		STALLO. 		254 mosse, 		2.364 s
+
+ 8                 
+ 7   ♕             
+ 6   ♚             
+ 5         ♝       
+ 4         ♕       
+ 3   ♘             
+ 2                 
+ 1   ♔             
+   A B C D E F G H		Vince il BIANCO. 		225 mosse, 		2.086 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4 ♔               
+ 3               ♚ 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		323 mosse, 		1.877 s
+
+ 8                 
+ 7     ♝           
+ 6     ♔           
+ 5                 
+ 4                 
+ 3                 
+ 2               ♚ 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		419 mosse, 		2.63 s
+
+ 8         ♖     ♚ 
+ 7           ♕     
+ 6     ♟         ♙ 
+ 5   ♟             
+ 4 ♙   ♟     ♙   ♟ 
+ 3               ♘ 
+ 2 ♙       ♔       
+ 1 ♖ ♘ ♗           
+   A B C D E F G H		Vince il BIANCO. 		79 mosse, 		1.069 s
+
+ 8           ♚     
+ 7                 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2         ♔       
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		311 mosse, 		1.796 s
+
+ 8     ♚       ♛   
+ 7           ♔     
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		318 mosse, 		2.249 s
+
+ 8                 
+ 7                 
+ 6             ♚   
+ 5                 
+ 4 ♔               
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		245 mosse, 		1.457 s
+
+ 8 ♜ ♞       ♛ ♞   
+ 7 ♟   ♝ ♚     ♟   
+ 6 ♝ ♟           ♜ 
+ 5 ♙     ♟       ♟ 
+ 4   ♙ ♟     ♟     
+ 3   ♕       ♙     
+ 2 ♖ ♔ ♙ ♟ ♙   ♗ ♙ 
+ 1   ♘         ♘ ♖ 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		50 mosse, 		0.71 s
+
+ 8   ♚             
+ 7                 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2         ♔       
+ 1             ♛   
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		340 mosse, 		2.19 s
+
+ 8                 
+ 7             ♚   
+ 6                 
+ 5             ♞ ♝ 
+ 4                 
+ 3                 
+ 2               ♛ 
+ 1     ♔   ♜       
+   A B C D E F G H		Vince il NERO. 		256 mosse, 		2.117 s
+
+ 8                 
+ 7               ♚ 
+ 6 ♙ ♜ ♘           
+ 5                 
+ 4 ♟               
+ 3       ♛         
+ 2     ♔           
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		250 mosse, 		2.234 s
+
+ 8   ♗ ♚           
+ 7 ♙             ♟ 
+ 6               ♙ 
+ 5           ♙ ♖   
+ 4                 
+ 3             ♔   
+ 2           ♞ ♝   
+ 1           ♛ ♘   
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		181 mosse, 		1.741 s
+
+ 8       ♚       ♜ 
+ 7             ♛   
+ 6   ♘ ♟ ♙   ♞     
+ 5 ♟         ♙   ♘ 
+ 4             ♟   
+ 3 ♝ ♙         ♟   
+ 2           ♛   ♙ 
+ 1       ♔     ♛   
+   A B C D E F G H		Vince il NERO. 		110 mosse, 		1.448 s
+
+ 8   ♘             
+ 7   ♗             
+ 6           ♖     
+ 5                 
+ 4           ♙ ♚   
+ 3               ♕ 
+ 2       ♟       ♔ 
+ 1   ♜             
+   A B C D E F G H		Vince il BIANCO. 		201 mosse, 		2.034 s
+
+ 8           ♚     
+ 7                 
+ 6             ♕ ♝ 
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1 ♘       ♔       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		233 mosse, 		1.64 s
+
+ 8   ♚             
+ 7                 
+ 6                 
+ 5   ♔             
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		295 mosse, 		1.758 s
+
+ 8                 
+ 7       ♚         
+ 6         ♜       
+ 5         ♝       
+ 4               ♟ 
+ 3                 
+ 2       ♔     ♝   
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		265 mosse, 		1.853 s
+
+ 8             ♚ ♕ 
+ 7         ♕       
+ 6             ♘   
+ 5       ♝   ♟   ♙ 
+ 4       ♙         
+ 3         ♙       
+ 2 ♟ ♗ ♔   ♟ ♟   ♞ 
+ 1     ♖     ♗   ♖ 
+   A B C D E F G H		Vince il BIANCO. 		105 mosse, 		1.298 s
+
+ 8       ♚         
+ 7                 
+ 6       ♔         
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		303 mosse, 		2.262 s
+
+ 8   ♘             
+ 7         ♔       
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2       ♚         
+ 1         ♞       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		350 mosse, 		1.954 s
+
+ 8               ♕ 
+ 7 ♞             ♚ 
+ 6                 
+ 5               ♙ 
+ 4 ♟               
+ 3 ♖     ♛         
+ 2 ♙ ♗           ♔ 
+ 1     ♛           
+   A B C D E F G H		Vince il BIANCO. 		153 mosse, 		1.47 s
+
+ 8       ♚   ♛     
+ 7                 
+ 6         ♝ ♝     
+ 5             ♟   
+ 4     ♛           
+ 3             ♞   
+ 2                 
+ 1   ♔             
+   A B C D E F G H		STALLO. 		230 mosse, 		1.973 s
+
+ 8 ♚ ♞   ♖         
+ 7 ♙               
+ 6                 
+ 5         ♖ ♗     
+ 4   ♔             
+ 3       ♜         
+ 2       ♕         
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		237 mosse, 		2.115 s
+
+ 8                 
+ 7   ♚ ♕ ♗         
+ 6       ♞       ♜ 
+ 5 ♕ ♙             
+ 4                 
+ 3   ♖   ♘         
+ 2             ♔   
+ 1         ♛       
+   A B C D E F G H		Vince il BIANCO. 		171 mosse, 		1.785 s
+
+ 8 ♜   ♝   ♚ ♝   ♜ 
+ 7   ♟   ♟       ♟ 
+ 6   ♛           ♞ 
+ 5 ♟       ♟ ♟ ♟   
+ 4 ♙ ♙       ♕ ♙   
+ 3   ♞ ♟   ♙ ♙   ♘ 
+ 2     ♙   ♗     ♙ 
+ 1 ♖ ♘     ♔   ♖   
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		50 mosse, 		0.74 s
+
+ 8             ♗   
+ 7   ♜   ♙       ♕ 
+ 6 ♟           ♚   
+ 5           ♜     
+ 4 ♙     ♗   ♝   ♔ 
+ 3 ♘               
+ 2   ♖     ♘       
+ 1       ♛         
+   A B C D E F G H		Vince il BIANCO. 		193 mosse, 		2.318 s
+
+ 8       ♕         
+ 7 ♕             ♙ 
+ 6       ♕     ♚   
+ 5             ♙   
+ 4 ♟           ♙ ♟ 
+ 3       ♙ ♙       
+ 2     ♜ ♘ ♔       
+ 1           ♖   ♝ 
+   A B C D E F G H		Vince il BIANCO. 		119 mosse, 		1.463 s
+
+ 8       ♕         
+ 7                 
+ 6         ♔       
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1   ♚             
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		376 mosse, 		2.329 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4   ♔             
+ 3                 
+ 2                 
+ 1       ♚ ♞       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		322 mosse, 		2.176 s
+
+ 8                 
+ 7       ♚         
+ 6                 
+ 5   ♔             
+ 4                 
+ 3                 
+ 2       ♝         
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		318 mosse, 		2.257 s
+
+ 8       ♞         
+ 7     ♚           
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1         ♔       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		296 mosse, 		1.898 s
+
+ 8                 
+ 7                 
+ 6         ♞       
+ 5                 
+ 4         ♝       
+ 3     ♜           
+ 2           ♚   ♔ 
+ 1                 
+   A B C D E F G H		STALLO. 		262 mosse, 		2.105 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5         ♚       
+ 4                 
+ 3   ♔             
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		399 mosse, 		2.687 s
+
+ 8                 
+ 7       ♘         
+ 6   ♖             
+ 5       ♙         
+ 4 ♕               
+ 3     ♔           
+ 2                 
+ 1 ♚               
+   A B C D E F G H		Vince il BIANCO. 		249 mosse, 		2.222 s
+
+ 8     ♞         ♛ 
+ 7                 
+ 6 ♙ ♙       ♙   ♟ 
+ 5                 
+ 4 ♕               
+ 3 ♚               
+ 2     ♕       ♔   
+ 1                 
+   A B C D E F G H		Vince il BIANCO. 		189 mosse, 		2.016 s
+
+ 8                 
+ 7 ♕               
+ 6             ♚   
+ 5           ♖ ♗   
+ 4     ♖     ♔     
+ 3                 
+ 2                 
+ 1       ♗         
+   A B C D E F G H		STALLO. 		255 mosse, 		2.318 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5   ♔       ♚     
+ 4                 
+ 3               ♖ 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		336 mosse, 		2.235 s
+
+ 8                 
+ 7                 
+ 6 ♚             ♔ 
+ 5           ♕     
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		369 mosse, 		2.667 s
+
+ 8 ♚               
+ 7                 
+ 6                 
+ 5                 
+ 4           ♔     
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		393 mosse, 		2.211 s
+
+ 8                 
+ 7                 
+ 6   ♟             
+ 5 ♙ ♗             
+ 4   ♔       ♚     
+ 3 ♛     ♛         
+ 2                 
+ 1                 
+   A B C D E F G H		Vince il NERO. 		144 mosse, 		1.287 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5           ♔     
+ 4                 
+ 3         ♚       
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		341 mosse, 		2.578 s
+
+ 8           ♚     
+ 7   ♛             
+ 6         ♟ ♝     
+ 5                 
+ 4                 
+ 3 ♟               
+ 2   ♜       ♟     
+ 1     ♔       ♜   
+   A B C D E F G H		Vince il NERO. 		158 mosse, 		1.608 s
+
+ 8       ♕         
+ 7                 
+ 6         ♞ ♜     
+ 5       ♔     ♚   
+ 4 ♟               
+ 3                 
+ 2             ♟   
+ 1 ♘       ♗       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		190 mosse, 		1.635 s
+
+ 8             ♚   
+ 7             ♝   
+ 6                 
+ 5             ♔   
+ 4 ♞               
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		320 mosse, 		2.302 s
+
+ 8                 
+ 7       ♔         
+ 6               ♚ 
+ 5                 
+ 4                 
+ 3                 
+ 2             ♛   
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		295 mosse, 		2.004 s
+
+ 8   ♖         ♞   
+ 7       ♔         
+ 6                 
+ 5         ♚       
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		261 mosse, 		1.859 s
+
+ 8                 
+ 7   ♜             
+ 6             ♔   
+ 5         ♛       
+ 4                 
+ 3                 
+ 2           ♚   ♟ 
+ 1     ♝           
+   A B C D E F G H		STALLO. 		210 mosse, 		2.002 s
+
+ 8           ♛     
+ 7                 
+ 6                 
+ 5             ♚   
+ 4                 
+ 3         ♜       
+ 2                 
+ 1 ♔               
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		238 mosse, 		1.796 s
+
+ 8                 
+ 7       ♔         
+ 6                 
+ 5     ♜           
+ 4                 
+ 3       ♚         
+ 2                 
+ 1 ♛               
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		291 mosse, 		2.329 s
+
+ 8                 
+ 7             ♔   
+ 6                 
+ 5   ♛             
+ 4                 
+ 3                 
+ 2 ♝           ♚   
+ 1         ♞       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		334 mosse, 		2.521 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2   ♚     ♔       
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		362 mosse, 		2.149 s
+
+ 8                 
+ 7                 
+ 6                 
+ 5         ♔       
+ 4                 
+ 3                 
+ 2                 
+ 1         ♚       
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		321 mosse, 		2.24 s
+
+ 8 ♞             ♝ 
+ 7         ♙       
+ 6 ♙ ♜         ♚ ♙ 
+ 5     ♖ ♕       ♜ 
+ 4 ♙               
+ 3                 
+ 2 ♔ ♛           ♟ 
+ 1       ♗   ♛   ♝ 
+   A B C D E F G H		Vince il NERO. 		138 mosse, 		1.675 s
+
+ 8                 
+ 7     ♚           
+ 6                 
+ 5                 
+ 4 ♔               
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		393 mosse, 		2.664 s
+
+ 8 ♜         ♚ ♕   
+ 7   ♖           ♙ 
+ 6 ♙       ♟       
+ 5           ♟ ♟   
+ 4             ♟   
+ 3                 
+ 2     ♟   ♟ ♔ ♝   
+ 1 ♖     ♛ ♞       
+   A B C D E F G H		Vince il BIANCO. 		135 mosse, 		1.703 s
+
+ 8                 
+ 7           ♕     
+ 6             ♚   
+ 5                 
+ 4                 
+ 3                 
+ 2             ♔   
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		347 mosse, 		2.338 s
+
+ 8     ♚           
+ 7                 
+ 6                 
+ 5 ♗ ♕         ♔   
+ 4                 
+ 3                 
+ 2         ♗       
+ 1             ♕   
+   A B C D E F G H		STALLO. 		223 mosse, 		1.727 s
+
+ 8                 
+ 7                 
+ 6 ♚   ♔           
+ 5 ♛         ♝     
+ 4             ♟   
+ 3 ♛               
+ 2   ♟             
+ 1                 
+   A B C D E F G H		STALLO. 		216 mosse, 		2.098 s
+
+ 8             ♔   
+ 7         ♜       
+ 6 ♚         ♟ ♞   
+ 5   ♟           ♛ 
+ 4                 
+ 3                 
+ 2       ♟         
+ 1                 
+   A B C D E F G H		STALLO. 		206 mosse, 		1.917 s
+
+ 8         ♕       
+ 7                 
+ 6         ♘ ♕     
+ 5     ♙           
+ 4   ♚     ♔ ♙     
+ 3               ♖ 
+ 2 ♕               
+ 1                 
+   A B C D E F G H		STALLO. 		163 mosse, 		1.543 s
+
+ 8       ♚   ♜   ♜ 
+ 7       ♛         
+ 6               ♞ 
+ 5                 
+ 4       ♞         
+ 3         ♝       
+ 2         ♛       
+ 1       ♔         
+   A B C D E F G H		Vince il NERO. 		194 mosse, 		2.182 s
+
+ 8 ♔     ♚         
+ 7                 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2           ♞     
+ 1       ♛         
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		278 mosse, 		1.835 s
+
+ 8                 
+ 7             ♚   
+ 6                 
+ 5             ♝   
+ 4                 
+ 3                 
+ 2 ♟       ♔       
+ 1                 
+   A B C D E F G H		PATTA per 50 mosse senza mangiare. 		294 mosse, 		2.125 s
+
+ 8     ♖   ♚       
+ 7 ♖           ♗   
+ 6                 
+ 5     ♞         ♟ 
+ 4                 
+ 3   ♗   ♙ ♟   ♙   
+ 2               ♔ 
+ 1                 
+   A B C D E F G H		Vince il BIANCO. 		131 mosse, 		1.486 s
+
+ 8 ♝           ♚   
+ 7                 
+ 6 ♙ ♞         ♕ ♖ 
+ 5   ♙ ♕           
+ 4   ♟             
+ 3           ♙   ♗ 
+ 2       ♟   ♙   ♘ 
+ 1       ♔       ♖ 
+   A B C D E F G H		Vince il BIANCO. 		123 mosse, 		1.576 s
+
+Occorrenze tipologie di mosse.
+
+	Sposta:              17948 volte
+	Mangia:              1921 volte
+	Avanza1:             1734 volte
+	Avanza2:             1627 volte
+	Pedone Mangia:       472 volte
+	Enpassant:           6 volte
+	Arrocco Lungo:       1 volte
+	Arrocco Corto:       8 volte

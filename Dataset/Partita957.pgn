@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AikyCbhn"]
+[White "iel87"]
+[Black "ntiy"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:03"]
+[WhiteElo "1327"]
+[BlackElo "1226"]
+[WhiteRatingDiff "+43"]
+[BlackRatingDiff "-8"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "60+3"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 f6 4. f4 fxe5 5. fxe5 e6 6. Bd3 Nd7 7. Nf3 b6 8. O-O c5 9. Ng5 g6 10. Nxe6 cxd4 11. Nxd8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/P20lasn7"]
+[White "vandam2120"]
+[Black "AwareTenacious"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:15"]
+[WhiteElo "1367"]
+[BlackElo "1296"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+143"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.26] } 1... e6 { [%eval 0.24] } 2. e5 { [%eval -0.21] } 2... d5 { [%eval 0.06] } 3. exd6 { [%eval -0.18] } 3... Bxd6 { [%eval -0.27] } 4. d4 { [%eval -0.18] } 4... Nf6 { [%eval -0.24] } 5. c3 { [%eval -0.36] } 5... O-O { [%eval -0.34] } 6. h4?! { [%eval -1.04] } 6... c6?! { [%eval -0.45] } 7. h5 { [%eval -0.73] } 7... h6 { [%eval -0.71] } 8. g4 { [%eval -1.0] } 8... e5?! { [%eval -0.39] } 9. dxe5?! { [%eval -0.97] } 9... Bxe5 { [%eval -0.96] } 10. Qxd8 { [%eval -0.98] } 10... Rxd8 { [%eval -0.89] } 11. g5 { [%eval -0.83] } 11... Bg4 { [%eval -0.67] } 12. gxf6?? { [%eval #-1] } 12... Rd1# 0-1
+

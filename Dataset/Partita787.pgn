@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4tXOBPSD"]
+[White "raflig"]
+[Black "ban-ban"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:41"]
+[WhiteElo "1812"]
+[BlackElo "1618"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8. Bg5 Be7 9. O-O-O h6 10. Bh4 Nh7 11. Bxe7 Qxe7 12. Qxg7 O-O-O 13. Qd4 Ng5 14. Qxa7 Nxf3 15. gxf3 Kd7 16. Qe3 Rde8 17. Rhe1 Qe5 18. f4 Qh5 19. Qg3 Rhg8 20. Qd3 Qxh2 21. Nd5 Bxd5 22. Qxd5 Qxf4+ 23. Kb1 b6 24. e5 Rxe5 25. Rxe5 Qxf2 26. Rf5 Qe3 27. Rxf7+ Ke8 28. Rxc7 1-0
+

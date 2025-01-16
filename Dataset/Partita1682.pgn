@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/S4e2QWp3"]
+[White "alta"]
+[Black "cmath"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:13:43"]
+[WhiteElo "1582"]
+[BlackElo "1634"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.23] } 1... d5 { [%eval 0.45] } 2. exd5 { [%eval 0.48] } 2... Nf6 { [%eval 0.65] } 3. Nc3 { [%eval 0.47] } 3... Nxd5 { [%eval 0.37] } 4. Ne4?! { [%eval -0.21] } 4... Bf5 { [%eval -0.2] } 5. Ng3 { [%eval -0.08] } 5... Bg6 { [%eval -0.21] } 6. Bc4 { [%eval -0.21] } 6... Nb6 { [%eval -0.21] } 7. Bb3 { [%eval -0.1] } 7... Nc6 { [%eval 0.03] } 8. Nf3 { [%eval 0.1] } 8... e6 { [%eval 0.13] } 9. O-O { [%eval 0.14] } 9... Bd6 { [%eval 0.1] } 10. d4 { [%eval 0.15] } 10... O-O { [%eval 0.13] } 11. c4 { [%eval -0.04] } 11... a5 { [%eval -0.17] } 12. c5 { [%eval -0.08] } 12... a4 { [%eval -0.03] } 13. Bc2 { [%eval -0.35] } 13... Bxg3 { [%eval -0.22] } 14. fxg3?! { [%eval -1.15] } 14... Bxc2 { [%eval -1.12] } 15. Qxc2 { [%eval -1.12] } 15... Nxd4 { [%eval -1.07] } 16. Qd3 { [%eval -1.25] } 16... Ne2+?? { [%eval 2.7] } 17. Qxe2 { [%eval 2.56] } 17... Nc4?? { [%eval 6.39] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JFTOgpAd"]
+[White "inodoro_pereira"]
+[Black "chessnuevo"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:25:55"]
+[WhiteElo "1644"]
+[BlackElo "1767"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-38"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "420+8"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. e4 Bg7 3. e5 d6 4. Nf3 dxe5 5. dxe5 Qxd1+ 6. Kxd1 Nc6 7. Bb5 Bd7 8. Be3 O-O-O 9. Bxc6 Bxc6+ 10. Ke2 Bxf3+ 11. Kxf3 Bxe5 12. Nc3 Kb8 13. Nb5 e6 14. Bxa7+ Ka8 15. Be3 Ne7 16. c3 Nd5 17. Rae1 Nxe3 18. Rxe3 Bf6 19. Nxc7+ Kb8 20. Nb5 Rd2 21. Rb1 h5 22. a4 Rhd8 23. b4 R2d3 24. c4 g5 25. c5 g4+ 26. Kf4 Bg7 27. Nd6 Bh6+ 28. Ke4 f5+ 29. Kxd3 Bxe3 30. Kxe3 e5 31. Nxf5 1-0
+

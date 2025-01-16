@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/lukyoDdM"]
+[White "vanely"]
+[Black "Tsiri86"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:08"]
+[WhiteElo "1655"]
+[BlackElo "1808"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. b3 { [%eval -0.2] } 1... d5 { [%eval -0.05] } 2. Bb2 { [%eval -0.04] } 2... c5 { [%eval 0.0] } 3. g3 { [%eval -0.24] } 3... Nc6 { [%eval -0.22] } 4. Bg2 { [%eval -0.19] } 4... e5 { [%eval -0.21] } 5. d3 { [%eval -0.25] } 5... Be6 { [%eval -0.19] } 6. Nd2 { [%eval -0.29] } 6... Qd7 { [%eval 0.09] } 7. Ngf3 { [%eval -0.13] } 7... f6 { [%eval -0.27] } 8. O-O { [%eval -0.27] } 8... O-O-O { [%eval -0.07] } 9. a3 { [%eval -0.02] } 9... Nge7 { [%eval 0.26] } 10. c3?! { [%eval -0.24] } 10... g5 { [%eval -0.31] } 11. b4 { [%eval -0.11] } 11... Ng6 { [%eval -0.18] } 12. b5 { [%eval -0.42] } 12... Nce7 { [%eval -0.53] } 13. c4 { [%eval -0.56] } 13... d4? { [%eval 0.7] } 14. a4 { [%eval 0.31] } 14... h5 { [%eval 0.63] } 15. a5 { [%eval 0.41] } 15... Bh3 { [%eval 0.16] } 16. b6 { [%eval -0.09] } 16... a6 { [%eval -0.07] } 17. Qa4 { [%eval -0.47] } 17... Nc6 { [%eval -0.72] } 18. Ne4 { [%eval -0.7] } 18... Be7 { [%eval -1.07] } 19. Ba3 { [%eval -1.45] } 19... Bxg2 { [%eval -1.01] } 20. Kxg2 { [%eval -0.85] } 20... h4 { [%eval -1.21] } 21. Nxc5? { [%eval -3.65] } 21... Bxc5 { [%eval -3.81] } 22. Bxc5 { [%eval -3.57] } 22... hxg3 { [%eval -3.71] } 23. fxg3 { [%eval -4.03] } 23... Qh3+ { [%eval -4.2] } 24. Kf2 { [%eval -4.32] } 24... g4 { [%eval -4.58] } 25. Nh4? { [%eval -7.44] } 25... Qxh2+?! { [%eval -6.84] } 26. Ng2? { [%eval -8.81] } 26... Rh3 { [%eval -8.6] } 27. Rh1? { [%eval #-7] } 27... Qxg3+ { [%eval #-6] } 28. Kf1 { [%eval #-1] } 28... Rxh1# 0-1
+

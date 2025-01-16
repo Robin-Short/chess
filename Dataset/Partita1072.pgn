@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BOJP9mxv"]
+[White "DAYSTRUM"]
+[Black "Amir01"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:42:55"]
+[WhiteElo "1790"]
+[BlackElo "1203"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. a3 dxc4 4. Nc3 Nc6 5. Nf3 Nf6 6. e4 b5 7. Bg5 h6 8. Bxf6 gxf6 9. Nxb5 f5 10. e5 f6 11. Nh4 fxe5 12. Qh5+ Kd7 13. dxe5 Nxe5 14. O-O-O+ Kc6 15. Rxd8 1-0
+

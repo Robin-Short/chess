@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Bk8XCDGG"]
+[White "Nosreve"]
+[Black "MarioL"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:48"]
+[WhiteElo "1790"]
+[BlackElo "1794"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c6 3. d4 Be7 4. c4 d5 5. exd5 cxd5 6. cxd5 Qxd5 7. Be3 Qd8 8. Nc3 Nf6 9. Bb5+ Bd7 10. Qa4 Bxb5 11. Nxb5 Qd7 12. O-O a6 13. Nc3 Qxa4 14. Nxa4 O-O 15. Nb6 Ra7 16. a4 Nbd7 17. Nxd7 Nxd7 18. d5 Raa8 19. dxe6 fxe6 20. Nd4 Bf6 21. Nxe6 Rfe8 22. Nc7 Bxb2 23. Rab1 Ba3 24. Nxa8 Rxa8 25. Rxb7 Nf6 26. Rfb1 Nd5 27. Rb8+ Rxb8 28. Rxb8+ Kf7 29. Bd4 g6 30. Rd8 Nf4 31. Ra8 Ne2+ 32. Kh1 Nxd4 33. Rxa6 Bc5 34. Ra8 Ke6 35. a5 Kf5 36. a6 Nc6 37. Rc8 Na7 38. Rxc5+ Kf6 39. Rc7 Nb5 40. Rb7 Nd6 41. Rb6 Ke7 42. a7 Nc8 43. Rb7+ Kd6 44. a8=Q Nb6 45. Qa6 Ke5 46. Qxb6 Kf4 47. Rc7 Kg5 48. Rc5+ Kh6 49. Rc7 Kh5 50. Qb7 Kh6 51. Rxh7+ Kg5 52. Qf7 Kg4 53. Rg7 Kg5 54. Rxg6+ Kh5 55. Qh7# 1-0
+

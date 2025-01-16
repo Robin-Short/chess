@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ssGcsVTL"]
+[White "bijean"]
+[Black "caralperu"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:24"]
+[WhiteElo "1351"]
+[BlackElo "1339"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C20"]
+[Opening "Bishop's Opening: Boi Variation"]
+[TimeControl "360+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Qf6 4. c3 d6 5. d4 exd4 6. cxd4 Bb6 7. Bg5 Qg6 8. O-O f6 9. Bh4 Bg4 10. e5 Nd7 11. e6 Nf8 12. d5 O-O-O 13. a4 Qh5 14. Bg3 Bc5 15. a5 a6 16. Ra4 Ne7 17. b4 Bd4 18. Qxd4 Bxf3 19. gxf3 Nf5 20. Qa7 c6 21. dxc6 Qxf3 22. Qxb7# 1-0
+

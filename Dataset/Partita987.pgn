@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bIK1wY89"]
+[White "Rigoleto"]
+[Black "Markinhos"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:10"]
+[WhiteElo "1672"]
+[BlackElo "1787"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. c3 e6 3. d4 Nc6 4. Bd3 cxd4 5. cxd4 Bb4+ 6. Nc3 Nxd4 7. a3 Ba5 8. b4 Bb6 9. Be3 Nc6 10. f4 Nge7 11. Qf3 O-O 12. Nh3 Nd4 13. Qg3 Ng6 14. O-O d5 15. e5 Nf5 16. Bxf5 Bxe3+ 17. Qxe3 exf5 18. Qg3 Be6 19. Ng5 a6 20. Rad1 Rc8 21. Na4 h6 22. Nxe6 fxe6 23. Qxg6 Re8 24. Nc5 Qe7 25. Rf3 b6 26. Nxa6 Ra8 27. Rh3 Kh8 28. b5 Ra7 29. Rc1 Raa8 30. Rhc3 Ra7 31. Rc8 Ra8 32. R8c7 Qf8 33. Rf7 Qg8 34. Rcc7 Rac8 35. Rxg7 Rxc7 36. Rxg8+ Rxg8 37. Qxh6+ Rh7 38. Qf6+ Rhg7 39. g3 Kh7 40. Qxe6 Rf8 41. Qxd5 Re8 42. Nb4 Ree7 43. Nc6 Rd7 44. Qe6 Rd1+ 45. Kf2 Rd2+ 0-1
+

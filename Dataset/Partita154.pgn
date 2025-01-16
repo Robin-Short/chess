@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/F5uakOtw"]
+[White "VonChessewitz"]
+[Black "VEGETAL"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:16"]
+[WhiteElo "1651"]
+[BlackElo "1699"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. e5 dxe5 3. Nf3 e6 4. Nxe5 Bd7 5. Nf3 Bc6 6. Bc4 Bxf3 7. Qxf3 Nc6 8. d4 Qxd4 9. Bb3 Ne5 10. Qxb7 Rd8 11. O-O c6 12. Ba4 Qd7 13. Qxd7+ Rxd7 14. f4 Bc5+ 15. Kh1 Nc4 16. Bxc6 Ne7 17. Bxd7+ Kxd7 18. Rd1+ Ke8 19. b3 Ne3 20. Bxe3 Bxe3 21. Rf1 Nf5 22. g4 Bd4 23. gxf5 Bxa1 24. Nd2 Bc3 25. Nf3 e5 26. fxe5 f6 27. e6 Ke7 28. h3 Rd8 29. Kg2 Rd5 30. Nh4 g5 31. fxg6 hxg6 32. Nxg6+ Kxe6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/b5UYYmIh"]
+[White "Nosreve"]
+[Black "MarioL"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:20"]
+[WhiteElo "1796"]
+[BlackElo "1788"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 c6 3. Be3 d5 4. Bd3 Ne7 5. exd5 Nxd5 6. c4 Nxe3 7. fxe3 Bb4+ 8. Nc3 Bd6 9. Qc2 g6 10. O-O-O Be7 11. Re1 a6 12. Kb1 b5 13. Nge2 bxc4 14. Bxc4 a5 15. Ne4 Ba6 16. Rhf1 Bxc4 17. Qxc4 O-O 18. Nf6+ Bxf6 19. Ng3 Bg7 20. Ne4 Nd7 21. Qxc6 Rc8 22. Qa4 Nf6 23. Nc5 Nd5 24. e4 Nb4 25. a3 Nc6 26. d5 exd5 27. exd5 Qxd5 28. Nb3 Rb8 29. Nc1 Rxb2+ 0-1
+

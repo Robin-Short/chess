@@ -1,0 +1,20 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/riAMhRWn"]
+[White "timtim"]
+[Black "MyDrunkAccount"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:00:05"]
+[WhiteElo "1265"]
+[BlackElo "1623"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 f5 4. exf5 Bxf5 5. d3 Nf6 6. h3 Be7 7. Be3 Nc6 8. a3 
+d5 9. Bd2 d4 10. g4 dxc3 11. Bxc3 Be6 12. Nxe5 Nxe5 13. Bxe5 O-O 14. Qe2 Qd5 15. 
+Bxc7 Bc5 16. f3 Rae8 17. O-O-O Qa2 18. b4 0-1
+

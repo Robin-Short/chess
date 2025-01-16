@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/7gJDgesG"]
+[White "yawhehe"]
+[Black "chessnew"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:29:11"]
+[WhiteElo "1561"]
+[BlackElo "1532"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d5 4. d4 cxd4 5. Nxd4 Nc6 6. e5 Bd7 7. Nxc6 bxc6 8. f4 Bc5 9. Bd3 Ne7 10. Qe2 O-O 11. Be3 g6 12. Bxc5 Nf5 13. Bxf8 Qxf8 14. O-O-O Qb8 15. g4 Ne7 16. h4 Kg7 17. h5 Qc7 18. h6+ Kg8 19. f5 exf5 20. gxf5 Bxf5 21. Bxf5 Nxf5 22. e6 Re8 23. exf7+ Qxf7 24. Qa6 Ne3 25. Rd3 Nc4 26. Kd1 Ne3+ 27. Kd2 Nc4+ 28. Kd1 Ne3+ 29. Kd2 Qf2+ 30. Ne2 Nc4+ 31. Kc3 Qxe2 32. Rhd1 Ne3 33. Qb7 Nxd1+ 34. Rxd1 Qe7 35. Qxe7 Rxe7 36. Kb3 Rd7 37. c4 Kf7 38. cxd5 cxd5 39. Kb4 Ke6 40. a4 d4 41. b3 Rd5 42. Kc4 Ke5 43. Rxd4 Rd6 44. Rxd6 Kxd6 45. b4 Ke6 46. b5 g5 47. b6 g4 48. bxa7 1-0
+

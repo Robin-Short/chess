@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/urYyQqBn"]
+[White "Josue-Argel"]
+[Black "JustJack"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:17:20"]
+[WhiteElo "1359"]
+[BlackElo "1444"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-15"]
+[ECO "A45"]
+[Opening "Paleface Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. f3 g6 3. e4 d6 4. Nc3 Bg7 5. d5 O-O 6. Bg5 e5 7. dxe6 Bxe6 8. Qd2 a6 9. Bh6 Nc6 10. Bxg7 Kxg7 11. g4 b5 12. h4 Nb4 13. b3 c5 14. h5 c4 15. hxg6 hxg6 16. Qh6+ Kg8 17. Qh8# 1-0
+

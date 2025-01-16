@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/SHK1zPMl"]
+[White "makina"]
+[Black "iel87"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:31"]
+[WhiteElo "1554"]
+[BlackElo "1445"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+51"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. e4 d6 2. Bc4 a6 3. Qf3 Nf6 4. Nc3 Nc6 5. Nge2 Ne5 6. Qg3 Nxc4 7. d3 Ne5 8. d4 Ng6 9. e5 dxe5 10. dxe5 Nd5 11. O-O Nxc3 12. Nxc3 Qd4 13. Be3 Qxe5 14. Qxe5 Nxe5 15. Bd4 Nc6 16. Be3 Bg4 17. h3 Bh5 18. Bf4 e5 19. Be3 Bd6 20. Nd5 O-O 21. a3 f5 22. b4 f4 23. Bd2 Nd4 24. c3 Nf5 25. c4 c6 26. Nb6 Bc7 27. c5 Bxb6 28. cxb6 Nd4 29. Bc3 Ne2+ 30. Kh1 Nxc3 31. a4 Rad8 32. a5 Rd2 33. Ra3 Ne4 34. f3 Ng3+ 35. Kg1 Nxf1 36. Kxf1 Rfd8 37. Ra1 Rb2 38. g4 fxg3 39. Re1 Bxf3 40. Rxe5 Rd1+ 41. Re1 g2+ 42. Kg1 Rxe1+ 43. Kh2 g1=Q# 0-1
+

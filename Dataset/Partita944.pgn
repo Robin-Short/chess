@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/56eIuIzy"]
+[White "device82"]
+[Black "vanely"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:37:29"]
+[WhiteElo "1639"]
+[BlackElo "1648"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 Bb7 3. Nc3 g6 4. e4 Bg7 5. Nf3 Nc6 6. a3 e6 7. d5 exd5 8. cxd5 Ne5 9. Bf4 Nxf3+ 10. Qxf3 Nf6 11. Be5 d6 12. Bd4 Qe7 13. Bb5+ Kf8 14. O-O a6 15. Bd3 c5 16. Be3 b5 17. Rac1 c4 18. Bb1 h5 19. h3 Bc8 20. Bd4 g5 21. Rfe1 g4 22. hxg4 Bxg4 23. Qe3 Bh6 24. f4 Rg8 25. Rcd1 Bxd1 26. Nxd1 Ng4 27. Qf3 Qh4 28. Kf1 Nh2+ 29. Ke2 Nxf3 30. Kxf3 Qxe1 31. Bc2 Qg3+ 32. Ke2 Qxg2+ 33. Nf2 Bxf4 34. e5 Bxe5 35. Be4 Bxd4 36. Bxg2 Rxg2 37. Kf3 Rxf2+ 38. Kg3 Ke7 39. Kh4 Rg8 40. Kxh5 Rh2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dyeWvMKd"]
+[White "mehmetuca78"]
+[Black "AI-I"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:37:10"]
+[WhiteElo "1364"]
+[BlackElo "1433"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 Nc6 2. Bb2 d5 3. g3 e6 4. Bg2 Bd6 5. e3 Nf6 6. Qf3 O-O 7. h4 e5 8. h5 Ne4 9. h6 g6 10. Qe2 f5 11. Bxe4 dxe4 12. Nh3 Nb4 13. Qd1 Be6 14. a3 Nc6 15. Nc3 f4 16. Nxe4 fxg3 17. Nxg3 e4 18. Nxe4 Qd7 19. Nf6+ Rxf6 20. Bxf6 Bxh3 21. Bb2 Bf5 22. Qe2 Ne5 23. d3 Rf8 24. e4 Bg4 25. f3 Bxf3 26. Qe3 Qg4 27. Rf1 Nxd3+ 28. cxd3 Bg3+ 29. Kd2 Qd7 30. Rxf3 Rxf3 31. Qxf3 Be5 32. Qe3 Qe6 33. Bxe5 Kf7 34. Bd4 Qe5 35. Bxe5 Ke6 36. Qf3 Kxe5 37. Qe3 Kd6 38. d4 Kd7 39. e5 c6 40. e6+ Kc7 41. e7 Kb6 0-1
+

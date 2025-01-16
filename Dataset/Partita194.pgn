@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Ha89Hehj"]
+[White "robovlas"]
+[Black "BearJr"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:43"]
+[WhiteElo "1809"]
+[BlackElo "1787"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c3 e6 3. Bg5 d6 4. Bxf6 Qxf6 5. e4 e5 6. Nf3 Nd7 7. Bd3 g6 8. O-O Qg7 9. Re1 Be7 10. d5 O-O 11. Nbd2 f5 12. exf5 gxf5 13. h3 e4 14. Nxe4 fxe4 15. Bxe4 Nc5 16. Bc2 Bxh3 17. b4 Qxg2# 0-1
+

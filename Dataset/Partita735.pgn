@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/shLAI5ok"]
+[White "Nosreve"]
+[Black "MarioL"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:26"]
+[WhiteElo "1810"]
+[BlackElo "1775"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 c6 3. d4 d5 4. exd5 cxd5 5. c4 Ne7 6. cxd5 Nxd5 7. Be3 Be7 8. Nc3 O-O 9. Nxd5 Qxd5 10. Bd3 Qd8 11. O-O b6 12. Qc2 g6 13. Ne5 Bb7 14. Bh6 Re8 15. Nxg6 Bg5 16. Bxg5 Qxg5 17. Ne7+ Qxe7 18. Bxh7+ Kf8 19. Be4 Nc6 20. Rac1 Nb4 21. Qb3 Bxe4 22. f3 Bd5 23. Qe3 Nxa2 24. Qh6+ Kg8 25. Rce1 Qf8 26. Qg5+ Qg7 27. Re5 Qxg5 28. Rxg5+ Kf8 29. h4 Ke7 30. h5 Nb4 31. g4 Rg8 32. Kh2 Rxg5 33. Kh3 Rgg8 34. Kh4 Rh8 35. f4 Rxh5+ 36. Kxh5 Rh8+ 37. Kg5 Nc6 0-1
+

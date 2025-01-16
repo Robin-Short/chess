@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Kg6W6kUL"]
+[White "dub_m"]
+[Black "nabov"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:12:26"]
+[WhiteElo "1127"]
+[BlackElo "1148"]
+[WhiteRatingDiff "+43"]
+[BlackRatingDiff "-11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f3 Nc6 3. Nc3 Bb4 4. Bb5 a6 5. Bxc6 bxc6 6. Na4 d5 7. Nh3 dxe4 8. c3 Ba5 9. O-O Qd3 10. Re1 exf3 11. Rxe5+ Be6 12. Rxa5 Qg6 13. Qxf3 Bg4 14. Qe3+ Ne7 15. Nf4 Qc2 16. Nd3 O-O 17. b3 Qd1+ 18. Ne1 Nf5 19. Re5 Rfe8 20. Qc5 Rxe5 21. Qxe5 Kf8 22. Nc5 Re8 23. Nd7+ Kg8 24. Qxe8# 1-0
+

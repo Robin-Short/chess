@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7LvdBtcz"]
+[White "alapelotita"]
+[Black "ndimon"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:08"]
+[WhiteElo "1472"]
+[BlackElo "1276"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+16"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Ponziani-Steinitz Gambit"]
+[TimeControl "240+3"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.27] } 2. Nf3 { [%eval 0.32] } 2... Nc6 { [%eval 0.32] } 3. Bc4 { [%eval 0.14] } 3... Nf6 { [%eval 0.1] } 4. Ng5 { [%eval -0.19] } 4... Nxe4? { [%eval 1.73] } 5. Nxe4? { [%eval -0.38] } 5... d5 { [%eval -0.62] } 6. Qf3? { [%eval -1.8] } 6... dxc4 { [%eval -1.79] } 7. Ng5?? { [%eval -6.18] } 7... f6?? { [%eval -2.34] } 8. Ne4 { [%eval -2.6] } 8... Nd4 { [%eval -2.41] } 9. Qh5+ { [%eval -2.6] } 9... g6 { [%eval -2.55] } 10. Qd1 { [%eval -2.82] } 10... Bf5? { [%eval -1.74] } 11. Ng3?? { [%eval -8.37] } 11... Be6?? { [%eval -2.06] } 12. c3 { [%eval -2.55] } 12... Nf5?! { [%eval -2.02] } 13. O-O?! { [%eval -2.63] } 13... Qd3 { [%eval -2.77] } 14. b3 { [%eval -2.75] } 14... Bc5 { [%eval -2.78] } 15. bxc4 { [%eval -3.03] } 15... Bxc4 { [%eval -3.12] } 16. Na3 { [%eval -3.57] } 16... Nxg3 { [%eval -3.45] } 17. hxg3 { [%eval -3.66] } 17... Bd5? { [%eval -2.5] } 18. Qa4+? { [%eval -3.67] } 18... Bc6?! { [%eval -2.7] } 19. Qd1?? { [%eval #-3] } 19... Qxg3 { [%eval #-2] } 20. Qf3 { [%eval #-2] } 20... Bxf3 { [%eval #-1] } 21. Rb1 { [%eval #-1] } 21... Qxg2# 0-1
+

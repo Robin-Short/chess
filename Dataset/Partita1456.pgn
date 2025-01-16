@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ffAz3yCI"]
+[White "kasa"]
+[Black "bet"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:02:27"]
+[WhiteElo "1547"]
+[BlackElo "1408"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "1500+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. h3 Nf6 4. Nc3 b6 5. Bc4 Nc6 6. Ng5 d5 7. exd5 Nxd5 8. Bxd5 Qxg5 9. Bxc6+ Ke7 10. Bxa8 Qg6 11. O-O c6 12. Bxc6 Qxc6 13. Re1 Bb7 14. f3 f6 15. d4 Kf7 16. dxe5 Bc5+ 17. Kh1 f5 18. e6+ Ke8 19. a3 h6 20. b4 Be7 21. Bb2 g5 22. Qd7+ Qxd7 23. exd7+ Kxd7 24. Nd5 Re8 25. Nxe7 Rxe7 26. Rxe7+ Kxe7 27. Re1+ Kd6 28. Bf6 Ba6 29. Re7 1-0
+

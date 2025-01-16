@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fyphUVb6"]
+[White "Eristu"]
+[Black "sifiasco"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:24:03"]
+[WhiteElo "1296"]
+[BlackElo "1356"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Nc6 3. Nf3 e6 4. d4 f6 5. Bb5 Bd7 6. O-O g5 7. Bxc6 Bxc6 8. Na3 g4 9. Nd2 f5 10. f3 g3 11. hxg3 Qg5 12. f4 Qxg3 13. Qf3 Qxf3 14. Rxf3 O-O-O 15. Rc3 Bh6 16. Nb3 Ne7 17. Nc5 b6 18. Nxe6 Rdg8 19. Rh3 Rg6 20. Ng5 Bxg5 21. fxg5 Bd7 22. Bf4 Nc6 23. Nb5 a6 24. Nc3 Nxd4 25. Rd1 Nxc2 26. Rxd5 Nb4 27. Rd2 Rd8 28. a3 Nc6 29. Rhd3 Be6 30. Rxd8+ Nxd8 31. Be3 Nf7 32. b4 Nxg5 33. Bxg5 Rxg5 34. b5 f4 35. bxa6 Rxe5 36. Nb5 Bc4 37. a7 Kb7 38. a8=Q+ Kxa8 39. Rd8+ Kb7 40. Nd4 Re1+ 41. Kf2 Rf1# 0-1
+

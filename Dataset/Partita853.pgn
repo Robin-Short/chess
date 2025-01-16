@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UakLUJOF"]
+[White "sirenavarada"]
+[Black "protea"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:34"]
+[WhiteElo "1413"]
+[BlackElo "1261"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 b6 4. e4 g5 5. h3 Be7 6. Bd3 Nh6 7. Nc3 f6 8. exf6 Bxf6 9. Bd2 a6 10. Qe2 Nd4 11. Qd1 Nxf3+ 12. Qxf3 Bxc3 13. Bxc3 Rf8 14. Qh5+ Nf7 15. Qxh7 d6 16. O-O-O g4 17. hxg4 Bxg4 18. f3 Qg5+ 19. Kb1 O-O-O 20. Qh4 Qxh4 21. Rxh4 Be6 22. Bxa6+ Kd7 23. Bb5+ c6 24. Bd3 Ra8 25. Rh5 Bxa2+ 26. Kc1 Nh6 27. Rxh6 Bf7 28. e5 Ra1+ 29. Kd2 Rxd1+ 30. Kxd1 Ra8 31. b3 dxe5 32. Bxe5 c5 33. Bf5+ Ke8 34. Rxb6 Rd8+ 35. Kc1 c4 36. bxc4 Bxc4 37. Be6 Bxe6 38. Rxe6+ Kf7 39. Ra6 Rh8 40. g3 Rh1+ 41. Kb2 Re1 42. Bf4 Rf1 43. Ra3 Rd1 44. c4 Rd7 45. c5 Rb7+ 46. Kc3 Rb1 47. Kc4 Rb2 48. c6 Rc2+ 49. Kd5 Ke7 50. c7 Kd7 51. Ra7 Kc8 52. Ra8+ Kb7 53. Rh8 Rxc7 54. Bxc7 Kxc7 55. Re8 Kd7 56. Re1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/0kLW8IXs"]
+[White "Argonn3007"]
+[Black "Grga1"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:51:04"]
+[WhiteElo "1742"]
+[BlackElo "1758"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. f4 { [%eval -0.18] } 1... d5 { [%eval -0.15] } 2. Nf3 { [%eval -0.15] } 2... e6 { [%eval -0.15] } 3. g3 { [%eval -0.32] } 3... Nc6 { [%eval -0.16] } 4. Bg2 { [%eval -0.16] } 4... Bd7 { [%eval 0.04] } 5. d3 { [%eval -0.1] } 5... Qe7 { [%eval 0.13] } 6. O-O { [%eval 0.25] } 6... O-O-O { [%eval 0.08] } 7. Nc3 { [%eval 0.34] } 7... f6 { [%eval 0.71] } 8. e4 { [%eval 0.62] } 8... d4 { [%eval 0.92] } 9. Ne2 { [%eval 0.87] } 9... e5 { [%eval 0.98] } 10. c3 { [%eval 0.76] } 10... exf4 { [%eval 1.13] } 11. Bxf4 { [%eval 0.87] } 11... dxc3 { [%eval 1.04] } 12. bxc3 { [%eval 0.81] } 12... Be6? { [%eval 1.88] } 13. Rb1?! { [%eval 1.29] } 13... Nh6? { [%eval 2.58] } 14. a4? { [%eval 1.12] } 14... g5 { [%eval 0.95] } 15. Be3 { [%eval 0.69] } 15... Bg7? { [%eval 1.77] } 16. d4? { [%eval 0.29] } 16... f5?? { [%eval 3.68] } 17. d5?? { [%eval 0.5] } 17... Bxd5 { [%eval 0.2] } 18. exd5 { [%eval 0.0] } 18... Qxe3+ { [%eval 0.25] } 19. Kh1 { [%eval 0.26] } 19... Ne5? { [%eval 1.63] } 20. d6? { [%eval -0.21] } 20... Nxf3 { [%eval 0.06] } 21. Qb3 { [%eval -0.37] } 21... Rxd6? { [%eval 1.39] } 22. Qxb7+ { [%eval 1.58] } 22... Kd7 { [%eval 1.7] } 23. Rxf3?? { [%eval -2.5] } 23... Qxe2 { [%eval -2.89] } 24. Rbf1?! { [%eval -3.46] } 24... Re8 { [%eval -3.6] } 25. Qb5+? { [%eval -4.63] } 25... c6?? { [%eval -1.04] } 26. Qb3? { [%eval -3.01] } 26... Qe6? { [%eval -1.03] } 27. R3f2?? { [%eval -16.18] } 27... Qxb3 { [%eval -16.16] } 28. Bxc6+ { [%eval -27.04] } 28... Kxc6 { [%eval -26.46] } 29. Rxf5?! { [%eval #-5] } 29... Nxf5 { [%eval #-4] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/o4qoy8ar"]
+[White "ilcapocha"]
+[Black "matias96"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:14"]
+[WhiteElo "1531"]
+[BlackElo "1137"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-7"]
+[ECO "C21"]
+[Opening "Center Game #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 Nf6 3. Nd2 exd4 4. Bc4 d5 5. exd5 Nxd5 6. Qe2+ Be7 7. Ngf3 O-O 8. Nxd4 Nf4 9. Qf3 Bd6 10. O-O g6 11. N2b3 h5 12. Bxf4 Bg4 13. Qg3 Bxf4 14. Qxf4 Re8 15. Qxf7+ Kh8 16. Qxg6 c5 17. Qh6# 1-0
+

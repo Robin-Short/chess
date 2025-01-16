@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GEogg87R"]
+[White "lownoob"]
+[Black "keltik"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:00:53"]
+[WhiteElo "1315"]
+[BlackElo "1272"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-11"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.29] } 2... Nc6 { [%eval 0.26] } 3. d4 { [%eval 0.06] } 3... exd4 { [%eval 0.0] } 4. Nxd4 { [%eval 0.01] } 4... Nxd4 { [%eval 0.5] } 5. Qxd4 { [%eval 0.57] } 5... c5?! { [%eval 1.08] } 6. Qe3 { [%eval 0.75] } 6... f5?! { [%eval 1.69] } 7. exf5+ { [%eval 1.41] } 7... Be7 { [%eval 1.1] } 8. Bd3 { [%eval 0.92] } 8... Nf6 { [%eval 0.94] } 9. O-O { [%eval 0.91] } 9... d5 { [%eval 0.73] } 10. Qf3 { [%eval 0.93] } 10... c4 { [%eval 0.91] } 11. Be2 { [%eval 0.92] } 11... b5?! { [%eval 1.44] } 12. g4?! { [%eval 0.51] } 12... g5? { [%eval 2.39] } 13. Rd1?! { [%eval 1.44] } 13... Bb7 { [%eval 1.77] } 14. Qg2?! { [%eval 1.06] } 14... O-O? { [%eval 2.36] } 15. Bxg5 { [%eval 2.14] } 15... Qd7?! { [%eval 2.93] } 16. Bxf6? { [%eval 1.93] } 16... Bxf6 { [%eval 1.86] } 17. Nc3 { [%eval 1.84] } 17... d4 { [%eval 2.0] } 18. Bf3 { [%eval 1.94] } 18... h6?? { [%eval 6.25] } 19. Bxb7 { [%eval 6.23] } 19... Rae8?! { [%eval 7.0] } 20. Bc6 { [%eval 8.07] } 20... Qe7? { [%eval 9.88] } 21. Re1?? { [%eval -2.54] } 21... Qf7?? { [%eval 12.24] } 22. Bxe8 { [%eval 9.56] } 22... Rxe8 { [%eval 9.68] } 23. Rxe8+ { [%eval 9.76] } 23... Qxe8 { [%eval 9.98] } 24. Nd5?! { [%eval 9.23] } 24... Be5?! { [%eval 12.82] } 25. f4 { [%eval 11.7] } 25... Bg7 { [%eval 11.83] } 26. f6 { [%eval 11.45] } 26... Bf8 { [%eval 12.54] } 27. Qf2? { [%eval 8.37] } 27... d3 { [%eval 9.27] } 28. cxd3 { [%eval 9.15] } 28... cxd3 { [%eval 9.24] } 29. Re1 { [%eval 9.52] } 29... Qd7 { [%eval 9.6] } 30. Qd4?? { [%eval 2.54] } 30... Bb4?? { [%eval #6] } 31. Rd1?? { [%eval 4.77] } 1-0
+

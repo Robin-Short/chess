@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yEJ5iIwc"]
+[White "subteacher"]
+[Black "ves"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:37"]
+[WhiteElo "1755"]
+[BlackElo "1797"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. f3 dxe4 3. fxe4 c6 4. d3 e6 5. Be3 Nd7 6. Ne2 Ngf6 7. h3 Be7 8. Nd2 O-O 9. g3 Ne8 10. Bg2 b6 11. O-O Bb7 12. Nf3 Qc7 13. g4 c5 14. Qd2 Ne5 15. Bf4 Nxf3+ 16. Rxf3 Bd6 17. Raf1 Bxf4 18. Nxf4 Nd6 19. Nh5 Ne8 20. Qg5 h6 21. Qe3 Rd8 22. g5 hxg5 23. Qxg5 Rb8 24. Nf6+ Nxf6 25. Rxf6 Qd8 26. R6f5 exf5 27. Qxf5 Qd6 28. Qg4 Qh6 29. Rf5 Bc8 30. Qf4 Bxf5 31. exf5 Qxf4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/e2C57RnH"]
+[White "yhtushko"]
+[Black "VEGETAL"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:41"]
+[WhiteElo "1883"]
+[BlackElo "1748"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A10"]
+[Opening "English Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. c4 f6 2. g3 e6 3. Bg2 d6 4. f4 c6 5. Nc3 d5 6. Nf3 d4 7. Nb1 c5 8. d3 e5 9. e3 exf4 10. exd4 Qe7+ 11. Qe2 cxd4 12. Qxe7+ Bxe7 13. Nxd4 Bc5 14. Nb3 Be3 15. Bxe3 fxe3 16. Ke2 Nc6 17. Kxe3 Nge7 18. Re1 O-O 19. Kf2 Ng6 20. N1d2 Bf5 21. Ne4 Bxe4 22. Bxe4 Nge5 23. Nc5 Nd4 24. Nxb7 Nc2 25. Rec1 Nxa1 26. Rxa1 Rab8 27. Nc5 f5 28. d4 fxe4+ 29. Ke3 Nxc4+ 30. Kxe4 Nd2+ 31. Kd3 Rxb2 32. Kc3 Rc8 33. Kxb2 Rxc5 34. dxc5 Nc4+ 35. Kc3 Ne5 36. Re1 Nc6 37. Re6 Kf7 38. Rxc6 g6 39. Rc7+ Kf6 40. Rxa7 h5 41. c6 Kg5 42. c7 Kg4 43. c8=Q+ Kf3 44. Qf8+ Kg2 45. Rf7 g5 46. Rf2+ Kh3 47. Qf3 g4 48. Qf6 h4 49. Qxh4# 1-0
+

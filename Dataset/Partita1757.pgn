@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QiIW6pcq"]
+[White "Yaguarete"]
+[Black "hazael"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:04"]
+[WhiteElo "2018"]
+[BlackElo "1973"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "B97"]
+[Opening "Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... c5 { [%eval 0.34] } 2. Nf3 { [%eval 0.32] } 2... d6 { [%eval 0.26] } 3. d4 { [%eval 0.32] } 3... cxd4 { [%eval 0.34] } 4. Nxd4 { [%eval 0.31] } 4... Nf6 { [%eval 0.34] } 5. Nc3 { [%eval 0.27] } 5... a6 { [%eval 0.5] } 6. Bg5 { [%eval 0.24] } 6... e6 { [%eval 0.17] } 7. f4 { [%eval 0.0] } 7... Qb6 { [%eval 0.03] } 8. Qd2 { [%eval -0.1] } 8... Qxb2 { [%eval -0.05] } 9. Rb1 { [%eval -0.01] } 9... Qa3 { [%eval -0.06] } 10. Be2 { [%eval -0.24] } 10... Be7 { [%eval -0.31] } 11. O-O { [%eval -0.18] } 11... Qc5? { [%eval 0.84] } 12. Kh1? { [%eval -0.33] } 12... Nbd7 { [%eval -0.43] } 13. Rb3 { [%eval -0.72] } 13... b6? { [%eval 0.5] } 14. Rfb1 { [%eval 0.02] } 14... Rb8 { [%eval -0.19] } 15. Bf3 { [%eval -0.08] } 15... h6 { [%eval 0.13] } 16. Bh4 { [%eval -0.13] } 16... b5?! { [%eval 0.84] } 17. Bf2?! { [%eval -0.09] } 17... Qc7 { [%eval -0.34] } 18. a4 { [%eval -0.48] } 18... b4 { [%eval 0.0] } 19. Rxb4 { [%eval -0.09] } 19... Rxb4 { [%eval -0.12] } 20. Rxb4 { [%eval -0.06] } 20... O-O { [%eval -0.08] } 21. e5?? { [%eval -4.08] } 21... dxe5 { [%eval -4.07] } 22. Nc6 { [%eval -4.08] } 22... Bxb4 { [%eval -4.08] } 23. Nxb4 { [%eval -4.25] } 23... e4? { [%eval -3.12] } 24. Be2 { [%eval -3.52] } 24... Nb8 { [%eval -3.33] } 0-1
+

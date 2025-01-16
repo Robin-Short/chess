@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7pLqmMrY"]
+[White "Rigoleto"]
+[Black "qiga"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:55:32"]
+[WhiteElo "1672"]
+[BlackElo "1686"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted, Cunningham Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 Nf6 6. Nxh4 Nxe4 7. Nf5 d5 8. Nxg7+ Kf8 9. d3 Kxg7 10. dxe4 dxc4 11. Qxd8 Rxd8 12. Nc3 b5 13. Bxf4 b4 14. Nd5 Na6 15. Nxc7 Nxc7 16. Bxc7 Re8 17. Bd6 Rxe4 18. Bxb4 Rf4+ 19. Ke2 Bf5 20. Ke3 Re4+ 21. Kf2 Rae8 22. Rhe1 Rxe1 23. Rxe1 Rxe1 24. Bxe1 Bxc2 25. a3 f5 26. g3 a6 27. Ke3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/aFmQqKrV"]
+[White "abaza"]
+[Black "dionysos199"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:51:21"]
+[WhiteElo "1652"]
+[BlackElo "1783"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Qe2 d6 5. b3 Bg4 6. h3 Nd4 7. d3 Nxe2 8. Bxe2 Bxf3 9. Bxf3 Bd4 10. Bd2 Ne7 11. O-O f5 12. Rae1 f4 13. Ne2 Bb6 14. c3 g5 15. d4 h5 16. Kh1 g4 17. Bxg4 hxg4 18. Rg1 Ng6 19. f3 gxh3 20. g4 Nh4 21. Ref1 h2 22. Rg3 fxg3 23. Nxg3 exd4 24. cxd4 Bxd4 25. Nh5 Rxh5 26. gxh5 Qf6 27. Be1 d5 28. exd5 Qf4 29. Bb4 Nf5 30. Re1+ Be3 31. Bd2 Qxf3+ 32. Kxh2 Qg3+ 33. Kh1 Qh3# 0-1
+

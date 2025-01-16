@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/b0Rd4KWY"]
+[White "matias96"]
+[Black "victor1031"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:37:02"]
+[WhiteElo "1141"]
+[BlackElo "1610"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+2"]
+[ECO "A00"]
+[Opening "Polish Opening: Czech Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. b4 e5 2. Bb2 d6 3. e3 g6 4. Bb5+ c6 5. Ba4 Bg7 6. Nf3 Ne7 7. O-O Nd5 8. c4 Nxb4 9. a3 Nd3 10. Bc3 O-O 11. Qe2 e4 12. Nd4 c5 13. Nb5 a6 14. Bxg7 Kxg7 15. N5c3 Qf6 16. g3 b5 17. cxb5 axb5 18. Bxb5 Bd7 19. Bxd3 exd3 20. Qxd3 Nc6 21. Nd5 Qxa1 22. Nc7 Rab8 23. Nc3 Qxa3 24. Qxd6 Bh3 25. Re1 Nb4 26. Qe5+ Kg8 27. Ne6 fxe6 28. Qxc5 Qa8 29. f3 Qxf3 30. Re2 Qf1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/15Doclow"]
+[White "-mati-"]
+[Black "ches_acc_cuandrej"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:06"]
+[WhiteElo "1243"]
+[BlackElo "1324"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.2] } 2. c4 { [%eval -0.07] } 2... Bc5 { [%eval -0.07] } 3. a3 { [%eval -0.08] } 3... d6 { [%eval -0.14] } 4. b4 { [%eval -0.37] } 4... Bd4 { [%eval -0.4] } 5. Nf3?? { [%eval -4.66] } 5... Bg4?? { [%eval -0.29] } 6. Be2?? { [%eval -4.64] } 6... Bxf3 { [%eval -4.59] } 7. Bxf3 { [%eval -4.69] } 7... Qh4?? { [%eval -0.25] } 8. O-O?? { [%eval -3.74] } 8... Nf6?? { [%eval 0.17] } 9. d3?? { [%eval -3.76] } 9... O-O?? { [%eval 0.15] } 10. Ra2 { [%eval 0.26] } 10... h5 { [%eval 0.29] } 11. Bb2 { [%eval 0.12] } 11... Ng4 { [%eval 0.27] } 12. Bxg4 { [%eval 0.35] } 12... Qxg4 { [%eval 0.32] } 13. Qxg4 { [%eval 0.21] } 13... hxg4 { [%eval 0.13] } 14. Bxd4 { [%eval 0.1] } 14... exd4 { [%eval 0.03] } 15. f3 { [%eval -0.19] } 15... gxf3 { [%eval -0.25] } 16. Rxf3 { [%eval -0.15] } 16... Nd7 { [%eval -0.3] } 17. Rf4?! { [%eval -0.89] } 17... Ne5 { [%eval -0.83] } 18. Nd2?! { [%eval -1.58] } 18... Nxd3 { [%eval -1.64] } 19. Rf3 { [%eval -1.66] } 19... Ne5 { [%eval -1.58] } 20. Rg3 { [%eval -1.79] } 1/2-1/2
+

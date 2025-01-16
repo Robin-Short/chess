@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0lenHBZ3"]
+[White "laloli"]
+[Black "yesse2"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:11"]
+[WhiteElo "1195"]
+[BlackElo "1358"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-15"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 e6 3. d4 c6 4. Nc3 b6 5. d5 a6 6. Be2 cxd5 7. exd5 exd5 8. Nxd5 Be6 9. Bc4 Qd7 10. Be3 Nf6 11. b3 Ne4 12. Qd4 Nc5 13. Qc3 Nc6 14. O-O Ne4 15. Qd3 Nc5 16. Bxc5 bxc5 17. Rfe1 Rc8 18. Nf6+ Kd8 19. Bxe6 fxe6 20. Qxa6 Qf7 21. Qb6+ Rc7 22. Red1 Be7 23. Ne5 Qf8 24. Nxc6+ Kc8 25. Qb8# 1-0
+

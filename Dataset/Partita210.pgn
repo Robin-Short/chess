@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/IuoPddmp"]
+[White "Vicious"]
+[Black "colfax"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:56"]
+[WhiteElo "1786"]
+[BlackElo "1629"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B16"]
+[Opening "Caro-Kann Defense: Bronstein-Larsen Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... d5 { [%eval 0.54] } 2. Nc3?! { [%eval -0.17] } 2... dxe4 { [%eval 0.13] } 3. Nxe4 { [%eval 0.15] } 3... c6 { [%eval 0.37] } 4. d4 { [%eval 0.37] } 4... Nf6 { [%eval 0.37] } 5. Nxf6+ { [%eval 0.36] } 5... gxf6 { [%eval 0.48] } 6. c3 { [%eval 0.54] } 6... Bf5 { [%eval 0.61] } 7. Bd3 { [%eval 0.34] } 7... Bxd3 { [%eval 0.34] } 8. Qxd3 { [%eval 0.39] } 8... e6 { [%eval 0.52] } 9. Nf3 { [%eval 0.5] } 9... f5 { [%eval 0.62] } 10. O-O { [%eval 0.63] } 10... Qc7?! { [%eval 1.19] } 11. Ne5?! { [%eval 0.34] } 11... Bd6 { [%eval 0.51] } 12. Bf4 { [%eval 0.4] } 12... Nd7 { [%eval 0.33] } 13. Qh3 { [%eval -0.06] } 13... Rf8?! { [%eval 0.46] } 14. g3 { [%eval 0.39] } 14... O-O-O?! { [%eval 1.27] } 15. b4? { [%eval -1.01] } 15... f6? { [%eval 0.52] } 16. Nd3 { [%eval 0.43] } 16... Bxf4 { [%eval 0.81] } 17. Nxf4 { [%eval 0.93] } 17... e5? { [%eval 3.38] } 18. Ne6 { [%eval 3.41] } 18... Qd6 { [%eval 3.38] } 19. Nxd8 { [%eval 2.99] } 19... Rxd8 { [%eval 3.38] } 20. Qxf5 { [%eval 3.25] } 20... exd4 { [%eval 3.38] } 21. cxd4 { [%eval 2.94] } 21... Qxd4 { [%eval 3.22] } 22. Rad1 { [%eval 3.16] } 22... Qxb4 { [%eval 3.2] } 23. Rfe1 { [%eval 2.84] } 1-0
+

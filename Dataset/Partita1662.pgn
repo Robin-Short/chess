@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4tcrvAPB"]
+[White "javadnav"]
+[Black "nattramnms"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:13:13"]
+[WhiteElo "1391"]
+[BlackElo "1260"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+23"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "240+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qc3 e5 5. Bb5 Bb4 6. Qxb4 Nxb4 7. Na3 Qa5 8. c3 Nc2+ 9. Nxc2 Qxb5 10. Nb4 Nf6 11. Nf3 Nxe4 12. Be3 O-O 13. Ng1 d5 14. f3 Nd6 15. Rd1 Be6 16. Nh3 Nc4 17. Bc1 e4 18. Ng5 exf3 19. gxf3 Rfe8 20. O-O Qc5+ 21. Kh1 h6 22. Nxe6 Rxe6 23. Rxd5 Qe7 24. Rg1 Ne3 25. Rd3 Rd8 26. Re1 Rxd3 27. Nxd3 Qf6 28. Nc5 Qxf3+ 29. Kg1 Qg2# 0-1
+

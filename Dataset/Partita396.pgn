@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/R8vL6P2Z"]
+[Site "https://lichess.org/EeaJgYNq"]
+[White "chuta-macumba"]
+[Black "artin-2010"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:15:58"]
+[WhiteElo "1456"]
+[BlackElo "1455"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C50"]
+[Opening "Italian Game: Schilling-Kostic Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. c3 Nxf3+ 5. Qxf3 Nf6 6. d3 Bc5 7. O-O O-O 8. Be3 Bb6 9. d4 exd4 10. cxd4 d6 11. Nd2 Qe7 12. e5 dxe5 13. dxe5 Qxe5 14. Rfe1 Bxe3 15. Rxe3 Qxb2 16. Rb1 Qxd2 17. Bd3 Bg4 18. Qg3 Rfe8 19. h3 Rxe3 20. Bxh7+ Kxh7 21. Qh4+ Kg8 22. hxg4 Re1+ 23. Rxe1 Qxe1+ 24. Kh2 Ne4 25. Qe7 c6 26. f3 Qa1 27. Qxe4 Qxa2 28. Qe7 Qe6 29. Qxb7 Re8 30. Qxa7 Qh6+ 31. Kg3 Re1 32. Qb8+ Kh7 33. Qf4 Rh1 34. Qf5+ Kg8 35. Qc8+ Kh7 36. Qf5+ Qg6 37. Qc5 Qf6 38. Qc2+ g6 39. Qe4 c5 40. Qd5 Qh4+ 41. Kf4 g5+ 42. Kf5 Qh6 43. Qxf7+ Kh8 44. Qf6+ Qg7 45. Qd8+ Kh7 46. Qd5 Re1 47. Qxc5 Qg6# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ksgIqy5I"]
+[White "Mahach01"]
+[Black "Gambito13193"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:39"]
+[WhiteElo "1700"]
+[BlackElo "1638"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C46"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. a3 Nf6 4. Nc3 d6 5. Bc4 Bg4 6. h3 Bh5 7. d3 h6 8. g4 Bg6 9. Be3 Be7 10. O-O O-O 11. Qd2 Kh7 12. Kg2 Ng8 13. Nh2 Bg5 14. Nd5 Bxe3 15. Qxe3 Nd4 16. Qd2 c6 17. Ne3 d5 18. exd5 cxd5 19. Nxd5 b5 20. Ba2 Rc8 21. c3 Ne6 22. Qe3 Nf4+ 23. Nxf4 exf4 24. Qxf4 Qxd3 25. Rad1 Qc2 26. Rc1 Qe4+ 27. Qxe4 Bxe4+ 28. f3 Bd3 29. Rfe1 Bc4 30. Bb1+ g6 31. Be4 Nf6 32. Rcd1 Nxe4 33. Rxe4 Rfe8 34. Rde1 Rxe4 35. Rxe4 Kg7 36. Nf1 Rc7 37. Ne3 Bd3 38. Rd4 Bb1 39. Kg3 Ba2 40. h4 h5 41. g5 f6 42. f4 fxg5 43. fxg5 Re7 44. Kf3 Rf7+ 45. Rf4 Rxf4+ 46. Kxf4 a6 47. Ke5 Kf7 48. Nc2 Bc4 49. Nd4 Ke7 50. Nc6+ Kd7 51. Nb4 a5 52. Nc2 Bd3 53. Nd4 Ke7 54. Nc6+ Kd7 55. Nxa5 Ke7 56. Nc6+ Kd7 57. Nd4 Bf1 58. Ne6 Bc4 59. Nf8+ Kc6 60. Nxg6 Kc5 61. Nf4 Bf7 62. g6 Bg8 63. Nxh5 Ba2 64. Nf6 Kc4 65. g7 Kd3 66. h5 Kc2 67. h6 Kxb2 68. h7 Kxa3 69. h8=Q Kb2 70. Qb8 Bc4 71. Nd5 Kb3 72. g8=Q Bxd5 73. Qxd5+ Kxc3 74. Qbxb5 Kc2 75. Qbc4+ Kb1 76. Qdb5+ Ka1 77. Qca4# 1-0
+

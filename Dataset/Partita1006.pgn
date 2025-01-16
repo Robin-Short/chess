@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lWatCWz3"]
+[White "sammy1"]
+[Black "stampan"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:05"]
+[WhiteElo "1605"]
+[BlackElo "1394"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+18"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "120+5"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Nc3 Bb4 6. Bg5 O-O 7. Ne5 Bxc3+ 8. bxc3 Nc6 9. Be2 Re8 10. Bb5 Bd7 11. Bxc6 Bxc6 12. O-O h6 13. Bh4 Bd7 14. Re1 Be6 15. Re3 c6 16. Rg3 g5 17. Bxg5 hxg5 18. Rxg5+ Kf8 19. Qf3 Nd7 20. Rh5 Nxe5 21. dxe5 Ke7 22. Rh7 Rh8 23. Qf6+ Kd7 24. c4 Rxh7 25. cxd5 cxd5 26. c4 Qxf6 0-1
+

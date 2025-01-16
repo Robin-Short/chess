@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1oFuizoJ"]
+[White "TygerTime"]
+[Black "edivillela"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:53:51"]
+[WhiteElo "1599"]
+[BlackElo "1659"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 d6 3. Nf3 Nf6 4. Ng5 d5 5. exd5 Bd6 6. d3 Bg4 7. f3 Bh5 8. g4 Bg6 9. Ne4 Nxe4 10. fxe4 Qh4+ 11. Kd2 Nd7 12. Kc3 Nc5 13. Be3 Na4+ 14. Kb3 b5 15. Bxb5+ Ke7 16. Bxa4 Rab8+ 17. Kc3 Bb4+ 18. Kc4 a5 19. c3 Bd6 20. a3 Rxb2 21. Nd2 Rhb8 22. Nb3 Rxh2 23. Rxh2 Qxh2 24. Bc5 Bxc5 25. Nxc5 Qb2 26. Nb3 Kf8 27. Rb1 Qxa3 28. Ra1 Qd6 29. d4 exd4 30. Nxd4 f5 31. exf5 Bf7 32. Ne6+ Kg8 33. Bc6 a4 34. Rxa4 Bxe6 35. fxe6 Qf4+ 36. Qd4 Qc1 37. e7 Qf1+ 38. Kc5 Qf6 39. Qxf6 gxf6 40. e8=Q+ Rxe8 41. Bxe8 Kf8 42. Ra8 Ke7 43. Bc6 h6 44. Rh8 Kf7 45. Rxh6 Kg7 46. Rh1 Kg6 47. Rg1 Kg5 48. d6 cxd6+ 49. Kxd6 Kf4 50. c4 f5 51. gxf5 Kxf5 52. Re1 Kf6 53. Rf1+ Kg6 54. Ke6 Kg5 55. Rf8 Kg6 56. Rg8+ Kh7 57. Kf7 1-0
+

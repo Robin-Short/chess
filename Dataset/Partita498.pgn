@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CSG3WMUs"]
+[White "yhtushko"]
+[Black "seigneur"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:03"]
+[WhiteElo "1897"]
+[BlackElo "2047"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed French"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. exd4 Nf6 4. Nf3 Be7 5. Bc4 d5 6. Bb3 O-O 7. O-O Nc6 8. 
+c3 Bd6 9. h3 h6 10. Nbd2 Re8 11. Re1 Bf5 12. Nf1 Qc8 13. Ng3 Bxh3 14. gxh3 Qxh3 
+15. Rxe8+ Rxe8 16. Qf1 Qg4 17. Ne5 Bxe5 18. dxe5 Nxe5 19. Be3 Nf3+ 20. Kg2 Ne4 
+21. Qe2 Nh4+ 22. Kh2 Nf3+ 23. Kg2 Nh4+ 24. Kh2 Nf3+ 25. Kg2 1/2-1/2
+

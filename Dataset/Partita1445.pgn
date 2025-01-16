@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OJXHP7sX"]
+[White "HIGHchess"]
+[Black "maan"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:28"]
+[WhiteElo "1610"]
+[BlackElo "1516"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. e4 e6 3. Bd3 Bb7 4. c4 Nf6 5. Nc3 Bb4 6. f3 Bxc3+ 7. bxc3 d6 8. d5 e5 9. Bg5 O-O 10. Ne2 Nbd7 11. Qa4 h6 12. Bh4 g5 13. Bf2 Nh5 14. Bg3 Nf4 15. Nxf4 exf4 16. Bf2 Ne5 17. Bc2 c6 18. Bd4 c5 19. Bxe5 dxe5 20. Rb1 Qf6 21. O-O h5 22. Bd1 h4 23. h3 Qh6 24. Qd7 Bc8 25. Qc7 f5 26. Qxe5 fxe4 27. fxe4 Re8 28. Qc7 Rxe4 29. Bf3 Re8 30. d6 Bf5 31. Rbc1 Rab8 32. d7 Red8 33. Bd5+ Kh7 34. Rce1 Qf6 35. Qxa7 Bxd7 36. Re6 Qxc3 37. Be4+ Kh8 38. Rh6+ Kg7 39. Rh7+ Kf8 40. Rxd7 Rxd7 41. Qxb8+ Ke7 42. Qxb6 Qe3+ 43. Rf2 Rd1+ 44. Kh2 Qg3# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/l8I5RA4g"]
+[White "VEGETAL"]
+[Black "megaledon"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:35"]
+[WhiteElo "1732"]
+[BlackElo "1416"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.27] } 1... e6 { [%eval 0.23] } 2. e4 { [%eval 0.17] } 2... d5 { [%eval 0.3] } 3. exd5 { [%eval 0.14] } 3... exd5 { [%eval 0.21] } 4. Qe2+?! { [%eval -0.43] } 4... Be6 { [%eval -0.06] } 5. Bg5?? { [%eval -3.71] } 5... Qxg5 { [%eval -3.69] } 6. Nf3?! { [%eval -4.21] } 6... Qc1+ { [%eval -4.25] } 7. Qd1 { [%eval -4.24] } 7... Qxd1+ { [%eval -4.13] } 8. Kxd1 { [%eval -4.2] } 8... Bd6 { [%eval -4.18] } 9. Bb5+ { [%eval -4.2] } 9... c6 { [%eval -4.18] } 10. Bd3 { [%eval -4.16] } 10... Nd7 { [%eval -4.02] } 11. Re1 { [%eval -3.97] } 11... O-O-O { [%eval -3.79] } 12. c3 { [%eval -3.89] } 12... Ngf6 { [%eval -3.87] } 13. Nbd2 { [%eval -3.77] } 13... Rhe8 { [%eval -3.58] } 14. Kc2 { [%eval -3.87] } 14... g6 { [%eval -3.59] } 15. g3 { [%eval -3.9] } 15... Bf5?! { [%eval -3.09] } 16. Bxf5 { [%eval -3.07] } 16... gxf5 { [%eval -3.09] } 17. Ne5? { [%eval -4.74] } 17... Bxe5 { [%eval -4.66] } 18. dxe5 { [%eval -4.63] } 18... Nxe5 { [%eval -4.61] } 19. f4 { [%eval -4.68] } 19... Nc4 { [%eval -4.68] } 20. Nxc4 { [%eval -5.15] } 20... dxc4 { [%eval -5.24] } 21. Red1?? { [%eval -8.78] } 21... Re2+ { [%eval -8.75] } 22. Kc1 { [%eval -8.6] } 22... Rxd1+ { [%eval -8.76] } 23. Kxd1 { [%eval -8.86] } 23... Rxh2 { [%eval -9.61] } 24. Rc1 { [%eval -11.05] } 24... Ne4 { [%eval -10.04] } 25. Rc2 { [%eval -8.63] } 25... Rh1+? { [%eval -7.39] } 26. Ke2 { [%eval -7.44] } 26... Nxg3+ { [%eval -7.68] } 27. Kf3 { [%eval -7.95] } 27... Ne4 { [%eval -7.88] } 28. Rg2 { [%eval -8.01] } 28... Rh3+ { [%eval -8.05] } 29. Ke2 { [%eval -8.03] } 29... Rd3?! { [%eval -7.31] } 30. Rg8+?! { [%eval -8.06] } 30... Kc7?! { [%eval -7.44] } 31. Rg7 { [%eval -7.83] } 31... Kb6 { [%eval -7.77] } 32. Rxf7?! { [%eval -8.44] } 32... Ng3+? { [%eval -7.0] } 33. Kf2 { [%eval -6.95] } 33... Rd2+?? { [%eval -2.96] } 34. Kxg3 { [%eval -2.96] } 34... Rxb2 { [%eval -2.93] } 35. Kh4? { [%eval -4.01] } 35... Rxa2 { [%eval -3.89] } 36. Kg5 { [%eval -3.53] } 1-0
+

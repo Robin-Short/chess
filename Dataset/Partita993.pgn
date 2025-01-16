@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GNaIgllr"]
+[White "Manni1957"]
+[Black "dumband"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:15"]
+[WhiteElo "1019"]
+[BlackElo "1174"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C00"]
+[Opening "French Defense: Steiner Variation"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. c4 e6 2. e4 Bc5 3. Nc3 Qh4 4. d3 Qxf2# 0-1
+

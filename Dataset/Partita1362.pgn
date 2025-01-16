@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kJYfeuk7"]
+[White "agolp"]
+[Black "Pekka-1953"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:57:44"]
+[WhiteElo "1900"]
+[BlackElo "1486"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-8"]
+[ECO "A41"]
+[Opening "Queen's Pawn Game: Anglo-Slav Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. c4 c6 3. Nc3 e6 4. e4 h6 5. f4 g5 6. fxg5 f5 7. gxf6 Nxf6 8. Nf3 Ng4 9. Be2 h5 10. h3 Qh4+ 11. Nxh4 Nd7 12. Bxg4 hxg4 13. Qxg4 Nf6 14. Qg6+ Kd7 15. Qxf6 Be7 16. Qxh8 Kc7 17. Ng6 Bd7 18. Qxa8 a6 19. Nxe7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qFdHUPuk"]
+[White "jovi"]
+[Black "topaloro"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:42:37"]
+[WhiteElo "1537"]
+[BlackElo "1219"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d3 Bg4 5. Nbd2 Bxf3 6. Nxf3 e6 7. Be2 h6 8. Bf4 Bd6 9. Bxd6 Qxd6 10. Qd2 Nf6 11. O-O-O O-O 12. h3 Nc6 13. c3 Rfd8 14. g4 Rac8 15. Kb1 Nd7 16. d4 Nf6 17. Bd3 Ne4 18. Bxe4 dxe4 19. Nh4 Qd5 20. Rdf1 Qg5 21. Qxg5 hxg5 22. Ng2 f5 23. gxf5 exf5 24. f3 Re8 25. Ne3 exf3 26. Rxf3 g6 27. Rg1 g4 28. hxg4 Ne7 29. gxf5 Nxf5 30. Nxf5 Re6 31. Nh6+ Kg7 32. Ng4 Rce8 33. Ne5 Rxe5 34. dxe5 Rxe5 35. Kc2 Re2+ 36. Kb3 Re6 37. a4 a6 38. Rd3 Rb6+ 39. Ka3 Kf6 40. a5 Rb5 41. b4 Re5 42. Rf3+ Rf5 43. Rxf5+ gxf5 44. Kb3 Ke5 45. Kc2 f4 46. Kd3 Kf5 47. Rf1 Ke5 48. c4 Kf5 49. Kd4 1-0
+

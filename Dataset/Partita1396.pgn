@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Nvpo6IQR"]
+[White "grelf"]
+[Black "julmerozo"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:58:53"]
+[WhiteElo "1642"]
+[BlackElo "1634"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Bc5 3. d3 c6 4. Nf3 d6 5. a3 Qf6 6. b4 Bb6 7. Bb2 Bg4 8. Ne4 Qe7 9. e3 Nf6 10. h3 Bxf3 11. Qxf3 Nxe4 12. Qxe4 O-O 13. d4 Nd7 14. Bd3 Nf6 15. Qf3 e4 16. Qg3 exd3 17. d5 cxd5 18. cxd5 d2+ 19. Ke2 g6 20. Rad1 Rac8 21. Rxd2 Ne4 0-1
+

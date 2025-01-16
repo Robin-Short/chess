@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BnGK06rh"]
+[White "DMKA"]
+[Black "ChucksMate"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:01:34"]
+[WhiteElo "1323"]
+[BlackElo "1168"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 e5 4. Nf3 f5 5. Nxe5 fxe4 6. Qh5+ g6 7. Qe2 Qxd5 8. Nc4 b5 9. Na5 Bf5 10. d3 b4 11. dxe4 Bxe4 12. Nc4 d3 13. cxd3 Ne7 14. dxe4 Qb5 1-0
+

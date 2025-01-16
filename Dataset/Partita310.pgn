@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/hPMls5C8"]
+[White "moo"]
+[Black "rouzbeh"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:12:29"]
+[WhiteElo "1845"]
+[BlackElo "1906"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C32"]
+[Opening "King's Gambit, Falkbeer Countergambit, Charousek Gambit Accepted"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 Qe7 8. Nc3 Nxc3 9. bxc3 O-O 10. Qxe7 Bxe7 11. Bd3 Bc5 12. Nd4 Re8+ 13. Kf2 c6 14. dxc6 Nxc6 15. Be3 Bd7 16. Rhe1 Rad8 17. Nxc6 Bxe3+ 18. Rxe3 Bxc6 19. Rae1 Rxe3 20. Rxe3 Kf8 21. g3 h6 22. Re5 Rd5 23. Rxd5 Bxd5 24. Ke3 Bxa2 25. c4 Ke7 26. Kd4 Kd6 27. c5+ Ke7 28. c4 Kd7 29. Kc3 b5 30. cxb6 axb6 31. Kb2 b5 32. Kxa2 bxc4 33. Bxc4 Ke7 34. Kb3 f5 35. Kc3 1-0
+

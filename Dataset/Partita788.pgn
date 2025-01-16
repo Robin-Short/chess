@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/sQJu85rw"]
+[White "cocoarg"]
+[Black "ujura"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:05"]
+[WhiteElo "1997"]
+[BlackElo "1979"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 g6 2. Bb2 Nf6 3. e4 Bg7 4. e5 Nd5 5. d4 Nb6 6. c4 O-O 7. Nf3 d6 8. exd6 cxd6 9. Nc3 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Bd3 e6 13. Be4 exd5 14. Bxd5 Be6 15. O-O Rc8 16. Qd2 Qf6 17. Rac1 Bxd5 18. cxd5 Bxc3 19. Bxc3 Rxc3 20. Rxc3 Re8 21. Rfc1 Re5 22. Qd4 Re1+ 23. Rxe1 Qxd4 24. Rce3 Qxd5 25. Re8+ Kg7 26. h4 h5 27. g3 Qf3 28. R1e3 Qf6 29. R8e7 Nd5 30. Rxb7 Nxe3 31. fxe3 Qf3 32. Re7 Qxg3+ 33. Kf1 Qxh4 34. Ke2 Qxe7 0-1
+

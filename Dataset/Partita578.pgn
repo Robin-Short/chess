@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BmfZ5p8P"]
+[White "taka6s6"]
+[Black "Markinhos"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:04"]
+[WhiteElo "1429"]
+[BlackElo "1621"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. e3 e6 3. d5 exd5 4. Qxd5 Nf6 5. Qd1 d5 6. Be2 Nc6 7. Nf3 Bd6 8. Bd2 O-O 9. c3 Bg4 10. Na3 a6 11. Ng1 Bf5 12. Nf3 Qc7 13. g3 Be4 14. O-O Ne5 15. Nc2 Nfg4 16. Nxe5 Nxe5 17. f3 Bg6 18. f4 Nd7 19. Qe1 Bxc2 20. Rc1 Be4 21. Bf3 Bxf3 22. Rxf3 Nf6 23. Qf2 Ne4 24. Qe1 Nxd2 25. Qxd2 Qc6 26. Qf2 Rad8 27. b3 Bc7 28. f5 Qf6 29. g4 Be5 30. g5 Qxg5+ 31. Kf1 Qf6 32. Ke2 Bxc3 33. Rg1 Be5 34. Qg2 d4 35. exd4 Bxd4 36. Rg3 Rfe8+ 37. Kf3 Qc6+ 38. Kg4 Qe4+ 39. Kh3 Qxf5+ 40. Rg4 Re3+ 41. Kh4 Bf6+ 42. Rg5 Bxg5+ 43. Qxg5 Qxg5+ 44. Rxg5 Rd4+ 45. Kh5 Rh3# 0-1
+

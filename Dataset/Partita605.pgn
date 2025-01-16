@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Y8WTp6ON"]
+[White "Heisenberg2"]
+[Black "SmashingU"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:24:10"]
+[WhiteElo "932"]
+[BlackElo "1375"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. c4 e6 3. e3 cxd4 4. exd4 d5 5. Nf3 dxc4 6. Bxc4 Nf6 7. Nc3 a6 8. Bg5 Be7 9. O-O b5 10. Bb3 Bb7 11. Bc2 O-O 12. Qd3 g6 13. Bxf6 Bxf6 14. Ng5 Bxg5 15. Ne4 Bf6 16. Qg3 Bg7 17. Ng5 Nd7 18. Qh4 h5 19. Qf4 Qf6 20. Qxf6 Bxf6 21. Nf3 Bxf3 22. gxf3 Bxd4 23. Rfd1 Bxb2 24. Rab1 Ne5 0-1
+

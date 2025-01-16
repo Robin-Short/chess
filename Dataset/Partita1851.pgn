@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/erCQnt2S"]
+[White "ectemnius"]
+[Black "clevereduardo"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:47"]
+[WhiteElo "1956"]
+[BlackElo "1888"]
+[WhiteRatingDiff "+61"]
+[BlackRatingDiff "-8"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Normal Variation"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.23] } 1... Nf6 { [%eval 0.51] } 2. e5 { [%eval 0.6] } 2... Nd5 { [%eval 0.51] } 3. Bc4 { [%eval 0.11] } 3... Nb6 { [%eval 0.08] } 4. Bb3 { [%eval 0.07] } 4... d6 { [%eval -0.08] } 5. exd6 { [%eval 0.11] } 5... cxd6 { [%eval 0.09] } 6. d4 { [%eval 0.24] } 6... Bf5 { [%eval 0.11] } 7. Nc3 { [%eval 0.12] } 7... e6 { [%eval 0.23] } 8. Nf3 { [%eval -0.12] } 8... Be7 { [%eval -0.17] } 9. O-O { [%eval -0.23] } 9... O-O { [%eval -0.15] } 10. Re1 { [%eval -0.18] } 10... Bf6 { [%eval 0.03] } 11. Bf4 { [%eval 0.15] } 11... a6 { [%eval 0.05] } 12. Ne2 { [%eval -0.11] } 12... Bg4 { [%eval 0.17] } 13. Ng3 { [%eval 0.18] } 13... Nc6 { [%eval 0.2] } 14. c3 { [%eval 0.21] } 14... e5 { [%eval 0.53] } 15. dxe5 { [%eval 0.56] } 15... dxe5?! { [%eval 1.22] } 16. Qxd8 { [%eval 1.06] } 16... Raxd8 { [%eval 1.25] } 17. Nxe5 { [%eval 1.19] } 17... Bxe5 { [%eval 1.17] } 18. Bxe5 { [%eval 1.25] } 18... Rd2?! { [%eval 2.08] } 19. Bf4 { [%eval 2.12] } 19... Rxb2 { [%eval 2.08] } 20. Bc1 { [%eval 2.15] } 20... Rxb3 { [%eval 2.22] } 21. axb3 { [%eval 2.16] } 21... Nd5 { [%eval 2.34] } 22. Ba3 { [%eval 2.38] } 22... Rd8 { [%eval 2.34] } 23. c4 { [%eval 2.35] } 23... Ndb4 { [%eval 2.59] } 24. h3 { [%eval 2.53] } 24... Be6 { [%eval 2.55] } 25. Bxb4 { [%eval 2.62] } 25... Nxb4 { [%eval 2.51] } 26. Rad1 { [%eval 2.51] } 26... Rc8 { [%eval 2.49] } 27. Rd6 { [%eval 2.59] } 27... Na2? { [%eval 3.94] } 28. Rb6 { [%eval 4.06] } 28... Rc7? { [%eval 5.72] } 29. Ra1 { [%eval 5.78] } 29... Nc3 { [%eval 5.7] } 30. Rc1 { [%eval 5.72] } 30... Na2 { [%eval 6.15] } 31. Rc2 { [%eval 6.09] } 1-0
+

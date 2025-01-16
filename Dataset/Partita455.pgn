@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rlC7iWgS"]
+[White "Joueurfel"]
+[Black "BadBeat"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:18"]
+[WhiteElo "1488"]
+[BlackElo "1474"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. a3 Nc6 4. b4 b5 5. Nc3 Nd4 6. Nxd4 exd4 7. Nd5 Qd8 8. d3 c6 9. Nf4 Bd6 10. Be2 Qf6 11. Qd2 g5 12. Nh5 Qe5 13. Qxg5 Qxg5 14. Bxg5 h6 15. Bf6 Nxf6 16. Nxf6+ Ke7 17. Ng4 Bf4 18. e5 d6 19. g3 Bg5 20. exd6+ Kxd6 21. f4 Bxg4 22. Bxg4 Bf6 23. O-O-O h5 24. Bh3 Rae8 25. Rhf1 Re2 26. Rh1 Rhe8 27. g4 Bh4 28. gxh5 Rf2 29. f5 Ree2 30. h6 Rxc2+ 31. Kb1 Rb2+ 32. Ka1 Ra2+ 33. Kb1 Rfb2+ 34. Kc1 Bg5+ 35. Rd2 Bxd2+ 36. Kd1 Bxh6 0-1
+

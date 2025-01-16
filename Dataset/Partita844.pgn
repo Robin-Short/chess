@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DoJF78bv"]
+[White "ujura"]
+[Black "cocoarg"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:51"]
+[WhiteElo "1990"]
+[BlackElo "1986"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 g6 2. Bb2 Nf6 3. e3 Bg7 4. d4 d6 5. Nf3 Nbd7 6. Be2 b6 7. O-O Bb7 8. c4 h5 9. d5 h4 10. h3 c6 11. Nc3 cxd5 12. Nxd5 Bxd5 13. cxd5 O-O 14. Nxh4 Nc5 15. Nf3 Qc8 16. Rc1 Qf5 17. b4 Nce4 18. Nd4 Qxd5 19. Nc6 Qxd1 20. Rfxd1 Kh7 21. Nxe7 Rae8 22. Nc6 Nh5 23. Bxg7 Nxg7 24. Bd3 f5 25. Bxe4 fxe4 26. Rxd6 Nf5 27. Rd7+ Kh6 28. Nd4 Nh4 29. Rcc7 Kg5 30. Re7 Rxe7 31. Rxe7 Rc8 32. Rxe4 Nf5 33. Rg4+ Kf6 34. Rf4 Rc1+ 35. Kh2 Ra1 36. g4 Rxa2 37. gxf5 gxf5 38. Nxf5 Kg6 39. Nh4+ Kh5 40. Kg3 Kh6 41. Nf3 Kg7 42. Ne5 Ra1 43. Rg4+ Kf6 44. Kf3 Kxe5 45. Rf4 Kd6 46. Re4 Kc6 47. Rd4 Kb5 48. Re4 Ka4 49. Re5 Kb3 50. Re4 Rb1 51. Rd4 Rh1 52. Rd3+ Ka4 53. Rd4 Rxh3+ 54. Ke2 Rh4 55. Kd3 1-0
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M9TZj0xQ"]
+[White "checkmatekingdom"]
+[Black "M-002"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:06"]
+[WhiteElo "1211"]
+[BlackElo "1530"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 d6 3. Bc4 g6 4. Qf3 Qf6 5. Qxf6 Nxf6 6. Nf3 Bg7 7. Ng5 O-O 8. 
+Bxf7+ Rxf7 9. Nxf7 Kxf7 10. O-O Nc6 11. c3 Be6 12. d3 Kg8 13. Bg5 Rf8 14. Nd2 
+h6 15. Bxf6 Bxf6 16. c4 Nd4 17. Kh1 Bg5 18. a4 Bxd2 19. Ra3 Bb4 20. Ra2 a5 21. 
+f3 Bg4 22. h3 Be6 23. Raa1 Ne2 24. Rf2 Ng3+ 25. Kh2 Nh5 26. g4 Nf4 27. g5 hxg5 
+28. h4 gxh4 29. Rff1 Nxd3 30. Rg1 Nf4 31. c5 Bxc5 32. Ra2 Bxg1+ 33. Kxg1 Bxa2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K2Lz2oqB"]
+[White "TuMorraPas"]
+[Black "GATOFELIX"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:30"]
+[WhiteElo "1673"]
+[BlackElo "1580"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 d6 4. d4 Bg4 5. h3 Bxf3 6. Qxf3 exd4 7. Nd5 Nxd5 8. exd5 Qe7+ 9. Be2 Nd7 10. O-O Ne5 11. Qb3 b6 12. Re1 O-O-O 13. Ba6+ Kb8 14. f4 Nf3+ 15. Qxf3 Qxe1+ 16. Kh2 Be7 17. Qd3 Bh4 18. Bd2 Qg3+ 19. Qxg3 Bxg3+ 20. Kxg3 g5 21. fxg5 Rhg8 22. h4 f6 23. Rf1 fxg5 24. hxg5 h6 25. Rf5 hxg5 26. Bxg5 Rde8 27. Kf4 Re2 28. Bh4 Rxc2 29. g4 Rxb2 30. Bc4 b5 31. Bb3 d3 32. g5 d2 33. g6 a5 34. Bd1 Rxa2 35. Rf7 Rxg6 36. Bd8 Ra1 37. Bxc7+ Ka8 38. Be2 d1=Q 39. Bxd1 Rxd1 40. Bxa5 Rf1+ 0-1
+

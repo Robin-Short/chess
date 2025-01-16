@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JSBaB2K2"]
+[White "freddyraul57"]
+[Black "northern"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:20:50"]
+[WhiteElo "1636"]
+[BlackElo "1651"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "120+3"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. Bd3 Nf6 5. O-O Be7 6. c4 dxc4 7. Bxc4 O-O 8. Ng5 h6 9. Nf3 Bg4 10. d4 Nc6 11. Qb3 Na5 12. Qb5 Nxc4 13. Qxc4 Bxf3 14. gxf3 Nd5 15. Nc3 Nxc3 16. bxc3 Bg5 17. Ba3 Bf4 18. Rfe1 Qh4 19. Bxf8 Rxf8 20. Re4 Qxh2+ 21. Kf1 Qh1+ 22. Ke2 Qxa1 23. Rxf4 Qb2+ 24. Kf1 Qc1+ 25. Kg2 Qxf4 0-1
+

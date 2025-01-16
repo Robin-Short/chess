@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1mgwlz7Q"]
+[Site "https://lichess.org/cQUxMJrx"]
+[White "JOBM"]
+[Black "elpulltrigger"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:33:05"]
+[WhiteElo "1634"]
+[BlackElo "1472"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+18"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 c5 5. Nf5 Bxf5 6. exf5 Nd7 7. Be2 Ne5 8. Nc3 Nf6 9. Be3 Be7 10. Qd2 O-O 11. O-O-O Nfg4 12. h3 Nxe3 13. fxe3 Bh4 14. g4 Nc6 15. Rhg1 Nb4 16. a3 Nc6 17. Rg2 Ne5 18. Rdg1 g6 19. e4 Bg5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VeqlxCaZ"]
+[White "c_omar"]
+[Black "julianromans"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:11"]
+[WhiteElo "1792"]
+[BlackElo "1777"]
+[WhiteRatingDiff "-85"]
+[BlackRatingDiff "+10"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Ruisdonk Gambit"]
+[TimeControl "240+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... e6 { [%eval 0.15] } 2. d4 { [%eval 0.14] } 2... d5 { [%eval 0.2] } 3. e5 { [%eval -0.04] } 3... c5 { [%eval -0.01] } 4. Nf3 { [%eval -0.23] } 4... cxd4 { [%eval -0.28] } 5. Bd3 { [%eval -0.43] } 5... Nc6 { [%eval -0.44] } 6. O-O { [%eval -0.32] } 6... Nge7 { [%eval -0.31] } 7. Re1 { [%eval -0.27] } 7... Ng6 { [%eval -0.25] } 8. Na3?! { [%eval -0.77] } 8... a6 { [%eval -0.71] } 9. g3 { [%eval -1.14] } 9... Be7?! { [%eval -0.63] } 10. Kg2?! { [%eval -1.21] } 10... Qc7 { [%eval -1.38] } 11. Bd2 { [%eval -1.44] } 11... Ncxe5 { [%eval -1.03] } 12. Nxe5 { [%eval -1.18] } 12... Nxe5 { [%eval -1.18] } 13. Bf4 { [%eval -1.24] } 13... Bd6 { [%eval -1.21] } 14. Qe2? { [%eval -2.23] } 14... Nxd3 { [%eval -2.17] } 15. Bxd6?? { [%eval -6.65] } 15... Nxe1+ { [%eval -6.46] } 16. Rxe1 { [%eval -6.18] } 16... Qxd6 { [%eval -6.54] } 17. Qg4 { [%eval -6.65] } 17... O-O { [%eval -6.34] } 18. Qxd4 { [%eval -6.76] } 18... Bd7 { [%eval -6.41] } 19. Nc4? { [%eval -8.44] } 19... Qb4 { [%eval -8.41] } 20. b3? { [%eval -12.85] } 20... dxc4 { [%eval -10.84] } 0-1
+

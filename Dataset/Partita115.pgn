@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PR8TJC8J"]
+[White "Jackmatador"]
+[Black "kiriakos_N"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:39"]
+[WhiteElo "1347"]
+[BlackElo "1600"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "A45"]
+[Opening "Indian Game: Reversed Chigorin Defense"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. Nc3 c5 2. d4 Nf6 3. d5 d6 4. e4 Bd7 5. Bg5 g6 6. Bxf6 exf6 7. h3 Bg7 8. g4 Na6 9. a3 Nc7 10. Qd2 a6 11. Nf3 Nb5 12. Nxb5 axb5 13. Bd3 Qb6 14. O-O-O b4 15. Bc4 bxa3 16. b3 a2 17. Kb2 f5+ 18. c3 fxe4 19. Ng5 Qa5 20. Ra1 Qa3+ 21. Kc2 b5 22. Qf4 O-O 23. Be2 b4 24. c4 Bxa1 25. Rxa1 Qa7 26. Qxe4 Qc7 27. Bd3 Qd8 28. f4 Qe8 29. Qh1 Qe3 30. Re1 Qf2+ 31. Re2 Qxe2+ 32. Bxe2 a1=Q 33. Qxa1 Rxa1 0-1
+

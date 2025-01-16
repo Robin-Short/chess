@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/dzlGW4rP"]
+[White "Mehdibadran"]
+[Black "jackinnet"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:21"]
+[WhiteElo "1201"]
+[BlackElo "1347"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+9"]
+[ECO "A06"]
+[Opening "Nimzowitsch-Larsen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.16] } 1... d5 { [%eval 0.23] } 2. b3 { [%eval -0.02] } 2... c5 { [%eval 0.01] } 3. Ba3 { [%eval -0.06] } 3... b6 { [%eval 0.08] } 4. g3 { [%eval -0.31] } 4... Nc6 { [%eval -0.19] } 5. Bg2 { [%eval -0.27] } 5... Nf6 { [%eval -0.21] } 6. O-O { [%eval -0.23] } 6... Be6?! { [%eval 0.39] } 7. Nc3 { [%eval -0.03] } 7... Qd7?! { [%eval 0.93] } 8. Bb2?! { [%eval 0.05] } 8... Bh3 { [%eval 0.22] } 9. Nb5?! { [%eval -0.43] } 9... Bxg2 { [%eval -0.33] } 10. Kxg2 { [%eval -0.34] } 10... e5 { [%eval -0.36] } 11. c4 { [%eval -0.58] } 11... d4 { [%eval -0.68] } 12. Rc1? { [%eval -1.79] } 12... e4 { [%eval -1.8] } 13. Nh4?! { [%eval -2.73] } 13... Be7?! { [%eval -1.9] } 14. e3?! { [%eval -2.74] } 14... d3?? { [%eval 1.02] } 15. Rc3?? { [%eval -3.25] } 15... O-O? { [%eval -1.93] } 16. f3?! { [%eval -2.6] } 16... Ne5? { [%eval -0.15] } 17. fxe4?! { [%eval -0.9] } 17... Nxe4 { [%eval -0.66] } 18. Rf4? { [%eval -2.43] } 18... Nxc3?! { [%eval -1.64] } 19. Bxc3 { [%eval -2.03] } 19... Bxh4?! { [%eval -1.06] } 20. gxh4? { [%eval -3.43] } 20... Ng6 { [%eval -3.47] } 21. b4?? { [%eval -7.37] } 21... Nxf4+ { [%eval -7.59] } 22. Kf2? { [%eval -11.71] } 22... Nh3+? { [%eval -8.79] } 23. Ke1? { [%eval #-6] } 23... Qf5 { [%eval #-5] } 24. Qc1 { [%eval #-2] } 24... Qf2+ { [%eval #-1] } 25. Kd1 { [%eval #-1] } 25... Qf1# 0-1
+

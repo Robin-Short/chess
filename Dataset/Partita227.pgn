@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/g8zlatXx"]
+[White "lpaulmp"]
+[Black "metalhurlant"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:53"]
+[WhiteElo "1451"]
+[BlackElo "1552"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bb5+ c6 5. Ba4 b5 6. Bb3 e6 7. a3 b4 8. axb4 Bxb4 9. Nge2 Bxc3 10. Nxc3 Nf6 11. d3 h6 12. O-O Nd5 13. Nxd5 cxd5 14. Qf3 Bb7 15. c4 Na6 16. cxd5 Bxd5 17. Bxd5 Qxd5 18. Qxd5 exd5 19. Re1+ Kd7 20. Bf4 f6 21. Rxa6 Rhe8 22. Rxe8 Rxe8 23. g3 Ra8 24. Kg2 g5 25. Be3 Kc7 26. Rxa7+ Rxa7 27. Bxa7 Kc6 28. d4 Kb5 29. Bc5 Kc4 30. b4 Kb5 31. Kf3 f5 32. h4 gxh4 33. gxh4 Kc6 34. Kf4 Kb5 35. Kxf5 Kc4 36. Kg6 Kd3 37. Kxh6 Ke2 38. h5 Kxf2 39. Kg6 Kf3 40. h6 Ke4 41. h7 Kd3 42. h8=Q Kc4 43. Qe5 Kb5 44. Qxd5 Ka4 45. Qd6 Kb3 46. b5 Kc4 47. b6 Kd3 48. b7 Ke4 49. b8=Q Kd3 50. Qe8 Kc4 51. Ba7 Kd3 52. Qde5 Kc4 53. Qe3 Kd5 54. Q8e5+ Kc4 55. d5 Kb4 56. d6 Kc4 57. Q3e4+ Kb3 58. Q5d5+ Ka3 59. Qdd3+ Kb2 60. Qee2+ Kc1 61. Qdd1# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JUASbko7"]
+[White "felix777"]
+[Black "Gi69"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:41:00"]
+[WhiteElo "1602"]
+[BlackElo "1749"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+5"]
+[Termination "Normal"]
+
+1. b3 c6 2. g3 d5 3. Bg2 Nf6 4. Bb2 e6 5. e3 Bd6 6. Ne2 Nbd7 7. d4 e5 8. Nd2 e4 9. c4 Nf8 10. c5 Bc7 11. b4 a6 12. a4 Ng6 13. Qb3 Bg4 14. Nc3 O-O 15. b5 Qd7 16. b6 Bd8 17. Qc2 Bh3 18. Bxh3 Qxh3 19. O-O-O Ng4 20. Nb3 Bg5 21. Na5 Bxe3+ 22. fxe3 Nxe3 23. Qf2 Nxd1 24. Rxd1 f5 25. Nxb7 f4 26. gxf4 Nxf4 27. Qg3 Nd3+ 28. Rxd3 Rf1+ 29. Kc2 Qxg3 30. Rxg3 Raf8 31. Na5 R1f2+ 32. Kb3 Rxh2 33. Nxc6 Rff2 34. Ba3 h5 35. Nxd5 h4 36. Nde7+ Kh8 37. Rg5 g6 38. Nxg6+ Kh7 39. Nge5 Rh3+ 40. Kb4 e3 41. Ng4 Rg3 42. Nf6+ Rxf6 43. Rh5+ Rh6 44. Rxh6+ Kxh6 45. Bc1 Kh5 46. Bxe3 Rxe3 47. b7 Re8 48. b8=Q Rxb8+ 49. Nxb8 h3 50. c6 h2 51. c7 h1=Q 52. c8=Q Qb1+ 53. Ka5 Qd3 54. Qc5+ Kg4 55. Nxa6 Qd2+ 56. Nb4 Qh6 57. d5 Qg7 58. d6 Qb7 59. Qb6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2bC2DYjE"]
+[White "DankoJ"]
+[Black "descanso"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:24"]
+[WhiteElo "1797"]
+[BlackElo "1657"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. b3 cxd4 7. cxd4 Bb4+ 8. Bd2 Nxd4 9. Nxd4 Qxd4 10. Bxb4 Qxe5+ 11. Be2 Qxa1 12. Bc3 Qxa2 13. Bxg7 Bd7 14. Bxh8 Rc8 15. O-O Rc2 16. Bd3 Rb2 17. Bxb2 1-0
+

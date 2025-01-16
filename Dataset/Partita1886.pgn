@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bpBW7Iw5"]
+[White "mammaletto"]
+[Black "IXS-210714"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:26:09"]
+[WhiteElo "1567"]
+[BlackElo "1616"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-13"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 c6 3. g3 f5 4. Bg2 Nf6 5. e3 Bb4 6. a3 Bxc3 7. bxc3 d6 8. d3 Be6 9. Nf3 Nbd7 10. O-O Qe7 11. Rb1 O-O 12. Rxb7 Qd8 13. Qa4 Nc5 14. Qxc6 Nxb7 15. Qxb7 e4 16. dxe4 Nxe4 17. Nd4 Bxc4 18. Nxf5 Bxf1 19. Qxg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/foEXojQT"]
+[White "ujura"]
+[Black "molinerov"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:36"]
+[WhiteElo "2005"]
+[BlackElo "1857"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 e6 4. Nf3 Be7 5. d4 O-O 6. Be2 c6 7. O-O Nbd7 8. h3 c5 9. Nbd2 cxd4 10. Nxd4 b6 11. Rc1 Bb7 12. c4 Rc8 13. Bf3 Ne4 14. Qc2 Nxd2 15. Qxd2 Nf6 16. Rfd1 Rb8 17. Qc2 dxc4 18. Nc6 Bxc6 19. Rxd8 Rbxd8 20. Bxc6 1-0
+

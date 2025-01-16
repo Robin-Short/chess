@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5lYf1HYN"]
+[White "deitana02"]
+[Black "leguizcaro"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:03:10"]
+[WhiteElo "1838"]
+[BlackElo "1922"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. e5 d6 4. f4 Nh6 5. Nf3 O-O 6. Bd3 c5 7. c3 cxd4 8. cxd4 dxe5 9. dxe5 Nc6 10. O-O Ng4 11. Qe2 Nb4 12. Be4 Be6 13. h3 Nh6 14. a3 Nc6 15. Be3 Nf5 16. Bf2 Qc7 17. Nc3 a6 18. Rac1 Qa5 19. g4 Nh6 20. Ng5 Bb3 21. Qf3 Rac8 22. f5 Nxe5 23. Qf4 Nc6 24. Nf3 e5 25. fxe6 fxe6 26. Qe3 Nf7 27. Bxc6 Rxc6 28. Ne4 Rxc1 29. Rxc1 Bd5 30. g5 Bxb2 31. Rc2 Qxa3 32. Nf6+ Kg7 33. h4 Qxe3 34. Bxe3 Bxf6 35. gxf6+ Kxf6 36. Rc7 Bxf3 0-1
+

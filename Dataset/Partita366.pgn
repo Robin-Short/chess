@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hN8G5fOR"]
+[White "hazes"]
+[Black "Paupau"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:14:41"]
+[WhiteElo "1886"]
+[BlackElo "1581"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-7"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. a4 b5 5. e4 Qa5+ 6. Bd2 Qb6 7. b3 cxb3 8. Qxb3 Nf6 9. Nc3 Be6 10. d5 cxd5 11. exd5 Bg4 12. Bxb5+ Kd8 13. Ne5 Bf5 14. Nxf7+ Kc7 1-0
+

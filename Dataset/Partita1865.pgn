@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4JDYSJSG"]
+[White "komba44"]
+[Black "crons"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:25:35"]
+[WhiteElo "1483"]
+[BlackElo "1480"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-11"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. c4 e6 2. Nc3 c6 3. d4 d6 4. e4 Be7 5. Be2 Nd7 6. Nf3 Nf8 7. O-O h6 8. Be3 g5 9. e5 d5 10. cxd5 exd5 11. Nd2 Ng6 12. a3 f5 13. exf6 Nxf6 14. Re1 O-O 15. Bh5 Bf5 16. g4 Bd3 17. Nf3 Be4 18. Nxe4 dxe4 19. Bxg6 exf3 20. Qxf3 Kg7 21. Bd3 Qd7 22. Bf5 Qd5 23. Qe2 Ne4 24. Qd3 Rxf5 25. gxf5 Qxf5 26. Qe2 Rf8 27. Rf1 Bd6 28. Qh5 Nf6 29. Qe2 Ng4 30. h3 Nxe3 31. Qxe3 Bf4 32. Qc3 g4 33. h4 Qh5 34. Kg2 g3 35. fxg3 Qg4 36. Qf3 Qg6 37. Kh3 Bd6 38. Qg4 Rxf1 39. Rxf1 Qxg4+ 40. Kxg4 Kg6 41. Rf5 b5 42. d5 Be7 43. dxc6 1-0
+

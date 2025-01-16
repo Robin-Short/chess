@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/INrcngNq"]
+[White "marcoocram1979"]
+[Black "ches_acc_cuandrej"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:21:13"]
+[WhiteElo "1573"]
+[BlackElo "1179"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin"]
+[TimeControl "120+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Bg4 4. Be2 Nf6 5. d3 Nc6 6. Bg5 h6 7. Bxf6 exf6 8. Nbd2 Ne5 9. h3 Nxf3+ 10. Bxf3 Be6 11. O-O Be7 12. d4 cxd4 13. cxd4 O-O 14. d5 Bd7 15. Bg4 f5 16. Bxf5 Bb5 17. Re1 g6 18. Bg4 Bh4 19. Re3 Qf6 20. Nf3 h5 21. Bxh5 gxh5 22. Nxh4 Qxh4 23. Rg3+ Kh8 24. Qd2 Rg8 25. Qh6# 1-0
+

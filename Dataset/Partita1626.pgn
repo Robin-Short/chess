@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/F1izjqjL"]
+[White "ectemnius"]
+[Black "Demonique"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:07:33"]
+[WhiteElo "1813"]
+[BlackElo "2014"]
+[WhiteRatingDiff "+143"]
+[BlackRatingDiff "-15"]
+[ECO "B00"]
+[Opening "St. George Defense: Polish Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.18] } 2. d4 { [%eval 0.18] } 2... b5?! { [%eval 1.13] } 3. Nf3 { [%eval 1.08] } 3... Bb7 { [%eval 1.08] } 4. Bd3 { [%eval 0.82] } 4... a6 { [%eval 1.06] } 5. O-O { [%eval 0.91] } 5... c5 { [%eval 1.01] } 6. d5 { [%eval 0.74] } 6... Nf6 { [%eval 0.76] } 7. e5? { [%eval -0.25] } 7... Nxd5 { [%eval -0.37] } 8. Bg5 { [%eval -0.62] } 8... Be7 { [%eval -0.67] } 9. Bxe7 { [%eval -0.63] } 9... Nxe7 { [%eval -0.53] } 10. a4 { [%eval -0.69] } 10... c4 { [%eval -0.7] } 11. Be2 { [%eval -0.76] } 11... Qc7?! { [%eval -0.02] } 12. Na3 { [%eval 0.01] } 12... Qb6 { [%eval 0.27] } 13. axb5 { [%eval 0.11] } 13... axb5 { [%eval 0.08] } 14. Qd4 { [%eval -0.36] } 14... Qxd4? { [%eval 0.65] } 15. Nxd4 { [%eval 0.95] } 15... Rxa3? { [%eval 2.09] } 16. Rxa3 { [%eval 2.09] } 16... Bc6 { [%eval 2.14] } 17. Ra5 { [%eval 2.06] } 17... Nf5?! { [%eval 2.81] } 18. Nxb5 { [%eval 3.2] } 18... Bxb5 { [%eval 3.21] } 19. Rxb5 { [%eval 3.27] } 19... Nc6 { [%eval 3.22] } 20. Bxc4 { [%eval 3.25] } 20... Nfd4 { [%eval 3.3] } 21. Rb7 { [%eval 3.23] } 21... Ke7 { [%eval 3.36] } 22. Rd1 { [%eval 3.23] } 22... Rd8 { [%eval 3.45] } 23. Bb5 { [%eval 3.16] } 23... Nxb5 { [%eval 3.26] } 24. Rxb5 { [%eval 3.25] } 24... Ra8 { [%eval 3.59] } 25. Rb7 { [%eval 3.97] } 25... Nxe5? { [%eval 5.05] } 26. f4 { [%eval 5.18] } 26... Ng4 { [%eval 5.27] } 27. Rdxd7+ { [%eval 5.14] } 27... Kf6?? { [%eval 8.51] } 28. Rxf7+ { [%eval 8.53] } 28... Kg6 { [%eval 8.51] } 29. Rxg7+ { [%eval 8.69] } 29... Kf5 { [%eval 8.86] } 30. Rbf7+ { [%eval 8.46] } 30... Nf6 { [%eval 8.25] } 31. Kf2 { [%eval 8.72] } 31... Ra1? { [%eval 15.19] } 32. Rg5+ { [%eval 48.08] } 32... Kxf4 { [%eval 58.77] } 33. Rc5 { [%eval 109.22] } 1-0
+

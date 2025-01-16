@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4ZCgg5Kn"]
+[White "winsett"]
+[Black "giorgos"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:35"]
+[WhiteElo "1508"]
+[BlackElo "1358"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "420+8"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 1-0
+

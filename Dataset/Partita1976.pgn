@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/hojWgYPP"]
+[White "Permanganato"]
+[Black "deitana02"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:31:25"]
+[WhiteElo "1717"]
+[BlackElo "1584"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 c6 6. Nf3 Be7 7. Bd3 O-O 8. O-O Bg4 9. Re1 Re8 10. h3 Bxf3 11. Qxf3 dxc4 12. Bxc4 Bb4 13. Be3 Nbd7 14. a3 Ba5 15. b4 Bc7 16. d5 Nxd5 17. Nxd5 cxd5 18. Bxd5 Nf6 19. Bxb7 Rb8 20. Bc6 Re6 21. Rad1 Qc8 22. Bxa7 Rxe1+ 23. Rxe1 Rb6 24. Bxb6 Bxb6 25. Qxf6 gxf6 26. Re8+ Qxe8 27. Bxe8 Kf8 28. Bc6 Ke7 29. Kf1 f5 30. a4 Kd6 31. Be8 f6 32. a5 Bd4 33. b5 f4 34. Ke2 h6 35. f3 Kc5 36. a6 Kd6 37. Kd3 Bb6 38. Ke4 Be3 39. Kf5 Ke7 40. Bc6 Kf7 41. Kg4 Kg6 42. g3 f5+ 43. Kh4 fxg3 44. Kxg3 f4+ 45. Kg4 h5+ 46. Kh4 Bf2# 0-1
+

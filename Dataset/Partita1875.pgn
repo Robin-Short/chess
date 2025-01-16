@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/o9jJAXze"]
+[White "laloli"]
+[Black "chessaddict4"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:25:03"]
+[WhiteElo "1283"]
+[BlackElo "1565"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B04"]
+[Opening "Alekhine Defense: Modern Variation, Schmid Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... Nf6 { [%eval 0.44] } 2. e5 { [%eval 0.59] } 2... Nd5 { [%eval 0.59] } 3. d4 { [%eval 0.32] } 3... d6 { [%eval 0.46] } 4. Nf3 { [%eval 0.47] } 4... Nb6 { [%eval 0.56] } 5. Bb5+ { [%eval 0.48] } 5... c6 { [%eval 0.54] } 6. Be2 { [%eval 0.39] } 6... N8d7 { [%eval 0.82] } 7. exd6 { [%eval 0.52] } 7... exd6 { [%eval 0.65] } 8. Nc3 { [%eval 0.35] } 8... Be7 { [%eval 0.3] } 9. Be3 { [%eval 0.15] } 9... O-O { [%eval 0.14] } 10. O-O { [%eval 0.16] } 10... Re8 { [%eval 0.19] } 11. Re1 { [%eval 0.18] } 11... Bf6 { [%eval 0.37] } 12. Kh1 { [%eval 0.04] } 12... c5?! { [%eval 0.9] } 13. Ng1?! { [%eval 0.1] } 13... cxd4 { [%eval 0.12] } 14. Bxd4 { [%eval 0.11] } 14... Bxd4 { [%eval 0.54] } 15. Qxd4 { [%eval 0.26] } 15... Nf6 { [%eval 0.48] } 16. Qh4?! { [%eval -0.4] } 16... Qc7 { [%eval 0.08] } 17. Bh5 { [%eval -0.34] } 17... g6?? { [%eval 3.8] } 18. Nce2?? { [%eval -3.35] } 18... Nbd5?? { [%eval -0.13] } 19. Nd4? { [%eval -3.02] } 19... gxh5?? { [%eval 0.44] } 20. Qxf6?? { [%eval -10.18] } 20... Nxf6 { [%eval -10.23] } 21. Rxe8+ { [%eval -10.31] } 21... Nxe8 { [%eval -10.28] } 22. Ngf3 { [%eval -10.93] } 22... d5 { [%eval -10.36] } 23. Ng5 { [%eval -12.11] } 23... Bf5?! { [%eval -9.5] } 24. Nxf5 { [%eval -10.21] } 24... Qe5 { [%eval -10.39] } 25. Nh6+ { [%eval -10.32] } 25... Kf8? { [%eval -8.77] } 26. Ngxf7? { [%eval -10.03] } 26... Qxb2 { [%eval -10.05] } 0-1
+

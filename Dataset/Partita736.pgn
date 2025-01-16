@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/t03YgLrf"]
+[White "laloli"]
+[Black "zoroastro"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:42"]
+[WhiteElo "1214"]
+[BlackElo "1056"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-22"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. h3 Nc6 4. Nc3 Nf6 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 Be7 8. e5 dxe5 9. Qxe5 O-O 10. Be3 Bb4 11. Bd3 Bxc3+ 12. bxc3 Re8 13. Qg3 Ne4 14. Qf4 Nxc3 15. O-O 1-0
+

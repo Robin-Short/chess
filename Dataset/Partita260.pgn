@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/haW8WULA"]
+[White "tabelatabela"]
+[Black "megaledon"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:17"]
+[WhiteElo "1773"]
+[BlackElo "1692"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Be6 5. Be2 c5 6. dxc5 Bxc5 7. O-O Qb6 8. c3 Bd6 9. Nd4 Nc6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Nxe6 fxe6 13. Qg4 Kd7 14. Qxg7+ Ne7 15. Qh6 Rdg8 16. Nd2 Rg6 17. Qe3 Bc5 18. Qe2 Rhg8 19. g3 Nf5 20. Nf3 Bd6 21. Kh1 h5 22. Be3 c5 23. Rae1 h4 24. Nxh4 Nxh4 25. gxh4 Qc6 26. Bg5 d4+ 27. f3 Qd5 28. Qe4 Qxe4 29. fxe4 dxc3 30. bxc3 Be5 31. Rf7+ Kc6 32. c4 Bc3 33. Re2 a5 34. Kg2 Bd4 35. Kh3 Kd6 36. Kg4 Ke5 37. Kh5 R6g7 38. Rxg7 Rxg7 39. Kh6 Rf7 40. Kg6 Rf1 41. a3 Kd6 42. a4 e5 0-1
+

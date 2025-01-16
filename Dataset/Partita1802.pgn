@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XXwTxqFY"]
+[White "messi1234"]
+[Black "bijean"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:21:36"]
+[WhiteElo "1546"]
+[BlackElo "1606"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. h3 Nc6 3. Bb5 Bc5 4. Bxc6 dxc6 5. d3 Bxf2+ 6. Kxf2 Qh4+ 7. g3 Qf6+ 8. Nf3 Be6 9. Bg5 Qg6 10. h4 h6 11. Nxe5 Qh7 12. Nd2 hxg5 13. hxg5 Qxh1 14. Qxh1 Rxh1 15. Rxh1 O-O-O 16. Nxf7 Bxf7 17. Nf3 Kb8 18. Ne5 Bxa2 19. c4 Bb3 20. Rh8 Re8 21. Ke3 a5 22. Nd7+ Kc8 23. Nc5 a4 24. Nxb3 axb3 25. Kd4 Kd7 26. Kc3 b5 27. Kxb3 bxc4+ 28. Kxc4 Rb8 29. b4 Ke7 30. Kc5 Kf7 31. Rxg8 Kxg8 32. d4 Kf7 33. e5 Ke6 34. Kxc6 Rxb4 35. Kc5 Rb6 36. g4 g6 37. d5+ Kxe5 38. Kc4 Kf4 39. Kc5 Kxg4 40. d6 Rxd6 0-1
+

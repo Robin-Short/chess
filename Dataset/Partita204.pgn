@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4d6CJ02m"]
+[White "tosquiman1"]
+[Black "minnesotafrank"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:13"]
+[WhiteElo "1454"]
+[BlackElo "1452"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Bf4 Nf6 8. e5 dxe5 9. Qxe5+ Be7 10. Bg5 Qd6 11. O-O Bxf3 12. Qb5+ Bc6 13. Qe2 O-O 14. Nc3 Rfe8 15. Qc4 b5 16. Nxb5 a6 17. Nd4 Bd7 18. Rad1 Qb6 19. Nf3 Bb5 20. Qh4 Bxf1 21. Rxf1 Qxb2 22. Bf4 Qxc2 23. Nd4 Qe4 24. Nf3 Bd6 25. Bg5 Qxh4 26. Bxh4 Ne4 27. Ng5 Nc3 28. Nh3 Nxa2 29. f4 Bc5+ 30. Kh1 Nb4 31. f5 a5 32. f6 g6 33. Ng5 a4 34. Bg3 c6 35. Nf3 a3 36. Nd2 a2 37. Nb3 Ra3 38. Na1 Bd4 39. h4 Bxa1 40. Rxa1 Nc2 41. Rc1 a1=Q 42. Rxa1 Rxa1+ 43. Kh2 Re6 44. Bc7 Rxf6 45. g3 Ra2 46. Kh3 Ne3 47. Bb6 Nf1 48. Bd8 Rf3 49. Bc7 Raa3 50. Bd6 Rad3 51. Be5 Nxg3 52. Kg2 Nf5 53. h5 Nh4+ 54. Kg1 Rd2 55. Bf6 Ra2 56. Bb2 Rb3 57. hxg6 fxg6 58. Kf2 Rbxb2+ 59. Kg3 Ra4 60. Kh3 Rb3+ 61. Kh2 Ra2+ 0-1
+

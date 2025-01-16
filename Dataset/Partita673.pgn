@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W7LNTEB5"]
+[White "Bouchard"]
+[Black "ivan62"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:17"]
+[WhiteElo "1770"]
+[BlackElo "1715"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.25] } 1... c6 { [%eval 0.52] } 2. d4 { [%eval 0.41] } 2... d5 { [%eval 0.51] } 3. exd5 { [%eval 0.34] } 3... cxd5 { [%eval 0.31] } 4. Nc3 { [%eval 0.05] } 4... Nf6 { [%eval 0.0] } 5. Nf3 { [%eval 0.08] } 5... Bg4 { [%eval -0.05] } 6. Be2 { [%eval -0.05] } 6... e6 { [%eval -0.08] } 7. a3 { [%eval -0.25] } 7... Bd6 { [%eval 0.03] } 8. O-O { [%eval -0.26] } 8... Qc7?! { [%eval 0.39] } 9. h3 { [%eval 0.34] } 9... Bh5 { [%eval 0.7] } 10. Ne5?! { [%eval -0.04] } 10... Bxe2 { [%eval 0.0] } 11. Qxe2 { [%eval 0.12] } 11... O-O { [%eval 0.29] } 12. Bg5 { [%eval 0.13] } 12... Nbd7 { [%eval 0.24] } 13. Nxd7 { [%eval 0.06] } 13... Nxd7 { [%eval 0.0] } 14. Rae1?! { [%eval -0.69] } 14... Nb6?! { [%eval -0.13] } 15. Nb5 { [%eval 0.02] } 15... Qd7 { [%eval -0.15] } 16. Nxd6 { [%eval -0.12] } 16... Qxd6 { [%eval -0.18] } 17. c3 { [%eval -0.13] } 17... Nc4 { [%eval -0.26] } 18. Qg4 { [%eval -0.01] } 18... f5 { [%eval 0.03] } 19. Qe2 { [%eval 0.03] } 19... Rae8 { [%eval 0.08] } 20. f4?! { [%eval -0.84] } 20... Qb6 { [%eval -0.87] } 21. Rb1 { [%eval -0.93] } 21... Nd6 { [%eval -0.95] } 22. Rfc1 { [%eval -1.05] } 22... Ne4 { [%eval -1.05] } 23. Kh2?! { [%eval -2.03] } 23... Rc8?! { [%eval -1.06] } 24. Be7 { [%eval -1.08] } 24... Rf7 { [%eval -1.17] } 25. Bh4 { [%eval -1.24] } 25... Qd6 { [%eval -1.15] } 26. Bg3 { [%eval -1.1] } 26... Rf6 { [%eval -1.08] } 27. Qe3 { [%eval -1.05] } 27... Rg6 { [%eval -0.84] } 28. Be1 { [%eval -1.07] } 28... Rc4 { [%eval -0.91] } 29. g3 { [%eval -1.37] } 29... Rc8 { [%eval -1.25] } 30. a4 { [%eval -1.21] } 30... Qe7 { [%eval -1.03] } 31. b3 { [%eval -1.03] } 31... Qd7 { [%eval -0.67] } 32. c4 { [%eval -0.87] } 32... dxc4 { [%eval -0.46] } 33. bxc4 { [%eval -0.61] } 33... Qxa4?! { [%eval -0.09] } 34. c5?! { [%eval -1.01] } 34... Qc6 { [%eval -0.81] } 35. Rb4 { [%eval -0.86] } 35... a6 { [%eval -0.48] } 36. Rcb1 { [%eval -0.12] } 36... Rc7?! { [%eval 0.68] } 37. Qb3 { [%eval -0.32] } 37... Rf6? { [%eval 0.94] } 38. Rxb7 { [%eval 0.93] } 38... Rxb7 { [%eval 1.05] } 39. Qxb7 { [%eval 0.63] } 39... Qxb7?! { [%eval 1.58] } 40. Rxb7 { [%eval 1.43] } 40... h6?? { [%eval 4.74] } 41. c6 { [%eval 5.02] } 41... Rf8?? { [%eval 8.91] } 42. c7 { [%eval 9.28] } 42... Nd6 { [%eval 11.34] } 43. Rb8?? { [%eval 2.97] } 1-0
+

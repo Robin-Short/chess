@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2CtTNenj"]
+[White "leoam"]
+[Black "alapelotita"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:25:46"]
+[WhiteElo "1304"]
+[BlackElo "1465"]
+[WhiteRatingDiff "-37"]
+[BlackRatingDiff "+7"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "240+3"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.26] } 2. Bc4 { [%eval -0.05] } 2... e6 { [%eval 0.02] } 3. e5 { [%eval -0.17] } 3... Nc6 { [%eval -0.44] } 4. d3?! { [%eval -0.94] } 4... Nxe5 { [%eval -0.99] } 5. a3 { [%eval -1.37] } 5... a6 { [%eval -1.16] } 6. Nf3 { [%eval -1.25] } 6... Nxc4 { [%eval -1.0] } 7. dxc4 { [%eval -1.04] } 7... Nf6 { [%eval -0.96] } 8. Nc3 { [%eval -1.18] } 8... b6 { [%eval -0.94] } 9. O-O { [%eval -0.99] } 9... Bb7 { [%eval -1.0] } 10. h3 { [%eval -1.41] } 10... Bd6?? { [%eval 2.98] } 11. Be3?? { [%eval -1.26] } 11... Qc7 { [%eval -1.12] } 12. Ne2?! { [%eval -1.71] } 12... Ne4 { [%eval -1.29] } 13. Ng3?! { [%eval -2.17] } 13... Bxg3 { [%eval -2.16] } 14. fxg3 { [%eval -2.34] } 14... Nxg3 { [%eval -2.15] } 15. Rf2 { [%eval -2.16] } 15... O-O { [%eval -2.3] } 16. b4 { [%eval -2.65] } 16... Nf5 { [%eval -2.55] } 17. Bg5?! { [%eval -3.09] } 17... h6 { [%eval -2.95] } 18. Bc1 { [%eval -2.87] } 18... d5 { [%eval -2.59] } 19. Bb2 { [%eval -2.96] } 19... d4 { [%eval -2.77] } 20. c3 { [%eval -3.19] } 20... Qg3? { [%eval -1.73] } 21. cxd4 { [%eval -2.07] } 21... cxd4 { [%eval -2.05] } 22. Bxd4? { [%eval -3.23] } 22... Rad8 { [%eval -3.03] } 23. Raa2? { [%eval -5.7] } 23... b5?? { [%eval -2.39] } 24. Rad2 { [%eval -2.21] } 24... bxc4 { [%eval -2.45] } 25. Be5? { [%eval -4.5] } 25... Bd5?? { [%eval 4.42] } 26. Bxg3 { [%eval 4.55] } 26... Nxg3 { [%eval 4.4] } 27. Ne5 { [%eval 4.35] } 27... Ne4 { [%eval 4.52] } 28. Rxd5? { [%eval 1.71] } 28... Nxf2?! { [%eval 2.55] } 29. Qe2? { [%eval 0.0] } 29... exd5?! { [%eval 0.92] } 30. Qxf2 { [%eval 0.91] } 30... d4? { [%eval 2.08] } 31. Nxc4 { [%eval 1.86] } 31... d3 { [%eval 2.05] } 32. Qd2 { [%eval 1.91] } 32... Rfe8 { [%eval 1.74] } 33. Nb2?? { [%eval -3.69] } 33... Re2 { [%eval -3.77] } 34. Qd1?? { [%eval -7.21] } 34... Rxb2 { [%eval -6.94] } 35. Kh2?! { [%eval -7.83] } 35... d2 { [%eval -7.79] } 36. Qa1? { [%eval -46.09] } 36... Rc2 { [%eval -46.25] } 0-1
+

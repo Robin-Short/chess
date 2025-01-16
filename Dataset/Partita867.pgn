@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/hYiyDwL7"]
+[White "rasko"]
+[Black "vid"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:03"]
+[WhiteElo "1786"]
+[BlackElo "1990"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c3 e6 3. Bg5 Be7 4. Nd2 d5 5. Ngf3 Nbd7 6. e3 c5 7. Bb5 O-O 8. Bf4 a6 9. Bd3 c4 10. Bc2 Nh5 11. Bg3 f5 12. Ne5 Nxg3 13. hxg3 Nxe5 14. Qh5 Ng6 15. Qxh7+ Kf7 16. g4 Rh8 17. O-O-O Rxh7 18. Rxh7 Qa5 19. Kb1 Bd7 20. gxf5 exf5 21. g4 Rh8 22. Rdh1 Rxh7 23. Rxh7 fxg4 24. Bxg6+ Kxg6 0-1
+

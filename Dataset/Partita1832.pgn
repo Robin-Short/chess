@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/I8SFXPOc"]
+[White "Vax"]
+[Black "wazzup11"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:19"]
+[WhiteElo "1761"]
+[BlackElo "1880"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Paulsen Variation, Normal Variation"]
+[TimeControl "180+12"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 e5 6. Nf5 d6 7. Qg4 Nf6 8. Nxg7+ Bxg7 9. Qxg7 Rg8 10. Qh6 Nd4 11. Bd3 Be6 12. Bg5 Rxg5 13. Qxg5 Qe7 14. Nb5 Kd7 15. Nxd4 exd4 16. Bb5+ Kc7 17. f3 Rg8 18. Qd2 a6 19. Qa5+ Kb8 20. Bf1 Nh5 21. Qxh5 1-0
+

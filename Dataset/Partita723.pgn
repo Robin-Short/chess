@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rpzx4Z2k"]
+[White "keltik"]
+[Black "nikkan"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:35"]
+[WhiteElo "1256"]
+[BlackElo "1800"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 c6 5. f4 Nf6 6. Nf3 Bd6 7. f5 Bxf5 8. h3 Nbd7 9. g4 Bg3+ 10. Ke2 Qe7+ 11. Be3 Bf4 12. Ne5 Nxe5 13. dxe5 Qxe5 14. gxf5 Qxe3# 0-1
+

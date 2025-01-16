@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WOvbsnZW"]
+[White "mistakeman"]
+[Black "makbier"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:33"]
+[WhiteElo "1567"]
+[BlackElo "1449"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Anti-Torre"]
+[TimeControl "840+6"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.25] } 1... d5 { [%eval 0.24] } 2. d4 { [%eval 0.24] } 2... Bg4 { [%eval 0.52] } 3. Ne5 { [%eval 0.37] } 3... Bf5 { [%eval 0.46] } 4. Bf4 { [%eval 0.0] } 4... e6 { [%eval 0.29] } 5. e3 { [%eval 0.16] } 5... Bb4+?! { [%eval 0.92] } 6. c3 { [%eval 0.61] } 6... Bd6 { [%eval 0.38] } 7. Nd2 { [%eval 0.23] } 7... Ne7?! { [%eval 0.75] } 8. Be2?! { [%eval 0.1] } 8... O-O { [%eval 0.48] } 9. Bh5? { [%eval -0.91] } 9... Bxe5?! { [%eval -0.14] } 10. dxe5 { [%eval -0.48] } 10... g6? { [%eval 1.47] } 11. Bf3? { [%eval 0.11] } 11... Bd3 { [%eval 0.13] } 12. Nb3 { [%eval 0.18] } 12... Bc4 { [%eval 0.17] } 13. Nd4?! { [%eval -0.79] } 13... c5 { [%eval -0.8] } 14. Ne2 { [%eval -0.87] } 14... Bxe2?! { [%eval 0.0] } 15. Qxe2 { [%eval -0.13] } 15... Nbc6 { [%eval -0.01] } 16. h4 { [%eval 0.01] } 16... h5 { [%eval 0.4] } 17. g4 { [%eval 0.27] } 17... Kg7? { [%eval 1.96] } 18. gxh5 { [%eval 2.0] } 18... Nf5? { [%eval 3.2] } 19. hxg6 { [%eval 3.29] } 19... Nxh4?? { [%eval 7.51] } 20. gxf7 { [%eval 6.74] } 20... Kxf7?? { [%eval 11.55] } 21. Bh5+ { [%eval 11.63] } 21... Kg7?! { [%eval #8] } 22. Qg4+ { [%eval #7] } 22... Kh7 { [%eval #6] } 23. Rxh4?! { [%eval 21.12] } 23... Qxh4 { [%eval #8] } 24. Qxh4 { [%eval #7] } 24... Rg8 { [%eval #2] } 25. Bf7+?! { [%eval #2] } 25... Kg7 { [%eval #2] } 26. Bxg8?! { [%eval #6] } 26... Rxg8 { [%eval #2] } 27. Qf6+ { [%eval #1] } 27... Kh7 { [%eval #1] } 28. Qh6# 1-0
+

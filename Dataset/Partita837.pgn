@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gjjeTMk2"]
+[White "sicko72"]
+[Black "mramor2"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:57"]
+[WhiteElo "1941"]
+[BlackElo "1866"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 Nc6 4. c4 Bc5 5. Bd3 a6 6. Ne2 d6 7. O-O Bg4 8. a3 Nge7 9. b4 Ba7 10. b5 axb5 11. cxb5 Ne5 12. f4 Nxd3 13. Qxd3 O-O 14. Nxd4 c5 15. bxc6 bxc6 16. Kh1 d5 17. e5 Bxd4 18. Qxd4 Be6 19. Qc5 Qd7 20. Nd2 Nf5 21. Nf3 h6 22. a4 d4 23. Rd1 d3 24. Ba3 Rfd8 25. a5 Rab8 26. a6 Rb5 27. Qc3 Ne3 28. Bd6 Bg4 29. Rxd3 Bxf3 30. Rxe3 Bd5 31. a7 Ra8 32. Bb8 Kh7 33. Rg3 g6 34. Qa3 Qb7 35. Qf8 Rb1+ 0-1
+

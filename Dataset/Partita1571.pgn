@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6hKYj5SO"]
+[White "technoguyrob2"]
+[Black "piskopos"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:40"]
+[WhiteElo "1692"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Steinitz Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d4 e6 3. Nc3 d5 4. e5 Nfd7 5. f4 Bb4 6. Nf3 O-O 7. Bd3 c5 8. O-O cxd4 9. Bxh7+ Kh8 10. Ng5 f6 11. Qh5 fxg5 12. Bg6+ 1-0
+

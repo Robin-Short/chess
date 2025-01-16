@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/comd6ZiT"]
+[White "Vicious"]
+[Black "subteacher"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:24"]
+[WhiteElo "1801"]
+[BlackElo "1728"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 e6 4. exd5 cxd5 5. d4 Nf6 6. Bd3 Be7 7. Bd2 Nbd7 8. Ne2 a6 9. c3 b5 10. Ng3 Bb7 11. O-O h6 12. Re1 O-O 13. Qc2 Nb6 14. Ne5 Nc4 15. f4 Rc8 16. Bc1 b4 17. Qe2 bxc3 18. bxc3 a5 19. Nxc4 dxc4 20. Bc2 Bd5 21. Ne4 Nxe4 22. Bxe4 Bxe4 23. Qxe4 Bf6 24. f5 Re8 25. Qf3 e5 26. Be3 exd4 27. cxd4 Qd7 28. Rad1 c3 29. Kh1 c2 30. Rc1 Bxd4 31. Bxd4 Rxe1+ 32. Rxe1 c1=Q 33. Rxc1 Rxc1+ 34. Bg1 Qd1 35. Qf2 Ra1 36. h3 Rb1 37. a3 Rc1 38. Qa7 Rc2 39. Qa8+ Kh7 40. Qa7 Qd2 41. Qe3 Qxe3 42. Bxe3 Re2 43. Bc5 Ra2 44. Kh2 Rb2 45. Kg3 Rb5 46. Bd6 Rb8 47. Be7 Rc8 48. Bd6 Rc2 49. f6 Ra2 50. Be7 gxf6 51. Bxf6 Rxa3+ 52. Kh2 Ra2 0-1
+

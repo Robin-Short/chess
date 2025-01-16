@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/6sPD5r04"]
+[White "Max2070"]
+[Black "Kindness"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:37"]
+[WhiteElo "1372"]
+[BlackElo "1278"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+17"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... e5 { [%eval 0.27] } 2. Nf3 { [%eval 0.2] } 2... Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.31] } 3... Nf6 { [%eval 0.22] } 4. Bxc6 { [%eval 0.0] } 4... dxc6 { [%eval 0.09] } 5. b3 { [%eval -0.35] } 5... Nxe4 { [%eval -0.38] } 6. Nxe5? { [%eval -2.91] } 6... Qg5? { [%eval -1.37] } 7. Nf3?? { [%eval -11.37] } 7... Qxg2 { [%eval -11.4] } 8. Rg1?! { [%eval #-1] } 8... Qxf2# 0-1
+

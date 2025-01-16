@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/JacGwxB7"]
+[White "bernes"]
+[Black "asxetos1"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:58"]
+[WhiteElo "1565"]
+[BlackElo "1574"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-13"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. d4 d6 2. e3 e5 3. c4 exd4 4. exd4 c5 5. d5 b5 6. Qe2+ Qe7 7. Qxe7+ Bxe7 8. cxb5 Bd7 9. a3 Bxb5 10. Bxb5+ Nd7 11. Be2 Ndf6 12. Nf3 Nxd5 13. O-O Ngf6 14. Nc3 1-0
+

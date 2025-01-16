@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S2zGWbuR"]
+[White "DOMARBOR"]
+[Black "franktaolin"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:13"]
+[WhiteElo "1605"]
+[BlackElo "1530"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. e4 e6 2. f4 c5 3. Nf3 Nc6 4. d3 d5 5. e5 d4 6. c3 b6 7. Bd2 Bb7 8. Be2 b5 9. O-O Nh6 10. cxd4 cxd4 11. Na3 a6 12. h3 Nf5 13. Qe1 Bc5 14. Nc2 a5 15. a3 b4 16. axb4 axb4 17. Rxa8 Qxa8 18. Nxb4 Ne3 19. Bxe3 dxe3 20. Nxc6 Bxc6 21. d4 Bxf3 22. Bxf3 Qa7 23. dxc5 Qxc5 24. Qe2 O-O 25. Re1 Qb4 26. Qxe3 Qxb2 27. Rd1 f5 28. exf6 Rxf6 29. Rd8+ Kf7 30. Be4 Qa1+ 31. Kh2 Qa5 32. Ra8 1-0
+

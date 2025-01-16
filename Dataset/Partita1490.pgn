@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ea3HkJhQ"]
+[White "Eristu"]
+[Black "keltik"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:10"]
+[WhiteElo "1286"]
+[BlackElo "1252"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 c5 6. Qa4 a6 7. Qb3 f5 8. exf5 Nf6 9. Qe3+ Qe7 10. Qxe7+ Bxe7 11. Bd3 d5 12. c4 dxc4 13. Bxc4 Bxf5 14. O-O b5 15. Be2 O-O 16. Nc3 b4 17. Na4 a5 18. Bf4 Ne4 19. Nb6 Rad8 20. Bc4+ Kh8 21. Nd5 Bd6 22. Rae1 Nd2 23. Bxd6 Nxf1 24. Bxf8 Rxf8 25. Kxf1 h6 26. Nb6 g5 27. Re5 Bb1 28. Rxc5 Rf6 29. Nd5 Rf4 30. Nxf4 1-0
+

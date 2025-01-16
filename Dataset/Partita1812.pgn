@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XN8YE9zk"]
+[White "laloli"]
+[Black "checkmatekingdom"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:47"]
+[WhiteElo "1265"]
+[BlackElo "1433"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-29"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Qf6 3. d4 Bc5 4. Nc3 exd4 5. Nd5 Qd6 6. Nxd4 Bxd4 7. Qxd4 Nh6 8. Bf4 Qc6 9. Nxc7+ Kd8 10. Nxa8 Qxc2 11. Bc7+ Ke8 12. Rd1 Kf8 13. Qd6+ Kg8 14. Bd3 Qa4 15. O-O Nc6 16. Bd8 Nxd8 17. Nc7 Ne6 18. Nxe6 fxe6 19. b3 1-0
+

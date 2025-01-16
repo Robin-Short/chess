@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Y3aNsxpO"]
+[White "s_dvoryanchikov"]
+[Black "edmario"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:26:56"]
+[WhiteElo "1288"]
+[BlackElo "1570"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Nc6 3. Be2 Nf6 4. Nf3 Be7 5. O-O d6 6. a3 Bd7 7. Bg5 h6 8. Bxf6 Bxf6 9. c3 O-O 10. Nbd2 Ne7 11. Nc4 Ng6 12. d4 b5 13. Ne3 Nf4 14. d5 c6 15. c4 a6 16. a4 Qc7 17. axb5 axb5 18. Rxa8 Rxa8 19. Nd2 bxc4 20. Ndxc4 Be7 21. Nf5 Bxf5 22. exf5 cxd5 23. Ne3 Ra2 24. Nxd5 Nxd5 25. Qxd5 Rxb2 26. Qa8+ Qb8 27. Qxb8+ Rxb8 28. Bd3 d5 29. Rb1 Rxb1+ 30. Bxb1 Kf8 31. g4 f6 32. h3 Bb4 33. Kg2 Ke7 34. Kf3 Kd6 35. Kg3 Bd2 36. Kh4 Kc5 37. Kh5 e4 38. Kg6 e3 39. fxe3 Bxe3 40. Kxg7 Bg5 41. h4 Bxh4 42. Kxh6 Bg5+ 43. Kh5 Kd4 44. Kg6 Ke3 45. Kf7 d4 46. Ke6 d3 47. Bxd3 Kxd3 48. Kd5 Ke3 0-1
+

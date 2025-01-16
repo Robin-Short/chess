@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vT5ofdBf"]
+[White "zlocca"]
+[Black "artin-2010"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:41"]
+[WhiteElo "1525"]
+[BlackElo "1467"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[TimeControl "180+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. c3 Bc5 3. Qf3 Nf6 4. Bc4 b6 5. Bxf7+ Kxf7 6. Qh5+ Nxh5 7. Nf3 Qf6 8. O-O d6 9. d3 Qg6 10. b4 Bh3 11. Ng5+ Kg8 12. Nxh3 Nc6 13. bxc5 bxc5 14. Be3 Qg4 15. f3 Qg6 16. a3 Rb8 17. Nd2 Rb2 18. Nf2 Nf4 19. Bxf4 exf4 20. Nc4 Rc2 21. Rab1 Kf7 22. Rbc1 Rxc1 23. Rxc1 Ne5 24. Na5 Nxf3+ 25. Kh1 Nh4 26. Rg1 Rb8 27. Nh3 Rb1 28. Nxf4 Rxg1+ 29. Kxg1 Qg4 30. g3 Qd1+ 31. Kf2 Qf3+ 32. Kg1 g5 33. Nc6 gxf4 34. Nd8+ Ke8 35. Ne6 Qf2+ 0-1
+

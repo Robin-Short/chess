@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/8VNHCy89"]
+[White "VEGETAL"]
+[Black "megaledon"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:42"]
+[WhiteElo "1739"]
+[BlackElo "1408"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Qe2+ Be6 5. Be3 Qe7 6. Nf3 Nc6 7. Ng5 f6 8. Nxe6 Qxe6 9. c3 O-O-O 10. Nd2 Re8 11. O-O-O f5 12. Qd3 h6 13. Bf4 Bd6 14. Be5 Bxe5 15. dxe5 Nxe5 16. g3 Nxd3+ 17. Bxd3 c5 18. f4 c4 19. Bc2 Qe3 20. Rhe1 Qxe1 21. Rxe1 Rxe1+ 22. Bd1 Nf6 23. Kc2 Ne4 24. Nf3 Nf2 25. Nxe1 Nxd1 26. Kxd1 Re8 27. Nf3 Re3 28. Ne5 g5 29. Kd2 Rxe5 30. fxe5 Kd7 31. Ke3 Ke6 32. Kd4 b5 33. a3 a5 34. h3 h5 35. Kc5 g4 36. h4 f4 37. gxf4 g3 38. f5+ Kxf5 39. e6 Kxe6 40. Kxb5 g2 41. Kxa5 g1=Q 42. b4 Qa7+ 43. Kb5 Kd6 44. a4 1-0
+

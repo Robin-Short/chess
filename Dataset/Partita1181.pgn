@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gqTta1eS"]
+[White "shammies"]
+[Black "agolp"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:27"]
+[WhiteElo "1875"]
+[BlackElo "1919"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-19"]
+[ECO "D36"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Reshevsky Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Bd6 7. e3 O-O 8. Bd3 h6 9. Bh4 Bg4 10. f3 Bh5 11. g4 Bg6 12. Bxg6 fxg6 13. Qxg6 Qe7 14. e4 dxe4 15. fxe4 Bb4 16. e5 Bxc3+ 17. bxc3 Qe6 18. h3 Re8 19. Ne2 Nd5 20. Qxe6+ Rxe6 21. Kd2 Nd7 22. Rhf1 N7b6 23. Kd3 Rae8 24. Be1 Ne7 25. Nf4 Ng6 26. Nxe6 Rxe6 27. Bg3 Re8 28. a4 Rd8 29. a5 Nd7 30. Rae1 Nc5+ 31. Kc4 Ne6 32. h4 Ne7 33. Rf3 Nd5 34. Ref1 Rf8 35. Rxf8+ Nxf8 36. Kd3 Ne6 37. Be1 Ndf4+ 38. Ke4 Ng2 39. Bg3 g5 40. hxg5 Nxg5+ 41. Kf5 Ne3+ 42. Kg6 Nxf1 43. Bf4 Nf7 44. e6 Nh8+ 45. Kf6 Kf8 46. Bxh6+ Ke8 47. Bf4 b6 48. axb6 axb6 49. g5 c5 50. dxc5 bxc5 51. g6 c4 52. g7 Ng6 53. g8=Q+ Nf8 54. e7 Ne3 55. exf8=Q+ Kd7 56. Qd6# 1-0
+

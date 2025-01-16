@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/P3FsG0pm"]
+[White "VictorHugo7891"]
+[Black "lalenshko"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:45"]
+[WhiteElo "1712"]
+[BlackElo "1371"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. d4 Nc6 2. Nf3 d6 3. c4 e5 4. d5 Nb4 5. Qa4+ Nc6 6. dxc6 1-0
+

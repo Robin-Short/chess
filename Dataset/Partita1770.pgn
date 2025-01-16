@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/goAV2eED"]
+[White "gavriel32"]
+[Black "lvccrespo"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:19:14"]
+[WhiteElo "1735"]
+[BlackElo "1679"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "60+30"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 d6 4. Bc4 Bg4 5. O-O Nf6 6. fxe5 Nxe5 7. Bxf7+ Kxf7 8. Nxe5+ dxe5 9. Qxg4 Bc5+ 10. Kh1 Rf8 11. d3 Kg8 12. Qe6+ Kh8 13. Qxe5 Bd4 14. Qg3 Nh5 15. Qe1 Rxf1+ 16. Qxf1 Qh4 17. g3 Nxg3+ 0-1
+

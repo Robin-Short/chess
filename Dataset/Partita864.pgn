@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cDA3PeRT"]
+[White "iefacio"]
+[Black "KatumbaYona"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:45"]
+[WhiteElo "1513"]
+[BlackElo "1305"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. Nc3 c6 5. d4 exd4 6. Nxd4 b5 7. Bb3 b4 8. Nce2 c5 9. Nf5 Bxf5 10. exf5 Nf6 11. O-O O-O 12. Ng3 Nc6 13. Be3 Ne5 14. h3 c4 15. Ba4 Qa5 16. b3 c3 17. Qd4 Qc7 18. Qxb4 d5 19. Qf4 Rfd8 20. Bd4 Bd6 21. Ne2 Nc6 22. Qe3 Nxd4 23. Nxd4 Bc5 24. Qd3 Qb6 25. Nb5 a6 26. Nxc3 Bd4 27. Rad1 Bxc3 28. Qxc3 Rac8 29. Qd4 Qxd4 30. Rxd4 Rxc2 31. Ra1 Rdc8 32. g4 h6 33. h4 Rc1+ 34. Rxc1 Rxc1+ 35. Kg2 Rc2 36. g5 Ne4 37. Rxd5 Rxf2+ 38. Kh3 Rxa2 39. gxh6 1-0
+

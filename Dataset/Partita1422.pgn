@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/x7KZmp8B"]
+[White "mcamac"]
+[Black "stricklw80"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:56"]
+[WhiteElo "1375"]
+[BlackElo "1173"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-9"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Bd3 Nc6 5. Nf3 Nf6 6. O-O Bd6 7. Bb5 O-O 8. Bxc6 bxc6 9. Nc3 Ng4 10. h3 Nf6 11. Bg5 Bf5 12. Ne5 Bxe5 13. dxe5 Rb8 14. b3 h6 15. exf6 gxf6 16. Bxh6 Re8 17. Qf3 Qd7 18. Qg3+ Bg6 19. Rfe1 d4 20. Ne4 c5 21. Nxf6+ Kh8 22. Nxd7 1-0
+

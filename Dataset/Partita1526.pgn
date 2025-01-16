@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/MVRAI4Pm"]
+[White "sergeyk"]
+[Black "Kentiara"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:06:47"]
+[WhiteElo "1518"]
+[BlackElo "1553"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "240+10"]
+[Termination "Time forfeit"]
+
+1. e4 g6 0-1
+

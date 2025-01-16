@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/83FgFBBz"]
+[White "GATOFELIX"]
+[Black "TuMorraPas"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:23"]
+[WhiteElo "1594"]
+[BlackElo "1658"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d5 3. exd5 Qxd5 4. Nf3 Qe4+ 5. Be2 Qxf4 6. d4 Qd6 7. dxc5 Qxd1+ 8. Bxd1 e6 9. b4 Nf6 10. O-O Nd5 11. Ne5 Be7 12. Nxf7 O-O 13. Nd6 Nc6 14. Rxf8+ Kxf8 15. Nxc8 Rxc8 16. c3 Bf6 17. Bd2 Ndxb4 18. Na3 Nd5 19. Rc1 Ne5 20. c4 Nc7 21. Nb5 Na6 22. Nxa7 Rxc5 23. Be3 Rxc4 24. Rb1 Nb4 25. a3 Nd5 26. Bf2 Nd3 27. Rxb7 Rc1 28. Rb8+ Kf7 29. Rc8 Rxd1+ 30. Be1 0-1
+

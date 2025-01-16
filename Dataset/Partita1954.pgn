@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1mgwlz7Q"]
+[Site "https://lichess.org/oP6iCWA2"]
+[White "isidoroducasse"]
+[Black "elpulltrigger"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:02"]
+[WhiteElo "1615"]
+[BlackElo "1480"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-8"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. cxd5 cxd5 5. e3 Nf6 6. a3 Qa5 7. Bd2 b5 8. Bxb5+ Bd7 9. Bxd7+ Nbxd7 10. Nf3 e5 11. Nxe5 Bd6 12. Nxd7 Nxd7 13. O-O O-O 14. Ne4 Qc7 15. Nxd6 Qxd6 16. Bb4 Qb6 17. Bxf8 Nxf8 18. b4 Ne6 19. Rc1 Ng5 20. Qb3 a5 21. Qxd5 h6 22. Qxa8+ 1-0
+

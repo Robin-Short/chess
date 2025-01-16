@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AuZgWuYm"]
+[White "peaopreto"]
+[Black "notheory"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:36"]
+[WhiteElo "1436"]
+[BlackElo "1354"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... Nc6 { [%eval 0.33] } 2. d3 { [%eval 0.04] } 2... g6?! { [%eval 0.59] } 3. a3 { [%eval 0.27] } 3... Bg7 { [%eval 0.14] } 4. Nf3 { [%eval 0.17] } 4... h6 { [%eval 0.55] } 5. c3 { [%eval 0.25] } 5... e6 { [%eval 0.36] } 6. Be3 { [%eval 0.18] } 6... Nge7 { [%eval 0.23] } 7. Nbd2 { [%eval 0.21] } 7... O-O { [%eval 0.06] } 8. Be2 { [%eval -0.01] } 8... b6 { [%eval 0.03] } 9. Nb3 { [%eval 0.0] } 9... Bb7 { [%eval 0.06] } 10. Bd4?! { [%eval -0.93] } 10... e5 { [%eval -0.63] } 11. Be3 { [%eval -0.64] } 11... d6 { [%eval -0.52] } 12. Qd2 { [%eval -0.46] } 12... Qd7? { [%eval 0.72] } 13. Bxh6 { [%eval 0.81] } 13... f5?! { [%eval 1.39] } 14. Bxg7 { [%eval 1.12] } 14... Kxg7 { [%eval 1.44] } 15. O-O-O?! { [%eval 0.89] } 15... Rh8 { [%eval 1.29] } 16. h3 { [%eval 0.89] } 16... Raf8 { [%eval 1.06] } 17. Ng5 { [%eval 1.13] } 17... f4? { [%eval 2.81] } 18. Bg4 { [%eval 2.8] } 18... Qd8?? { [%eval 8.09] } 19. Ne6+ { [%eval 8.2] } 1-0
+

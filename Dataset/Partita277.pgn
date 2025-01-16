@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KRV3kfNg"]
+[White "piramidus"]
+[Black "Varon"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:03"]
+[WhiteElo "1606"]
+[BlackElo "1861"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "B00"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb3 Nf6 5. Nf3 Bg4 6. O-O e6 7. d3 Be7 8. h3 Bxf3 9. Qxf3 O-O 10. Re1 Nbd7 11. Bf4 Nb6 12. Bg3 Bd6 13. Bxd6 Qxd6 14. Nc3 Rfc8 15. Nb5 Qd7 16. a4 a6 17. Nd4 Rc7 18. a5 Nc8 19. Ba4 Qd6 20. b3 b6 21. Bc6 Rxc6 22. Nxc6 Qxc6 23. c4 Ne7 24. Rec1 bxa5 25. cxd5 Qxd5 26. Qxd5 Nfxd5 27. Rxa5 g6 28. g4 Nb4 29. Rc7 Ned5 30. Rd7 Nxd3 31. Raxd5 exd5 32. Rxd5 Nb4 33. Rd4 a5 34. Kg2 Ra6 35. Kf3 Kg7 36. Ke4 Re6+ 37. Kf4 h6 38. Kg3 Rb6 39. Rc4 Nd3 40. Rc3 Ne5 41. f4 Nd7 42. g5 hxg5 43. fxg5 Rb5 44. h4 Ne5 45. Kf4 Nd7 46. Kg3 Nc5 47. Kf4 Nxb3 48. Ke3 a4 49. Kd3 a3 50. Kc2 Nd4+ 51. Kc1 Rb2 52. Rxa3 Rh2 53. h5 Rxh5 54. Ra4 Nf3 55. Rf4 Nxg5 56. Kd2 Nh3 57. Rg4 g5 58. Ke3 f5 59. Rg2 f4+ 60. Ke4 Kf6 61. Rg4 Nf2+ 62. Kf3 Nxg4 63. Kxg4 Rh4+ 64. Kf3 Ke5 65. Kg2 Ke4 66. Kg1 Ke3 67. Kg2 f3+ 68. Kg1 f2+ 69. Kg2 Ke2 70. Kg3 Rf4 71. Kh2 f1=Q 72. Kg3 Qf3+ 73. Kh2 Rh4+ 74. Kg1 Qf1# 0-1
+

@@ -1,0 +1,103 @@
+robinVSrandom.txt
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 
+ 6                 
+ 5                 
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟   
+ 6               ♟ 
+ 5                 
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟   
+ 6               ♟ 
+ 5                 
+ 4     ♗   ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔   ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟   ♟ ♟ ♟ ♟ ♟   
+ 6               ♟ 
+ 5   ♟             
+ 4     ♗   ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔   ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟   ♟ ♟ ♟ ♟ ♟   
+ 6               ♟ 
+ 5   ♟             
+ 4     ♗   ♙       
+ 3           ♕     
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗   ♔   ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟   ♟ ♟ ♟ ♟     
+ 6             ♟ ♟ 
+ 5   ♟             
+ 4     ♗   ♙       
+ 3           ♕     
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗   ♔   ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟   ♟ ♟ ♟ ♕     
+ 6             ♟ ♟ 
+ 5   ♟             
+ 4     ♗   ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗   ♔   ♘ ♖ 
+   A B C D E F G H
+
+Sequenza Mosse:
+
+	0.	e2e4 giocata dal BIANCO	in 2.649 s.
+	1.	h7h6 giocata dal NERO	in 0.192 s.
+	2.	f1c4 giocata dal BIANCO	in 4.549 s.
+	3.	b7b5 giocata dal NERO	in 0.185 s.
+	4.	d1f3 giocata dal BIANCO	in 3.682 s.
+	5.	g7g6 giocata dal NERO	in 0.188 s.
+	6.	f3f7 giocata dal BIANCO	in 1.82 s.
+
+Totale Tempo impiegato dal BIANCO: 12.702 s
+Totale Tempo impiegato dal NERO:   0.566 s
+
+Vincitore: BIANCO.

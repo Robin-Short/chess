@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/N1r7k8Ep"]
+[White "ujura"]
+[Black "molinerov"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:18"]
+[WhiteElo "2021"]
+[BlackElo "1840"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+17"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 e5 4. Bxe5 Nbd7 5. Bb2 c6 6. Nf3 Bd6 7. Be2 O-O 8. O-O Re8 9. d4 c5 10. dxc5 Nxc5 11. Nbd2 b6 12. c4 Bb7 13. cxd5 Bxd5 14. Nc4 Nfe4 15. Qxd5 Bxh2+ 16. Nxh2 Qxd5 17. Bf3 Qg5 18. Rad1 Nf6 19. Bxf6 Qxf6 20. Ng4 Qg6 21. Rd4 Rad8 22. Rfd1 Rxd4 23. Rxd4 Ne6 24. Nge5 Qb1+ 25. Rd1 Qxa2 26. Rd7 Qxb3 27. Rxf7 Qb1+ 28. Kh2 Ng5 29. Rxa7 Nxf3+ 30. Nxf3 Qg6 31. Nce5 Qh5+ 32. Kg1 Rxe5 33. Nxe5 Qxe5 34. Ra8+ Kf7 35. Ra7+ Kg6 36. g3 Qb2 37. Kg2 Qc1 38. Ra6 Qc6+ 39. Kg1 Qc1+ 40. Kg2 Qc7 41. Ra2 Qb7+ 42. Kg1 Qd5 43. Re2 Qd1+ 44. Kg2 Qxe2 45. g4 Qd3 46. e4 Qd5 47. f3 Qd4 48. Kg3 Qd2 0-1
+

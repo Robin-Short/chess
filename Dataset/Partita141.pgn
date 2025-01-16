@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Xh7UMsid"]
+[White "aderbalco"]
+[Black "kasiamine"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:27"]
+[WhiteElo "1551"]
+[BlackElo "1287"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-25"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "780+2"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Bc5 4. Bc4 Nd5 5. exd5 Qh4 6. O-O Qxc4 7. Nxe5 O-O 8. Nxc4 1-0
+

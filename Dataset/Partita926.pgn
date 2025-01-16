@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/K6P7Z26N"]
+[White "cocoarg"]
+[Black "ujura"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:27"]
+[WhiteElo "1976"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 { [%eval -0.27] } 1... g6?! { [%eval 0.23] } 2. Bb2 { [%eval 0.18] } 2... Nf6 { [%eval 0.27] } 3. e4 { [%eval 0.14] } 3... Bg7 { [%eval 0.05] } 4. e5 { [%eval 0.0] } 4... Nd5 { [%eval -0.02] } 5. c4 { [%eval 0.02] } 5... Nb6 { [%eval 0.25] } 6. Nf3 { [%eval -0.03] } 6... d6 { [%eval 0.02] } 7. d4 { [%eval -0.1] } 7... O-O { [%eval 0.0] } 8. exd6 { [%eval 0.1] } 8... cxd6 { [%eval 0.18] } 9. Be2 { [%eval 0.06] } 9... Nc6 { [%eval 0.15] } 10. O-O { [%eval 0.11] } 10... Bg4 { [%eval 0.14] } 11. h3 { [%eval -0.13] } 11... Bf5 { [%eval 0.21] } 12. g4 { [%eval 0.16] } 12... Bd7 { [%eval 0.1] } 13. Na3?! { [%eval -0.84] } 13... Re8? { [%eval 0.41] } 14. Rb1 { [%eval 0.0] } 14... e5 { [%eval 0.11] } 15. d5?! { [%eval -0.44] } 15... Ne7?! { [%eval 0.2] } 16. Qc2 { [%eval -0.15] } 16... f5 { [%eval -0.13] } 17. gxf5? { [%eval -1.82] } 17... Nxf5 { [%eval -1.56] } 18. Bc1? { [%eval -2.79] } 18... Rc8? { [%eval -1.74] } 19. Ng5?! { [%eval -2.44] } 19... Nxd5 { [%eval -2.42] } 20. Qd2?? { [%eval -7.76] } 20... Nf4 { [%eval -7.25] } 21. Bg4? { [%eval -8.89] } 21... Qxg5?! { [%eval -8.21] } 22. f3? { [%eval -10.18] } 22... Nxh3+?! { [%eval -9.13] } 23. Kg2?! { [%eval -14.22] } 23... Nf4+ { [%eval -15.34] } 24. Kf2 { [%eval -21.29] } 24... Rcd8 { [%eval -10.85] } 25. Bxf5 { [%eval -13.93] } 25... Bxf5 { [%eval -13.93] } 26. Qd5+ { [%eval -22.49] } 26... Nxd5? { [%eval -7.28] } 27. cxd5? { [%eval -29.94] } 27... e4?? { [%eval -3.29] } 28. Bxg5 { [%eval -3.22] } 28... Rc8?! { [%eval -2.62] } 29. Rbc1 { [%eval -2.65] } 29... Rxc1 { [%eval -2.83] } 30. Rxc1 { [%eval -3.32] } 30... Bd4+ { [%eval -3.22] } 31. Kg2?! { [%eval -4.05] } 31... exf3+ { [%eval -4.13] } 32. Kg3? { [%eval -6.44] } 32... Be4? { [%eval -4.12] } 33. Rc7?? { [%eval -9.86] } 33... Bxd5? { [%eval -7.37] } 0-1
+

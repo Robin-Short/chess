@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fSdNkEjQ"]
+[White "mehmetuca78"]
+[Black "AI-I"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:32"]
+[WhiteElo "1380"]
+[BlackElo "1419"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 e5 3. e3 f6 4. Nf3 Ne7 5. Nh4 Be6 6. Be2 Nd7 7. Nf3 Nb6 8. d4 Qd7 9. dxe5 fxe5 10. Nxe5 Qd6 11. Nf3 O-O-O 12. Qd2 Nf5 13. Nc3 Rg8 14. h4 Ne7 15. Nd1 g6 16. Ne5 Nf5 17. g4 Ng7 18. g5 Bf5 19. Nc3 Qxe5 20. Nb5 Qxb2 21. Rd1 Qxa2 22. Nd4 Qb2 23. Nxf5 Nxf5 24. O-O Qe5 25. f4 Qe4 26. Bd3 Qe6 27. Bxf5 Qxf5 28. Qg2 Bd6 29. Rfe1 Rge8 30. e4 dxe4 31. Rxd6 Rxd6 32. Kh1 Rd2 33. Qg1 Qh3+ 34. Qh2 Qxh2# 0-1
+

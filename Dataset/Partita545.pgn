@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tektjZwl"]
+[White "nebulle"]
+[Black "alex80"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:05"]
+[WhiteElo "1869"]
+[BlackElo "1554"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. a4 Bf5 4. Nc3 e6 5. f3 Bb4 6. e3 Ne7 7. cxd5 Qxd5 8. Ne2 Qa5 9. Bd2 Nd7 10. e4 Bg6 11. e5 Nd5 12. Nxd5 Bxd2+ 13. Qxd2 Qxd2+ 14. Kxd2 cxd5 15. Nf4 Nf8 16. Bb5+ Nd7 17. Rac1 Ke7 18. Rc7 Rhd8 19. Rxb7 a6 20. Bxd7 Rxd7 21. Rxd7+ Kxd7 22. Nxg6 hxg6 23. Rb1 f6 24. f4 f5 25. g3 a5 26. b3 Rc8 27. Rc1 Rxc1 28. Kxc1 Kc6 29. Kc2 Kb6 30. Kc3 Kc6 31. b4 axb4+ 32. Kxb4 Kb6 33. h4 Ka6 34. Kc5 Ka5 35. Kd6 Kxa4 36. Kxe6 Kb4 37. Kxd5 Kc3 38. e6 Kd3 39. e7 1-0
+

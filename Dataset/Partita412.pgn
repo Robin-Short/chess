@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8UHit5dS"]
+[White "ren"]
+[Black "alexey87"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:16:34"]
+[WhiteElo "1655"]
+[BlackElo "1596"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A41"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. b4 Nc6 5. b5 Nxd4 6. Bb2 Ne6 7. e3 a6 8. a4 Bd7 9. Nf3 Nc5 10. Rb1 axb5 11. axb5 Nf6 12. Be2 O-O 13. O-O e5 14. h3 c6 15. Re1 cxb5 16. cxb5 Qc7 17. Bc4 Nce4 18. Nxe4 Nxe4 19. Bd3 Bf5 20. Bxe4 Bxe4 21. Rc1 Qa5 22. Bc3 Qd8 23. Bb4 Bxf3 24. Qxf3 Qb6 25. Rc2 Rfd8 26. Rec1 Bf8 27. Rc7 f5 28. Rxb7 Qxb7 29. Qxb7 Rab8 30. Qc7 Rdc8 31. Qa7 Rxc1+ 32. Kh2 Rbc8 33. b6 R1c6 34. b7 1-0
+

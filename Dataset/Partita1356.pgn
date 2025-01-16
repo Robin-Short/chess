@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TgPUdOkT"]
+[White "Eisbrecher_arg"]
+[Black "dague"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:57:22"]
+[WhiteElo "1401"]
+[BlackElo "1395"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. c3 Nc6 3. Bc4 Nf6 4. Qc2 Bc5 5. h3 Nh5 6. Nf3 Nf4 7. O-O d6 8. Re1 Qf6 9. b4 Qg6 10. h4 Qxg2# 0-1
+

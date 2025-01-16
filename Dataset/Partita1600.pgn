@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Ay9xSh0B"]
+[White "musalipov"]
+[Black "paulmorphy44"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:14"]
+[WhiteElo "1544"]
+[BlackElo "1799"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nc6 5. Nxc3 d6 6. f4 g6 7. a3 Bg7 8. Nf3 Nf6 9. Be3 O-O 10. Qd3 Be6 11. Nd5 Bxd5 12. exd5 Ne7 13. O-O-O Ng4 14. Bg1 Nf5 15. h3 Nf6 16. g4 Ne7 17. Nd4 a6 18. f5 b5 19. Ba2 Nexd5 20. fxg6 fxg6 21. Nc6 Qc8 22. Bxd5+ Kh8 23. Ne7 Nxd5 24. Qxd5 Qd7 25. Nc6 Rfe8 26. h4 Be5 27. h5 Re6 28. hxg6 h6 29. Rxh6+ Kg7 30. g5 Rxg6 31. Rh7+ Kxh7 32. Bd4 Kg7 33. Nxe5 dxe5 34. Qxd7+ Kf8 35. Qxc7 Re8 36. Bc5+ Re7 0-1
+

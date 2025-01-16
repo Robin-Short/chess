@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LFNPecX5"]
+[White "felix777"]
+[Black "damuch"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:06"]
+[WhiteElo "1641"]
+[BlackElo "1598"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #3"]
+[TimeControl "60+5"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 Nc6 3. g3 d5 4. Bg2 Nf6 5. e3 Bf5 6. Ne2 Bc5 7. O-O Qd7 8. d4 Bb6 9. dxe5 Ne4 10. Nd2 O-O-O 11. Nxe4 Bxe4 12. Bxe4 dxe4 13. Qxd7+ Rxd7 14. a3 Rhd8 15. Nf4 g5 16. e6 fxe6 17. Nxe6 Re8 18. Nxg5 h6 19. Nh3 Ne5 20. Bxe5 Rxe5 21. Rfd1 Rh5 22. Rxd7 Kxd7 23. Rd1+ Ke6 24. Nf4+ 1-0
+

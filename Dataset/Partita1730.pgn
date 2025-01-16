@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wrPlRGgX"]
+[White "ehpotsirhk"]
+[Black "Proggy"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:17:13"]
+[WhiteElo "1395"]
+[BlackElo "1302"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. Nc3 Bb4 5. Nd5 Qg6 6. O-O Qxe4 7. Nxc7+ Ke7 8. Bxc6 Qxc6 9. Nxa8 d6 10. c3 Bc5 11. b4 Bb6 12. Bb2 Bg4 13. a4 Nf6 14. Nxb6 axb6 15. b5 Qc4 16. d3 Bxf3 17. Qxf3 Qb3 18. Rfb1 d5 19. h3 e4 20. dxe4 dxe4 21. Qe3 Qc2 22. Qxb6 Rb8 23. Qc7+ Nd7 24. Qg3 Ra8 25. a5 Rxa5 0-1
+

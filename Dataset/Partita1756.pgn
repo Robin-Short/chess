@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/hSbc3heW"]
+[White "novatojugad"]
+[Black "letmeplaynow"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:55"]
+[WhiteElo "1858"]
+[BlackElo "1724"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+19"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "900+5"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. f4 Nc6 0-1
+

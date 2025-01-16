@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6aiL180K"]
+[White "AMIR_GH"]
+[Black "gavriel32"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:27:53"]
+[WhiteElo "1790"]
+[BlackElo "1722"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "1200+20"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 e6 3. c3 Nf6 4. Ne5 Be7 5. Qa4+ Nbd7 6. Nd2 O-O 7. Ndf3 c5 8. Be3 c4 9. Qc2 Bd6 10. Bf4 Qc7 11. Bg3 Nxe5 12. dxe5 Ne4 13. exd6 Nxd6 14. Ng5 g6 15. e4 Qe7 16. h4 h6 17. e5 Nf5 18. Nf3 Nxg3 19. fxg3 Kg7 20. Be2 f6 21. exf6+ Qxf6 22. O-O-O a5 23. Rdf1 Qe7 24. Ne5 Rf5 25. Rxf5 exf5 26. Nf3 b5 27. Re1 Qd6 28. Nd4 b4 29. Bf3 Bb7 30. Qe2 h5 31. Qe7+ 1-0
+

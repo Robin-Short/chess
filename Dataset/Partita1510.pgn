@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mf6swJED"]
+[White "marianmr"]
+[Black "checkmatekingdom"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:31"]
+[WhiteElo "1500"]
+[BlackElo "1207"]
+[WhiteRatingDiff "-378"]
+[BlackRatingDiff "+17"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "120+9"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qe2 Qf6 3. Qe3 Bc5 4. c4 Bxe3 5. dxe3 Nh6 6. Bd2 Ng4 7. Bc3 Qxf2+ 8. Kd1 Qxf1+ 0-1
+

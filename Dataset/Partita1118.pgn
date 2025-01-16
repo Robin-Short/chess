@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qnSMXIoU"]
+[White "komba44"]
+[Black "IXS-210714"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:30"]
+[WhiteElo "1579"]
+[BlackElo "1627"]
+[WhiteRatingDiff "-30"]
+[BlackRatingDiff "+10"]
+[ECO "A27"]
+[Opening "English Opening: King's English Variation, Three Knights System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.18] } 1... Nc6 { [%eval 0.32] } 2. c4 { [%eval 0.08] } 2... e5 { [%eval 0.03] } 3. Nc3 { [%eval 0.1] } 3... Bc5 { [%eval 0.44] } 4. e3 { [%eval 0.55] } 4... d6 { [%eval 0.85] } 5. d4 { [%eval 0.52] } 5... exd4 { [%eval 0.59] } 6. exd4 { [%eval 0.55] } 6... Bb4 { [%eval 0.86] } 7. Be2 { [%eval 0.58] } 7... Bg4 { [%eval 0.82] } 8. h3 { [%eval 0.84] } 8... Bxf3 { [%eval 0.94] } 9. Bxf3 { [%eval 0.91] } 9... Nge7 { [%eval 1.13] } 10. O-O { [%eval 1.07] } 10... Bxc3 { [%eval 1.12] } 11. bxc3 { [%eval 1.1] } 11... O-O { [%eval 1.17] } 12. Bg5 { [%eval 1.01] } 12... Qd7 { [%eval 1.18] } 13. Bg4 { [%eval 1.05] } 13... f5 { [%eval 1.03] } 14. Bf3 { [%eval 0.91] } 14... h6 { [%eval 0.89] } 15. Bf4 { [%eval 0.81] } 15... Ng6 { [%eval 0.82] } 16. Bh2 { [%eval 0.72] } 16... f4?! { [%eval 1.34] } 17. Qd2?! { [%eval 0.8] } 17... Qf5 { [%eval 1.08] } 18. Rfe1 { [%eval 0.94] } 18... Rae8 { [%eval 0.77] } 19. Be2 { [%eval 0.46] } 19... Nh4 { [%eval 0.61] } 20. Bd3?? { [%eval -4.5] } 20... Qg5 { [%eval -4.46] } 21. g4?? { [%eval -13.0] } 21... Nf3+ { [%eval -12.86] } 0-1
+

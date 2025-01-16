@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M7p5KcEV"]
+[White "explodecomputer"]
+[Black "spojar"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:51"]
+[WhiteElo "1958"]
+[BlackElo "2099"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. f4 e5 3. fxe5 Qh4+ 4. Ke2 Qxe4+ 5. Kf2 Bc5+ 6. d4 Bxd4+ 7. Kg3 Bxe5+ 8. Kh3 d5+ 9. g4 h5 10. Bg2 hxg4# 0-1
+

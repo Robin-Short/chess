@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cWZtFDUk"]
+[White "kihalily"]
+[Black "Permanganato"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:01:10"]
+[WhiteElo "1793"]
+[BlackElo "1799"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. e5 c5 3. d3 Bf5 4. f4 h5 5. Be2 e6 6. Nf3 f6 7. O-O Nc6 8. exf6 Nxf6 9. Ne5 Bd6 10. Nxc6 bxc6 11. Nc3 O-O 12. Bf3 Bg4 13. Qe2 Qd7 14. h3 Bxf3 15. Qxf3 Rae8 16. Bd2 e5 17. f5 e4 18. dxe4 Nxe4 19. Be1 Nxc3 20. Bxc3 d4 21. Bd2 Re5 22. Qxh5 Rexf5 23. Rxf5 Rxf5 24. Qh4 Be7 25. Qe1 Bf6 26. Rd1 c4 27. Bb4 c5 28. Bxc5 Rxc5 29. Qe4 d3 30. cxd3 cxd3 31. Rxd3 Rc1+ 32. Kf2 Rc2+ 33. Kf3 Qf7 34. Kg4 Rc4 35. Kf3 Rxe4 36. Kxe4 Qg6+ 37. Ke3 Qxg2 38. Rb3 Qxh3+ 39. Ke4 Qg4+ 40. Kd5 Bxb2 41. Rb8+ Kf7 42. Rb7+ Kf6 43. Rb3 Qf5+ 44. Kc4 Be5 45. Kb4 Qe4+ 46. Kc5 Qd4+ 47. Kc6 Qd6+ 48. Kb5 a6+ 49. Ka4 Qc5 50. Rf3+ Ke6 51. Rb3 g5 52. Rb4 Qxb4+ 53. Kxb4 g4 0-1
+

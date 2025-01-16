@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NdF056V5"]
+[White "molinerov"]
+[Black "ujura"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:15:10"]
+[WhiteElo "1844"]
+[BlackElo "2018"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 g6 0-1
+

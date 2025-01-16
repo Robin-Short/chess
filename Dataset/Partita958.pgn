@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aZ7dIhDt"]
+[White "mramor2"]
+[Black "sicko72"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:12"]
+[WhiteElo "1879"]
+[BlackElo "1928"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 c6 3. h3 Nf6 4. e3 Bf5 5. Bd3 Bg6 6. Nf3 e6 7. Nbd2 Qb6 8. b3 Bb4 9. O-O O-O 10. a3 Bxd2 11. Qxd2 Bxd3 12. cxd3 Qxb3 13. Rfb1 Qa4 14. Rxb7 Nbd7 15. Rb4 Qa5 16. Rab1 Qxa3 17. R1b3 Qa1+ 18. Rb1 Qa5 19. Ne5 Nxe5 20. Bxe5 Nd7 21. Bd6 Rfe8 22. Qc3 Rec8 23. Qb3 Nf8 24. Bxf8 Rxf8 25. Rb7 c5 26. dxc5 Qxc5 27. d4 Qc6 28. Qb4 a5 29. Qe7 a4 30. Rc7 Qa6 31. Rbb7 a3 32. Qxf7+ Rxf7 33. Rxf7 Qxb7 34. Rxb7 a2 35. Re7 a1=Q+ 36. Kh2 Qe1 37. Rxe6 Qxf2 38. Re5 Ra2 39. Rg5 h6 0-1
+

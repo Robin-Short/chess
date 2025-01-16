@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/158Ic2k5"]
+[White "IXS-210714"]
+[Black "mammaletto"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:28:51"]
+[WhiteElo "1603"]
+[BlackElo "1585"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+17"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. d4 cxd4 5. e5 Nd5 6. cxd4 d6 7. Bc4 dxe5 8. dxe5 Nb6 9. Qxd8+ Nxd8 10. Bb5+ Bd7 11. Nc3 a6 12. Bxd7+ Nxd7 13. O-O e6 14. Be3 Be7 15. Rfd1 Nc6 16. Bf4 Rd8 17. Ne4 O-O 18. Rac1 f6 19. Nd6 Ncxe5 20. Bxe5 Nxe5 21. Nxb7 Nxf3+ 22. gxf3 Rb8 23. Rd7 Rfe8 24. Rcc7 Kf8 25. b3 f5 26. Na5 Bf6 27. Rf7+ Kg8 28. Nc4 Red8 29. Kg2 h6 30. Rb7 Rxb7 31. Rxb7 a5 32. f4 Bc3 33. Ra7 Rd5 34. Re7 Rd4 35. Rxe6 Rxf4 36. Re8+ Kf7 37. Nd6+ Kg6 38. Re6+ Kg5 39. Nf7+ Kh5 40. Ra6 Rg4+ 41. Kf1 Re4 42. Nd6 Re1+ 43. Kg2 Re2 44. Kf3 Rxa2 45. Nxf5 Kg5 46. Nxg7 h5 47. Ne6+ Kf5 0-1
+

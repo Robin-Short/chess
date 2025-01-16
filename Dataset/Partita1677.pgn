@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Kp6xYH8O"]
+[White "PedroMarhaJimenez"]
+[Black "chycha"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:13:52"]
+[WhiteElo "1240"]
+[BlackElo "1482"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-20"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 c5 5. Nf5 Bxf5 6. exf5 Qe7+ 7. Be3 Nf6 8. Nc3 Nc6 9. Bb5 Nd5 10. Nxd5 Qd7 11. Qe2 Be7 12. O-O-O a6 13. Nxe7 axb5 14. Nxc6 bxc6 15. Bxc5+ Kf8 16. Bxd6+ Kg8 17. Rhe1 h6 18. Qe4 f6 19. Be7 Qe8 20. Qe6+ Kh7 21. h4 h5 22. f3 Ra7 23. g4 Rxe7 24. Qxe7 Qxe7 25. Rxe7 hxg4 26. fxg4 Kh6 27. Rde1 Rg8 28. Re8 Kh7 29. g5 fxg5 30. hxg5 c5 31. Rh1# 1-0
+

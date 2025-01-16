@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xXMPvlcX"]
+[White "Mezzo-piano"]
+[Black "patmic"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:42"]
+[WhiteElo "1629"]
+[BlackElo "1551"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Urusov Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 c5 5. O-O d6 6. c3 Bg4 7. e5 dxe5 8. Bxf7+ Kxf7 9. Nxe5+ Kg8 10. Nxg4 Nxg4 11. Qb3+ c4 12. Qxc4+ 1-0
+

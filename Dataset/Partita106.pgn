@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/X9GCoFUF"]
+[White "Morie1213"]
+[Black "uxim"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:25"]
+[WhiteElo "1849"]
+[BlackElo "1825"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d3 Ne7 3. c3 d5 4. Qe2 c5 5. f4 d4 6. g4 Nbc6 7. h4 b5 8. e5 Nd5 9. Bg2 Be7 10. c4 bxc4 11. dxc4 Ndb4 12. a3 d3 13. Qd2 1-0
+

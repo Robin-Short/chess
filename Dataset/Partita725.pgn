@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9QXtgFIX"]
+[White "tuskerking"]
+[Black "1nate2nate"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:54"]
+[WhiteElo "1910"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 g6 4. Bd3 Bg7 5. Nf3 d6 6. Bg5 Nd7 7. Bh4 h6 8. Bg3 g5 9. O-O e6 10. e5 d5 11. Bb5 Qe7 12. Bxd7+ Qxd7 13. a4 f6 14. a5 f5 15. axb6 cxb6 16. Nd2 Ne7 17. Nb3 O-O 18. f4 g4 19. h3 h5 20. hxg4 hxg4 21. Kf2 Nc6 22. Rh1 Kf7 23. Rh7 Rh8 24. Rxg7+ Kxg7 25. Qe2 a5 26. Rg1 Ba6 27. Nb5 Nb4 28. c4 Rac8 29. c5 bxc5 30. Nxc5 Qxb5 31. Nxa6 Qxe2+ 32. Kxe2 Nxa6 33. Ra1 Rc2+ 34. Kd3 Rxb2 35. Rxa5 Nb4+ 36. Kc3 Rb1 37. Ra7+ Kg6 38. Bf2 Rc8+ 39. Kd2 Rb2+ 40. Kd1 Ra2 41. Rxa2 Nxa2 42. Be1 Nb4 43. Bxb4 Rc4 44. Bc5 Kh5 45. Ke2 Kh4 46. Kf2 g3+ 47. Kf3 Rc3+ 48. Ke2 Kg4 49. Kf1 Kxf4 50. Ke2 Ke4 51. Kf1 f4 52. Ke2 f3+ 53. gxf3+ Rxf3 54. Ke1 g2 55. Ke2 g1=Q 56. Kd2 Qg2+ 57. Ke1 Rf1# 0-1
+

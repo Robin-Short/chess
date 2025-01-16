@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Z4F6WAbw"]
+[White "the_espee"]
+[Black "ChucksMate"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:02"]
+[WhiteElo "1197"]
+[BlackElo "1161"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qc5 4. d4 Qd6 5. g3 Nc6 6. Bf4 e5 7. Nb5 Qe7 8. dxe5 Qb4+ 9. Nc3 Qxb2 10. Nd5 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 Qxa1+ 13. Qd1 Qxd1+ 14. Kxd1 Nxe5 15. Nxc7+ Kd8 16. Nxa8 Be6 17. a4 Kc8 18. Nf3 Nxf3 19. exf3 Bb3+ 20. Kd2 Bxa4 21. Bh3+ Kd8 22. Ra1 b5 23. Kc3 Ne7 24. Kb4 a6 25. Ka5 Nc8 26. Kxa6 Nd6 27. Kb6 Ke7 28. Nc7 Rb8+ 29. Kc6 b4+ 30. Kc5 Rb5+ 31. Nxb5 Bxb5 32. Kxb4 g5 33. Re1+ Kf6 34. Kc5 1-0
+

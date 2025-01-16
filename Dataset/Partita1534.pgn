@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bSduzQ2W"]
+[White "Piquro"]
+[Black "etelepon"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:52"]
+[WhiteElo "2038"]
+[BlackElo "2141"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+18"]
+[ECO "B80"]
+[Opening "Sicilian Defense: Scheveningen Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.37] } 2. Nf3 { [%eval 0.33] } 2... d6 { [%eval 0.38] } 3. d4 { [%eval 0.29] } 3... cxd4 { [%eval 0.28] } 4. Nxd4 { [%eval 0.26] } 4... Nf6 { [%eval 0.26] } 5. Nc3 { [%eval 0.27] } 5... e6 { [%eval 0.21] } 6. Bg5 { [%eval 0.3] } 6... Be7 { [%eval 0.24] } 7. f4 { [%eval -0.1] } 7... h6 { [%eval 0.1] } 8. Bxf6 { [%eval -0.03] } 8... Bxf6 { [%eval -0.06] } 9. Qd2 { [%eval 0.07] } 9... O-O { [%eval 0.0] } 10. O-O-O { [%eval 0.06] } 10... a6 { [%eval -0.03] } 11. g4 { [%eval -0.1] } 11... e5 { [%eval -0.1] } 12. Nf3?! { [%eval -0.73] } 12... exf4 { [%eval -1.01] } 13. Nd5 { [%eval -0.93] } 13... Bxg4 { [%eval -0.98] } 14. Be2 { [%eval -0.99] } 14... Bxf3 { [%eval -0.89] } 15. Bxf3 { [%eval -1.08] } 15... Nd7 { [%eval -1.18] } 16. Rhg1 { [%eval -1.11] } 16... Ne5 { [%eval -1.17] } 17. Rdf1? { [%eval -2.46] } 17... Nc4 { [%eval -2.55] } 18. Qxf4 { [%eval -2.58] } 18... Bg5 { [%eval -2.49] } 19. Rxg5 { [%eval -2.56] } 19... Qxg5 { [%eval -2.56] } 20. Qxg5 { [%eval -2.65] } 20... hxg5 { [%eval -2.72] } 21. Ne7+ { [%eval -2.81] } 21... Kh7 { [%eval -2.82] } 22. Be2 { [%eval -2.84] } 22... Ne5 { [%eval -2.73] } 23. h4? { [%eval -3.96] } 23... gxh4 { [%eval -4.09] } 24. Rf5 { [%eval -4.57] } 24... g6 { [%eval -4.55] } 25. Rf4 { [%eval -4.73] } 25... g5 { [%eval -4.51] } 26. Rf6?! { [%eval -5.29] } 26... Rae8 { [%eval -5.1] } 27. Nf5?? { [%eval -9.13] } 27... Re6 { [%eval -9.17] } 28. Rxe6 { [%eval -9.78] } 28... fxe6 { [%eval -9.43] } 29. Nxd6?! { [%eval -14.96] } 29... h3 { [%eval -13.86] } 0-1
+

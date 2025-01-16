@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AdxncNAj"]
+[White "franktaolin"]
+[Black "DOMARBOR"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:41"]
+[WhiteElo "1521"]
+[BlackElo "1614"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. c3 Nf6 3. f3 Nxe4 4. fxe4 Qh4+ 5. g3 Qxe4+ 6. Qe2 Qxh1 7. Nf3 d6 8. h3 Bxh3 9. d4 Bxf1 10. Qxf1 Qxf1+ 11. Kxf1 exd4 12. Bf4 dxc3 13. Nxc3 Nc6 14. Re1+ Be7 15. Nd5 Kd7 16. b4 a6 17. a4 Bf8 18. b5 axb5 19. axb5 Ne7 20. Nxe7 Bxe7 21. Rd1 Bf6 22. Be5 Rhe8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BPJA3z83"]
+[White "chess1552"]
+[Black "fco_garmx"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:46"]
+[WhiteElo "1729"]
+[BlackElo "1846"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation"]
+[TimeControl "720+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 e5 5. Nf3 Nf6 6. Nc3 Bb4 7. Bg5 Qa5 8. Bxf6 gxf6 9. Bd3 Bxc3+ 10. bxc3 Qxc3+ 11. Nd2 d6 12. O-O Rg8 13. Nc4 Qd4 14. Qh5 Be6 15. Ne3 O-O-O 16. Nf5 Qc5 17. Rab1 Rg5 18. Qe2 Nd4 19. Qd2 Nf3+ 0-1
+

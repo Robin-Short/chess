@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kgrSdI9d"]
+[White "MarioL"]
+[Black "Nosreve"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:44"]
+[WhiteElo "1785"]
+[BlackElo "1799"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. Nc3 dxc4 4. Nf3 a6 5. e3 b5 6. a4 c6 7. axb5 cxb5 8. Nxb5 Qa5+ 9. Nc3 Qxa1 10. Bxc4 Qa5 11. O-O Nf6 12. Bd2 Bb4 13. Qb3 Nc6 14. Ne5 Bd7 15. Nxd7 Nxd7 16. d5 exd5 17. Bxd5 Rc8 18. Bxf7+ Kd8 19. Be6 Ke7 20. Nd5+ Kxe6 21. Nxb4+ Ke7 22. Nxc6+ Rxc6 23. Bxa5 Rhc8 24. Qd5 Rd6 25. Qe4+ Kf7 26. Bb4 Re6 27. Qf3+ Nf6 28. Bc3 h6 29. Bxf6 Rxf6 30. Qe4 Re6 31. Qh7 Rc7 32. Qd3 Rce7 33. Qe2 Kf8 34. g3 Kg8 35. Qf3 Kh7 36. Qg2 Kg8 37. Qh3 Rf6 38. Qe6+ Kh7 39. Qxe7 Rf7 40. Qf6 Rxf6 41. Rd1 Rb6 42. Rd7 Rxb2 43. Rxg7+ Kxg7 44. Kg2 Kf6 45. h3 Ke5 46. h4 Kd6 47. h5 a5 48. g4 Rxf2+ 0-1
+

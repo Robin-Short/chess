@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ePv6DSwF"]
+[White "Catrocketmoo"]
+[Black "edmario"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:20"]
+[WhiteElo "1292"]
+[BlackElo "1561"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+4"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Ulvestad Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.17] } 1... e5 { [%eval 0.25] } 2. Nf3 { [%eval 0.34] } 2... Nc6 { [%eval 0.3] } 3. Bc4 { [%eval 0.15] } 3... Nf6 { [%eval 0.08] } 4. Ng5 { [%eval -0.11] } 4... d5 { [%eval -0.05] } 5. exd5 { [%eval -0.19] } 5... b5 { [%eval 0.21] } 6. Bb3 { [%eval -0.1] } 6... Nd4 { [%eval -0.12] } 7. O-O { [%eval 0.03] } 7... Bb7 { [%eval 0.19] } 8. d6?! { [%eval -0.42] } 8... Nxb3 { [%eval -0.37] } 9. cxb3 { [%eval -0.71] } 9... Bxd6 { [%eval -0.82] } 10. Nc3?! { [%eval -1.39] } 10... a6?! { [%eval -0.51] } 11. d4?! { [%eval -1.5] } 11... O-O?! { [%eval -0.88] } 12. dxe5 { [%eval -0.75] } 12... Bxe5 { [%eval -0.75] } 13. Qxd8 { [%eval -0.97] } 13... Raxd8 { [%eval -0.94] } 14. Be3?! { [%eval -1.5] } 14... h6?! { [%eval -0.82] } 15. Nge4?? { [%eval -4.48] } 15... Nxe4 { [%eval -4.44] } 16. Bc5?? { [%eval -9.16] } 16... Nxc5 { [%eval -9.35] } 17. Rfe1 { [%eval -9.42] } 17... Bxc3?! { [%eval -8.61] } 18. bxc3 { [%eval -8.4] } 18... Rd3 { [%eval -8.37] } 19. b4 { [%eval -8.7] } 19... Na4 { [%eval -8.83] } 20. Re7 { [%eval -8.94] } 20... Rxc3 { [%eval -8.77] } 21. Rf1?! { [%eval -9.31] } 21... Bd5 { [%eval -9.5] } 22. Rd7?! { [%eval -11.31] } 22... Bxa2 { [%eval -10.27] } 0-1
+

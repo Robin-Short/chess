@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/pfK0dW3b"]
+[White "Aldobaran"]
+[Black "lucasferreira"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:03:12"]
+[WhiteElo "1184"]
+[BlackElo "1178"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+44"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Williams Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. Nf3 d6 3. e5 dxe5 4. d4 exd4 5. Nxd4 Nxd4 6. Be3 e6 7. Bxd4 Bc5 8. Bxg7 Bb4+ 9. c3 Bc5 10. Bxh8 Qh4 11. g3 Qe4+ 12. Qe2 Qxh1 13. b4 Bd4 14. cxd4 Nf6 15. Nd2 e5 16. dxe5 Bg4 17. exf6+ Bxe2 18. Rc1 Kd7 19. Kxe2 Rxh8 20. Rd1 Re8+ 21. Kd3 Qd5+ 0-1
+

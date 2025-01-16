@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/a8R1ZF3C"]
+[White "ever145"]
+[Black "merabi61"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:41:04"]
+[WhiteElo "1395"]
+[BlackElo "1215"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Open Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 d5 5. exd5 Nxd5 6. dxe5 Na5 7. Bxd5 c6 8. Bxf7+ Ke7 9. Bg5+ Kxf7 10. Bxd8 Bc5 11. Bxa5 Bf5 12. Nbd2 Rad8 13. Bc3 Bg4 14. O-O Rhe8 15. Qe2 b5 16. b4 Bb6 17. Ne4 Kg8 18. Nc5 Bf5 19. Rad1 Rc8 20. Bd4 Bg6 21. Ng5 Bc7 22. Nge6 Bb8 23. Rfe1 h6 24. h4 Re7 25. h5 Bf5 26. Nf4 Rf7 27. Ng6 Re8 28. e6 Rfe7 29. Nxe7+ Rxe7 30. Na6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/r2L23HaS"]
+[White "denko"]
+[Black "ivillamil"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:19:34"]
+[WhiteElo "1373"]
+[BlackElo "1437"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. Bc4 h6 5. fxe5 dxe5 6. O-O a6 7. c3 b5 8. Bb3 Bb7 9. a3 Qe7 10. d3 O-O-O 11. Be3 Nf6 12. Nbd2 g5 13. c4 bxc4 14. Nxc4 g4 15. Nfd2 h5 16. Ba4 h4 17. b4 g3 18. h3 Bg7 19. b5 axb5 20. Bxb5 Qd7 21. a4 Qe6 22. a5 Na7 23. a6 Nxb5 24. axb7+ Kxb7 25. Qa4 Kc6 26. Qa6+ Kd7 27. Qxb5+ Ke7 28. Nxe5 Rd6 29. Bc5 Kf8 30. Qb8+ Ne8 31. Bxd6+ cxd6 32. Ra8 Qxe5 0-1
+

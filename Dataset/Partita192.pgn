@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5SDzgVUu"]
+[White "outlier"]
+[Black "ludonissa"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:39"]
+[WhiteElo "1984"]
+[BlackElo "1777"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-9"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+[TimeControl "240+1"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 Qxe5 11. Re1 Qf6 12. Nxd5 Qd8 13. Bf4 Rc8 14. Rc1 Be7 15. Bc7 Rxc7 16. Nxc7+ Kf8 17. Bb5 Nf6 18. Bxd7 Nxd7 19. Nb5 g6 20. Rc7 Nf6 21. Qxd8+ Bxd8 22. Rc8 Ke7 23. Rd1 Nd5 24. Nc3 Nxc3 25. bxc3 Re8 26. Rb8 Bb6 27. Rxb7+ Kf6 28. Rd3 Rc8 29. Rf3+ Kg5 30. Rbxf7 Rd8 31. g3 Rd1+ 32. Kg2 Rd2 33. h4+ Kh6 34. g4 Rxa2 35. g5+ Kh5 36. Kg3 1-0
+

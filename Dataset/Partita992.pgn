@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3JwYnkO5"]
+[White "ntiy"]
+[Black "iel87"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:06"]
+[WhiteElo "1218"]
+[BlackElo "1370"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+31"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+3"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.16] } 1... c6 { [%eval 0.44] } 2. d4 { [%eval 0.41] } 2... d5 { [%eval 0.53] } 3. Nc3 { [%eval 0.31] } 3... e6 { [%eval 0.55] } 4. e5 { [%eval 0.25] } 4... c5 { [%eval 0.08] } 5. Nf3 { [%eval 0.17] } 5... Nc6 { [%eval 0.05] } 6. Bg5 { [%eval 0.08] } 6... Be7 { [%eval -0.02] } 7. Qd2?! { [%eval -0.81] } 7... h6? { [%eval 0.29] } 8. Be3 { [%eval 0.0] } 8... cxd4 { [%eval 0.1] } 9. Nxd4?! { [%eval -0.74] } 9... Bd7? { [%eval 0.28] } 10. O-O-O?! { [%eval -0.55] } 10... Nxe5 { [%eval -0.61] } 11. f4 { [%eval -0.65] } 11... Nc6 { [%eval -0.44] } 12. Bd3 { [%eval -0.72] } 12... Nb4 { [%eval -0.36] } 13. f5? { [%eval -1.94] } 13... Nxd3+? { [%eval 0.25] } 14. Qxd3 { [%eval 0.23] } 14... Nf6 { [%eval 0.18] } 15. Rhf1? { [%eval -1.8] } 15... O-O? { [%eval 0.0] } 16. h3? { [%eval -2.6] } 16... e5 { [%eval -2.56] } 17. Nf3?! { [%eval -3.25] } 17... d4? { [%eval -0.58] } 18. Bxd4? { [%eval -3.26] } 18... exd4 { [%eval -3.22] } 19. Qxd4 { [%eval -3.29] } 19... Bc6 { [%eval -3.11] } 20. Qh4? { [%eval -4.22] } 20... Nd5 { [%eval -4.08] } 21. Qh5? { [%eval -5.53] } 21... Rc8? { [%eval -4.2] } 22. Ne5?? { [%eval -10.67] } 22... Bg5+ { [%eval -10.23] } 23. Kb1 { [%eval -11.58] } 23... Nxc3+ { [%eval -10.17] } 0-1
+

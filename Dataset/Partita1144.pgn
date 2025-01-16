@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RwsrNetL"]
+[White "iflhbycr"]
+[Black "nobleway"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:46:52"]
+[WhiteElo "1555"]
+[BlackElo "1743"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 c5 4. Bxc4 cxd4 5. exd4 Nf6 6. Nc3 e6 7. a3 a6 8. Nf3 Be7 9. O-O b5 10. Ba2 Bb7 11. Ne5 Nbd7 12. f4 Nb6 13. Be3 Nbd5 14. Nxd5 Nxd5 15. Qd3 Rc8 16. Rac1 Bf6 17. b4 O-O 18. h3 Qd6 19. g4 Rc7 20. g5 Be7 21. Rxc7 Qxc7 22. Rc1 Qd7 23. Nxd7 Rd8 24. Ne5 g6 25. Bd2 Kg7 26. h4 Bf8 27. Bxd5 Bxd5 28. Rc7 Bd6 29. Rxf7+ Kg8 30. Rd7 Rxd7 31. Nxd7 Kg7 32. Nf6 Bc4 33. Qe3 Be7 34. Qe5 Kf7 35. Nxh7 Bd5 36. Kf2 a5 37. bxa5 Bc4 38. a6 b4 39. axb4 Bxa6 40. Qc7 Bd3 41. Ke3 Bf1 42. b5 Bxb5 43. Bb4 Bd7 44. Qxd7 1-0
+

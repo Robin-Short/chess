@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fxh8tbXr"]
+[White "JeffChess"]
+[Black "benick"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:03:58"]
+[WhiteElo "1823"]
+[BlackElo "1747"]
+[WhiteRatingDiff "+41"]
+[BlackRatingDiff "-8"]
+[ECO "A57"]
+[Opening "Benko Gambit Accepted, Pawn Return Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 g6 6. Nc3 Qxb6 7. Nf3 d6 8. Nd2 Bd7 9. Nc4 Qb4 10. e3 Bg7 11. Bd2 Qb7 12. Be2 Nxd5 13. Bf3 Nxc3 14. Bxb7 Ra7 15. Bxc3 Bxc3+ 16. bxc3 Rxb7 17. Rb1 1-0
+

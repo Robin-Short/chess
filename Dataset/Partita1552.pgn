@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jccRJpQj"]
+[White "paulmorphy44"]
+[Black "musalipov"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:07:34"]
+[WhiteElo "1795"]
+[BlackElo "1548"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 f5 5. e3 Bd6 6. a3 Nd7 7. c5 Bc7 8. Bd3 Ngf6 9. Nd2 g6 10. Qc2 e5 11. b4 e4 12. Be2 Nf8 13. f3 a6 14. f4 Bd7 15. Bb2 Ne6 16. a4 Qe7 17. b5 axb5 18. axb5 Rxa1+ 19. Bxa1 Kf7 20. b6 Bb8 21. O-O h6 22. Bb2 g5 23. fxg5 Nxg5 24. Qd1 Rg8 25. Bh5+ Nxh5 26. Qxh5+ Kg7 27. Ne2 Kh7 28. Nf4 Bxf4 29. Rxf4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0WV8Oo8P"]
+[White "asman"]
+[Black "edivillela"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:20"]
+[WhiteElo "1831"]
+[BlackElo "1783"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bg5 c5 3. e3 f6 4. Bh4 Bf5 5. Nf3 Nc6 6. c3 e6 7. Bb5 Bd6 8. Bg3 Ne7 9. Nbd2 O-O 10. Nh4 Bxg3 11. hxg3 Qb6 12. Nxf5 Nxf5 13. Bd3 Nd6 14. Bxh7+ Kf7 15. Qh5+ Ke7 16. Qg6 Rf7 17. Qc2 Rh8 18. Nb3 c4 19. Nc5 f5 20. O-O-O Ne4 21. Nxe4 fxe4 22. Bg6 Rxh1 23. Rxh1 Rf6 24. Bh5 a5 25. Qe2 a4 26. Qg4 g6 27. Bxg6 Rxf2 28. Rh7+ Kd6 29. b3 cxb3 30. Rf7 Rc2+ 31. Kd1 b2 32. Qf4+ Ne5 33. dxe5+ Kc5 34. Rc7+ Qxc7 35. Kxc2 Qb6 36. Qf8+ Kc4 37. Qf1+ Kc5 38. Qb1 a3 39. Bh5 Qb5 40. Qd1 Qd3+ 41. Qxd3 exd3+ 42. Kb1 Kc4 43. Bg6 Kxc3 44. Bxd3 Kxd3 45. g4 Ke4 46. Kc2 Kxe5 47. g3 Kf6 48. Kb1 Kg5 49. Kc2 Kxg4 0-1
+

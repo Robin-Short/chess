@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZWheb1GK"]
+[White "atetubrutus"]
+[Black "cittavecchia"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:28:05"]
+[WhiteElo "1645"]
+[BlackElo "1583"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-8"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "120+5"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 a5 3. Nc3 Ba6 4. e4 e6 5. Nf3 g6 6. a3 Bg7 7. Bd3 Ne7 8. Bg5 f6 9. Be3 g5 10. h3 h5 11. b4 axb4 12. axb4 Bb7 13. Rxa8 Bxa8 14. Qa1 Nbc6 15. Qa4 O-O 16. b5 d6 17. bxc6 Bxc6 18. Qb4 f5 19. Nxg5 Qd7 20. O-O e5 21. d5 Bb7 22. exf5 Nxf5 23. Bxf5 Qxf5 24. Ne6 Rf6 25. Nxg7 Kxg7 26. Nb5 Bc8 27. Nxc7 Rg6 28. Ne6+ Kh7 29. Kh1 Bxe6 30. dxe6 Qxe6 31. Bxb6 Qg8 32. Qb1 Qxc4 33. Be3 Kg7 34. Rc1 Qd5 35. Rc7+ Kf6 36. f3 Qa5 37. Qc1 Qa2 38. Qc2 Qa5 39. Bd2 Qd5 40. h4 Qb5 41. Bg5+ Ke6 42. Qxg6+ Kd5 43. Qg8+ Kd4 44. Kh2 1-0
+

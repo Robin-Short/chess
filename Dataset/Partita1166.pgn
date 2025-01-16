@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0fXmLkVS"]
+[White "TheY2AProblem"]
+[Black "Sxxx"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:41"]
+[WhiteElo "1221"]
+[BlackElo "1226"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "360+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be6 4. Bxe6 fxe6 5. d3 h6 6. Nc3 Nc6 7. g3 Qe7 8. Nh4 Qf6 9. Qh5+ Kd8 10. Ng6 Rh7 11. Nxf8 Qxf8 12. Qh4+ Nf6 13. Nb5 g5 14. Qh3 Qe7 15. f4 exf4 16. gxf4 gxf4 17. Bxf4 e5 18. Bxh6 a6 19. Nc3 Nd4 20. Rg1 Nxc2+ 21. Kd2 Nxa1 22. Rxa1 c5 23. Nd5 Nxd5 24. exd5 Kc7 25. Qe3 Rah8 26. Bg5 Rxh2+ 27. Kc3 Qf7 28. Rg1 Qxd5 29. Bf6 R2h3 30. Qg5 Qd4+ 31. Kc2 Qxd3+ 32. Kc1 R8h7 33. Bd8+ Kc6 34. Qg2+ Rf3 35. Rd1 Qc4+ 36. Kb1 Qe4+ 37. Kc1 Rc3+ 38. Kd2 Qxg2+ 39. Kxc3 Rh3+ 40. Kc4 Qc2# 0-1
+

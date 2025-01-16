@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CD4ZsglG"]
+[White "cmath"]
+[Black "sidacotel"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:09:25"]
+[WhiteElo "1622"]
+[BlackElo "1577"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Bg4 4. Nc3 Qh5 5. Bc4 Nf6 6. h3 e6 7. O-O Bxh3 8. gxh3 Qxh3 9. Nh2 Bd6 10. f4 h5 11. Qf3 Qh4 12. Qf2 Ng4 13. Qxh4 Be7 14. Qg3 Nxh2 15. Qxh2 g5 16. f5 g4 17. fxe6 Bd6 18. exf7+ Kf8 19. Qe2 Nc6 20. d4 Nxd4 21. Qe4 Nf3+ 22. Rxf3 gxf3 23. Qxf3 Rd8 24. Bf4 Bc5+ 25. Be3 Bd6 26. Ne4 Be5 27. Kf2 h4 28. Bg5 Rd4 29. Bd3 Rd7 30. Nf6 Rxf7 31. Bc4 Bg3+ 32. Kg2 h3+ 33. Kxg3 h2 34. Nd7+ Ke8 35. Qxf7# 1-0
+

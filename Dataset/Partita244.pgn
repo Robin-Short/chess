@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/H6taFRS0"]
+[White "Kindness"]
+[Black "Max2070"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:38"]
+[WhiteElo "1201"]
+[BlackElo "1199"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d3 d6 4. Nc3 Nf6 5. Nd5 Nxd5 6. exd5 Ne7 7. c4 Bd7 8. Be2 c6 9. Bg5 cxd5 10. O-O dxc4 11. dxc4 h6 12. Bxe7 Qxe7 13. b3 Qf6 14. Qd5 Rb8 15. Rad1 Bg4 16. Qb5+ Kd8 17. Qa5+ Kc8 18. Qxa7 Be7 19. Qe3 Qe6 20. h3 Bxf3 21. Qxf3 e4 22. Qg3 g5 23. f4 Rg8 24. fxg5 Rxg5 25. Qh4 Ra8 26. Rxf7 Rxg2+ 27. Kxg2 Bxh4 28. Rf8+ Bd8 29. Bg4 Rxa2+ 30. Kg1 Qxg4+ 31. hxg4 Kc7 32. Rf7+ Kc6 33. Rf8 Bg5 34. Rc8+ Kd7 35. Rb8 Rb2 36. Rxb7+ Kc6 37. Rb8 Kc7 38. Rb4 Kc6 39. Ra4 e3 40. Ra6+ Kb7 41. Raxd6 e2 42. Rd7+ Kb6 43. R7d6+ Ka5 44. Ra1+ Kb4 45. Ra4+ Kxb3 46. Ra1 Bd2 47. Rd3+ Kxc4 48. Ra4+ Kc5 0-1
+

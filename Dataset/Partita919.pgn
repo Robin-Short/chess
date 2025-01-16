@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zprSm4D2"]
+[White "katariyanamit"]
+[Black "Eray1996"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:09"]
+[WhiteElo "1880"]
+[BlackElo "1354"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.15] } 2. Nf3 { [%eval 0.26] } 2... Nc6 { [%eval 0.27] } 3. Bb5 { [%eval 0.31] } 3... Nf6 { [%eval 0.25] } 4. O-O { [%eval 0.2] } 4... Nxe4 { [%eval 0.4] } 5. Bxc6 { [%eval 0.05] } 5... dxc6 { [%eval 0.0] } 6. Re1 { [%eval 0.05] } 6... Bf5 { [%eval 0.26] } 7. d3 { [%eval 0.32] } 7... Nf6 { [%eval 0.27] } 8. Nxe5 { [%eval 0.34] } 8... Be7 { [%eval 0.2] } 9. Nc3 { [%eval 0.05] } 9... O-O { [%eval 0.08] } 10. Qf3 { [%eval 0.1] } 10... g6 { [%eval 0.41] } 11. Bg5 { [%eval 0.34] } 11... Bd6? { [%eval 1.39] } 12. d4?! { [%eval 0.4] } 12... c5?? { [%eval 5.32] } 13. Nd5 { [%eval 5.36] } 13... cxd4? { [%eval 6.67] } 14. Nxf6+?! { [%eval 5.86] } 14... Kh8 { [%eval 8.5] } 15. Nxh7? { [%eval 5.99] } 15... Qc8?? { [%eval 9.57] } 16. Nf6 { [%eval 9.57] } 16... Bxe5 { [%eval 10.26] } 17. Rxe5 { [%eval 10.89] } 17... Bxc2 { [%eval 106.08] } 18. Nd5 { [%eval 11.55] } 18... d3?! { [%eval #4] } 19. Bf6+ { [%eval #3] } 19... Kg8 { [%eval #3] } 20. Ne7+ { [%eval #2] } 20... Kh7 { [%eval #2] } 21. Nxc8?! { [%eval #3] } 21... Rfxc8 { [%eval #2] } 22. Qh3+ { [%eval #1] } 22... Kg8 { [%eval #1] } 23. Qh8# 1-0
+

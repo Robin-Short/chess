@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Mc9iMdO5"]
+[White "HerbyW"]
+[Black "clifford"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:10"]
+[WhiteElo "1228"]
+[BlackElo "1517"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+4"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nc6 4. Nxc6 bxc6 5. Bf4 g6 6. e3 Bg7 7. c3 Nf6 8. Bd3 Nd5 9. Bg3 a5 10. O-O Ba6 11. Bxa6 Rxa6 12. Qd3 Rb6 13. Na3 Rxb2 14. Nc4 Rb5 15. Na3 Rc5 16. c4 Nb4 17. Qc3 Bxc3 18. Rac1 Bb2 19. Rb1 Bxa3 20. Rfd1 Rxc4 21. Rd2 Rc2 22. Rbd1 d6 23. Rxc2 Nxc2 0-1
+

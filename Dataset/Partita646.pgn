@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uJDty6C6"]
+[White "MateGrinder"]
+[Black "probando"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:25:18"]
+[WhiteElo "1400"]
+[BlackElo "1722"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+[ECO "D10"]
+[Opening "Slav Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.29] } 1... c6 { [%eval 0.54] } 2. c4 { [%eval 0.44] } 2... d5 { [%eval 0.34] } 3. Nc3 { [%eval 0.31] } 3... Nf6 { [%eval 0.27] } 4. Qb3 { [%eval -0.08] } 4... Qc7?! { [%eval 0.44] } 5. Nf3 { [%eval 0.25] } 5... e6 { [%eval 0.39] } 6. Bg5 { [%eval 0.39] } 6... Nbd7 { [%eval 0.41] } 7. e3 { [%eval 0.41] } 7... Bd6 { [%eval 0.5] } 8. Bd3 { [%eval 0.39] } 8... O-O { [%eval 0.37] } 9. O-O { [%eval 0.23] } 9... h6 { [%eval 0.38] } 10. Bxf6 { [%eval 0.25] } 10... Nxf6 { [%eval 0.31] } 11. cxd5 { [%eval -0.12] } 11... exd5 { [%eval -0.11] } 12. Rac1 { [%eval -0.12] } 12... Bg4? { [%eval 1.21] } 13. Nb5 { [%eval 1.26] } 13... Qb8 { [%eval 1.32] } 14. Nxd6 { [%eval 1.23] } 14... Qxd6 { [%eval 1.23] } 15. Qxb7 { [%eval 1.22] } 15... Bxf3?! { [%eval 1.86] } 16. gxf3 { [%eval 1.56] } 16... Rfc8 { [%eval 1.69] } 17. Qb3?! { [%eval 1.02] } 17... Nh5 { [%eval 1.37] } 18. e4? { [%eval -0.26] } 18... Qg6+ { [%eval 0.12] } 19. Kh1 { [%eval 0.14] } 19... Nf4 { [%eval 0.39] } 20. Rg1 { [%eval 0.24] } 20... Qh5 { [%eval 0.32] } 21. Rg3 { [%eval 0.0] } 21... Rab8 { [%eval 0.02] } 22. Qc3 { [%eval 0.0] } 22... Nxd3 { [%eval 0.15] } 23. Qxd3 { [%eval 0.28] } 23... Rxb2 { [%eval 0.0] } 24. Qc3? { [%eval -1.2] } 24... Rxf2 { [%eval -1.63] } 25. Qe1?? { [%eval #-1] } 25... Rxf3?? { [%eval -2.34] } 26. Rxf3? { [%eval -3.89] } 26... Qxf3+ { [%eval -3.91] } 27. Kg1 { [%eval -3.94] } 27... Qg4+ { [%eval -3.65] } 28. Kh1?! { [%eval -4.39] } 28... dxe4?! { [%eval -3.66] } 29. Qg1 { [%eval -4.08] } 29... Qf3+ { [%eval -3.85] } 30. Qg2 { [%eval -3.88] } 30... Qxg2+?! { [%eval -3.11] } 31. Kxg2 { [%eval -3.1] } 31... Rd8 { [%eval -3.23] } 32. Rc4 { [%eval -3.39] } 32... f5 { [%eval -3.48] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3YZbHhbn"]
+[White "sebilo"]
+[Black "victirin"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:16"]
+[WhiteElo "1436"]
+[BlackElo "1306"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "360+3"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... g6 { [%eval 0.58] } 2. d4 { [%eval 0.59] } 2... Bg7 { [%eval 0.64] } 3. g3 { [%eval 0.22] } 3... Nf6 { [%eval 0.59] } 4. Bg2 { [%eval 0.33] } 4... O-O { [%eval 0.29] } 5. b3 { [%eval -0.07] } 5... Nc6 { [%eval 0.26] } 6. Bb2 { [%eval 0.33] } 6... d6 { [%eval 0.29] } 7. Nd2 { [%eval 0.19] } 7... Re8 { [%eval 0.41] } 8. h4 { [%eval 0.03] } 8... e5 { [%eval 0.02] } 9. d5 { [%eval 0.0] } 9... Ne7 { [%eval 0.03] } 10. f4?? { [%eval -3.58] } 10... Nh5? { [%eval -0.74] } 11. fxe5 { [%eval -0.97] } 11... Qd7? { [%eval 0.48] } 12. e6? { [%eval -0.84] } 12... Qb5? { [%eval 1.23] } 13. exf7+ { [%eval 1.41] } 13... Kxf7 { [%eval 1.48] } 14. Qf3+ { [%eval 1.21] } 14... Kg8 { [%eval 1.41] } 15. Bxg7 { [%eval 1.42] } 15... Kxg7 { [%eval 1.86] } 16. O-O-O { [%eval 1.72] } 16... Rf8 { [%eval 2.16] } 17. Qc3+ { [%eval 1.93] } 17... Kg8 { [%eval 1.8] } 18. Bh3?! { [%eval 1.08] } 18... Qa6 { [%eval 1.47] } 19. Kb1 { [%eval 1.21] } 19... Nxg3?? { [%eval 5.6] } 20. Qxg3 { [%eval 5.39] } 20... Bxh3? { [%eval 6.57] } 21. Nxh3 { [%eval 6.41] } 21... Rf7? { [%eval 8.26] } 22. h5 { [%eval 8.43] } 22... Raf8 { [%eval 9.64] } 23. hxg6 { [%eval 9.49] } 23... Nxg6 { [%eval 9.77] } 24. Ng5 { [%eval 9.74] } 24... Rf6 { [%eval 14.1] } 25. Nxh7 { [%eval 14.74] } 25... R8f7?! { [%eval #9] } 26. Nxf6+ { [%eval 24.6] } 26... Rxf6 { [%eval 16.4] } 27. Rh6 { [%eval 26.08] } 27... Kg7?! { [%eval #9] } 28. Rhh1?? { [%eval 0.0] } 28... Qa5?? { [%eval 16.08] } 29. Rhg1 { [%eval 12.41] } 29... Qc5 { [%eval 12.33] } 30. e5 { [%eval 14.96] } 30... dxe5 { [%eval 14.95] } 31. Qxe5 { [%eval 13.14] } 31... c6 { [%eval 109.87] } 32. Ne4 { [%eval #8] } 32... Kf7 { [%eval #4] } 33. Qxf6+ { [%eval #3] } 1-0
+

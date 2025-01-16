@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uk8FvGU5"]
+[White "Cristian_PD"]
+[Black "Gleidsonp"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:24:42"]
+[WhiteElo "1573"]
+[BlackElo "1547"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+34"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. Nc3 Nc6 5. Nd5 Bg4 6. Nxe7 Qxe7 7. c3 Nf6 8. d3 O-O 9. Bg5 h6 10. Bh4 Na5 11. Bb3 Nxb3 12. axb3 c5 13. h3 Bxf3 14. Qxf3 Qe6 15. Bxf6 gxf6 16. Qg4+ Kh7 17. Qf5+ Qxf5 18. exf5 d5 19. f3 a6 20. g4 Rfe8 21. O-O-O b5 22. h4 a5 23. g5 Rg8 24. Rdg1 a4 25. bxa4 Rxa4 26. g6+ fxg6 27. fxg6+ Rxg6 28. Rxg6 Kxg6 29. h5+ Kf7 30. Kc2 Rf4 31. Rh3 c4 32. dxc4 dxc4 33. b3 Ke6 34. bxc4 bxc4 35. Kd2 Rf5 36. Ke3 Kd5 37. Rh4 Rg5 38. Kf2 f5 39. Rh1 f4 40. Rd1+ Kc5 41. Rh1 Kd5 42. Rd1+ Ke6 43. Rh1 Kf5 44. Kf1 e4 45. fxe4+ Kxe4 46. Kf2 f3 47. Re1+ Kf4 48. Re3 Rg2+ 49. Kf1 Rg3 50. Re1 Rh3 51. Kf2 Rxh5 52. Rd1 Rh2+ 53. Kg1 Rg2+ 0-1
+

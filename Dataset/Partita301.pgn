@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dxFxK7XE"]
+[White "olman2011"]
+[Black "mohsen141"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:56"]
+[WhiteElo "1800"]
+[BlackElo "1675"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "D10"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "300+4"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Bf4 Bf5 6. a3 e6 7. e3 Nf6 8. Qb3 Qb6 9. Qxb6 axb6 10. Nb5 Rc8 11. Nc7+ Kd7 12. Nb5 Ne4 13. f3 Nd6 14. Nc3 Bg6 15. Nh3 Be7 16. Be2 Na5 17. O-O Nac4 18. Bxd6 Bxd6 19. Bxc4 Rxc4 20. Rfd1 Rhc8 21. Nf2 Bc2 22. Rd2 Bb3 23. g3 f5 24. Kg2 g6 25. Re1 Bxa3 26. Nxd5 exd5 27. bxa3 Ra8 28. Ra1 Rca4 29. Rb2 Rxa3 30. Rab1 Bc4 31. Rxb6 Ba6 32. R1b2 Rxe3 33. Nh3 Rae8 34. Nf4 g5 35. Nxd5 Re2+ 36. Kh3 Rxb2 37. Rxb2 Bf1+ 38. Rg2 Re2 0-1
+

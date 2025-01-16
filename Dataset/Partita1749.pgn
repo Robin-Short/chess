@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2mVad9xB"]
+[White "leonariel"]
+[Black "peaopreto"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:27"]
+[WhiteElo "1093"]
+[BlackElo "1260"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "360+2"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d6 3. e5 dxe5 4. Nxe5 Qd5 5. d4 c5 6. c4 Qe4+ 7. Be2 cxd4 8. Nd3 Qxg2 9. Kd2 Bd6 10. Rg1 Qxh2 11. Rxg7 Bf4+ 12. Nxf4 Qxf4+ 13. Ke1 Qf6 14. Rg1 Nc6 15. Bg5 Qe5 16. Nd2 h6 17. Nf3 Qa5+ 18. Kf1 hxg5 19. Rxg5 Qc7 20. Nxd4 Rh1+ 21. Rg1 Rxg1+ 22. Kxg1 Bd7 23. Bh5 Ne5 24. Qe2 Nf6 25. Nf5 exf5 0-1
+

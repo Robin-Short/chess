@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ds2PDDEL"]
+[White "laloli"]
+[Black "chessaddict4"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:27:27"]
+[WhiteElo "1279"]
+[BlackElo "1569"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B02"]
+[Opening "Alekhine Defense: John Tracy Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. Ne5 Nf6 4. Nxf7 g6 5. d4 Kxf7 6. Bg5 Kg7 7. Bxf6+ exf6 8. Qd3 Be7 9. Nd2 Rf8 10. Ke2 d5 11. Ke3 Re8 12. Kf4 Bd6+ 13. Kf3 Qd7 14. Qxg6+ hxg6 15. Ne4 Qg4+ 16. Ke3 Rxe4+ 17. Kd2 Bf5 18. Bd3 Rxd4 19. Kc3 Bb4+ 20. Kb3 a5 21. a3 a4+ 22. Ka2 Bd2 23. c3 Rf4 24. Rad1 Bxd3 25. Rxd2 Bc4+ 26. Kb1 Nc6 27. f3 Qh4 28. Rd4 Rxd4 29. cxd4 Re8 30. Kc2 Re1 31. Kc3 Rxh1 32. b3 Rc1+ 33. Kd2 Qe1# 0-1
+

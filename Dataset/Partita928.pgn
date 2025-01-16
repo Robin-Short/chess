@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4AJBpiy9"]
+[White "payman7"]
+[Black "seigneur"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:36:42"]
+[WhiteElo "1945"]
+[BlackElo "2009"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+12"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Pawn Center Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 a6 6. c3 c5 7. Ndf3 Nc6 8. Bd3 Qb6 9. Ne2 Be7 10. O-O h6 11. Kh1 cxd4 12. cxd4 Qd8 13. f5 Nf8 14. fxe6 Bxe6 15. Nf4 Qd7 16. Nxe6 fxe6 17. Nh4 O-O-O 18. Ng6 Nxg6 19. Bxg6 Rdf8 20. Be3 Kb8 21. Qe2 Na5 22. b3 Ba3 23. Rxf8+ Rxf8 24. Rf1 Qd8 25. Rxf8 Qxf8 26. h3 Nc6 27. Kh2 Ne7 28. Bd3 Nf5 29. Bxf5 Qxf5 30. Qf3 Qxf3 31. gxf3 Kc7 32. f4 Kc6 33. Kg3 g6 34. f5 gxf5 35. Bxh6 Bb2 36. Be3 Ba3 37. Kf4 Kd7 38. Kg5 Be7+ 39. Kh6 Bh4 40. Bg5 Bg3 41. h4 f4 42. h5 f3 43. Be3 f2 44. Bxf2 Bxf2 45. Kg6 Bxd4 46. h6 Bxe5 47. Kf7 Kd6 48. h7 d4 49. Kg6 d3 50. Kg5 d2 51. Kg6 d1=Q 52. Kf7 Qf3+ 53. Kg8 Qg4+ 54. Kf8 Qf5+ 55. Kg8 Qg6+ 56. Kf8 Qg7+ 57. Ke8 Qe7# 0-1
+

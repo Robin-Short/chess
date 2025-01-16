@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vTJMR4W8"]
+[White "PedroMarhaJimenez"]
+[Black "Alexiv4"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:46:00"]
+[WhiteElo "1214"]
+[BlackElo "1068"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. d5 Nce7 5. Bb5+ Bd7 6. Nc3 c6 7. dxc6 Bxc6 8. Bxc6+ Nxc6 9. Nd5 Rc8 10. Be3 a6 11. Bb6 Qd7 12. Qd2 Nd4 13. Nxd4 exd4 14. Qxd4 Qc6 15. Nc7+ Rxc7 16. Bxc7 Qxc7 17. O-O-O Nf6 18. Qa4+ Nd7 19. Rhe1 Be7 20. f4 O-O 21. e5 Nc5 22. exd6 Nxa4 23. dxc7 Bf6 24. g4 Nxb2 25. Rd5 Bc3 26. Rc5 Bxe1 27. c8=Q Rxc8 28. Rxc8# 1-0
+

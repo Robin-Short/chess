@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/NfqxdfNG"]
+[White "matias96"]
+[Black "Mehdibadran"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:14"]
+[WhiteElo "1371"]
+[BlackElo "1085"]
+[WhiteRatingDiff "+27"]
+[BlackRatingDiff "-17"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. b4 f6 2. Bb2 e6 3. a3 d6 4. Nf3 c6 5. e4 b6 6. d4 g6 7. d5 h6 8. dxe6 a6 9. e5 Bd7 10. Qxd6 1-0
+

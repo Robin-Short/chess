@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xss4CEBL"]
+[White "moises86"]
+[Black "a8b"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:03"]
+[WhiteElo "1719"]
+[BlackElo "1640"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+16"]
+[ECO "B53"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+[TimeControl "1200+10"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qa5+ 6. Nc3 Qxb5 7. Nxb5 Nxd4 8. Nfxd4 Kd8 9. O-O a6 10. Nc3 g6 11. Be3 Bg7 12. Nd5 Nf6 13. Nxf6 Bxf6 14. c3 Bd7 15. Nf3 Rc8 16. Bg5 Bxg5 17. Nxg5 Ke8 18. Rfe1 h6 0-1
+

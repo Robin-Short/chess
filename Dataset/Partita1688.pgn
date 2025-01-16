@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/aY3JC35Z"]
+[White "paulmorphy44"]
+[Black "VEGETAL"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:07"]
+[WhiteElo "1804"]
+[BlackElo "1779"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. Nc3 dxc4 4. Nf3 b5 5. Nxb5 Ba6 6. Nc3 c6 7. e3 Bb4 8. Bd2 Nf6 9. a3 Bxc3 10. Bxc3 Ne4 11. Qc2 O-O 12. b3 cxb3 13. Qxb3 Bxf1 14. Rxf1 Nd7 15. Nd2 Nxd2 16. Bxd2 Rb8 17. Qc2 Nb6 18. Rb1 Nd5 19. Rb2 Rxb2 20. Qxb2 Qd7 21. Ke2 Rc8 22. Rb1 Qc7 23. Qb7 Nb6 24. Qxc7 Rxc7 25. Ba5 Rb7 26. Bxb6 axb6 27. Kd3 Kf8 28. a4 Ke7 29. f4 Kd7 30. g4 Kc7 31. h4 b5 32. axb5 Rxb5 33. Rxb5 cxb5 34. e4 Kb6 35. Kc3 Ka5 36. Kb3 Kb6 37. Kb4 Kc6 38. h5 h6 39. g5 hxg5 40. fxg5 Kb6 41. h6 gxh6 42. gxh6 f5 43. h7 f4 44. h8=Q f3 45. Qf6 f2 46. Qxf2 Kc6 47. Qf6 Kd6 48. d5 Kc7 49. Qxe6 Kb7 50. Qc6+ Kb8 51. Qd7 Ka8 52. Kxb5 1-0
+

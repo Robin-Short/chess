@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3fq9nDzF"]
+[White "gabo43"]
+[Black "Flyside"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:28:36"]
+[WhiteElo "1569"]
+[BlackElo "1611"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B07"]
+[Opening "Pirc Defense #5"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 c6 3. h3 Nh6 4. Bxh6 gxh6 5. Bd3 b5 6. b4 a5 7. c3 axb4 8. cxb4 Bg7 9. Ne2 O-O 10. Nd2 f5 11. O-O fxe4 12. Bxe4 d5 13. Bf3 e5 14. dxe5 Bxe5 15. Rc1 Qg5 16. Nc3 Bxc3 17. Rxc3 Bd7 18. Qb3 Qxd2 19. Rd1 Qxa2 20. Re1 Qxb3 21. Rxb3 Na6 22. Rbe3 Rae8 23. Rxe8 Rxe8 24. Ra1 Nxb4 25. Ra7 Bf5 26. Rc7 Bg6 27. g4 Be4 28. Kg2 Bxf3+ 29. Kxf3 d4 30. Kg3 d3 31. h4 d2 32. g5 d1=Q 33. gxh6 Qd3+ 34. f3 Qg6+ 35. Kf2 Qxh6 36. h5 Qf4 37. Rxh7 Kxh7 38. h6 Nd3+ 39. Kg2 Re2+ 40. Kf1 Qxf3+ 41. Kg1 Qg2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pKuDTuhE"]
+[White "cande"]
+[Black "ULI123"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:14:22"]
+[WhiteElo "1477"]
+[BlackElo "1471"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+[TimeControl "900+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. f3 Bxc3+ 7. bxc3 O-O 8. Nxc6 dxc6 9. Qxd8 Rxd8 10. Bf4 Ne8 11. Be2 Nd6 12. e5 Nf5 13. O-O h5 14. Bg5 Rd5 15. f4 Ne3 16. Rf3 Nxc2 17. Rc1 Rd2 18. Bd1 Ne1 19. Rf2 Rxf2 20. Kxf2 Nd3+ 21. Kf1 Nxc1 22. a4 g6 0-1
+

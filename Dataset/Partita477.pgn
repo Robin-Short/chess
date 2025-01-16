@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wXKu53LM"]
+[White "Perdosempre"]
+[Black "AwareTenacious"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:19:18"]
+[WhiteElo "1285"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+93"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense, Declined Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... Nc6 { [%eval 0.51] } 2. Nf3 { [%eval 0.32] } 2... d5 { [%eval 0.74] } 3. exd5 { [%eval 0.77] } 3... Qxd5 { [%eval 0.55] } 4. Nc3 { [%eval 0.79] } 4... Qh5?! { [%eval 1.42] } 5. Be2 { [%eval 0.96] } 5... Bg4 { [%eval 0.91] } 6. O-O { [%eval 0.79] } 6... Nf6 { [%eval 0.88] } 7. Nb5?! { [%eval 0.26] } 7... O-O-O { [%eval 0.01] } 8. h3? { [%eval -1.58] } 8... Bxf3 { [%eval -1.74] } 9. Bxf3? { [%eval -2.94] } 9... Qxb5 { [%eval -3.13] } 10. d3 { [%eval -3.27] } 10... e5 { [%eval -3.01] } 11. c4 { [%eval -3.37] } 11... Qb4?! { [%eval -2.47] } 12. a3?! { [%eval -2.99] } 12... Qd6 { [%eval -2.78] } 13. Bd2? { [%eval -4.51] } 13... Qxd3 { [%eval -4.11] } 14. Be2?? { [%eval -8.51] } 14... Qxd2 { [%eval -8.59] } 15. Qxd2 { [%eval -8.91] } 15... Rxd2 { [%eval -8.88] } 16. Rad1? { [%eval -13.08] } 16... Rxe2 { [%eval -13.08] } 0-1
+

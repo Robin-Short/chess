@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/X81tSKgJ"]
+[White "molinerov"]
+[Black "irina"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:04"]
+[WhiteElo "1812"]
+[BlackElo "1653"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Nc3 h6 7. Bf4 Bd6 8. Bxd6 Qxd6 9. e3 Bg4 10. Bd3 Bxf3 11. Qxf3 O-O 12. O-O Nbd7 13. e4 dxe4 14. Nxe4 Qxd4 15. Nxf6+ Nxf6 16. Bc2 Qxb2 17. Rac1 Qxa2 18. Bb3 Qd2 19. Rfd1 Qg5 20. Bc2 Rfd8 21. Re1 Re8 22. Rf1 Rad8 23. Qb3 b5 24. Bb1 c5 25. Ba2 Rf8 26. Qxb5 Ne4 27. f3 Nd2 28. Rfd1 Nxf3+ 29. Kh1 Rxd1+ 30. Rxd1 Nd4 31. Qf1 Qe5 32. Bb1 Ne2 33. Re1 Re8 34. Rxe2 Qxe2 35. Qxe2 Rxe2 36. h3 Re1+ 37. Kh2 Rxb1 38. Kg3 Rb2 39. h4 a5 40. Kh2 a4 41. Kh3 a3 42. Kh2 1-0
+

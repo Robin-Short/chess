@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9TrWkRKq"]
+[White "ploop"]
+[Black "kardcer"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:41:43"]
+[WhiteElo "1667"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-109"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "780+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. d3 Bg4 5. Nbd2 Bxf3 6. Nxf3 Nc6 7. c3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5DvJnOH0"]
+[White "Maconouchi"]
+[Black "hazes"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:29"]
+[WhiteElo "1882"]
+[BlackElo "1906"]
+[WhiteRatingDiff "-40"]
+[BlackRatingDiff "+11"]
+[ECO "A48"]
+[Opening "London System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. e3 O-O 5. h3 d5 6. Nbd2 c5 7. c3 Nc6 8. Be2 cxd4 9. cxd4 Re8 10. a3 Nh5 11. Bh2 e5 12. dxe5 Nxe5 13. Rb1 Nxf3+ 14. Nxf3 Bf5 15. Rc1 Nf6 16. O-O Rc8 17. Qa4 a6 18. b4 Ne4 19. Qb3 Be6 20. Qd3 Nc3 21. Nd4 Nxe2+ 22. Nxe2 Qh4 23. Bg3 Qe7 24. Nf4 Bf5 25. Qxd5 Rxc1 26. Rxc1 Rd8 27. Qb3 b5 28. Rd1 Rc8 29. Nd5 Qb7 30. f3 Bc2 0-1
+

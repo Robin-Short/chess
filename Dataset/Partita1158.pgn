@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/EQSV8Aba"]
+[White "subteacher"]
+[Black "kick"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:46:35"]
+[WhiteElo "1738"]
+[BlackElo "1455"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.17] } 2. f3?! { [%eval -0.43] } 2... d6 { [%eval 0.0] } 3. d3 { [%eval -0.08] } 3... Be7 { [%eval -0.35] } 4. Be3 { [%eval -0.28] } 4... Nf6 { [%eval -0.31] } 5. Ne2 { [%eval -0.58] } 5... a6 { [%eval -0.26] } 6. g3 { [%eval -0.41] } 6... b5 { [%eval -0.18] } 7. Bg2 { [%eval -0.05] } 7... Nbd7 { [%eval -0.13] } 8. Nd2 { [%eval -0.16] } 8... O-O { [%eval -0.18] } 9. a3 { [%eval -0.33] } 9... a5 { [%eval 0.0] } 10. O-O { [%eval -0.01] } 10... Bb7 { [%eval 0.08] } 11. f4?! { [%eval -0.48] } 11... exf4?! { [%eval 0.1] } 12. gxf4 { [%eval -0.07] } 12... b4?! { [%eval 0.44] } 13. h3 { [%eval 0.17] } 13... bxa3 { [%eval 0.46] } 14. bxa3 { [%eval 0.44] } 14... h6 { [%eval 0.66] } 15. Nf3 { [%eval 0.4] } 15... Nh7 { [%eval 0.83] } 16. Ng3 { [%eval 1.06] } 16... Nc5 { [%eval 1.45] } 17. Qd2 { [%eval 0.99] } 17... Na4 { [%eval 1.15] } 18. Nf5 { [%eval 1.06] } 18... Bf6?! { [%eval 1.63] } 19. Rad1?! { [%eval 0.72] } 19... Bc6? { [%eval 1.92] } 20. N3d4 { [%eval 1.55] } 20... Bd7 { [%eval 1.72] } 21. Qf2? { [%eval -0.06] } 21... Nb2? { [%eval 1.06] } 22. Rde1 { [%eval 0.67] } 22... c5 { [%eval 1.01] } 23. Nf3? { [%eval -0.08] } 23... Qc7? { [%eval 1.76] } 24. h4? { [%eval -0.37] } 24... Bc6?? { [%eval 3.31] } 25. h5? { [%eval 1.41] } 25... Bd8?? { [%eval 4.53] } 26. N3h4?? { [%eval 1.53] } 26... Nf6? { [%eval 2.63] } 27. Ng6?? { [%eval -2.05] } 27... fxg6 { [%eval -1.84] } 28. hxg6 { [%eval -1.97] } 28... Ng4 { [%eval -1.83] } 29. Nxh6+? { [%eval -4.28] } 1-0
+

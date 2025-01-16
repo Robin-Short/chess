@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/P54gszxP"]
+[White "ChessPapa"]
+[Black "Vicious"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:14:43"]
+[WhiteElo "1556"]
+[BlackElo "1778"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Qf3 e6 5. d4 Nxc3 6. Qxc3 Nc6 7. Be3 Bb4 8. Qxb4 Nxb4 9. c3 Nc2+ 10. Kd2 Nxa1 11. Bb5+ c6 12. Bd3 Qb6 13. b4 a5 14. Nf3 axb4 15. Rxa1 bxc3+ 16. Kxc3 Qa5+ 17. Kc2 Qa4+ 18. Kc3 O-O 19. Bc2 Qa5+ 20. Kd3 Bd7 21. Bd2 Qa6+ 22. Ke3 b5 23. Bd3 f6 24. Rc1 e5 25. Nh4 exd4+ 26. Kxd4 Qa4+ 27. Ke3 Qxh4 28. Ke2 Rfe8+ 29. Kd1 Qxf2 30. Kc2 Bf5 31. Bxf5 Qxf5+ 32. Kc3 Re2 33. Rc2 Ra3+ 34. Kb2 Rxa2+ 35. Kxa2 Qxc2+ 36. Ka3 Rxd2 37. Kb4 Qc4+ 38. Ka5 Ra2+ 39. Kb6 b4 40. Kc7 b3 0-1
+

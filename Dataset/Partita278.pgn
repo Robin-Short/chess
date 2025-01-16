@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/R8vL6P2Z"]
+[Site "https://lichess.org/0TEI7TP3"]
+[White "amirsalarkhan"]
+[Black "sims86"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:06"]
+[WhiteElo "1639"]
+[BlackElo "1707"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Bf4 Qf6 7. Qxf6 Nxf6 8. e5 dxe5 9. Bxe5 Bb4+ 10. c3 Ba5 11. Bc4 O-O 12. Bxf6 g6 1-0
+

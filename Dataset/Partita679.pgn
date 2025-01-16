@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wiij0BO3"]
+[White "Rigoleto"]
+[Black "Markinhos"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:27:03"]
+[WhiteElo "1688"]
+[BlackElo "1771"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maroczy Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. f3 c6 3. d4 e6 4. e5 Be7 5. Bd3 f6 6. f4 g6 7. Nf3 c5 8. c3 cxd4 9. cxd4 Nc6 10. Nc3 Qb6 11. a3 Bd7 12. Na4 Qc7 13. Be3 Nh6 14. b4 Nf5 15. Bf2 fxe5 16. fxe5 O-O 17. Rc1 a6 18. Qd2 Qd8 19. Bxf5 exf5 20. h4 Kg7 21. Nc5 Bxc5 22. bxc5 f4 23. Ng5 Bf5 24. g4 Bxg4 25. Rg1 Bf5 26. Qxf4 Qa5+ 27. Qd2 Qxa3 28. h5 Nb4 29. Rc3 Qa1+ 30. Rc1 Nd3+ 31. Ke2 Nxc1+ 32. Rxc1 Qa3 0-1
+

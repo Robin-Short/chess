@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KIRRbVdP"]
+[White "payman7"]
+[Black "escalibut"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:02"]
+[WhiteElo "1936"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.29] } 2... Nc6 { [%eval 0.41] } 3. d4 { [%eval 0.22] } 3... cxd4 { [%eval 0.13] } 4. Nxd4 { [%eval 0.1] } 4... Nf6 { [%eval 0.26] } 5. Nc3 { [%eval 0.22] } 5... e6 { [%eval 0.37] } 6. Nxc6 { [%eval 0.06] } 6... bxc6 { [%eval 0.02] } 7. e5 { [%eval -0.06] } 7... Nd5 { [%eval -0.01] } 8. Ne4 { [%eval -0.12] } 8... Be7?! { [%eval 0.59] } 9. c4 { [%eval 0.56] } 9... Nb6?! { [%eval 1.06] } 10. Bd3 { [%eval 0.87] } 10... O-O { [%eval 1.15] } 11. O-O { [%eval 1.12] } 11... f5 { [%eval 0.88] } 12. exf6 { [%eval 1.09] } 12... Bxf6 { [%eval 0.93] } 13. Nxf6+ { [%eval 0.93] } 13... Qxf6 { [%eval 1.22] } 14. Qc2 { [%eval 1.1] } 14... h6 { [%eval 1.21] } 15. Bd2 { [%eval 1.31] } 15... d5 { [%eval 1.26] } 16. cxd5?! { [%eval 0.75] } 16... cxd5 { [%eval 0.7] } 17. Bc3 { [%eval 0.8] } 17... e5?! { [%eval 1.33] } 18. f4 { [%eval 1.41] } 18... d4? { [%eval 3.71] } 19. fxe5 { [%eval 3.69] } 19... Qxe5?? { [%eval #2] } 20. Bh7+ { [%eval #1] } 1-0
+

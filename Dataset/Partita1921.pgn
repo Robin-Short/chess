@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UbBnkgho"]
+[White "igor75bgd"]
+[Black "ALI29"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:28:06"]
+[WhiteElo "1636"]
+[BlackElo "1746"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-25"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O Bc5 6. c3 d6 7. b4 Bb6 8. a4 a6 9. b5 axb5 10. Bxb5 Bd7 11. Bb2 O-O 12. Nbd2 Ne7 13. Bxd7 Qxd7 14. Nc4 Ba7 15. Re1 Ng6 16. Bc1 Ng4 17. Re2 Nf4 18. Bxf4 exf4 19. h3 Nf6 20. d4 Nh5 21. e5 d5 22. Ncd2 Ng3 23. fxg3 fxg3 24. Qe1 c5 25. Qxg3 cxd4 26. cxd4 Rac8 27. Kh1 Rc2 28. Rae1 Qxa4 29. Nh4 Bxd4 30. Nf5 g6 31. Nxh6+ Kh7 32. Qh4 Rh8 33. Nf5+ Kg8 34. Qxd4 Qxd4 35. Nxd4 Rc3 36. e6 fxe6 37. Rxe6 Rd3 38. N2f3 b5 39. Re8+ Kg7 40. R1e7+ Kf6 41. Rxh8 Kxe7 42. Rb8 1-0
+

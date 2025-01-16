@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E94NVkcT"]
+[White "usuario822014"]
+[Black "Genex"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:25"]
+[WhiteElo "1680"]
+[BlackElo "1660"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nf3 Nxc3 5. dxc3 Qxd1+ 6. Kxd1 Bg4 7. Be2 Nc6 8. Nd4 Bxe2+ 9. Kxe2 Nxd4+ 10. cxd4 O-O-O 11. Be3 a6 12. c4 h6 13. a4 e6 14. c5 c6 15. Bf4 f6 16. Be3 g5 17. b4 f5 18. g3 Bg7 19. Rhd1 f4 20. gxf4 gxf4 21. Bxf4 Bxd4 22. Ra3 Rhf8 23. Rf3 e5 24. Bxh6 Rxf3 25. Kxf3 Rh8 26. Be3 Bxe3 27. Kxe3 Rxh2 28. Rd6 Kc7 29. Re6 Rh3+ 30. Ke4 Rh4+ 31. Kxe5 Rxb4 32. f4 Rxa4 33. f5 Ra1 34. f6 Re1+ 35. Kf5 Rf1+ 36. Kg6 Kd7 37. Re7+ Kd8 38. Rxb7 Rg1+ 39. Kf7 Rh1 40. Rb6 a5 41. Rxc6 Rh7+ 42. Kg6 Ra7 43. Rb6 Ra8 44. f7 Ke7 45. Rb7+ Ke6 46. c6 Kd6 47. c7 Kd7 48. c8=Q+ 1-0
+

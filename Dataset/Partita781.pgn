@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/18linJpw"]
+[White "vadimdim"]
+[Black "favara"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:37"]
+[WhiteElo "1558"]
+[BlackElo "1284"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Fischer Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 Bg4 5. Bxf4 Qf6 6. Bg5 Bxf3 7. Bxf6 Bxd1 8. Bxg7 Bxg7 9. Kxd1 Bxd4 10. c3 Bf2 11. Nd2 Nf6 12. Bd3 Rg8 13. g3 Ng4 14. Be2 Ne3+ 15. Kc1 d5 16. b3 dxe4 17. Nxe4 Nd5 18. Nxf2 Nxc3 19. Kc2 Nxe2 20. Rae1 Kd7 21. Rxe2 Nc6 22. Rd1+ Kc8 23. Ne4 Rd8 24. Red2 Rxd2+ 25. Rxd2 b5 26. Nc5 Nb4+ 27. Kc3 Nc6 28. Rd7 b4+ 29. Kb2 Ne5 30. Re7 c6 31. Rxe5 Kc7 32. Nd3 Rd8 33. Nxb4 Rd2+ 34. Kc3 Rxh2 35. Re7+ Kd6 36. Rxf7 h5 37. Rxa7 Rh3 38. Rg7 h4 39. Nd3 Rxg3 40. Kd4 Rxg7 41. Ne1 h3 42. Nf3 1-0
+

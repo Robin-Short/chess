@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RNWA3qpG"]
+[White "ribarisah"]
+[Black "sezwho"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:10"]
+[WhiteElo "1970"]
+[BlackElo "2073"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 { [%eval -0.32] } 1... d5 { [%eval -0.09] } 2. Bg2 { [%eval -0.29] } 2... Bh3?? { [%eval 3.74] } 3. Nf3?? { [%eval -4.15] } 3... Bxg2 { [%eval -4.02] } 4. Rg1 { [%eval -4.21] } 4... Bxf3 { [%eval -4.13] } 5. exf3 { [%eval -4.18] } 5... e5 { [%eval -3.87] } 6. Kf1 { [%eval -4.18] } 6... Nc6 { [%eval -4.07] } 7. Kg2 { [%eval -4.15] } 7... Qd7 { [%eval -3.94] } 8. d3 { [%eval -4.27] } 8... O-O-O { [%eval -4.35] } 9. Re1 { [%eval -4.47] } 9... f6 { [%eval -4.31] } 10. a4 { [%eval -4.54] } 10... h5 { [%eval -4.59] } 11. a5?! { [%eval -5.22] } 11... h4 { [%eval -4.98] } 12. a6? { [%eval -7.28] } 12... hxg3 { [%eval -7.24] } 13. hxg3? { [%eval #-2] } 13... Qh3+ { [%eval #-1] } 0-1
+

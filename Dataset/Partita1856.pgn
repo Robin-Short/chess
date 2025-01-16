@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4sYdSwiF"]
+[White "Bill-Hicks"]
+[Black "falsoreti"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:49"]
+[WhiteElo "1575"]
+[BlackElo "1413"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 d5 4. Bb3 d4 5. c4 Be6 6. Nd2 Nc6 7. Ndf3 a6 8. Ne2 Bd6 9. Bc2 Qd7 10. Ng3 h6 11. Bd2 g5 12. Qc1 g4 13. Ng1 O-O-O 14. Bxh6 Rh7 15. Bg5 Be7 16. Bxf6 Bxf6 17. Ba4 Bh8 18. Bxc6 Qxc6 19. b4 b6 20. a4 Qa8 21. b5 a5 22. N3e2 f5 23. Qg5 f4 24. Qg6 Re7 25. h3 f3 26. gxf3 gxf3 27. Ng3 Kb7 28. Nf5 Rg8 29. Qh5 Bf6 30. Nxe7 Bxe7 31. Qxf3 Qe8 32. Qe2 Bb4+ 33. Kd1 Qg6 34. Nf3 Qg2 35. Kc2 Rg3 36. Rag1 Qxf3 37. Qxf3 Rxf3 38. Rg7 Rxf2+ 39. Kb3 Rd2 40. Rhg1 Rxd3+ 41. Kb2 Re3 42. R1g6 Bxh3 43. Rh6 Rd3 44. Rhh7 Bc8 45. Rxc7+ Kb8 46. Ra7 Bc3+ 47. Kc2 Rd2+ 48. Kc1 d3 49. Rag7 Rc2+ 50. Kd1 Ra2 51. Rg8 Ra1# 0-1
+

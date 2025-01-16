@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/bo3uS6ZF"]
+[White "sabou"]
+[Black "tehmeh"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:12"]
+[WhiteElo "1498"]
+[BlackElo "1695"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+24"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.36] } 2. Nc3 { [%eval 0.33] } 2... d6 { [%eval 0.29] } 3. Nf3 { [%eval 0.3] } 3... Bg4 { [%eval 0.61] } 4. h3 { [%eval 0.53] } 4... Bh5 { [%eval 0.81] } 5. d3 { [%eval 0.37] } 5... Qa5?! { [%eval 1.36] } 6. g4 { [%eval 1.25] } 6... Bg6 { [%eval 1.36] } 7. Ng5?! { [%eval 0.65] } 7... h6 { [%eval 0.51] } 8. Nf3 { [%eval 0.48] } 8... Bh7 { [%eval 0.78] } 9. Bf4 { [%eval 0.7] } 9... e6 { [%eval 0.85] } 10. Nh4?? { [%eval -2.3] } 10... g6? { [%eval 0.45] } 11. d4? { [%eval -0.88] } 11... g5 { [%eval -0.71] } 12. Bg3? { [%eval -3.6] } 12... cxd4?? { [%eval 0.73] } 13. Nf3?? { [%eval -4.82] } 13... dxc3 { [%eval -4.79] } 14. bxc3? { [%eval -5.8] } 14... Bg7?! { [%eval -5.23] } 15. Qxd6?? { [%eval -10.58] } 15... Bxc3+? { [%eval -8.85] } 16. Kd1?! { [%eval -9.69] } 16... Bxa1 { [%eval -9.35] } 17. Ne5?! { [%eval -10.72] } 17... Bxe4 { [%eval -10.46] } 18. Be2 { [%eval -15.24] } 18... Qa4 { [%eval -10.33] } 19. Kd2 { [%eval -16.04] } 19... Qxc2+ { [%eval -16.21] } 20. Ke3 { [%eval -16.83] } 20... Qc3+ { [%eval -12.41] } 21. Kxe4?! { [%eval #-1] } 21... Nf6# 0-1
+

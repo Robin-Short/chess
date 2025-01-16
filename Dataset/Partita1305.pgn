@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/V4OqO31q"]
+[White "alto"]
+[Black "ehpotsirhk"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:54"]
+[WhiteElo "1367"]
+[BlackElo "1396"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 e6 5. Ne5 Nc6 6. Nxc6 bxc6 7. Nc3 Bb4 8. Bd3 Nf6 9. a3 Ba5 10. b4 Bb6 11. Be3 O-O 12. O-O Nd7 13. Qh5 Nf6 14. Bxh7+ Nxh7 15. Ne2 Nf6 16. Qf3 Ne4 17. Nf4 Qf6 18. g3 e5 19. dxe5 Qxe5 20. Bxb6 axb6 21. Rae1 Nd2 22. Qe3 Qxe3 23. fxe3 Nxf1 24. Rxf1 Bh3 25. Nxh3 Rfe8 26. Re1 d4 27. e4 Rad8 28. Nf4 Re5 29. h4 Rde8 30. Rd1 c5 31. bxc5 bxc5 32. a4 Rxe4 33. a5 Re1+ 34. Rxe1 Rxe1+ 35. Kf2 Ra1 36. g4 Rxa5 37. Ke2 Ra3 38. Kd2 c4 39. Nd5 c3+ 40. Kd3 Kf8 41. g5 f6 42. gxf6 gxf6 43. Nxf6 Kf7 44. Ne4 Ra4 45. h5 Kg7 46. Nc5 Rb4 47. Nb3 Rb5 48. Nxd4 Rxh5 49. Kxc3 Rh3+ 50. Kd2 Kf6 51. c3 Ke5 52. Nb3 Kd5 53. Kc2 Kc4 54. Nd2+ Kc5 55. Kb3 Kb5 56. Nb1 Kc5 57. Nd2 Rd3 58. Ne4+ Kd5 59. Nf6+ Ke5 60. Nd7+ Kd6 61. Nb6 Kc5 62. Na4+ Kd5 63. Kb4 Kc6 64. c4 Rh3 65. Nc3 Rh4 66. Nb5 Kb6 67. Nd6 Kc6 68. Nb5 Kb6 69. Nc3 Kc6 70. Nd5 Kd6 71. Nb6 Kc6 72. Na4 Kd6 73. Nc3 Kc6 1/2-1/2
+

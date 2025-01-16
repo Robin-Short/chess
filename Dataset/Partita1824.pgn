@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/pP75Ej4R"]
+[White "AI-I"]
+[Black "Dolce_Denise"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:03"]
+[WhiteElo "1467"]
+[BlackElo "1688"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-18"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. f4 b6 3. Nf3 Bb7 4. Nc3 Nf6 5. Bd3 d6 6. O-O Kd7 7. Be2 Be7 8. d4 Nxe4 9. Nxe4 Bxe4 10. c3 Bb7 11. Ng5 h6 12. Nxf7 Qf8 13. Nxh8 Qxh8 14. Bf3 d5 15. Bd2 c5 16. Qe2 Qg8 17. Rae1 Bf6 18. Bg4 Nc6 19. Bxe6+ Qxe6 20. Qxe6+ Kc7 21. f5 a6 22. dxc5 bxc5 23. Bf4+ Kb6 24. Qxd5 Na5 25. Qd6+ Nc6 26. Re6 Rc8 27. b4 1-0
+

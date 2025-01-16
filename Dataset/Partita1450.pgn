@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/chkETttr"]
+[White "marqeuz"]
+[Black "DankoJ"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:44"]
+[WhiteElo "1586"]
+[BlackElo "1815"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation, Albin Gambit"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. c3 Nxe4 6. d4 exd4 7. cxd4 Bb4 8. a3 Ba5 9. b4 Bb6 10. Re1 d5 11. Nbd2 O-O 12. Nxe4 dxc4 13. d5 Ne7 14. Nc3 Bg4 15. Qe2 Nf5 16. Qxc4 Bxf3 17. gxf3 Qf6 18. Bb2 Nh4 0-1
+

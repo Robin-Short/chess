@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8YZqRYu6"]
+[White "explodecomputer"]
+[Black "spojar"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:05"]
+[WhiteElo "1967"]
+[BlackElo "2090"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 Nf6 3. Nc3 e5 4. d4 exd4 5. Nxd4 c6 6. Bd3 Be7 7. O-O O-O 8. Be3 b5 9. Nce2 Ng4 10. Qd2 Nxe3 11. Qxe3 Qc7 12. f4 Nd7 13. Nf3 Nc5 14. Rad1 Re8 15. Ng3 Bf8 16. Qd2 Nxd3 17. cxd3 Bg4 18. Rc1 Qb6+ 19. Kh1 Bxf3 20. Rxf3 a5 21. d4 c5 22. dxc5 dxc5 23. Rfc3 Rad8 24. Qf2 b4 25. Rc4 Qd6 26. e5 Qd5 27. Ne4 f5 28. Nxc5 Qd1+ 29. Qg1 Qxg1+ 30. Kxg1 Bxc5+ 31. Rxc5 Rd2 32. R1c2 Rd4 33. g3 a4 34. R5c4 b3 35. axb3 axb3 36. Rxd4 bxc2 37. Rc4 g5 38. Rxc2 gxf4 39. gxf4 Rb8 40. Kf2 Rb3 41. Re2 Kf7 42. Rc2 Ke6 43. Rc6+ Kd5 44. Rh6 Rxb2+ 45. Kg3 Rb3+ 46. Kh4 Rb1 47. Kg5 Ke4 48. Rxh7 Rg1+ 49. Kf6 Kxf4 50. e6 Re1 51. Rh4+ Kf3 52. Kxf5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wRf9t3XB"]
+[White "ArmandoPeaEdoMex"]
+[Black "CologneHommeSport"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:45"]
+[WhiteElo "1359"]
+[BlackElo "1190"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "1500+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... c5 { [%eval 0.31] } 2. Nc3 { [%eval 0.26] } 2... b6 { [%eval 0.67] } 3. Nb5?! { [%eval 0.16] } 3... Nc6 { [%eval 0.05] } 4. Qf3?! { [%eval -0.69] } 4... e5 { [%eval -0.31] } 5. Bc4 { [%eval -0.32] } 5... f6?! { [%eval 0.25] } 6. Qb3 { [%eval -0.08] } 6... Nh6 { [%eval 0.0] } 7. Bf7+?? { [%eval -4.48] } 7... Nxf7 { [%eval -4.52] } 8. Nf3 { [%eval -4.61] } 8... Be7 { [%eval -4.46] } 9. Nh4?! { [%eval -5.25] } 9... O-O { [%eval -4.87] } 10. Nf5 { [%eval -5.03] } 10... d6 { [%eval -4.83] } 11. Nh4?! { [%eval -5.77] } 11... a6 { [%eval -5.67] } 12. Nc3?? { [%eval -9.79] } 12... Kh8?? { [%eval -4.89] } 13. O-O?? { [%eval -8.06] } 13... Ng5?? { [%eval -4.51] } 14. Nd5 { [%eval -4.79] } 14... Nd4 { [%eval -4.55] } 15. Qxb6 { [%eval -4.54] } 15... Qd7?! { [%eval -3.98] } 16. f4?? { [%eval -7.81] } 16... Ne2+?? { [%eval -4.33] } 17. Kh1 { [%eval -4.6] } 17... Bb7? { [%eval -2.94] } 18. fxg5? { [%eval -5.06] } 18... fxg5 { [%eval -5.01] } 19. Nf5?? { [%eval -9.5] } 19... g6?? { [%eval -3.14] } 20. Ndxe7 { [%eval -3.47] } 20... gxf5 { [%eval -3.62] } 21. Nxf5?? { [%eval -7.03] } 21... Bxe4 { [%eval -6.89] } 22. Qxd6?? { [%eval #-10] } 22... Qxd6?! { [%eval -13.23] } 23. Ne3?! { [%eval #-4] } 23... Rf7?? { [%eval -6.58] } 24. b3?? { [%eval #-5] } 24... Raf8?! { [%eval #-7] } 25. Bb2 { [%eval #-7] } 25... Qxd2 { [%eval #-6] } 26. Bxe5+ { [%eval #-6] } 26... Kg8 { [%eval #-5] } 27. Ng4 { [%eval #-2] } 27... Ng3+ { [%eval #-1] } 28. hxg3 { [%eval #-1] } 28... Bxg2+?! { [%eval #-4] } 29. Kh2 { [%eval #-3] } 29... Bxf1+ { [%eval #-2] } 30. Kg1 { [%eval #-1] } 30... Qg2# 0-1
+

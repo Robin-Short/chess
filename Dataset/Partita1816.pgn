@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cEl8anOG"]
+[White "GATOFELIX"]
+[Black "felix777"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:21:15"]
+[WhiteElo "1566"]
+[BlackElo "1664"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+5"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nd2 g6 4. c4 Bg7 5. Ne2 e6 6. f4 Ne7 7. e5 d6 8. Nf3 Bxf3 9. gxf3 d5 10. b3 dxc4 11. bxc4 O-O 12. Ng3 Nec6 13. Bb2 Qd7 14. h4 h5 15. Ne4 Rd8 16. Nf6+ Bxf6 17. exf6 Nxd4 18. f5 Nxf5 19. Qc1 Nc6 20. Bh3 Ncd4 21. Bxf5 Nxf5 22. O-O Qd2 23. Qxd2 Rxd2 24. Bc3 Rc2 25. Rac1 Rxa2 26. Bb4 c5 27. Bc3 Ra3 28. Rfd1 Nxh4 29. Kf2 Ra2+ 30. Rd2 Rxd2+ 31. Bxd2 Rd8 32. Rd1 Rd7 33. Ke2 Nf5 34. Bf4 Rxd1 35. Kxd1 a6 36. Ke2 b5 37. cxb5 axb5 38. Kd3 h4 39. Kc3 h3 40. Kd3 Nh4 41. Ke3 c4 42. Bg5 Nf5+ 43. Kf2 Kf8 44. Kg1 Nd4 45. Kf2 b4 46. Ke3 Nf5+ 47. Kd2 h2 0-1
+

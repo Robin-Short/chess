@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6pbPCLos"]
+[White "musalipov"]
+[Black "uashenka072"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:22"]
+[WhiteElo "1781"]
+[BlackElo "1727"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 e6 5. g4 Ne7 6. gxf5 Nxf5 7. Nf3 Qb6 8. c3 c5 9. Bd3 cxd4 10. Bxf5 exf5 11. cxd4 Bb4+ 12. Nc3 Nc6 13. Be3 O-O-O 14. Qd3 Be7 15. a3 Qxb2 16. O-O Qb6 17. Rab1 Qc7 18. Rfc1 Bxa3 19. Nb5 Bxc1 20. Nxc7 Kxc7 21. Rxc1 g6 22. Bf4 Kd7 23. e6+ Kxe6 24. Qe3+ Kf6 25. Be5+ 1-0
+

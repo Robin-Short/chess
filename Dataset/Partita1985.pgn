@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JainhNGQ"]
+[White "molinerov"]
+[Black "ujura"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:32:04"]
+[WhiteElo "1832"]
+[BlackElo "2026"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d3 g6 2. g3 Bg7 3. Bg2 e6 4. Nf3 Ne7 5. O-O O-O 6. Nc3 d6 7. Qd2 Nbc6 8. b3 e5 9. Bb2 f5 10. Rab1 h6 11. e4 g5 12. exf5 Bxf5 13. Ne4 Qd7 14. Rbe1 Bg4 15. Re3 d5 16. Nc5 Qd6 17. Ba3 Qd7 18. Qc1 d4 19. Nxd4 Qxd4 20. Re4 Qd8 21. Rxg4 Nf5 22. Ne6 Qf6 23. Nxf8 Rxf8 24. Bxf8 Bxf8 25. Rc4 Be7 26. Bd5+ Kg7 27. Qb2 Nfd4 28. c3 Nf3+ 29. Bxf3 Qxf3 30. d4 exd4 31. cxd4 Bf6 32. Qd2 Qf5 33. d5 Ne5 34. Rc3 Nf3+ 35. Rxf3 Qxf3 36. Qd1 Qf5 37. Qe1 Be5 38. Qe2 Bd6 39. Qc4 Qf6 40. Qb5 b6 41. Qd7+ Qf7 42. Qc8 Qxd5 43. Qg4 Qf7 44. Qd1 Qg6 45. Re1 Qf6 46. Re7+ Qxe7 47. Qf1 Qf6 48. Qd3 Be5 49. Qd1 Bd6 50. Qe1 Bc5 51. Qe7+ Qxe7 52. Kg2 Qf6 53. h3 Qxf2+ 54. Kh1 Qg1# 0-1
+

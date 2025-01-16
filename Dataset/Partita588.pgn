@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YandbSCW"]
+[White "ves"]
+[Black "VEGETAL"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:42"]
+[WhiteElo "1788"]
+[BlackElo "1735"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 f6 2. c4 e6 3. e3 d5 4. Nf3 dxc4 5. Bxc4 c6 6. a3 b5 7. Bb3 Bb7 8. Bc2 Nd7 9. Nbd2 Nb6 10. b4 Nc4 11. Nxc4 bxc4 12. Qe2 Ba6 13. Kf1 Qc8 14. Kg1 c3 15. Bd3 Bxd3 16. Qxd3 a5 17. Qxc3 a4 18. Bb2 Bd6 19. h3 Ne7 20. Rc1 O-O 21. Qd3 Qd7 22. Qd1 Rac8 23. Qe2 Nd5 24. g3 Nb6 25. Kg2 h5 26. Rhd1 g5 27. Ng1 f5 28. Ba1 Rf6 29. Qxh5 Qf7 30. Qxg5+ Qg7 31. Qxg7+ Kxg7 32. Nf3 Rg6 33. Ne5 Bxe5 34. dxe5 Rg8 35. Rxc6 Nd5 36. Bd4 Ne7 37. Rc7 Re8 38. Bc5 Kf8 39. Bxe7+ Rxe7 40. Rd8+ Re8 41. Rxe8+ Kxe8 42. h4 Rh6 43. Kf3 Rh8 44. Ke2 Rh6 45. Rc8+ Kd7 46. Rb8 Rh7 47. Rb7+ Kc6 48. Rxh7 Kd5 49. Rh6 Kc4 50. Rf6 Kb3 51. Rxe6 Kxa3 52. Ra6 Kxb4 0-1
+

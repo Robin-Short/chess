@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/lncd1BCJ"]
+[White "tosquiman1"]
+[Black "1962"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:46"]
+[WhiteElo "1444"]
+[BlackElo "1549"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 d5 3. exd6 cxd6 4. d4 d5 5. Nf3 Nc6 6. Bb5 Ne7 7. Ne5 Ng6 8. Nxc6 Qa5+ 9. Nc3 bxc6 10. Bxc6+ Bd7 11. Bxa8 Bb4 12. O-O Bxc3 13. bxc3 Qxc3 14. Bd2 O-O 15. Bb7 Qxd4 16. c3 Qf6 17. Rb1 Nh4 18. g3 Qg6 19. Bf4 Bb5 20. Re1 Bc4 21. a4 f6 22. Rxe6 d4 23. Rc6 Nf3+ 24. Qxf3 Qxb1+ 25. Kg2 Qf1# 0-1
+

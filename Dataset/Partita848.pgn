@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HU8wduAB"]
+[White "Sevastopol26"]
+[Black "BadBeat"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:27"]
+[WhiteElo "1500"]
+[BlackElo "1475"]
+[WhiteRatingDiff "-188"]
+[BlackRatingDiff "+8"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Mengarini's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. a3 e5 2. e4 Bc5 3. Nf3 Qf6 4. Bc4 Nc6 5. O-O Nh6 6. d3 Nd4 7. c3 Nxf3+ 8. gxf3 Qg6+ 9. Kh1 d6 10. Rg1 Qh5 11. Nd2 Bxf2 12. Rg2 Be3 13. Rxg7 Rg8 14. Rxh7 Bh3 15. Nf1 Bg5 16. Bxg5 Qxg5 17. Ng3 Qg6 18. Bxf7+ Nxf7 19. Rxh3 Ng5 20. Rh5 Rf8 21. Kg2 O-O-O 22. Qg1 Rf7 23. Qxa7 c6 24. Rf1 Rdf8 25. Nf5 Nxe4+ 26. Kh1 Qxh5 27. Qa8+ Kc7 28. Qa5+ Kb8 29. Ng3 Nxg3+ 30. Kg2 Nxf1 31. Kxf1 Rxf3+ 32. Ke1 Qh4+ 33. Kd2 Qf2+ 34. Kc1 Qe3+ 35. Kc2 Rf2+ 36. Kb3 Qxd3 37. h4 Qc2+ 38. Ka2 Qxb2# 0-1
+

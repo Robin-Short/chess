@@ -1,0 +1,1023 @@
+
+PATTA per 50 mosse senza mangiare.      464   mosse,    0.905     s
+PATTA per 50 mosse senza mangiare.      322   mosse,    0.722     s
+PATTA per 50 mosse senza mangiare.      246   mosse,    0.67      s
+PATTA per 50 mosse senza mangiare.      308   mosse,    0.769     s
+PATTA per 50 mosse senza mangiare.      318   mosse,    0.968     s
+PATTA per 50 mosse senza mangiare.      371   mosse,    1.233     s
+PATTA per 50 mosse senza mangiare.      327   mosse,    1.022     s
+Vince il BIANCO.                        145   mosse,    0.534     s
+PATTA per 50 mosse senza mangiare.      317   mosse,    0.674     s
+PATTA per 50 mosse senza mangiare.      308   mosse,    0.737     s
+PATTA per 50 mosse senza mangiare.      344   mosse,    0.848     s
+STALLO.                                 261   mosse,    0.764     s
+STALLO.                                 192   mosse,    0.546     s
+STALLO.                                 304   mosse,    0.773     s
+PATTA per 50 mosse senza mangiare.      412   mosse,    0.958     s
+PATTA per 50 mosse senza mangiare.      310   mosse,    0.627     s
+PATTA per 50 mosse senza mangiare.      298   mosse,    0.671     s
+PATTA per 50 mosse senza mangiare.      255   mosse,    0.686     s
+Vince il BIANCO.                        167   mosse,    0.621     s
+PATTA per 50 mosse senza mangiare.      350   mosse,    0.733     s
+PATTA per 50 mosse senza mangiare.      294   mosse,    0.588     s
+PATTA per 50 mosse senza mangiare.      331   mosse,    0.788     s
+PATTA per 50 mosse senza mangiare.      173   mosse,    0.587     s
+PATTA per 50 mosse senza mangiare.      352   mosse,    0.675     s
+PATTA per 50 mosse senza mangiare.      276   mosse,    0.576     s
+PATTA per 50 mosse senza mangiare.      258   mosse,    0.657     s
+PATTA per 50 mosse senza mangiare.      242   mosse,    0.641     s
+STALLO.                                 184   mosse,    0.669     s
+STALLO.                                 247   mosse,    0.653     s
+PATTA per 50 mosse senza mangiare.      322   mosse,    0.875     s
+Vince il BIANCO.                        105   mosse,    0.393     s
+Vince il NERO.                          116   mosse,    0.48      s
+PATTA per 50 mosse senza mangiare.      332   mosse,    0.642     s
+PATTA per 50 mosse senza mangiare.      303   mosse,    0.791     s
+STALLO.                                 209   mosse,    0.593     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.808     s
+PATTA per 50 mosse senza mangiare.      426   mosse,    0.926     s
+PATTA per 50 mosse senza mangiare.      358   mosse,    0.965     s
+PATTA per 50 mosse senza mangiare.      340   mosse,    0.727     s
+PATTA per 50 mosse senza mangiare.      280   mosse,    0.644     s
+PATTA per 50 mosse senza mangiare.      325   mosse,    0.908     s
+PATTA per 50 mosse senza mangiare.      328   mosse,    0.764     s
+Vince il NERO.                          114   mosse,    0.485     s
+PATTA per 50 mosse senza mangiare.      367   mosse,    0.859     s
+PATTA per 50 mosse senza mangiare.      333   mosse,    0.798     s
+PATTA per 50 mosse senza mangiare.      302   mosse,    0.854     s
+Vince il NERO.                          86    mosse,    0.401     s
+PATTA per 50 mosse senza mangiare.      186   mosse,    0.506     s
+STALLO.                                 252   mosse,    0.692     s
+PATTA per 50 mosse senza mangiare.      330   mosse,    0.829     s
+Vince il NERO.                          66    mosse,    0.304     s
+Vince il BIANCO.                        193   mosse,    0.655     s
+PATTA per 50 mosse senza mangiare.      218   mosse,    0.764     s
+Vince il BIANCO.                        127   mosse,    0.472     s
+PATTA per 50 mosse senza mangiare.      292   mosse,    0.595     s
+PATTA per 50 mosse senza mangiare.      336   mosse,    0.821     s
+PATTA per 50 mosse senza mangiare.      326   mosse,    0.85      s
+Vince il BIANCO.                        37    mosse,    0.171     s
+PATTA per 50 mosse senza mangiare.      195   mosse,    0.629     s
+PATTA per 50 mosse senza mangiare.      320   mosse,    0.719     s
+PATTA per 50 mosse senza mangiare.      354   mosse,    0.786     s
+Vince il NERO.                          194   mosse,    0.597     s
+PATTA per 50 mosse senza mangiare.      318   mosse,    0.927     s
+PATTA per 50 mosse senza mangiare.      300   mosse,    0.827     s
+PATTA per 50 mosse senza mangiare.      356   mosse,    0.696     s
+PATTA per 50 mosse senza mangiare.      392   mosse,    0.902     s
+PATTA per 50 mosse senza mangiare.      336   mosse,    0.797     s
+PATTA per 50 mosse senza mangiare.      396   mosse,    0.9       s
+PATTA per 50 mosse senza mangiare.      245   mosse,    0.747     s
+PATTA per 50 mosse senza mangiare.      318   mosse,    0.865     s
+PATTA per 50 mosse senza mangiare.      284   mosse,    0.759     s
+Vince il BIANCO.                        79    mosse,    0.386     s
+PATTA per 50 mosse senza mangiare.      321   mosse,    0.85      s
+PATTA per 50 mosse senza mangiare.      328   mosse,    0.632     s
+PATTA per 50 mosse senza mangiare.      276   mosse,    0.752     s
+PATTA per 50 mosse senza mangiare.      293   mosse,    0.624     s
+PATTA per 50 mosse senza mangiare.      353   mosse,    0.795     s
+PATTA per 50 mosse senza mangiare.      359   mosse,    1.077     s
+PATTA per 50 mosse senza mangiare.      335   mosse,    0.795     s
+PATTA per 50 mosse senza mangiare.      318   mosse,    0.785     s
+PATTA per 50 mosse senza mangiare.      261   mosse,    0.681     s
+PATTA per 50 mosse senza mangiare.      297   mosse,    0.776     s
+PATTA per 50 mosse senza mangiare.      186   mosse,    0.604     s
+PATTA per 50 mosse senza mangiare.      329   mosse,    0.802     s
+PATTA per 50 mosse senza mangiare.      307   mosse,    0.846     s
+Vince il NERO.                          264   mosse,    0.78      s
+PATTA per 50 mosse senza mangiare.      317   mosse,    0.84      s
+PATTA per 50 mosse senza mangiare.      203   mosse,    0.508     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.928     s
+Vince il BIANCO.                        197   mosse,    0.661     s
+STALLO.                                 327   mosse,    0.896     s
+PATTA per 50 mosse senza mangiare.      386   mosse,    0.972     s
+PATTA per 50 mosse senza mangiare.      360   mosse,    0.962     s
+Vince il NERO.                          92    mosse,    0.456     s
+PATTA per 50 mosse senza mangiare.      301   mosse,    0.834     s
+PATTA per 50 mosse senza mangiare.      444   mosse,    1.185     s
+Vince il BIANCO.                        145   mosse,    0.505     s
+Vince il BIANCO.                        287   mosse,    0.882     s
+PATTA per 50 mosse senza mangiare.      256   mosse,    0.616     s
+PATTA per 50 mosse senza mangiare.      331   mosse,    0.847     s
+STALLO.                                 283   mosse,    0.774     s
+PATTA per 50 mosse senza mangiare.      293   mosse,    0.717     s
+PATTA per 50 mosse senza mangiare.      472   mosse,    0.875     s
+PATTA per 50 mosse senza mangiare.      236   mosse,    0.56      s
+PATTA per 50 mosse senza mangiare.      312   mosse,    0.825     s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.717     s
+PATTA per 50 mosse senza mangiare.      355   mosse,    0.747     s
+PATTA per 50 mosse senza mangiare.      277   mosse,    0.759     s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.711     s
+PATTA per 50 mosse senza mangiare.      253   mosse,    0.824     s
+Vince il BIANCO.                        119   mosse,    0.465     s
+PATTA per 50 mosse senza mangiare.      229   mosse,    0.713     s
+PATTA per 50 mosse senza mangiare.      332   mosse,    0.871     s
+PATTA per 50 mosse senza mangiare.      321   mosse,    1.045     s
+PATTA per 50 mosse senza mangiare.      329   mosse,    0.789     s
+PATTA per 50 mosse senza mangiare.      296   mosse,    0.833     s
+PATTA per ripetizione.                  290   mosse,    0.803     s
+PATTA per 50 mosse senza mangiare.      348   mosse,    0.774     s
+PATTA per 50 mosse senza mangiare.      236   mosse,    0.719     s
+PATTA per 50 mosse senza mangiare.      228   mosse,    0.773     s
+PATTA per 50 mosse senza mangiare.      307   mosse,    0.836     s
+PATTA per 50 mosse senza mangiare.      236   mosse,    0.709     s
+PATTA per 50 mosse senza mangiare.      338   mosse,    0.712     s
+PATTA per 50 mosse senza mangiare.      236   mosse,    0.701     s
+PATTA per 50 mosse senza mangiare.      379   mosse,    0.834     s
+PATTA per 50 mosse senza mangiare.      279   mosse,    0.57      s
+PATTA per 50 mosse senza mangiare.      230   mosse,    0.694     s
+PATTA per 50 mosse senza mangiare.      219   mosse,    0.626     s
+PATTA per 50 mosse senza mangiare.      396   mosse,    0.796     s
+PATTA per 50 mosse senza mangiare.      261   mosse,    0.806     s
+PATTA per 50 mosse senza mangiare.      270   mosse,    0.812     s
+Vince il NERO.                          136   mosse,    0.442     s
+PATTA per 50 mosse senza mangiare.      291   mosse,    0.77      s
+PATTA per 50 mosse senza mangiare.      421   mosse,    0.949     s
+PATTA per 50 mosse senza mangiare.      357   mosse,    0.801     s
+PATTA per 50 mosse senza mangiare.      288   mosse,    0.723     s
+Vince il NERO.                          92    mosse,    0.434     s
+PATTA per 50 mosse senza mangiare.      334   mosse,    0.695     s
+PATTA per 50 mosse senza mangiare.      296   mosse,    0.648     s
+PATTA per 50 mosse senza mangiare.      361   mosse,    0.845     s
+PATTA per 50 mosse senza mangiare.      277   mosse,    0.812     s
+PATTA per 50 mosse senza mangiare.      239   mosse,    0.612     s
+PATTA per 50 mosse senza mangiare.      175   mosse,    0.614     s
+PATTA per 50 mosse senza mangiare.      269   mosse,    0.86      s
+PATTA per 50 mosse senza mangiare.      288   mosse,    0.747     s
+PATTA per 50 mosse senza mangiare.      403   mosse,    1.04      s
+Vince il BIANCO.                        251   mosse,    1.108     s
+PATTA per 50 mosse senza mangiare.      376   mosse,    1.125     s
+Vince il NERO.                          158   mosse,    0.779     s
+PATTA per 50 mosse senza mangiare.      204   mosse,    0.788     s
+Vince il NERO.                          228   mosse,    0.703     s
+Vince il BIANCO.                        195   mosse,    0.833     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    1.146     s
+PATTA per 50 mosse senza mangiare.      345   mosse,    1.378     s
+STALLO.                                 219   mosse,    0.819     s
+PATTA per 50 mosse senza mangiare.      353   mosse,    1.115     s
+PATTA per 50 mosse senza mangiare.      223   mosse,    0.824     s
+PATTA per 50 mosse senza mangiare.      257   mosse,    0.898     s
+STALLO.                                 302   mosse,    1.159     s
+PATTA per ripetizione.                  257   mosse,    1.234     s
+PATTA per 50 mosse senza mangiare.      251   mosse,    0.808     s
+PATTA per 50 mosse senza mangiare.      290   mosse,    0.847     s
+PATTA per 50 mosse senza mangiare.      386   mosse,    1.014     s
+PATTA per 50 mosse senza mangiare.      414   mosse,    1.046     s
+PATTA per 50 mosse senza mangiare.      283   mosse,    1.035     s
+PATTA per 50 mosse senza mangiare.      217   mosse,    0.826     s
+PATTA per 50 mosse senza mangiare.      196   mosse,    0.866     s
+Vince il NERO.                          284   mosse,    0.8       s
+PATTA per 50 mosse senza mangiare.      345   mosse,    1.001     s
+Vince il NERO.                          88    mosse,    0.434     s
+PATTA per 50 mosse senza mangiare.      242   mosse,    0.818     s
+PATTA per 50 mosse senza mangiare.      206   mosse,    0.679     s
+PATTA per 50 mosse senza mangiare.      400   mosse,    0.963     s
+PATTA per 50 mosse senza mangiare.      282   mosse,    0.751     s
+PATTA per 50 mosse senza mangiare.      332   mosse,    0.85      s
+Vince il NERO.                          194   mosse,    0.712     s
+PATTA per 50 mosse senza mangiare.      354   mosse,    0.84      s
+PATTA per 50 mosse senza mangiare.      285   mosse,    0.811     s
+PATTA per 50 mosse senza mangiare.      246   mosse,    0.719     s
+PATTA per 50 mosse senza mangiare.      235   mosse,    0.668     s
+PATTA per 50 mosse senza mangiare.      355   mosse,    0.855     s
+PATTA per 50 mosse senza mangiare.      187   mosse,    0.823     s
+PATTA per 50 mosse senza mangiare.      322   mosse,    0.903     s
+PATTA per 50 mosse senza mangiare.      308   mosse,    0.804     s
+PATTA per 50 mosse senza mangiare.      277   mosse,    0.904     s
+PATTA per 50 mosse senza mangiare.      416   mosse,    0.998     s
+PATTA per 50 mosse senza mangiare.      325   mosse,    0.937     s
+PATTA per 50 mosse senza mangiare.      343   mosse,    0.919     s
+PATTA per 50 mosse senza mangiare.      260   mosse,    0.793     s
+Vince il BIANCO.                        117   mosse,    0.467     s
+PATTA per 50 mosse senza mangiare.      175   mosse,    0.517     s
+Vince il BIANCO.                        85    mosse,    0.41      s
+PATTA per 50 mosse senza mangiare.      277   mosse,    0.762     s
+PATTA per 50 mosse senza mangiare.      270   mosse,    0.666     s
+Vince il BIANCO.                        305   mosse,    0.816     s
+PATTA per 50 mosse senza mangiare.      300   mosse,    0.781     s
+PATTA per 50 mosse senza mangiare.      284   mosse,    0.724     s
+PATTA per 50 mosse senza mangiare.      236   mosse,    0.887     s
+PATTA per 50 mosse senza mangiare.      242   mosse,    0.603     s
+PATTA per 50 mosse senza mangiare.      287   mosse,    0.723     s
+PATTA per 50 mosse senza mangiare.      230   mosse,    0.766     s
+Vince il BIANCO.                        95    mosse,    0.386     s
+Vince il NERO.                          68    mosse,    0.318     s
+PATTA per 50 mosse senza mangiare.      328   mosse,    0.824     s
+PATTA per 50 mosse senza mangiare.      446   mosse,    1.206     s
+Vince il NERO.                          210   mosse,    0.669     s
+Vince il BIANCO.                        63    mosse,    0.322     s
+PATTA per 50 mosse senza mangiare.      377   mosse,    0.87      s
+STALLO.                                 190   mosse,    0.63      s
+PATTA per 50 mosse senza mangiare.      289   mosse,    0.845     s
+PATTA per 50 mosse senza mangiare.      291   mosse,    0.788     s
+PATTA per 50 mosse senza mangiare.      270   mosse,    0.671     s
+Vince il BIANCO.                        71    mosse,    0.287     s
+Vince il BIANCO.                        123   mosse,    0.615     s
+PATTA per 50 mosse senza mangiare.      217   mosse,    0.755     s
+Vince il BIANCO.                        59    mosse,    0.28      s
+Vince il BIANCO.                        301   mosse,    0.77      s
+PATTA per 50 mosse senza mangiare.      320   mosse,    0.87      s
+PATTA per 50 mosse senza mangiare.      261   mosse,    0.629     s
+PATTA per 50 mosse senza mangiare.      253   mosse,    0.729     s
+PATTA per 50 mosse senza mangiare.      176   mosse,    0.616     s
+PATTA per 50 mosse senza mangiare.      338   mosse,    1.034     s
+STALLO.                                 255   mosse,    1.003     s
+PATTA per 50 mosse senza mangiare.      353   mosse,    0.835     s
+PATTA per 50 mosse senza mangiare.      358   mosse,    0.9       s
+PATTA per 50 mosse senza mangiare.      303   mosse,    0.771     s
+PATTA per 50 mosse senza mangiare.      223   mosse,    0.521     s
+PATTA per 50 mosse senza mangiare.      420   mosse,    0.906     s
+PATTA per 50 mosse senza mangiare.      329   mosse,    0.744     s
+PATTA per 50 mosse senza mangiare.      211   mosse,    0.656     s
+PATTA per 50 mosse senza mangiare.      250   mosse,    0.652     s
+PATTA per 50 mosse senza mangiare.      281   mosse,    0.599     s
+PATTA per 50 mosse senza mangiare.      421   mosse,    0.957     s
+PATTA per 50 mosse senza mangiare.      178   mosse,    0.601     s
+PATTA per 50 mosse senza mangiare.      273   mosse,    0.893     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.887     s
+PATTA per 50 mosse senza mangiare.      285   mosse,    0.765     s
+Vince il NERO.                          150   mosse,    0.55      s
+PATTA per 50 mosse senza mangiare.      244   mosse,    0.557     s
+PATTA per 50 mosse senza mangiare.      322   mosse,    0.8       s
+STALLO.                                 184   mosse,    0.573     s
+PATTA per 50 mosse senza mangiare.      385   mosse,    1.031     s
+Vince il NERO.                          174   mosse,    0.65      s
+Vince il BIANCO.                        59    mosse,    0.297     s
+PATTA per 50 mosse senza mangiare.      294   mosse,    0.888     s
+PATTA per 50 mosse senza mangiare.      245   mosse,    0.802     s
+PATTA per 50 mosse senza mangiare.      353   mosse,    0.825     s
+PATTA per 50 mosse senza mangiare.      347   mosse,    1.036     s
+PATTA per 50 mosse senza mangiare.      280   mosse,    0.748     s
+PATTA per 50 mosse senza mangiare.      306   mosse,    0.562     s
+PATTA per 50 mosse senza mangiare.      384   mosse,    1.005     s
+PATTA per 50 mosse senza mangiare.      245   mosse,    0.663     s
+PATTA per 50 mosse senza mangiare.      290   mosse,    0.754     s
+PATTA per 50 mosse senza mangiare.      333   mosse,    0.851     s
+PATTA per 50 mosse senza mangiare.      312   mosse,    0.753     s
+PATTA per 50 mosse senza mangiare.      50    mosse,    0.251     s
+PATTA per 50 mosse senza mangiare.      274   mosse,    0.852     s
+PATTA per 50 mosse senza mangiare.      346   mosse,    0.885     s
+Vince il BIANCO.                        251   mosse,    0.671     s
+PATTA per 50 mosse senza mangiare.      359   mosse,    0.996     s
+PATTA per 50 mosse senza mangiare.      355   mosse,    0.874     s
+PATTA per 50 mosse senza mangiare.      361   mosse,    0.852     s
+PATTA per 50 mosse senza mangiare.      237   mosse,    0.714     s
+PATTA per 50 mosse senza mangiare.      386   mosse,    1.19      s
+PATTA per 50 mosse senza mangiare.      275   mosse,    0.831     s
+Vince il NERO.                          184   mosse,    0.633     s
+Vince il NERO.                          114   mosse,    0.417     s
+PATTA per 50 mosse senza mangiare.      240   mosse,    0.774     s
+PATTA per 50 mosse senza mangiare.      276   mosse,    0.716     s
+PATTA per 50 mosse senza mangiare.      396   mosse,    0.972     s
+PATTA per 50 mosse senza mangiare.      433   mosse,    0.967     s
+Vince il NERO.                          168   mosse,    0.6       s
+PATTA per 50 mosse senza mangiare.      291   mosse,    0.819     s
+PATTA per 50 mosse senza mangiare.      299   mosse,    0.918     s
+PATTA per 50 mosse senza mangiare.      331   mosse,    1.089     s
+PATTA per 50 mosse senza mangiare.      382   mosse,    0.938     s
+PATTA per 50 mosse senza mangiare.      198   mosse,    0.685     s
+PATTA per 50 mosse senza mangiare.      276   mosse,    0.631     s
+STALLO.                                 253   mosse,    0.68      s
+PATTA per 50 mosse senza mangiare.      325   mosse,    0.849     s
+PATTA per 50 mosse senza mangiare.      448   mosse,    0.862     s
+STALLO.                                 298   mosse,    0.732     s
+PATTA per 50 mosse senza mangiare.      335   mosse,    0.815     s
+PATTA per 50 mosse senza mangiare.      296   mosse,    0.734     s
+PATTA per 50 mosse senza mangiare.      318   mosse,    0.853     s
+PATTA per 50 mosse senza mangiare.      265   mosse,    0.669     s
+PATTA per 50 mosse senza mangiare.      248   mosse,    0.795     s
+PATTA per 50 mosse senza mangiare.      351   mosse,    0.923     s
+PATTA per 50 mosse senza mangiare.      232   mosse,    0.669     s
+STALLO.                                 206   mosse,    0.67      s
+PATTA per 50 mosse senza mangiare.      366   mosse,    0.974     s
+PATTA per 50 mosse senza mangiare.      213   mosse,    0.767     s
+PATTA per 50 mosse senza mangiare.      292   mosse,    0.597     s
+PATTA per 50 mosse senza mangiare.      302   mosse,    0.765     s
+PATTA per 50 mosse senza mangiare.      454   mosse,    1.038     s
+PATTA per 50 mosse senza mangiare.      382   mosse,    1.01      s
+STALLO.                                 199   mosse,    0.66      s
+PATTA per 50 mosse senza mangiare.      216   mosse,    0.625     s
+PATTA per 50 mosse senza mangiare.      275   mosse,    0.864     s
+STALLO.                                 295   mosse,    0.965     s
+PATTA per 50 mosse senza mangiare.      303   mosse,    0.8       s
+PATTA per 50 mosse senza mangiare.      299   mosse,    0.63      s
+PATTA per 50 mosse senza mangiare.      311   mosse,    0.985     s
+PATTA per 50 mosse senza mangiare.      264   mosse,    0.752     s
+PATTA per 50 mosse senza mangiare.      198   mosse,    0.694     s
+PATTA per 50 mosse senza mangiare.      433   mosse,    1.082     s
+PATTA per 50 mosse senza mangiare.      341   mosse,    0.891     s
+PATTA per 50 mosse senza mangiare.      299   mosse,    0.79      s
+PATTA per 50 mosse senza mangiare.      300   mosse,    0.77      s
+PATTA per 50 mosse senza mangiare.      312   mosse,    0.924     s
+PATTA per ripetizione.                  222   mosse,    0.651     s
+PATTA per 50 mosse senza mangiare.      316   mosse,    0.88      s
+PATTA per 50 mosse senza mangiare.      250   mosse,    0.783     s
+PATTA per 50 mosse senza mangiare.      330   mosse,    0.729     s
+PATTA per 50 mosse senza mangiare.      256   mosse,    0.732     s
+PATTA per 50 mosse senza mangiare.      421   mosse,    1.008     s
+PATTA per 50 mosse senza mangiare.      276   mosse,    0.833     s
+PATTA per 50 mosse senza mangiare.      279   mosse,    0.899     s
+PATTA per 50 mosse senza mangiare.      228   mosse,    0.688     s
+PATTA per 50 mosse senza mangiare.      305   mosse,    0.907     s
+PATTA per 50 mosse senza mangiare.      309   mosse,    0.966     s
+Vince il BIANCO.                        177   mosse,    0.676     s
+PATTA per 50 mosse senza mangiare.      290   mosse,    0.827     s
+Vince il BIANCO.                        143   mosse,    0.61      s
+PATTA per 50 mosse senza mangiare.      231   mosse,    0.588     s
+PATTA per 50 mosse senza mangiare.      385   mosse,    1.147     s
+Vince il BIANCO.                        187   mosse,    0.724     s
+PATTA per 50 mosse senza mangiare.      260   mosse,    0.717     s
+STALLO.                                 150   mosse,    0.585     s
+PATTA per ripetizione.                  247   mosse,    0.894     s
+PATTA per 50 mosse senza mangiare.      218   mosse,    0.841     s
+PATTA per 50 mosse senza mangiare.      308   mosse,    0.789     s
+PATTA per 50 mosse senza mangiare.      208   mosse,    0.615     s
+PATTA per 50 mosse senza mangiare.      222   mosse,    0.606     s
+Vince il NERO.                          78    mosse,    0.351     s
+PATTA per 50 mosse senza mangiare.      270   mosse,    0.631     s
+PATTA per 50 mosse senza mangiare.      264   mosse,    0.78      s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.799     s
+PATTA per 50 mosse senza mangiare.      227   mosse,    0.774     s
+STALLO.                                 218   mosse,    0.66      s
+PATTA per 50 mosse senza mangiare.      225   mosse,    0.784     s
+PATTA per 50 mosse senza mangiare.      285   mosse,    0.852     s
+STALLO.                                 278   mosse,    0.815     s
+PATTA per 50 mosse senza mangiare.      247   mosse,    0.829     s
+Vince il BIANCO.                        169   mosse,    0.668     s
+PATTA per 50 mosse senza mangiare.      292   mosse,    0.543     s
+PATTA per 50 mosse senza mangiare.      271   mosse,    0.637     s
+Vince il NERO.                          128   mosse,    0.599     s
+PATTA per 50 mosse senza mangiare.      258   mosse,    0.756     s
+Vince il NERO.                          126   mosse,    0.489     s
+PATTA per 50 mosse senza mangiare.      303   mosse,    0.833     s
+STALLO.                                 206   mosse,    0.715     s
+Vince il BIANCO.                        131   mosse,    0.593     s
+PATTA per 50 mosse senza mangiare.      376   mosse,    0.721     s
+STALLO.                                 238   mosse,    0.564     s
+PATTA per 50 mosse senza mangiare.      264   mosse,    0.672     s
+Vince il BIANCO.                        155   mosse,    0.511     s
+PATTA per 50 mosse senza mangiare.      313   mosse,    0.856     s
+Vince il BIANCO.                        179   mosse,    0.687     s
+PATTA per 50 mosse senza mangiare.      264   mosse,    0.707     s
+PATTA per 50 mosse senza mangiare.      205   mosse,    0.536     s
+Vince il BIANCO.                        243   mosse,    0.916     s
+PATTA per 50 mosse senza mangiare.      334   mosse,    0.961     s
+PATTA per 50 mosse senza mangiare.      354   mosse,    1.11      s
+PATTA per ripetizione.                  423   mosse,    0.987     s
+PATTA per 50 mosse senza mangiare.      300   mosse,    0.793     s
+PATTA per 50 mosse senza mangiare.      302   mosse,    0.655     s
+PATTA per 50 mosse senza mangiare.      296   mosse,    0.758     s
+PATTA per 50 mosse senza mangiare.      221   mosse,    0.597     s
+STALLO.                                 401   mosse,    1.073     s
+PATTA per 50 mosse senza mangiare.      290   mosse,    0.915     s
+Vince il NERO.                          240   mosse,    0.937     s
+Vince il BIANCO.                        299   mosse,    0.863     s
+PATTA per 50 mosse senza mangiare.      271   mosse,    0.763     s
+Vince il BIANCO.                        217   mosse,    0.831     s
+PATTA per 50 mosse senza mangiare.      289   mosse,    0.883     s
+PATTA per 50 mosse senza mangiare.      178   mosse,    0.464     s
+PATTA per 50 mosse senza mangiare.      298   mosse,    0.753     s
+PATTA per 50 mosse senza mangiare.      355   mosse,    0.804     s
+PATTA per 50 mosse senza mangiare.      183   mosse,    0.583     s
+Vince il BIANCO.                        91    mosse,    0.46      s
+PATTA per 50 mosse senza mangiare.      250   mosse,    0.803     s
+PATTA per 50 mosse senza mangiare.      264   mosse,    0.855     s
+PATTA per 50 mosse senza mangiare.      329   mosse,    0.678     s
+PATTA per 50 mosse senza mangiare.      325   mosse,    0.759     s
+PATTA per 50 mosse senza mangiare.      349   mosse,    0.933     s
+PATTA per 50 mosse senza mangiare.      331   mosse,    0.931     s
+STALLO.                                 197   mosse,    0.654     s
+PATTA per 50 mosse senza mangiare.      196   mosse,    0.723     s
+PATTA per 50 mosse senza mangiare.      298   mosse,    0.705     s
+PATTA per 50 mosse senza mangiare.      366   mosse,    1.293     s
+PATTA per 50 mosse senza mangiare.      351   mosse,    0.958     s
+PATTA per 50 mosse senza mangiare.      335   mosse,    1.206     s
+PATTA per 50 mosse senza mangiare.      344   mosse,    1.26      s
+PATTA per 50 mosse senza mangiare.      280   mosse,    0.933     s
+PATTA per 50 mosse senza mangiare.      312   mosse,    1.113     s
+PATTA per 50 mosse senza mangiare.      294   mosse,    0.786     s
+PATTA per 50 mosse senza mangiare.      228   mosse,    0.861     s
+PATTA per 50 mosse senza mangiare.      339   mosse,    1.029     s
+PATTA per 50 mosse senza mangiare.      269   mosse,    1.034     s
+PATTA per 50 mosse senza mangiare.      272   mosse,    0.832     s
+PATTA per 50 mosse senza mangiare.      376   mosse,    0.925     s
+PATTA per 50 mosse senza mangiare.      340   mosse,    0.837     s
+PATTA per 50 mosse senza mangiare.      216   mosse,    0.784     s
+PATTA per 50 mosse senza mangiare.      276   mosse,    0.855     s
+PATTA per 50 mosse senza mangiare.      351   mosse,    1.068     s
+PATTA per 50 mosse senza mangiare.      268   mosse,    0.833     s
+Vince il NERO.                          102   mosse,    0.651     s
+Vince il NERO.                          134   mosse,    0.637     s
+Vince il NERO.                          64    mosse,    0.374     s
+PATTA per 50 mosse senza mangiare.      317   mosse,    1.093     s
+STALLO.                                 299   mosse,    1.157     s
+PATTA per 50 mosse senza mangiare.      235   mosse,    0.772     s
+PATTA per 50 mosse senza mangiare.      350   mosse,    1.12      s
+PATTA per 50 mosse senza mangiare.      287   mosse,    0.905     s
+PATTA per 50 mosse senza mangiare.      369   mosse,    0.966     s
+STALLO.                                 230   mosse,    0.621     s
+PATTA per 50 mosse senza mangiare.      189   mosse,    0.645     s
+Vince il NERO.                          198   mosse,    0.914     s
+PATTA per 50 mosse senza mangiare.      321   mosse,    0.792     s
+PATTA per 50 mosse senza mangiare.      453   mosse,    1.311     s
+PATTA per 50 mosse senza mangiare.      224   mosse,    0.648     s
+PATTA per 50 mosse senza mangiare.      234   mosse,    0.711     s
+PATTA per 50 mosse senza mangiare.      293   mosse,    0.634     s
+PATTA per 50 mosse senza mangiare.      332   mosse,    0.722     s
+Vince il BIANCO.                        153   mosse,    0.634     s
+PATTA per 50 mosse senza mangiare.      314   mosse,    0.766     s
+Vince il BIANCO.                        155   mosse,    0.603     s
+PATTA per 50 mosse senza mangiare.      369   mosse,    1.088     s
+PATTA per 50 mosse senza mangiare.      236   mosse,    0.745     s
+Vince il BIANCO.                        193   mosse,    0.629     s
+PATTA per 50 mosse senza mangiare.      329   mosse,    1.015     s
+PATTA per 50 mosse senza mangiare.      409   mosse,    0.845     s
+PATTA per 50 mosse senza mangiare.      286   mosse,    0.91      s
+STALLO.                                 244   mosse,    0.676     s
+PATTA per 50 mosse senza mangiare.      249   mosse,    0.769     s
+PATTA per 50 mosse senza mangiare.      237   mosse,    0.817     s
+PATTA per 50 mosse senza mangiare.      316   mosse,    0.854     s
+PATTA per 50 mosse senza mangiare.      234   mosse,    0.963     s
+PATTA per 50 mosse senza mangiare.      311   mosse,    0.902     s
+PATTA per 50 mosse senza mangiare.      267   mosse,    0.809     s
+PATTA per 50 mosse senza mangiare.      388   mosse,    0.915     s
+PATTA per 50 mosse senza mangiare.      324   mosse,    0.751     s
+PATTA per 50 mosse senza mangiare.      282   mosse,    0.616     s
+PATTA per 50 mosse senza mangiare.      295   mosse,    0.668     s
+PATTA per 50 mosse senza mangiare.      264   mosse,    0.65      s
+PATTA per 50 mosse senza mangiare.      264   mosse,    0.754     s
+PATTA per 50 mosse senza mangiare.      351   mosse,    0.786     s
+PATTA per 50 mosse senza mangiare.      243   mosse,    0.836     s
+PATTA per 50 mosse senza mangiare.      233   mosse,    0.684     s
+PATTA per 50 mosse senza mangiare.      312   mosse,    0.788     s
+PATTA per 50 mosse senza mangiare.      259   mosse,    0.844     s
+Vince il NERO.                          56    mosse,    0.257     s
+PATTA per 50 mosse senza mangiare.      326   mosse,    0.92      s
+STALLO.                                 312   mosse,    0.933     s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.641     s
+PATTA per 50 mosse senza mangiare.      291   mosse,    0.823     s
+PATTA per 50 mosse senza mangiare.      318   mosse,    0.778     s
+PATTA per 50 mosse senza mangiare.      449   mosse,    1.163     s
+PATTA per 50 mosse senza mangiare.      371   mosse,    1.196     s
+PATTA per 50 mosse senza mangiare.      257   mosse,    0.789     s
+PATTA per 50 mosse senza mangiare.      327   mosse,    1.021     s
+PATTA per 50 mosse senza mangiare.      340   mosse,    1.013     s
+PATTA per 50 mosse senza mangiare.      202   mosse,    0.587     s
+PATTA per 50 mosse senza mangiare.      363   mosse,    0.871     s
+PATTA per 50 mosse senza mangiare.      329   mosse,    0.97      s
+Vince il BIANCO.                        115   mosse,    0.477     s
+PATTA per 50 mosse senza mangiare.      300   mosse,    0.946     s
+PATTA per 50 mosse senza mangiare.      238   mosse,    0.659     s
+PATTA per 50 mosse senza mangiare.      364   mosse,    0.871     s
+PATTA per ripetizione.                  238   mosse,    0.491     s
+Vince il BIANCO.                        153   mosse,    0.623     s
+PATTA per 50 mosse senza mangiare.      202   mosse,    0.676     s
+PATTA per 50 mosse senza mangiare.      329   mosse,    0.894     s
+PATTA per 50 mosse senza mangiare.      327   mosse,    0.765     s
+PATTA per 50 mosse senza mangiare.      315   mosse,    0.914     s
+PATTA per 50 mosse senza mangiare.      163   mosse,    0.618     s
+PATTA per 50 mosse senza mangiare.      342   mosse,    0.865     s
+PATTA per 50 mosse senza mangiare.      310   mosse,    0.745     s
+PATTA per ripetizione.                  274   mosse,    0.774     s
+PATTA per 50 mosse senza mangiare.      293   mosse,    0.785     s
+Vince il NERO.                          198   mosse,    0.684     s
+Vince il BIANCO.                        225   mosse,    0.742     s
+PATTA per 50 mosse senza mangiare.      312   mosse,    0.75      s
+Vince il BIANCO.                        177   mosse,    0.596     s
+STALLO.                                 394   mosse,    0.999     s
+PATTA per 50 mosse senza mangiare.      260   mosse,    0.636     s
+Vince il BIANCO.                        77    mosse,    0.392     s
+PATTA per 50 mosse senza mangiare.      352   mosse,    0.915     s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.646     s
+PATTA per 50 mosse senza mangiare.      355   mosse,    0.821     s
+Vince il NERO.                          172   mosse,    0.674     s
+PATTA per 50 mosse senza mangiare.      274   mosse,    0.711     s
+Vince il NERO.                          310   mosse,    0.943     s
+PATTA per 50 mosse senza mangiare.      267   mosse,    0.862     s
+Vince il NERO.                          82    mosse,    0.343     s
+Vince il NERO.                          268   mosse,    0.794     s
+PATTA per 50 mosse senza mangiare.      216   mosse,    0.672     s
+Vince il NERO.                          50    mosse,    0.301     s
+PATTA per 50 mosse senza mangiare.      338   mosse,    0.95      s
+PATTA per 50 mosse senza mangiare.      289   mosse,    0.776     s
+Vince il BIANCO.                        305   mosse,    0.878     s
+PATTA per 50 mosse senza mangiare.      278   mosse,    0.747     s
+PATTA per 50 mosse senza mangiare.      352   mosse,    0.792     s
+PATTA per 50 mosse senza mangiare.      369   mosse,    0.935     s
+Vince il NERO.                          94    mosse,    0.375     s
+PATTA per 50 mosse senza mangiare.      291   mosse,    0.737     s
+PATTA per 50 mosse senza mangiare.      413   mosse,    1.09      s
+STALLO.                                 174   mosse,    0.481     s
+PATTA per 50 mosse senza mangiare.      268   mosse,    0.879     s
+Vince il NERO.                          116   mosse,    0.532     s
+PATTA per 50 mosse senza mangiare.      340   mosse,    0.836     s
+PATTA per 50 mosse senza mangiare.      165   mosse,    0.489     s
+PATTA per 50 mosse senza mangiare.      395   mosse,    1.031     s
+Vince il NERO.                          120   mosse,    0.499     s
+PATTA per 50 mosse senza mangiare.      371   mosse,    0.85      s
+Vince il NERO.                          108   mosse,    0.508     s
+PATTA per 50 mosse senza mangiare.      235   mosse,    0.65      s
+PATTA per 50 mosse senza mangiare.      442   mosse,    0.992     s
+PATTA per 50 mosse senza mangiare.      307   mosse,    0.756     s
+PATTA per 50 mosse senza mangiare.      298   mosse,    0.898     s
+PATTA per 50 mosse senza mangiare.      301   mosse,    0.786     s
+PATTA per 50 mosse senza mangiare.      215   mosse,    0.482     s
+PATTA per 50 mosse senza mangiare.      278   mosse,    0.708     s
+PATTA per 50 mosse senza mangiare.      342   mosse,    0.83      s
+PATTA per 50 mosse senza mangiare.      239   mosse,    0.601     s
+PATTA per 50 mosse senza mangiare.      353   mosse,    0.883     s
+PATTA per 50 mosse senza mangiare.      360   mosse,    1.027     s
+PATTA per 50 mosse senza mangiare.      303   mosse,    0.744     s
+PATTA per 50 mosse senza mangiare.      279   mosse,    0.746     s
+Vince il BIANCO.                        91    mosse,    0.422     s
+PATTA per 50 mosse senza mangiare.      193   mosse,    0.56      s
+PATTA per 50 mosse senza mangiare.      347   mosse,    0.876     s
+PATTA per 50 mosse senza mangiare.      272   mosse,    0.72      s
+PATTA per 50 mosse senza mangiare.      361   mosse,    1.059     s
+PATTA per 50 mosse senza mangiare.      248   mosse,    0.679     s
+PATTA per 50 mosse senza mangiare.      341   mosse,    0.967     s
+PATTA per 50 mosse senza mangiare.      415   mosse,    0.992     s
+Vince il NERO.                          266   mosse,    0.949     s
+PATTA per 50 mosse senza mangiare.      50    mosse,    0.252     s
+Vince il BIANCO.                        107   mosse,    0.526     s
+PATTA per 50 mosse senza mangiare.      311   mosse,    1.09      s
+PATTA per 50 mosse senza mangiare.      50    mosse,    0.282     s
+PATTA per 50 mosse senza mangiare.      268   mosse,    0.707     s
+PATTA per 50 mosse senza mangiare.      337   mosse,    0.912     s
+Vince il BIANCO.                        43    mosse,    0.218     s
+PATTA per 50 mosse senza mangiare.      307   mosse,    0.751     s
+PATTA per 50 mosse senza mangiare.      281   mosse,    0.704     s
+Vince il BIANCO.                        129   mosse,    0.482     s
+PATTA per 50 mosse senza mangiare.      301   mosse,    0.821     s
+PATTA per 50 mosse senza mangiare.      284   mosse,    0.891     s
+Vince il NERO.                          306   mosse,    1.04      s
+PATTA per 50 mosse senza mangiare.      391   mosse,    0.918     s
+Vince il BIANCO.                        195   mosse,    0.567     s
+STALLO.                                 231   mosse,    0.654     s
+PATTA per 50 mosse senza mangiare.      350   mosse,    0.88      s
+STALLO.                                 296   mosse,    0.779     s
+PATTA per 50 mosse senza mangiare.      231   mosse,    0.682     s
+PATTA per 50 mosse senza mangiare.      317   mosse,    0.924     s
+PATTA per 50 mosse senza mangiare.      296   mosse,    0.745     s
+PATTA per 50 mosse senza mangiare.      267   mosse,    0.743     s
+PATTA per 50 mosse senza mangiare.      263   mosse,    0.779     s
+PATTA per 50 mosse senza mangiare.      268   mosse,    0.727     s
+PATTA per 50 mosse senza mangiare.      360   mosse,    0.799     s
+PATTA per 50 mosse senza mangiare.      228   mosse,    0.66      s
+Vince il NERO.                          334   mosse,    0.955     s
+PATTA per 50 mosse senza mangiare.      399   mosse,    1.063     s
+PATTA per 50 mosse senza mangiare.      314   mosse,    0.925     s
+PATTA per 50 mosse senza mangiare.      334   mosse,    0.736     s
+PATTA per 50 mosse senza mangiare.      301   mosse,    0.752     s
+PATTA per 50 mosse senza mangiare.      292   mosse,    0.764     s
+PATTA per 50 mosse senza mangiare.      362   mosse,    1.015     s
+PATTA per 50 mosse senza mangiare.      190   mosse,    0.676     s
+PATTA per 50 mosse senza mangiare.      190   mosse,    0.824     s
+PATTA per 50 mosse senza mangiare.      354   mosse,    0.831     s
+PATTA per 50 mosse senza mangiare.      357   mosse,    0.869     s
+PATTA per 50 mosse senza mangiare.      226   mosse,    0.611     s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.715     s
+PATTA per 50 mosse senza mangiare.      313   mosse,    0.752     s
+PATTA per 50 mosse senza mangiare.      367   mosse,    0.75      s
+Vince il NERO.                          138   mosse,    0.521     s
+Vince il NERO.                          70    mosse,    0.326     s
+Vince il NERO.                          234   mosse,    0.749     s
+Vince il NERO.                          252   mosse,    0.834     s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.828     s
+PATTA per 50 mosse senza mangiare.      331   mosse,    1.473     s
+PATTA per 50 mosse senza mangiare.      391   mosse,    1.343     s
+STALLO.                                 304   mosse,    0.892     s
+PATTA per 50 mosse senza mangiare.      371   mosse,    0.991     s
+Vince il NERO.                          284   mosse,    1.382     s
+PATTA per 50 mosse senza mangiare.      292   mosse,    0.972     s
+PATTA per 50 mosse senza mangiare.      226   mosse,    0.718     s
+Vince il BIANCO.                        341   mosse,    1.322     s
+PATTA per 50 mosse senza mangiare.      441   mosse,    1.809     s
+PATTA per 50 mosse senza mangiare.      311   mosse,    1.244     s
+PATTA per 50 mosse senza mangiare.      285   mosse,    0.888     s
+PATTA per 50 mosse senza mangiare.      236   mosse,    0.788     s
+PATTA per 50 mosse senza mangiare.      243   mosse,    0.884     s
+PATTA per 50 mosse senza mangiare.      276   mosse,    0.897     s
+Vince il BIANCO.                        59    mosse,    0.398     s
+PATTA per 50 mosse senza mangiare.      325   mosse,    0.836     s
+PATTA per 50 mosse senza mangiare.      342   mosse,    0.993     s
+PATTA per ripetizione.                  324   mosse,    0.962     s
+PATTA per 50 mosse senza mangiare.      247   mosse,    1.011     s
+PATTA per 50 mosse senza mangiare.      336   mosse,    0.992     s
+PATTA per 50 mosse senza mangiare.      214   mosse,    0.62      s
+PATTA per 50 mosse senza mangiare.      237   mosse,    0.891     s
+PATTA per 50 mosse senza mangiare.      237   mosse,    0.856     s
+Vince il BIANCO.                        91    mosse,    0.476     s
+PATTA per ripetizione.                  402   mosse,    0.963     s
+PATTA per 50 mosse senza mangiare.      336   mosse,    0.821     s
+PATTA per 50 mosse senza mangiare.      338   mosse,    0.883     s
+PATTA per 50 mosse senza mangiare.      285   mosse,    0.845     s
+PATTA per 50 mosse senza mangiare.      265   mosse,    0.643     s
+PATTA per 50 mosse senza mangiare.      320   mosse,    0.942     s
+PATTA per 50 mosse senza mangiare.      346   mosse,    0.797     s
+Vince il NERO.                          336   mosse,    0.964     s
+Vince il NERO.                          156   mosse,    0.56      s
+Vince il BIANCO.                        15    mosse,    0.076     s
+PATTA per 50 mosse senza mangiare.      354   mosse,    0.923     s
+Vince il BIANCO.                        71    mosse,    0.336     s
+Vince il NERO.                          42    mosse,    0.196     s
+PATTA per 50 mosse senza mangiare.      358   mosse,    0.861     s
+PATTA per 50 mosse senza mangiare.      256   mosse,    0.825     s
+Vince il NERO.                          144   mosse,    0.663     s
+PATTA per ripetizione.                  337   mosse,    0.8       s
+PATTA per 50 mosse senza mangiare.      271   mosse,    0.885     s
+Vince il BIANCO.                        149   mosse,    0.563     s
+PATTA per 50 mosse senza mangiare.      315   mosse,    0.775     s
+PATTA per 50 mosse senza mangiare.      212   mosse,    0.68      s
+PATTA per 50 mosse senza mangiare.      347   mosse,    0.796     s
+PATTA per 50 mosse senza mangiare.      338   mosse,    0.834     s
+PATTA per 50 mosse senza mangiare.      269   mosse,    0.737     s
+PATTA per 50 mosse senza mangiare.      325   mosse,    0.742     s
+Vince il NERO.                          56    mosse,    0.319     s
+Vince il BIANCO.                        117   mosse,    0.447     s
+PATTA per 50 mosse senza mangiare.      248   mosse,    0.758     s
+STALLO.                                 252   mosse,    0.755     s
+Vince il NERO.                          148   mosse,    0.502     s
+PATTA per 50 mosse senza mangiare.      245   mosse,    0.659     s
+Vince il BIANCO.                        179   mosse,    0.734     s
+Vince il NERO.                          30    mosse,    0.137     s
+PATTA per 50 mosse senza mangiare.      269   mosse,    0.886     s
+PATTA per 50 mosse senza mangiare.      361   mosse,    0.628     s
+PATTA per 50 mosse senza mangiare.      332   mosse,    0.686     s
+PATTA per 50 mosse senza mangiare.      326   mosse,    0.838     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.835     s
+PATTA per 50 mosse senza mangiare.      240   mosse,    0.576     s
+PATTA per 50 mosse senza mangiare.      404   mosse,    0.951     s
+PATTA per 50 mosse senza mangiare.      311   mosse,    0.734     s
+PATTA per 50 mosse senza mangiare.      314   mosse,    0.763     s
+Vince il BIANCO.                        129   mosse,    0.583     s
+PATTA per 50 mosse senza mangiare.      248   mosse,    0.797     s
+Vince il NERO.                          240   mosse,    0.675     s
+PATTA per 50 mosse senza mangiare.      248   mosse,    0.65      s
+PATTA per 50 mosse senza mangiare.      298   mosse,    0.742     s
+Vince il NERO.                          172   mosse,    0.618     s
+PATTA per ripetizione.                  337   mosse,    0.669     s
+PATTA per 50 mosse senza mangiare.      325   mosse,    0.877     s
+PATTA per 50 mosse senza mangiare.      367   mosse,    0.753     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.692     s
+PATTA per 50 mosse senza mangiare.      286   mosse,    0.786     s
+PATTA per 50 mosse senza mangiare.      269   mosse,    0.651     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.937     s
+PATTA per 50 mosse senza mangiare.      362   mosse,    0.79      s
+PATTA per 50 mosse senza mangiare.      249   mosse,    0.632     s
+PATTA per 50 mosse senza mangiare.      316   mosse,    0.737     s
+Vince il BIANCO.                        201   mosse,    0.699     s
+PATTA per 50 mosse senza mangiare.      202   mosse,    0.873     s
+PATTA per 50 mosse senza mangiare.      214   mosse,    0.656     s
+PATTA per 50 mosse senza mangiare.      336   mosse,    0.865     s
+PATTA per 50 mosse senza mangiare.      203   mosse,    0.816     s
+PATTA per 50 mosse senza mangiare.      396   mosse,    0.76      s
+PATTA per 50 mosse senza mangiare.      262   mosse,    0.647     s
+Vince il BIANCO.                        169   mosse,    0.675     s
+PATTA per 50 mosse senza mangiare.      274   mosse,    0.635     s
+Vince il BIANCO.                        161   mosse,    0.577     s
+PATTA per 50 mosse senza mangiare.      359   mosse,    0.869     s
+PATTA per 50 mosse senza mangiare.      239   mosse,    0.674     s
+PATTA per 50 mosse senza mangiare.      266   mosse,    0.695     s
+Vince il NERO.                          158   mosse,    0.471     s
+Vince il BIANCO.                        155   mosse,    0.574     s
+PATTA per 50 mosse senza mangiare.      234   mosse,    0.597     s
+PATTA per 50 mosse senza mangiare.      327   mosse,    0.69      s
+STALLO.                                 313   mosse,    0.835     s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.608     s
+PATTA per 50 mosse senza mangiare.      420   mosse,    1.055     s
+STALLO.                                 242   mosse,    0.733     s
+PATTA per 50 mosse senza mangiare.      340   mosse,    0.714     s
+PATTA per 50 mosse senza mangiare.      241   mosse,    0.735     s
+Vince il BIANCO.                        99    mosse,    0.408     s
+PATTA per 50 mosse senza mangiare.      344   mosse,    0.78      s
+PATTA per 50 mosse senza mangiare.      226   mosse,    0.676     s
+PATTA per 50 mosse senza mangiare.      255   mosse,    0.717     s
+PATTA per 50 mosse senza mangiare.      384   mosse,    0.945     s
+PATTA per 50 mosse senza mangiare.      302   mosse,    0.661     s
+PATTA per 50 mosse senza mangiare.      386   mosse,    0.843     s
+PATTA per 50 mosse senza mangiare.      300   mosse,    0.739     s
+PATTA per 50 mosse senza mangiare.      281   mosse,    0.817     s
+Vince il BIANCO.                        179   mosse,    0.59      s
+STALLO.                                 314   mosse,    0.749     s
+PATTA per 50 mosse senza mangiare.      255   mosse,    0.906     s
+Vince il BIANCO.                        61    mosse,    0.282     s
+PATTA per 50 mosse senza mangiare.      321   mosse,    0.83      s
+PATTA per 50 mosse senza mangiare.      216   mosse,    0.669     s
+PATTA per 50 mosse senza mangiare.      274   mosse,    0.826     s
+PATTA per 50 mosse senza mangiare.      228   mosse,    0.622     s
+PATTA per 50 mosse senza mangiare.      340   mosse,    0.904     s
+Vince il BIANCO.                        143   mosse,    0.614     s
+PATTA per 50 mosse senza mangiare.      372   mosse,    0.879     s
+PATTA per 50 mosse senza mangiare.      356   mosse,    0.933     s
+PATTA per 50 mosse senza mangiare.      227   mosse,    0.628     s
+PATTA per 50 mosse senza mangiare.      340   mosse,    0.795     s
+Vince il BIANCO.                        163   mosse,    0.576     s
+PATTA per 50 mosse senza mangiare.      344   mosse,    0.772     s
+PATTA per 50 mosse senza mangiare.      350   mosse,    0.908     s
+PATTA per 50 mosse senza mangiare.      333   mosse,    0.995     s
+PATTA per 50 mosse senza mangiare.      320   mosse,    0.889     s
+Vince il NERO.                          114   mosse,    0.5       s
+PATTA per 50 mosse senza mangiare.      279   mosse,    0.706     s
+PATTA per 50 mosse senza mangiare.      315   mosse,    0.625     s
+Vince il NERO.                          222   mosse,    0.71      s
+PATTA per 50 mosse senza mangiare.      339   mosse,    0.851     s
+PATTA per 50 mosse senza mangiare.      338   mosse,    0.746     s
+PATTA per 50 mosse senza mangiare.      282   mosse,    0.78      s
+PATTA per 50 mosse senza mangiare.      313   mosse,    0.714     s
+PATTA per 50 mosse senza mangiare.      312   mosse,    0.73      s
+Vince il NERO.                          224   mosse,    0.762     s
+PATTA per 50 mosse senza mangiare.      241   mosse,    0.577     s
+PATTA per 50 mosse senza mangiare.      207   mosse,    0.634     s
+PATTA per ripetizione.                  298   mosse,    0.853     s
+PATTA per 50 mosse senza mangiare.      333   mosse,    0.906     s
+PATTA per 50 mosse senza mangiare.      309   mosse,    0.746     s
+PATTA per 50 mosse senza mangiare.      262   mosse,    0.837     s
+PATTA per 50 mosse senza mangiare.      320   mosse,    0.835     s
+PATTA per 50 mosse senza mangiare.      420   mosse,    1.2       s
+PATTA per ripetizione.                  398   mosse,    1.018     s
+PATTA per 50 mosse senza mangiare.      362   mosse,    0.752     s
+PATTA per 50 mosse senza mangiare.      341   mosse,    0.827     s
+PATTA per 50 mosse senza mangiare.      290   mosse,    0.752     s
+PATTA per 50 mosse senza mangiare.      191   mosse,    0.566     s
+PATTA per 50 mosse senza mangiare.      315   mosse,    0.808     s
+PATTA per 50 mosse senza mangiare.      346   mosse,    0.878     s
+PATTA per 50 mosse senza mangiare.      290   mosse,    0.654     s
+PATTA per 50 mosse senza mangiare.      197   mosse,    0.671     s
+PATTA per 50 mosse senza mangiare.      227   mosse,    0.723     s
+PATTA per 50 mosse senza mangiare.      366   mosse,    0.861     s
+PATTA per 50 mosse senza mangiare.      246   mosse,    0.952     s
+PATTA per 50 mosse senza mangiare.      251   mosse,    0.651     s
+PATTA per 50 mosse senza mangiare.      316   mosse,    0.743     s
+PATTA per 50 mosse senza mangiare.      307   mosse,    0.655     s
+Vince il BIANCO.                        117   mosse,    0.52      s
+Vince il BIANCO.                        127   mosse,    0.507     s
+PATTA per 50 mosse senza mangiare.      275   mosse,    0.717     s
+PATTA per 50 mosse senza mangiare.      297   mosse,    0.741     s
+PATTA per 50 mosse senza mangiare.      281   mosse,    0.775     s
+Vince il NERO.                          42    mosse,    0.209     s
+Vince il NERO.                          160   mosse,    0.688     s
+STALLO.                                 243   mosse,    0.578     s
+PATTA per 50 mosse senza mangiare.      203   mosse,    0.65      s
+PATTA per 50 mosse senza mangiare.      326   mosse,    0.966     s
+PATTA per 50 mosse senza mangiare.      341   mosse,    0.967     s
+STALLO.                                 350   mosse,    1.192     s
+PATTA per 50 mosse senza mangiare.      343   mosse,    0.814     s
+PATTA per 50 mosse senza mangiare.      290   mosse,    0.877     s
+PATTA per 50 mosse senza mangiare.      331   mosse,    0.635     s
+PATTA per 50 mosse senza mangiare.      240   mosse,    0.69      s
+Vince il NERO.                          158   mosse,    0.624     s
+STALLO.                                 324   mosse,    0.854     s
+PATTA per 50 mosse senza mangiare.      468   mosse,    0.979     s
+PATTA per 50 mosse senza mangiare.      186   mosse,    0.552     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.803     s
+PATTA per 50 mosse senza mangiare.      277   mosse,    0.77      s
+PATTA per 50 mosse senza mangiare.      390   mosse,    1.004     s
+Vince il NERO.                          164   mosse,    0.445     s
+PATTA per 50 mosse senza mangiare.      201   mosse,    0.76      s
+PATTA per 50 mosse senza mangiare.      259   mosse,    0.707     s
+PATTA per 50 mosse senza mangiare.      307   mosse,    0.962     s
+PATTA per 50 mosse senza mangiare.      282   mosse,    0.789     s
+Vince il NERO.                          120   mosse,    0.648     s
+Vince il BIANCO.                        199   mosse,    0.784     s
+PATTA per 50 mosse senza mangiare.      289   mosse,    0.682     s
+Vince il BIANCO.                        49    mosse,    0.247     s
+PATTA per 50 mosse senza mangiare.      230   mosse,    0.683     s
+PATTA per 50 mosse senza mangiare.      402   mosse,    0.958     s
+PATTA per 50 mosse senza mangiare.      341   mosse,    0.893     s
+PATTA per 50 mosse senza mangiare.      260   mosse,    0.699     s
+Vince il BIANCO.                        251   mosse,    0.917     s
+Vince il NERO.                          194   mosse,    0.655     s
+PATTA per 50 mosse senza mangiare.      354   mosse,    0.773     s
+STALLO.                                 229   mosse,    0.615     s
+STALLO.                                 306   mosse,    1.036     s
+PATTA per 50 mosse senza mangiare.      315   mosse,    0.86      s
+PATTA per 50 mosse senza mangiare.      275   mosse,    0.896     s
+STALLO.                                 345   mosse,    0.941     s
+PATTA per 50 mosse senza mangiare.      339   mosse,    0.739     s
+Vince il NERO.                          148   mosse,    0.659     s
+PATTA per 50 mosse senza mangiare.      375   mosse,    0.976     s
+PATTA per ripetizione.                  383   mosse,    0.965     s
+PATTA per 50 mosse senza mangiare.      419   mosse,    0.83      s
+PATTA per 50 mosse senza mangiare.      270   mosse,    0.634     s
+PATTA per 50 mosse senza mangiare.      340   mosse,    0.751     s
+Vince il BIANCO.                        229   mosse,    0.733     s
+PATTA per 50 mosse senza mangiare.      318   mosse,    0.732     s
+PATTA per 50 mosse senza mangiare.      253   mosse,    0.823     s
+PATTA per 50 mosse senza mangiare.      293   mosse,    0.717     s
+Vince il BIANCO.                        185   mosse,    0.679     s
+STALLO.                                 226   mosse,    0.667     s
+PATTA per 50 mosse senza mangiare.      212   mosse,    0.687     s
+PATTA per 50 mosse senza mangiare.      348   mosse,    0.893     s
+Vince il NERO.                          140   mosse,    0.536     s
+Vince il NERO.                          226   mosse,    0.752     s
+PATTA per 50 mosse senza mangiare.      370   mosse,    0.94      s
+Vince il BIANCO.                        165   mosse,    0.595     s
+PATTA per 50 mosse senza mangiare.      250   mosse,    0.722     s
+PATTA per 50 mosse senza mangiare.      292   mosse,    0.833     s
+PATTA per 50 mosse senza mangiare.      306   mosse,    0.856     s
+PATTA per 50 mosse senza mangiare.      322   mosse,    0.797     s
+PATTA per 50 mosse senza mangiare.      366   mosse,    0.887     s
+PATTA per 50 mosse senza mangiare.      291   mosse,    0.911     s
+Vince il BIANCO.                        57    mosse,    0.287     s
+PATTA per 50 mosse senza mangiare.      267   mosse,    0.607     s
+PATTA per 50 mosse senza mangiare.      330   mosse,    0.99      s
+PATTA per 50 mosse senza mangiare.      308   mosse,    0.664     s
+PATTA per 50 mosse senza mangiare.      324   mosse,    1.058     s
+PATTA per 50 mosse senza mangiare.      431   mosse,    1.042     s
+STALLO.                                 271   mosse,    0.856     s
+PATTA per 50 mosse senza mangiare.      380   mosse,    0.983     s
+Vince il NERO.                          102   mosse,    0.43      s
+PATTA per 50 mosse senza mangiare.      392   mosse,    0.964     s
+PATTA per 50 mosse senza mangiare.      261   mosse,    0.654     s
+PATTA per 50 mosse senza mangiare.      203   mosse,    0.655     s
+PATTA per 50 mosse senza mangiare.      381   mosse,    0.85      s
+Vince il NERO.                          172   mosse,    0.601     s
+PATTA per 50 mosse senza mangiare.      269   mosse,    0.836     s
+PATTA per 50 mosse senza mangiare.      345   mosse,    0.938     s
+PATTA per 50 mosse senza mangiare.      367   mosse,    0.75      s
+PATTA per 50 mosse senza mangiare.      238   mosse,    0.685     s
+PATTA per 50 mosse senza mangiare.      377   mosse,    1.025     s
+Vince il NERO.                          194   mosse,    0.58      s
+PATTA per 50 mosse senza mangiare.      342   mosse,    0.708     s
+Vince il BIANCO.                        79    mosse,    0.344     s
+PATTA per 50 mosse senza mangiare.      382   mosse,    0.828     s
+PATTA per 50 mosse senza mangiare.      268   mosse,    0.737     s
+PATTA per 50 mosse senza mangiare.      372   mosse,    0.847     s
+PATTA per 50 mosse senza mangiare.      232   mosse,    0.688     s
+PATTA per 50 mosse senza mangiare.      267   mosse,    0.948     s
+PATTA per 50 mosse senza mangiare.      251   mosse,    0.852     s
+Vince il BIANCO.                        81    mosse,    0.373     s
+STALLO.                                 218   mosse,    0.819     s
+PATTA per 50 mosse senza mangiare.      272   mosse,    0.703     s
+PATTA per 50 mosse senza mangiare.      415   mosse,    1.092     s
+PATTA per 50 mosse senza mangiare.      156   mosse,    0.48      s
+Vince il NERO.                          162   mosse,    0.669     s
+PATTA per ripetizione.                  334   mosse,    0.822     s
+PATTA per 50 mosse senza mangiare.      320   mosse,    0.747     s
+PATTA per 50 mosse senza mangiare.      341   mosse,    0.881     s
+PATTA per 50 mosse senza mangiare.      305   mosse,    0.768     s
+Vince il NERO.                          50    mosse,    0.229     s
+PATTA per 50 mosse senza mangiare.      272   mosse,    0.862     s
+PATTA per 50 mosse senza mangiare.      397   mosse,    0.965     s
+PATTA per 50 mosse senza mangiare.      310   mosse,    0.78      s
+PATTA per 50 mosse senza mangiare.      299   mosse,    0.726     s
+PATTA per ripetizione.                  288   mosse,    0.706     s
+PATTA per 50 mosse senza mangiare.      279   mosse,    0.916     s
+Vince il BIANCO.                        163   mosse,    0.649     s
+PATTA per 50 mosse senza mangiare.      255   mosse,    0.701     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.834     s
+PATTA per 50 mosse senza mangiare.      409   mosse,    1.083     s
+PATTA per 50 mosse senza mangiare.      381   mosse,    0.841     s
+PATTA per 50 mosse senza mangiare.      278   mosse,    0.668     s
+PATTA per 50 mosse senza mangiare.      250   mosse,    0.629     s
+PATTA per 50 mosse senza mangiare.      265   mosse,    0.568     s
+PATTA per 50 mosse senza mangiare.      366   mosse,    0.957     s
+PATTA per 50 mosse senza mangiare.      293   mosse,    0.763     s
+PATTA per 50 mosse senza mangiare.      367   mosse,    0.9       s
+PATTA per 50 mosse senza mangiare.      330   mosse,    0.927     s
+PATTA per 50 mosse senza mangiare.      261   mosse,    0.645     s
+PATTA per 50 mosse senza mangiare.      266   mosse,    0.726     s
+PATTA per 50 mosse senza mangiare.      373   mosse,    1.027     s
+PATTA per 50 mosse senza mangiare.      300   mosse,    0.747     s
+PATTA per 50 mosse senza mangiare.      287   mosse,    0.565     s
+PATTA per 50 mosse senza mangiare.      308   mosse,    0.97      s
+PATTA per 50 mosse senza mangiare.      238   mosse,    0.692     s
+PATTA per 50 mosse senza mangiare.      237   mosse,    0.699     s
+PATTA per 50 mosse senza mangiare.      257   mosse,    0.671     s
+STALLO.                                 195   mosse,    0.606     s
+PATTA per 50 mosse senza mangiare.      336   mosse,    0.888     s
+PATTA per 50 mosse senza mangiare.      305   mosse,    0.937     s
+PATTA per 50 mosse senza mangiare.      202   mosse,    0.536     s
+PATTA per 50 mosse senza mangiare.      329   mosse,    0.877     s
+PATTA per 50 mosse senza mangiare.      282   mosse,    0.655     s
+PATTA per 50 mosse senza mangiare.      315   mosse,    0.74      s
+PATTA per 50 mosse senza mangiare.      315   mosse,    0.792     s
+PATTA per 50 mosse senza mangiare.      226   mosse,    0.652     s
+Vince il NERO.                          68    mosse,    0.273     s
+PATTA per 50 mosse senza mangiare.      347   mosse,    0.794     s
+PATTA per 50 mosse senza mangiare.      230   mosse,    0.618     s
+PATTA per 50 mosse senza mangiare.      309   mosse,    0.742     s
+PATTA per 50 mosse senza mangiare.      342   mosse,    0.952     s
+PATTA per 50 mosse senza mangiare.      269   mosse,    0.837     s
+PATTA per 50 mosse senza mangiare.      206   mosse,    0.598     s
+Vince il NERO.                          202   mosse,    0.758     s
+PATTA per 50 mosse senza mangiare.      312   mosse,    0.756     s
+PATTA per 50 mosse senza mangiare.      267   mosse,    0.721     s
+Vince il BIANCO.                        45    mosse,    0.212     s
+PATTA per 50 mosse senza mangiare.      305   mosse,    0.907     s
+PATTA per 50 mosse senza mangiare.      421   mosse,    0.999     s
+PATTA per 50 mosse senza mangiare.      274   mosse,    0.719     s
+PATTA per 50 mosse senza mangiare.      369   mosse,    0.977     s
+PATTA per 50 mosse senza mangiare.      337   mosse,    0.759     s
+PATTA per 50 mosse senza mangiare.      400   mosse,    0.685     s
+PATTA per 50 mosse senza mangiare.      358   mosse,    0.902     s
+PATTA per 50 mosse senza mangiare.      288   mosse,    0.606     s
+PATTA per 50 mosse senza mangiare.      294   mosse,    0.853     s
+PATTA per 50 mosse senza mangiare.      324   mosse,    0.725     s
+PATTA per 50 mosse senza mangiare.      350   mosse,    0.853     s
+Vince il NERO.                          158   mosse,    0.541     s
+STALLO.                                 233   mosse,    0.685     s
+PATTA per 50 mosse senza mangiare.      339   mosse,    0.685     s
+Vince il NERO.                          184   mosse,    0.598     s
+Vince il NERO.                          292   mosse,    0.969     s
+PATTA per 50 mosse senza mangiare.      380   mosse,    1.035     s
+PATTA per 50 mosse senza mangiare.      322   mosse,    0.932     s
+Vince il BIANCO.                        83    mosse,    0.385     s
+PATTA per ripetizione.                  183   mosse,    0.607     s
+PATTA per 50 mosse senza mangiare.      302   mosse,    0.97      s
+PATTA per 50 mosse senza mangiare.      293   mosse,    0.731     s
+PATTA per 50 mosse senza mangiare.      387   mosse,    0.836     s
+PATTA per 50 mosse senza mangiare.      305   mosse,    0.621     s
+Vince il NERO.                          278   mosse,    0.868     s
+PATTA per 50 mosse senza mangiare.      389   mosse,    0.902     s
+PATTA per 50 mosse senza mangiare.      304   mosse,    1.032     s
+STALLO.                                 284   mosse,    1.2       s
+PATTA per 50 mosse senza mangiare.      225   mosse,    0.744     s
+Vince il NERO.                          276   mosse,    0.905     s
+PATTA per 50 mosse senza mangiare.      191   mosse,    0.658     s
+PATTA per 50 mosse senza mangiare.      230   mosse,    0.849     s
+PATTA per 50 mosse senza mangiare.      233   mosse,    0.639     s
+PATTA per 50 mosse senza mangiare.      381   mosse,    0.971     s
+PATTA per 50 mosse senza mangiare.      252   mosse,    0.688     s
+PATTA per 50 mosse senza mangiare.      286   mosse,    0.79      s
+PATTA per 50 mosse senza mangiare.      294   mosse,    0.609     s
+PATTA per 50 mosse senza mangiare.      310   mosse,    0.764     s
+PATTA per 50 mosse senza mangiare.      322   mosse,    0.944     s
+Vince il NERO.                          78    mosse,    0.354     s
+PATTA per 50 mosse senza mangiare.      364   mosse,    0.858     s
+PATTA per 50 mosse senza mangiare.      316   mosse,    0.802     s
+STALLO.                                 231   mosse,    0.639     s
+Vince il NERO.                          166   mosse,    0.68      s
+PATTA per 50 mosse senza mangiare.      210   mosse,    0.825     s
+PATTA per 50 mosse senza mangiare.      277   mosse,    0.84      s
+PATTA per 50 mosse senza mangiare.      442   mosse,    1.118     s
+PATTA per 50 mosse senza mangiare.      258   mosse,    0.765     s
+Vince il NERO.                          90    mosse,    0.377     s
+PATTA per 50 mosse senza mangiare.      250   mosse,    0.797     s
+PATTA per 50 mosse senza mangiare.      319   mosse,    0.871     s
+Vince il NERO.                          92    mosse,    0.443     s
+Vince il NERO.                          188   mosse,    0.66      s
+PATTA per 50 mosse senza mangiare.      328   mosse,    0.868     s
+STALLO.                                 280   mosse,    0.83      s
+PATTA per 50 mosse senza mangiare.      362   mosse,    0.928     s
+PATTA per 50 mosse senza mangiare.      292   mosse,    0.734     s
+PATTA per 50 mosse senza mangiare.      50    mosse,    0.264     s
+PATTA per 50 mosse senza mangiare.      388   mosse,    0.848     s
+Vince il NERO.                          168   mosse,    0.718     s
+PATTA per 50 mosse senza mangiare.      270   mosse,    0.773     s
+PATTA per 50 mosse senza mangiare.      347   mosse,    0.908     s
+PATTA per 50 mosse senza mangiare.      367   mosse,    0.829     s
+PATTA per 50 mosse senza mangiare.      262   mosse,    0.702     s
+PATTA per 50 mosse senza mangiare.      344   mosse,    0.781     s
+Vince il BIANCO.                        195   mosse,    0.628     s
+PATTA per 50 mosse senza mangiare.      344   mosse,    0.749     s
+PATTA per 50 mosse senza mangiare.      276   mosse,    0.733     s
+PATTA per 50 mosse senza mangiare.      370   mosse,    0.771     s
+Vince il NERO.                          202   mosse,    0.666     s
+PATTA per 50 mosse senza mangiare.      233   mosse,    0.644     s
+PATTA per 50 mosse senza mangiare.      357   mosse,    0.768     s
+PATTA per 50 mosse senza mangiare.      351   mosse,    0.69      s
+PATTA per 50 mosse senza mangiare.      284   mosse,    0.704     s
+PATTA per 50 mosse senza mangiare.      320   mosse,    0.712     s
+Vince il NERO.                          84    mosse,    0.373     s
+PATTA per 50 mosse senza mangiare.      220   mosse,    0.62      s
+PATTA per 50 mosse senza mangiare.      272   mosse,    0.767     s
+Vince il BIANCO.                        111   mosse,    0.477     s
+Vince il BIANCO.                        235   mosse,    0.73      s
+PATTA per 50 mosse senza mangiare.      363   mosse,    1.012     s
+PATTA per 50 mosse senza mangiare.      191   mosse,    0.658     s
+Vince il NERO.                          116   mosse,    0.479     s
+PATTA per 50 mosse senza mangiare.      283   mosse,    0.704     s
+PATTA per 50 mosse senza mangiare.      302   mosse,    0.826     s
+PATTA per 50 mosse senza mangiare.      277   mosse,    0.824     s
+PATTA per 50 mosse senza mangiare.      344   mosse,    0.797     s
+PATTA per 50 mosse senza mangiare.      109   mosse,    0.432     s
+PATTA per 50 mosse senza mangiare.      206   mosse,    0.645     s
+PATTA per 50 mosse senza mangiare.      324   mosse,    0.747     s
+Vince il NERO.                          246   mosse,    0.755     s
+Vince il BIANCO.                        179   mosse,    0.548     s
+STALLO.                                 277   mosse,    0.909     s
+PATTA per 50 mosse senza mangiare.      198   mosse,    0.684     s
+
+Occorrenze tipologie di mosse.
+
+	Sposta:              217374 volte
+	Mangia:              19184 volte
+	Avanza1:             23795 volte
+	Avanza2:             6542 volte
+	Pedone Mangia:       5591 volte
+	Enpassant:           15 volte
+	Arrocco Lungo:       18 volte
+	Arrocco Corto:       42 volte
+
+Occorrenze esiti.
+
+	STALLO.:                                 54 volte
+	PATTA per 50 mosse senza mangiare.:      752 volte
+	PATTA per ripetizione.:                  17 volte
+	Vince il BIANCO.:                        85 volte
+	Vince il NERO.:                          92 volte
+	NESSUNO:                                 0 volte
+
+Tempo simulazione: 767.8804941177368 s

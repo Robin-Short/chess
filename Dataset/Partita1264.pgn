@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ulXwcqJt"]
+[White "tuskerking"]
+[Black "E-Online"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:51:56"]
+[WhiteElo "1902"]
+[BlackElo "1911"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 c6 3. Nf3 Nf6 4. Bc4 Nxe4 5. O-O d5 6. Bb3 Bf5 7. c4 e6 8. cxd5 cxd5 9. Nc3 h5 10. Nd2 Nxc3 11. bxc3 Bd6 12. Nf3 Nd7 13. Bg5 Be7 14. Bxe7 Qxe7 15. Re1 Nb6 16. Ne5 Kf8 17. Qf3 h4 18. h3 Rc8 19. Rac1 a5 20. c4 a4 21. cxd5 Rxc1 22. Rxc1 axb3 23. dxe6 fxe6 24. axb3 Nd5 25. Nxg6+ Kf7 26. Nxe7 Kxe7 27. Rc5 Kd6 28. Rxd5+ exd5 29. Qxf5 Kc6 30. Qe6+ Kb5 31. Qxd5+ Ka6 32. Qc4+ Ka7 33. d5 Rd8 34. Qc5+ Ka6 35. Qc7 Ra8 36. d6 Kb5 37. d7 Ra1+ 38. Kh2 Rd1 39. g3 Rd2 40. gxh4 Rxf2+ 41. Kg3 Rd2 42. Qb6+ 1-0
+

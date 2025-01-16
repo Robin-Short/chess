@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ngqTj0qx"]
+[White "sadikh"]
+[Black "felix777"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:52:34"]
+[WhiteElo "1606"]
+[BlackElo "1618"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "60+5"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 e6 4. Bd3 Ne7 5. O-O O-O 6. Re1 d5 7. c3 dxe4 8. Bxe4 Nbc6 9. Nbd2 b6 10. b4 Bb7 11. b5 Na5 12. Bb2 Nd5 13. a3 a6 14. c4 Nf4 15. Nf1 Bxe4 16. Rxe4 Nxc4 17. Rxf4 Nxb2 18. Qc2 axb5 19. Qxb2 c5 20. Qxb5 cxd4 21. Rd1 Ra5 22. Qb4 e5 23. Re4 f5 24. Rxe5 Bxe5 25. Nxe5 Rxe5 26. Qxd4 Qxd4 27. Rxd4 Re1 28. Rd3 Rc8 29. Re3 Rxe3 30. fxe3 Ra8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3UhSQrym"]
+[White "PILOTVE"]
+[Black "FMAS"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:33"]
+[WhiteElo "1604"]
+[BlackElo "1556"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nf3 Nxc3 5. dxc3 Nc6 6. Bd2 Bg4 7. Be2 Bxf3 8. Bxf3 g6 9. Qe2 Bg7 10. O-O-O O-O 11. Bh6 e6 12. Rxd8 Raxd8 13. Bxg7 Kxg7 14. h4 Rfe8 15. h5 e5 16. Bxc6 bxc6 17. Qe4 Re6 18. hxg6 fxg6 19. Qh4 Rh8 20. g3 Rf6 21. f4 exf4 22. gxf4 a5 23. Rg1 1-0
+

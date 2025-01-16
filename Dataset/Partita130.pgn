@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MSZhx10T"]
+[White "lucasferreira"]
+[Black "Aldobaran"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:15"]
+[WhiteElo "1222"]
+[BlackElo "1174"]
+[WhiteRatingDiff "-44"]
+[BlackRatingDiff "+11"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. d4 d5 3. e3 Nc6 4. c4 dxc4 5. Na3 Bb4+ 6. Bd2 Bxa3 7. Ne5 Bxb2 8. Rb1 Bxd4 9. exd4 Nxe5 10. dxe5 Ne7 11. Bxc4 O-O 12. Bc3 c6 13. Bd3 b5 14. Qh5 g6 15. Qh3 a5 16. f4 a4 17. g4 a3 18. f5 Ra4 19. fxe6 fxe6 20. g5 Nf5 21. Bxf5 exf5 22. Rf1 Qd5 23. Rxf5 Qe4+ 24. Kf1 Qxb1+ 25. Kf2 Qxf5+ 26. Kg3 Qf3# 0-1
+

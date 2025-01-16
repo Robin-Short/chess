@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WgnBRjTE"]
+[White "ThatAmine"]
+[Black "kick"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:03:27"]
+[WhiteElo "1750"]
+[BlackElo "1713"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nf6 5. c3 Nc6 6. Re1 Na5 7. Bf1 a6 8. d4 exd4 9. cxd4 O-O 10. d5 b5 11. b4 Nb7 12. Bb2 Bd7 13. Nc3 h6 14. a3 Nh7 15. Rc1 Ng5 16. Be2 Bg4 17. Nd4 Bxe2 18. Qxe2 Qd7 19. Nc6 Bf6 20. a4 Nd8 21. Nxd8 Rfxd8 22. axb5 axb5 23. Qxb5 Qg4 24. f3 Nxf3+ 25. Kh1 Nxe1 26. Rxe1 Re8 27. Qc6 Rac8 28. Nb5 Bxb2 29. Na7 Ra8 30. Qxc7 Rxe4 31. Rb1 Qe2 32. h3 Be5 33. Rg1 Qf2 34. Qc6 Rf8 35. Qc1 Bf4 36. Qf1 Qg3 37. Qxf4 Rxf4 0-1
+

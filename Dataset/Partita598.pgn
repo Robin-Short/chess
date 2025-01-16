@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RGFLYPwN"]
+[White "stampan"]
+[Black "fuoriuso"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:24:01"]
+[WhiteElo "1404"]
+[BlackElo "1558"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nc6 3. d3 d6 4. Nc3 Be7 5. Nf3 Bg4 6. h3 Bh5 7. O-O Nf6 8. Nd5 Nd4 9. Be3 Nxf3+ 10. gxf3 Nxd5 11. Bxd5 c6 12. Bb3 O-O 13. Kh1 Bh4 14. Rg1 Qf6 15. Kh2 Bxf3 16. Qf1 Rad8 17. a4 d5 18. exd5 cxd5 19. Bxa7 d4 20. Bb6 Qf4+ 21. Rg3 Rd6 22. Bc5 Rg6 23. Qg1 Rc8 24. Bb4 Bxg3+ 25. fxg3 Qe3 26. Re1 Qxg1+ 27. Rxg1 e4 28. dxe4 Bxe4 29. Bd2 Bxc2 30. Bxc2 Rxc2 31. Rd1 h6 32. h4 Rxb2 33. Kh3 Ra2 34. a5 d3 35. Bf4 Ra3 36. Rd2 Rc6 37. Kg4 Rc2 38. Rxc2 dxc2 39. h5 Ra1 0-1
+

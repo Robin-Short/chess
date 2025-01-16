@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mSYm1mMR"]
+[White "MrPatate"]
+[Black "MisterBiggStuff"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:46:53"]
+[WhiteElo "1942"]
+[BlackElo "2253"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B27"]
+[Opening "Sicilian Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d5 3. d4 dxe4 4. Ne5 Qxd4 5. Qxd4 cxd4 6. Bb5+ Nd7 7. Na3 a6 8. Bxd7+ Bxd7 9. Nxd7 Kxd7 10. Bf4 f6 11. O-O-O e5 12. Bg3 Ke6 13. Nc4 b5 14. Nd2 f5 15. Nb3 Nf6 16. f3 e3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HYujfGtR"]
+[White "letmeplaynow"]
+[Black "Ivan1927"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:16:05"]
+[WhiteElo "1737"]
+[BlackElo "1573"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 c4 5. e4 Qc7 6. a3 Qa5+ 7. Nc3 b5 8. Nf3 b4 9. Nb1 bxa3+ 10. Qd2 Qxd2+ 11. Nbxd2 axb2 12. Bxb2 a5 13. Bxc4 Ne7 14. O-O f6 15. Rfc1 Bb7 16. Bb5 Nc8 17. Bc3 Nd6 18. Bd3 a4 19. Nd4 Be7 20. f3 O-O 21. Bb4 Nc8 22. Bxe7 Nxe7 23. Rc7 Ra7 24. Nb5 Ba6 25. Rxa7 Bxb5 26. Bxb5 Rd8 27. R1xa4 Ng6 28. g3 h5 29. Nc4 Ne5 30. Nxe5 fxe5 1-0
+

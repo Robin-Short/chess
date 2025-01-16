@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/glpjXGqW"]
+[White "sayayin"]
+[Black "ntiy"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:25"]
+[WhiteElo "1267"]
+[BlackElo "1236"]
+[WhiteRatingDiff "-40"]
+[BlackRatingDiff "+12"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Euwe Attack"]
+[TimeControl "60+3"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. b3 d5 3. Bb2 dxe4 4. Nc3 f5 5. Bc4 Nf6 6. Qe2 b5 7. g3 bxc4 8. Qxc4 e6 9. Qxc6+ Nxc6 10. Nh3 Ng4 11. Ng5 Bc5 12. Nxe6 Bxe6 13. Nb5 Bxf2+ 14. Kf1 Qxd2 15. Kg2 Bd5 0-1
+

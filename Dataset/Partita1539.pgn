@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sW1EzeGs"]
+[White "denko"]
+[Black "capablanca1950"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1660"]
+[BlackElo "1784"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bg4 4. Nf3 e6 5. Be2 Ne7 6. d3 d4 7. c4 c5 8. Nbd2 Nbc6 9. a3 Nf5 10. Ne4 Be7 11. Bd2 O-O 12. Qc2 a6 13. h3 Bxf3 14. gxf3 Bh4+ 15. Kd1 Nce7 16. Rg1 b6 17. Be1 Bxe1 18. Kxe1 Ne3 19. Qc1 N7f5 20. Kd2 Qh4 21. Qe1 Qxe1+ 22. Raxe1 Rfc8 23. h4 Nxh4 24. Rg5 Nhf5 25. Reg1 g6 26. Bf1 Nxf1+ 27. Rxf1 Ne3 28. Rfg1 Kg7 29. Rh1 b5 30. Nf6 h6 31. Rgg1 bxc4 32. dxc4 Nxc4+ 33. Kc2 Ne3+ 34. Kb1 Rab8 35. Rg3 Nc4 36. Rh2 Rb7 37. Rgh3 h5 38. Rg2 Kh6 39. Ng4+ Kg7 40. Nf6 Kh6 41. Ng4+ Kh7 42. Nf6+ Kh6 43. Ng4+ Kg7 44. Nf6 Kf8 45. Ne4 Nxa3+ 46. Ka2 Nc4 47. Nd6 Rcb8 48. Nxc4 1-0
+

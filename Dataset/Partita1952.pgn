@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Dm8fuWL3"]
+[White "cmath"]
+[Black "Tarama"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:05"]
+[WhiteElo "1656"]
+[BlackElo "1870"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-18"]
+[ECO "C21"]
+[Opening "Center Game: von der Lasa Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Nf6 4. e5 Ne4 5. Qd3 d5 6. Qxd4 Nc6 7. Qxd5 Qxd5 8. Bxd5 Nxe5 9. Bxe4 Bc5 10. Nf3 Nxf3+ 11. Bxf3 O-O 12. O-O c6 13. Nc3 Be6 14. Bf4 Bd4 15. Rad1 Bxc3 16. bxc3 Bc4 17. Rfe1 Rfe8 18. Rxe8+ Rxe8 19. a3 g6 20. Rd4 Ba2 21. Re4 Bd5 22. Rxe8+ Kg7 23. Bxd5 cxd5 24. Re7 b6 25. Rb7 b5 26. Rxa7 b4 27. Be5+ Kh6 28. Rxf7 Kg5 29. Rxh7 bxa3 30. Rd7 Kf5 31. Rxd5 a2 32. Ra5 a1=Q+ 33. Rxa1 Kxe5 34. Ra5+ Kf6 35. Rd5 g5 36. f4 gxf4 37. Rd4 Ke5 38. Rxf4 Kxf4 39. Kf2 Ke5 40. Kf3 Kf5 41. g4+ Kg5 42. Ke4 Kxg4 43. Kd5 Kh3 44. c4 Kg2 45. c5 Kf3 46. c6 Ke2 47. Kd6 Kd2 48. c7 Kc3 49. h4 Kb2 50. h5 Kc1 51. h6 Kd2 52. h7 Kc1 53. h8=Q Kb1 54. Qb2+ Kxb2 55. Kd7 Kc1 56. c8=Q Kd2 57. Qe8 Kc1 58. Qe2 Kb2 59. c3+ Kxc3 60. Qe1+ Kc4 61. Qd1 Kc3 62. Kd6 Kc4 63. Ke5 Kb4 64. Qc2 Kb5 65. Kd4 Kb6 66. Qc4 Kb7 67. Qc5 Kb8 68. Qc6 Ka7 69. Qb5 Ka8 70. Kd5 Ka7 71. Kc6 Ka8 72. Qb7# 1-0
+

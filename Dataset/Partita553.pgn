@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BiXo0n6x"]
+[White "ChessPapa"]
+[Black "mavaisuchesscube"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:09"]
+[WhiteElo "1550"]
+[BlackElo "1851"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-19"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 f5 5. Ng5 g6 6. h4 Bd7 7. h5 e5 8. hxg6 Be7 9. g7 Bf6 10. gxh8=Q Bxh8 11. Rxh7 Bf6 12. Qh5+ Kf8 13. Qf7# 1-0
+

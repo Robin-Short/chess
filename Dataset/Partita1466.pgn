@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/PH8aIfsM"]
+[White "Tsiri86"]
+[Black "a1364m1364"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:02:41"]
+[WhiteElo "1805"]
+[BlackElo "1263"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-5"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nc6 2. d5 Nb4 3. e4 c6 4. a3 Na6 5. c4 cxd5 6. cxd5 Qa5+ 7. Nc3 Nc5 8. Bd2 Nxe4 9. Nxe4 Qb6 10. Nc3 Qxb2 11. Rb1 Qxa3 12. Nb5 Qc5 13. Rc1 Qb6 14. Nc7+ Kd8 15. Nxa8 Qd6 16. Qc2 Qb8 17. Nf3 Qxa8 18. Qc7+ Ke8 19. Qxc8+ Qxc8 20. Rxc8# 1-0
+

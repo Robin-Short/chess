@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8XbqN8fQ"]
+[White "aderbalco"]
+[Black "KatumbaYona"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:46:02"]
+[WhiteElo "1567"]
+[BlackElo "1624"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "780+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d4 exd4 5. Qxd4 Bf6 6. e5 dxe5 7. Qe4 Qd6 8. Nc3 c6 9. Bd2 Be6 10. Bxe6 Qxe6 11. Na4 b6 12. Bb4 h6 13. Rd1 Na6 14. Rd6 Qxa2 15. Qxc6+ Kf8 16. Rd8# 1-0
+

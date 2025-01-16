@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8uNMzyJ9"]
+[White "heimsemberg"]
+[Black "keltik"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:42"]
+[WhiteElo "1500"]
+[BlackElo "1261"]
+[WhiteRatingDiff "+87"]
+[BlackRatingDiff "-5"]
+[ECO "C21"]
+[Opening "Center Game: von der Lasa Gambit"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 c5 4. c3 Nc6 5. Nf3 f5 6. O-O fxe4 7. Re1 Nf6 8. Bg5 d3 9. Qxd3 h6 10. Bxf6 gxf6 11. Qxe4+ Qe7 12. Qg6+ Kd8 13. Rxe7 Bxe7 14. Nbd2 Ne5 15. Nxe5 fxe5 16. Ne4 Re8 17. Rd1 d6 18. Nxd6 Bxd6 19. Qxd6+ Bd7 20. Qxd7# 1-0
+

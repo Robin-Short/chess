@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cx1NMsB8"]
+[White "lilbigchunk"]
+[Black "rishabh_m18"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:55"]
+[WhiteElo "1566"]
+[BlackElo "1399"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+17"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 b5 4. cxb5 Nxd5 5. Nc3 c6 0-1
+

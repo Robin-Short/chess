@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JxqcXn6e"]
+[White "hankm00dy"]
+[Black "favara"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:00"]
+[WhiteElo "1445"]
+[BlackElo "1292"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. d3 Bxf3 5. gxf3 c6 6. f4 d5 7. exd5 cxd5 8. Bb3 Bb4+ 9. Bd2 Bxd2+ 10. Nxd2 exf4 11. Qe2+ Qe7 12. Qxe7+ Nxe7 13. O-O-O Nbc6 14. Rde1 Nd4 15. Bxd5 Rc8 16. c3 Ne6 17. Bxe6 fxe6 18. Rxe6 Kd7 19. Rhe1 Rhe8 20. Nc4 Rc6 21. Ne5+ Kxe6 22. Nxc6+ Kd7 23. Ne5+ Kc7 24. Nc4 g5 25. Na3 h5 26. Nb5+ Kd8 27. Nxa7 g4 28. Re4 f3 29. Nb5 Ng6 30. Rd4+ Kc8 31. Nd6+ Kd8 32. Nxe8+ Kxe8 33. Rd5 Nf4 34. Rf5 Nh3 35. Rxh5 Nxf2 36. Kd2 Nh3 37. Ke1 f2+ 38. Kf1 Nf4 39. Re5+ Kd7 40. Re4 Nxd3 41. Rd4+ Kc6 42. Rxd3 b5 43. Kxf2 Kc5 44. Kg3 b4 45. Kxg4 bxc3 46. Rxc3+ Kb4 47. h3 1-0
+

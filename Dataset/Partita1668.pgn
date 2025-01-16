@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ESRHuqoT"]
+[White "bjagus"]
+[Black "ro61"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:13:28"]
+[WhiteElo "1512"]
+[BlackElo "1727"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. Bd2 Qxc5 4. Nf3 a6 5. g3 d6 6. Bg2 e6 7. O-O Qc7 8. e3 Nc6 9. Qe2 b5 10. c4 Bb7 11. cxb5 axb5 12. Nc3 b4 13. Nb5 Qb6 14. Rac1 Ba6 15. Nxd6+ Bxd6 16. Qd1 Bxf1 17. Kxf1 Nf6 18. Ng5 h6 19. Bxc6+ Ke7 20. Nxf7 Kxf7 21. Bxa8 Rxa8 22. Qb3 Nd5 23. f4 g6 24. g4 Qa6+ 25. Kf2 Qxa2 26. Qxa2 Rxa2 27. Rb1 Bc5 28. Kf3 Kf6 29. e4 Nb6 30. h4 Nc4 31. Be1 Rxb2 32. Rxb2 Nxb2 33. e5+ Ke7 0-1
+

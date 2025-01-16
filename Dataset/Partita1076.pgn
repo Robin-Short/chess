@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SeAZXLCe"]
+[White "odontomachus"]
+[Black "pulsar"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:43:38"]
+[WhiteElo "1872"]
+[BlackElo "1828"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Nc3 Bd6 6. Bg5 c6 7. Bd3 O-O 8. O-O Bg4 9. h3 Bh5 10. Re1 Nbd7 11. Re3 Qc7 12. Ne2 Rfe8 13. c3 Rxe3 14. fxe3 Bxf3 15. gxf3 Re8 16. Kf2 h6 17. Bf4 Nh5 18. Bxd6 Qxd6 19. Qg1 Qe6 20. e4 dxe4 21. Bxe4 Qxh3 22. Re1 Ndf6 23. Bc2 Qh4+ 24. Kf1 Nd5 25. Be4 Re6 26. c4 Ndf4 27. Nxf4 Qxf4 28. Ke2 f5 29. Kd1 fxe4 30. fxe4 0-1
+

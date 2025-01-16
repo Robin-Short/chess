@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HEyQwnwD"]
+[White "montecristo"]
+[Black "princechess"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:42:10"]
+[WhiteElo "1400"]
+[BlackElo "1590"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. g3 Bb7 3. Bg2 e5 4. d4 d6 5. dxe5 dxe5 6. Nd2 Nc6 7. c3 Bc8 8. Bh3 Bxh3 9. Nxh3 h6 10. O-O Qd7 11. Kg2 O-O-O 12. Qe2 Kb7 13. Nf3 f6 14. b4 Qd3 15. Qe1 Be7 16. Be3 g5 17. Nd2 h5 18. Rd1 Qa6 19. f4 g4 20. Nf2 Rd3 21. Nxd3 Qxd3 22. fxe5 Qxc3 23. exf6 Nxf6 24. b5 Nb4 25. Rc1 Qd3 26. Nc4 Qxe4+ 27. Kg1 Nd3 28. Qd2 Nxc1 29. Rxc1 Rd8 30. Qf2 Rd3 31. Nd2 Qxe3 32. Qxe3 Rxe3 33. Nc4 Rf3 34. Rf1 Bc5+ 35. Kg2 Bd4 36. Rxf3 gxf3+ 37. Kxf3 Nd5 38. g4 hxg4+ 39. Kxg4 Ne3+ 40. Nxe3 Bxe3 41. h4 a6 42. bxa6+ Kxa6 43. h5 c5 44. Kf5 c4 45. Kg6 c3 46. h6 Bxh6 47. Kxh6 c2 48. Kg6 c1=Q 49. Kf5 Qc4 50. Ke5 Kb5 51. Kf5 Qd4 52. Ke6 Kc5 53. Kf5 Kd6 54. Kg5 Ke6 55. Kg6 Qe5 56. Kh6 Kf7 57. Kh7 Qg7# 0-1
+

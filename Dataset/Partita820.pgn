@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MEicIH0l"]
+[White "uashenka072"]
+[Black "musalipov"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:23"]
+[WhiteElo "1714"]
+[BlackElo "1794"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C38"]
+[Opening "King's Gambit Accepted, Hanstein Gambit"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 d6 7. e5 d5 8. Bb3 c6 9. c4 Be6 10. cxd5 cxd5 11. Nc3 a6 12. Qd3 Ne7 13. Bd2 Nbc6 14. Rac1 Bf5 15. Qe2 b5 16. a4 b4 17. Na2 a5 18. Rc5 Qd7 19. Rfc1 Be6 20. Qb5 Rc8 21. h4 O-O 22. hxg5 hxg5 23. Nxg5 Nxd4 24. Qxd7 Bxd7 25. Rxc8 Bxc8 26. Bd1 Bxe5 27. Nf3 f6 28. Nxd4 Bxd4+ 29. Kh2 Kg7 30. Bxf4 Rh8+ 31. Kg3 Nf5+ 32. Kf3 Bxb2 33. Rc7+ Kg6 34. Bc2 Be5 35. g4 Bxc7 36. gxf5+ Bxf5 37. Bxf5+ Kxf5 38. Bxc7 Rh3+ 39. Kg2 Ra3 40. Nc1 Rxa4 41. Ne2 Ra2 42. Kf3 Rc2 43. Nd4+ Kg6 44. Nxc2 b3 45. Na3 Kf5 46. Ke3 Ke6 47. Bxa5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZGXE6YKx"]
+[White "rey8"]
+[Black "sadikh"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:58"]
+[WhiteElo "1576"]
+[BlackElo "1617"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed Variation, Traditional"]
+[TimeControl "120+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. Bb5 Bd7 5. O-O Nf6 6. d3 e6 7. Bg5 Be7 8. Bxc6 Bxc6 9. d4 Nxe4 10. Bxe7 Qxe7 11. Nxe4 Bxe4 12. dxc5 dxc5 13. Ne5 O-O 14. f3 Bg6 15. Nxg6 hxg6 16. c4 Rad8 17. Qc2 Rd4 18. b3 Rfd8 19. Rfe1 Qg5 20. Qf2 Rd2 21. Re2 Rxe2 22. Qxe2 Rd2 23. Qf1 Qe3+ 24. Kh1 Qc3 25. Rc1 Qb2 26. Ra1 Rf2 27. Qg1 a5 28. a3 f6 29. b4 cxb4 30. axb4 axb4 31. Rb1 Qd2 32. Rd1 Qe3 33. Re1 Qb6 34. Rb1 e5 35. Rc1 Qd4 36. c5 f5 37. c6 bxc6 38. Rxc6 Kh7 39. Rc1 b3 40. Rd1 Qb6 41. Rb1 b2 42. Qe1 Rc2 43. h3 Qd4 44. Rd1 Qxd1 45. Qxd1 Rc1 46. Qxc1 0-1
+

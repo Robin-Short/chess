@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uKEXRidA"]
+[White "Vicious"]
+[Black "piskopos"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:54"]
+[WhiteElo "2051"]
+[BlackElo "1725"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 Be7 7. O-O d6 8. Be3 O-O 9. f3 b5 10. a3 Bb7 11. Bf2 Nbd7 12. Qd2 Rc8 13. Rad1 e5 14. Nf5 Rc6 15. Nd5 Re8 16. Ndxe7+ Rxe7 17. Nxe7+ Qxe7 18. Bh4 h6 19. f4 Nxe4 20. Bxe7 1-0
+

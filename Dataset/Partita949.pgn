@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xLWLzCb0"]
+[White "mihael"]
+[Black "stampan"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:37:51"]
+[WhiteElo "1138"]
+[BlackElo "1390"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Nf6 3. d4 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. a4 c6 7. c4 cxb5 8. axb5 Nf6 9. Bg5 Be7 10. Bxf6 Bxf6 11. h4 O-O 12. g4 Qa5+ 13. Kf1 0-1
+

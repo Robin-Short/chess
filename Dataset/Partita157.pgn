@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yMQAjFks"]
+[White "moises86"]
+[Black "haman"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:19"]
+[WhiteElo "1724"]
+[BlackElo "1491"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Franco-Nimzowitsch Variation"]
+[TimeControl "1200+10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. e5 Ng4 6. O-O Qd5 7. d4 b6 8. Nc3 Qc4 9. Nd2 Qxd4 10. Qf3 Ba6 11. Qxc6+ Kd8 12. Qxa8+ Ke7 13. Nf3 Qc4 14. Bg5+ f6 15. exf6+ gxf6 16. Bh4 Qf4 17. Rfd1 Be2 18. Qd8+ Kf7 19. Qd7+ Be7 20. Nxe2 1-0
+

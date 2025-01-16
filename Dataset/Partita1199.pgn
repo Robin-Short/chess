@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hTGZKTA5"]
+[White "catchmorris"]
+[Black "Lord-Orochimaru"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:02"]
+[WhiteElo "1772"]
+[BlackElo "1999"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 g6 3. c3 Bg7 4. Nd2 O-O 5. Ngf3 d6 6. h3 Nbd7 7. Bd3 Re8 8. Qe2 e5 9. e4 exd4 10. cxd4 d5 11. e5 c5 12. O-O Nh5 13. Nb1 cxd4 14. Bb5 Bxe5 15. Kh1 Bg7 16. Qd3 a6 17. Bxd7 Bxd7 18. Nxd4 Qf6 19. Nf3 Bb5 20. Qd1 Be2 21. Qe1 Bxf3 22. Qb4 Be2 23. Rg1 Qxf2 24. Bg5 Ng3+ 25. Kh2 Nf1+ 26. Kh1 Bd4 27. Be3 Bxe3 28. Rxf1 Bxf1 29. Kh2 Qxg2# 0-1
+

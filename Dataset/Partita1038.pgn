@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q2mmh9Tg"]
+[White "kihalily"]
+[Black "tabelatabela"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:41:19"]
+[WhiteElo "1795"]
+[BlackElo "1749"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 g6 5. Nf3 Bg7 6. Be3 Nf6 7. Be2 a6 8. O-O b5 9. Bd3 Bb7 10. Ne5 O-O 11. f4 Nd5 12. Nxd5 Qxd5 13. Qe2 Nd7 14. c4 bxc4 15. Bxc4 Qd6 16. Nxf7 Rxf7 17. Bxf7+ Kxf7 18. Rad1 Kg8 19. f5 Nf6 20. fxg6 hxg6 21. Bf4 Qd5 22. Rd2 Ne4 23. Rc2 Qxd4+ 24. Be3 Qd5 25. Rd1 Qf5 26. Rxc7 Bd5 27. Rxe7 Rf8 28. Rc7 Be5 29. Rc2 Be6 30. Rf1 Qxf1+ 31. Qxf1 Bxh2+ 32. Kxh2 Rxf1 33. Rc6 Bf5 34. Rxa6 Kf7 35. Ra7+ Ke6 36. Bd4 Kd5 37. Bc3 Kc4 38. Ra4+ Kd3 39. Rd4+ Ke2 40. Rd2+ Nxd2 41. Bxd2 Kxd2 42. Kg3 Ra1 43. Kh4 Rxa2 44. Kg5 Rxb2 45. g4 Be4 46. Kf6 Kd3 47. g5 Rg2 48. Kg7 Rxg5 49. Kf6 Rg4 50. Ke5 Bf5 51. Kf6 Rg2 52. Ke5 Re2+ 53. Kf6 Ke4 54. Kg7 g5 55. Kf6 g4 56. Kg5 g3 57. Kf6 g2 58. Kg5 g1=Q+ 59. Kf6 Qg6+ 60. Ke7 Rd2 61. Kf8 Rd8+ 62. Ke7 Qd6+ 63. Kf7 Qf8# 0-1
+

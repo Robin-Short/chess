@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/d4W4cJiR"]
+[White "ricardoargel"]
+[Black "AntoniusBlock"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:42"]
+[WhiteElo "1374"]
+[BlackElo "1290"]
+[WhiteRatingDiff "+48"]
+[BlackRatingDiff "-22"]
+[ECO "B34"]
+[Opening "Sicilian Defense: Accelerated Dragon"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.35] } 2. Nf3 { [%eval 0.35] } 2... d6 { [%eval 0.27] } 3. d4 { [%eval 0.26] } 3... cxd4 { [%eval 0.26] } 4. Nxd4 { [%eval 0.28] } 4... g6 { [%eval 0.34] } 5. Nc3 { [%eval 0.34] } 5... a6 { [%eval 0.36] } 6. f4 { [%eval 0.32] } 6... e5 { [%eval 0.81] } 7. fxe5?! { [%eval 0.2] } 7... dxe5 { [%eval 0.18] } 8. Nf3 { [%eval 0.08] } 8... Bg4? { [%eval 2.12] } 9. Qxd8+ { [%eval 2.12] } 9... Kxd8 { [%eval 2.08] } 10. Nxe5 { [%eval 2.09] } 10... Be6 { [%eval 2.27] } 11. Bf4 { [%eval 2.09] } 1-0
+

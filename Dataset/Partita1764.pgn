@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ajOZBxRJ"]
+[White "Jabougar"]
+[Black "goodandbad"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:48"]
+[WhiteElo "1823"]
+[BlackElo "1780"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8. Qe2 Be7 9. c3 O-O 10. Re1 Nxe4 11. Bxe4 Bxe4 12. Qxe4 c6 13. Bf4 Nf6 14. Qe2 Bd6 15. Bg5 h6 16. Bh4 Be7 17. Ne5 Nd7 18. Bxe7 Qxe7 19. Nc4 Nf6 20. f3 Qd7 21. Qe5 Qd5 22. Qxd5 Nxd5 23. Na5 Rac8 24. a3 b6 25. Nb3 Rfd8 26. a4 Nf4 27. g3 Nd5 28. a5 b5 29. Nc5 b4 30. cxb4 Nxb4 31. Ra4 Nc2 32. Rc1 Nxd4 33. Nb7 Ne2+ 34. Kf2 Nxc1 35. Nxd8 Rxd8 36. Rc4 Nb3 37. Rxc6 Nxa5 38. Rc7 Rd2+ 39. Ke3 Rxb2 40. Rxa7 Nc4+ 41. Kd4 Nd6 42. h4 Nb5+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ujz1BDgE"]
+[White "JDCL852"]
+[Black "foufou"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:37"]
+[WhiteElo "1594"]
+[BlackElo "1614"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. d4 a6 2. e4 c5 3. dxc5 Nc6 4. Bd2 e6 5. b4 Qf6 6. Na3 d6 7. cxd6 Bxd6 8. b5 Bb4 9. bxc6 Bxa3 10. cxb7 Bxb7 11. Bd3 Bb2 12. Rb1 Bd4 13. Nf3 Bc6 14. O-O Ne7 15. Bg5 Qg6 16. Bxe7 Kxe7 17. Nxd4 Bxe4 18. Rb7+ Bxb7 19. Bxg6 hxg6 20. Qb1 Be4 21. Qb4+ Kf6 22. a4 Rh4 23. Nf3 Rg4 24. Qd4+ Ke7 25. h3 Rd8 26. Qc5+ Kf6 27. hxg4 Bxf3 28. g5# 1-0
+

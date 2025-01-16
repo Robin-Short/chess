@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/w0m2GqHK"]
+[White "zerononbanale"]
+[Black "johnpike"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:09"]
+[WhiteElo "1234"]
+[BlackElo "1330"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+8"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. e4 Nb6 5. Bd3 Nc6 6. d5 Ne5 7. Ne2 e6 8. dxe6 Nxd3+ 9. Qxd3 Qxd3 0-1
+

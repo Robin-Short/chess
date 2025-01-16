@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wzqNQH4W"]
+[White "sammy1"]
+[Black "capablanca1950"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:36:12"]
+[WhiteElo "1589"]
+[BlackElo "1788"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "120+5"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. Nc3 Bg4 6. Bb5 a6 7. Ba4 b5 8. Bb3 Bxf3 9. gxf3 e6 10. f4 Nf6 11. f5 Be7 12. fxe6 fxe6 13. Bg5 O-O 14. Rg1 Ne4 15. Nxe4 dxe4 16. Bxe6+ Kh8 17. h4 Bxg5 18. hxg5 Qxd4 19. Bd5 Qxd1+ 20. Rxd1 Rac8 21. Bxe4 Rfe8 22. f3 Nb4 23. Rh1 g6 24. Kf2 Nxa2 25. Bxg6 Rxc2+ 26. Kg3 Rc7 27. Bxe8 1-0
+

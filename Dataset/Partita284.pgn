@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/b7ZL8uKe"]
+[White "Markinhos"]
+[Black "taka6s6"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:15"]
+[WhiteElo "1627"]
+[BlackElo "1424"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. d4 exd4 5. e5 dxe5 6. Nxe5 Qe7 7. Bxf7+ Kd8 8. f4 Nf6 9. O-O Bd7 10. Qxd4 Nc6 11. Nxc6+ bxc6 12. Bb3 Qc5 13. Be3 Qxd4 14. Bxd4 Nd5 15. Nc3 Nxc3 16. Bxc3 Bd6 17. f5 Rf8 18. g4 c5 19. Rad1 Kc8 20. Bd5 Rb8 21. Be6 Bxe6 22. fxe6 c4 23. Bxg7 Rxf1+ 24. Rxf1 Kb7 25. Bc3 Re8 26. Re1 Bc5+ 27. Kg2 Be7 28. h3 Bh4 29. Re2 1-0
+

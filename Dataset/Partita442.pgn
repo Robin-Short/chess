@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fJDCQU2A"]
+[White "najjih"]
+[Black "babaei"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:17:41"]
+[WhiteElo "1589"]
+[BlackElo "1567"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. d4 Bb4 6. Bd2 Bxc3 7. Bxc3 Nc6 8. Bb5 Ne7 9. Ne5 O-O 10. Nxc6 bxc6 11. Bd3 Nd5 12. O-O Nxc3 13. bxc3 Qd5 14. Re1 c5 15. Be4 Qg5 16. Bxa8 Bd7 17. Bf3 f6 18. d5 e5 19. Kh1 Rc8 20. d6 cxd6 21. Qxd6 Rd8 22. Qe7 Rf8 23. Qxd7 e4 24. Bxe4 f5 25. Bd5+ Kh8 26. Qd6 Qf6 27. Qxf6 gxf6 28. Re7 f4 29. Rf7 f5 30. Rxf8+ Kg7 31. Rxf5 1-0
+

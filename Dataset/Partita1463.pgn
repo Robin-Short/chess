@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/l8BAU1Xd"]
+[White "Manni1957"]
+[Black "Alexiv4"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:02:23"]
+[WhiteElo "1005"]
+[BlackElo "1054"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-16"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. c4 { [%eval 0.05] } 1... e5 { [%eval 0.01] } 2. e4 { [%eval -0.1] } 2... Qh4 { [%eval 0.26] } 3. Qf3?! { [%eval -0.29] } 3... d6 { [%eval -0.06] } 4. g3 { [%eval -0.15] } 4... Qg4 { [%eval -0.01] } 5. Qxg4 { [%eval -0.04] } 5... Bxg4 { [%eval -0.03] } 6. f3 { [%eval -0.21] } 6... Be6 { [%eval -0.23] } 7. Nc3 { [%eval -0.05] } 7... Nc6 { [%eval -0.14] } 8. b3 { [%eval -0.19] } 8... Nd4 { [%eval -0.02] } 9. Bd3 { [%eval 0.05] } 9... a6 { [%eval 0.36] } 10. Bb2 { [%eval 0.43] } 10... Ne7 { [%eval 0.28] } 11. h3 { [%eval 0.06] } 11... Nec6 { [%eval 0.06] } 12. Nd5 { [%eval 0.06] } 12... Bxd5 { [%eval 0.51] } 13. cxd5 { [%eval 0.46] } 13... Nc2+?? { [%eval 4.13] } 14. Bxc2 { [%eval 4.09] } 14... Nd4 { [%eval 4.03] } 15. Bd3 { [%eval 4.09] } 15... h6 { [%eval 4.41] } 16. Bxd4 { [%eval 3.99] } 16... exd4 { [%eval 3.98] } 17. Rc1 { [%eval 4.07] } 17... c5?! { [%eval 4.92] } 18. g4? { [%eval 3.27] } 18... Rc8 { [%eval 3.5] } 19. h4 { [%eval 3.55] } 19... h5 { [%eval 3.63] } 20. g5 { [%eval 3.59] } 20... g6 { [%eval 3.63] } 21. f4 { [%eval 3.64] } 21... Rc7 { [%eval 4.01] } 22. f5 { [%eval 4.23] } 22... gxf5 { [%eval 4.44] } 23. exf5 { [%eval 4.38] } 23... Bg7? { [%eval 5.39] } 24. f6 { [%eval 5.44] } 24... Bf8 { [%eval 5.4] } 25. Kf2 { [%eval 5.47] } 25... Rd7? { [%eval 6.68] } 26. Re1+? { [%eval 5.62] } 26... Kd8 { [%eval 5.58] } 27. Bf5 { [%eval 6.41] } 27... Rc7 { [%eval 5.77] } 28. Nf3 { [%eval 5.44] } 28... b5 { [%eval 7.4] } 29. Re4 { [%eval 6.85] } 29... Rg8?? { [%eval 10.53] } 30. Rhe1 { [%eval 10.94] } 30... Rg7?! { [%eval #1] } 31. Re8# 1-0
+

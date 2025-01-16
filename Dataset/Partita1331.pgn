@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6qAPNUu4"]
+[White "RYAPS"]
+[Black "angelitochistoso"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:55:39"]
+[WhiteElo "1667"]
+[BlackElo "1697"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+26"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Paulsen Variation, Bastrikov Variation, English Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 a6 6. Be3 e6 7. Qd2 Nf6 8. f3 Bb4 9. a3 Ba5 10. b4 Bb6 11. Bd3 Bxd4 12. Bxd4 Nxd4 13. Bxa6 Nxf3+ 14. gxf3 bxa6 15. Na4 O-O 16. Nc5 d6 17. Nd3 Bb7 18. Kf1 Rac8 19. Rc1 d5 20. e5 Nd7 21. Rg1 Nxe5 22. Nxe5 Qxe5 23. Rg5 Qf6 24. f4 Rc3 25. Qg2 Rfc8 26. h4 Qxf4+ 27. Kg1 0-1
+

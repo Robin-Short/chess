@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EI9npWHm"]
+[White "gerardo123"]
+[Black "BELGA"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:16:45"]
+[WhiteElo "1821"]
+[BlackElo "1701"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.24] } 1... d5 { [%eval 0.24] } 2. c4 { [%eval 0.24] } 2... c6 { [%eval 0.37] } 3. Nf3 { [%eval 0.37] } 3... Nf6 { [%eval 0.36] } 4. g3 { [%eval 0.16] } 4... e6 { [%eval 0.08] } 5. Bg2 { [%eval 0.16] } 5... Be7 { [%eval 0.08] } 6. O-O { [%eval 0.13] } 6... O-O { [%eval 0.12] } 7. cxd5 { [%eval -0.07] } 7... cxd5 { [%eval -0.09] } 8. Bg5 { [%eval -0.12] } 8... Nbd7 { [%eval -0.05] } 9. Nc3 { [%eval -0.02] } 9... a6 { [%eval 0.23] } 10. Re1 { [%eval -0.13] } 10... b5 { [%eval -0.22] } 11. e4 { [%eval -0.52] } 11... dxe4 { [%eval -0.24] } 12. Nxe4 { [%eval -0.31] } 12... Rb8?! { [%eval 0.41] } 13. Ne5 { [%eval 0.08] } 13... Bb7 { [%eval 0.18] } 14. Nxd7 { [%eval 0.06] } 14... Nxd7 { [%eval 0.09] } 15. Bxe7 { [%eval -0.15] } 15... Qxe7 { [%eval -0.09] } 16. Rc1 { [%eval -0.01] } 16... Nf6 { [%eval 0.0] } 17. Nc5 { [%eval -0.14] } 17... Bxg2 { [%eval -0.13] } 18. Kxg2 { [%eval -0.15] } 18... Nd5 { [%eval 0.03] } 19. Qf3 { [%eval 0.0] } 19... a5?? { [%eval 3.81] } 20. Qxd5 { [%eval 3.83] } 20... exd5? { [%eval 5.29] } 21. Rxe7 { [%eval 5.29] } 21... b4?! { [%eval 6.27] } 22. Rb7? { [%eval 5.0] } 22... Ra8?! { [%eval 5.63] } 23. Nd7 { [%eval 5.68] } 23... Rfd8 { [%eval 5.59] } 24. Rcc7 { [%eval 6.03] } 24... Rf8? { [%eval 8.99] } 1-0
+

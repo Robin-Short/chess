@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fHMtHgMe"]
+[White "Joueurfel"]
+[Black "asghar1022"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:15:26"]
+[WhiteElo "1483"]
+[BlackElo "1281"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. c4 Qe4+ 4. Be2 Bg4 5. f3 Bxf3 6. gxf3 Qf5 7. d4 c5 8. d5 Nf6 9. Nc3 Nh5 10. Nb5 Qd7 11. Bg5 g6 12. Qd3 Bg7 13. d6 e6 14. Be7 Nc6 15. Nc7+ 1-0
+

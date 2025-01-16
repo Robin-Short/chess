@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q7PtUGoa"]
+[White "ivan62"]
+[Black "chancegardiner"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:14"]
+[WhiteElo "1691"]
+[BlackElo "1755"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Noteboom Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4 7. Qc2 Bxc3+ 8. Qxc3 f6 9. b3 cxb3 10. axb5 cxb5 11. Bxb5+ Bd7 12. Bxd7+ Nxd7 13. Qxb3 1-0
+

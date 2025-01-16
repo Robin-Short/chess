@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qITmjyRu"]
+[White "Maconouchi"]
+[Black "JekyllHyde"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:03:10"]
+[WhiteElo "1649"]
+[BlackElo "1679"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-46"]
+[ECO "C31"]
+[Opening "King's Gambit, Falkbeer Countergambit, Staunton Line"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. f5 Nf6 5. d3 Bxf5 6. Bg5 Be7 7. Nc3 Nxd5 8. dxe4 Bxg5 9. Qxd5 Qxd5 10. Nxd5 Bh4+ 11. g3 Bxe4 12. Nxc7+ 1-0
+

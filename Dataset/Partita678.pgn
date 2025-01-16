@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gWuVl5He"]
+[White "kick"]
+[Black "asman"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:52"]
+[WhiteElo "1714"]
+[BlackElo "1652"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-8"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 a6 5. Bd3 Nc6 6. c3 Bg4 7. O-O e6 8. Bf4 Be7 9. Nbd2 Nf6 10. Qc2 Rc8 11. Rae1 Nb4 12. Qb1 Nxd3 13. Qxd3 O-O 14. Ne5 Bh5 15. Ndf3 Bd6 16. Qe3 Bxe5 17. Nxe5 Ng4 18. Nxg4 Bxg4 19. h3 Bf5 20. Be5 Qb6 21. Re2 Qb5 22. Rfe1 a5 23. g4 Bg6 24. h4 Be4 25. f3 Bd3 26. Rd2 Bc4 27. b3 Bxb3 28. axb3 Qxb3 29. h5 Rxc3 30. Qg5 g6 31. Qf6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I6YVAt1C"]
+[White "Sevastopol24"]
+[Black "Joueurfel"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:55"]
+[WhiteElo "1604"]
+[BlackElo "1477"]
+[WhiteRatingDiff "-61"]
+[BlackRatingDiff "+13"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. g4 Be7 3. Nc3 h5 4. e3 hxg4 5. Qxg4 Bf6 6. Nf3 Bxc3 7. bxc3 Qf6 8. Bb2 Nh6 9. Qe4 c5 10. Ne5 Nc6 11. Nxc6 bxc6 12. Ba3 Qf5 13. Qxf5 Nxf5 14. Bxc5 Nh4 15. Be2 Ng2+ 16. Kf1 Nh4 17. Rg1 Ng6 18. Bh5 Rxh5 19. Re1 Rxc5 20. Rg3 Rxc4 21. Rh3 Rh4 22. Rf3 Rxh2 23. Ke2 Ba6+ 24. d3 Rh5 25. c4 Ra5 26. Ra1 Ra3 27. Rh3 Rb8 28. Rh7 Rb2+ 29. Kf3 Raxa2 30. Rf1 Kf8 31. Ke4 d5+ 32. Kd4 e5+ 33. Kc5 dxc4 34. dxc4 Ra5+ 35. Kxc6 Rb6+ 36. Kc7 Rc5+ 37. Kd7 Bc8+ 38. Kd8 Rd6# 0-1
+

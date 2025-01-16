@@ -1,0 +1,1200 @@
+
+
+ 8             ♚   
+ 7 ♙ ♙             
+ 6       ♗         
+ 5                 
+ 4     ♞       ♙   
+ 3                 
+ 2 ♔       ♗   ♘   
+ 1           ♕ ♖   
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8   ♝             
+ 7       ♚         
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2       ♔         
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8               ♘ 
+ 7 ♚ ♕     ♙       
+ 6   ♟       ♜ ♞   
+ 5     ♘       ♙   
+ 4   ♙     ♗       
+ 3                 
+ 2 ♙ ♟         ♔ ♖ 
+ 1                 
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4                 
+ 3       ♝ ♚     ♔ 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7 ♚               
+ 6           ♔     
+ 5         ♗       
+ 4                 
+ 3                 
+ 2     ♝           
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7   ♙       ♚ ♙   
+ 6     ♗   ♟       
+ 5           ♞     
+ 4                 
+ 3   ♛           ♜ 
+ 2   ♔             
+ 1           ♛     
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8       ♕     ♖   
+ 7   ♙ ♟   ♚ ♟   ♞ 
+ 6   ♟     ♟       
+ 5 ♟             ♟ 
+ 4       ♗         
+ 3                 
+ 2             ♜   
+ 1       ♔   ♗ ♛   
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7           ♚     
+ 6                 
+ 5   ♔             
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7 ♔               
+ 6                 
+ 5                 
+ 4             ♚   
+ 3                 
+ 2   ♕             
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8   ♞ ♝ ♚     ♞ ♜ 
+ 7 ♜               
+ 6 ♟ ♛   ♝ ♟   ♙   
+ 5     ♙ ♙   ♙     
+ 4                 
+ 3 ♗           ♟ ♕ 
+ 2 ♙ ♟     ♗   ♖ ♙ 
+ 1 ♖ ♘ ♛ ♔         
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8                 
+ 7               ♙ 
+ 6                 
+ 5 ♝     ♗   ♚     
+ 4                 
+ 3             ♕   
+ 2           ♔     
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4 ♛               
+ 3             ♚   
+ 2         ♔       
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6         ♙       
+ 5   ♖             
+ 4                 
+ 3   ♙   ♙   ♔     
+ 2             ♕ ♚ 
+ 1   ♗ ♗           
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8     ♚           
+ 7         ♜ ♜     
+ 6                 
+ 5 ♘   ♘           
+ 4                 
+ 3     ♛           
+ 2                 
+ 1       ♔   ♛     
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8                 
+ 7 ♚         ♙     
+ 6   ♜             
+ 5       ♞       ♟ 
+ 4                 
+ 3 ♞   ♖     ♟ ♟   
+ 2                 
+ 1 ♔ ♛             
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8                 
+ 7             ♚   
+ 6     ♔           
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8       ♝         
+ 7                 
+ 6                 
+ 5           ♚     
+ 4                 
+ 3     ♔           
+ 2   ♘             
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6             ♔   
+ 5     ♗           
+ 4                 
+ 3 ♞           ♚   
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8   ♘     ♚       
+ 7               ♜ 
+ 6 ♙       ♙     ♙ 
+ 5 ♝       ♟       
+ 4       ♟     ♞   
+ 3           ♟     
+ 2           ♟     
+ 1   ♛       ♔     
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8     ♛         ♚ 
+ 7                 
+ 6         ♗       
+ 5         ♕ ♔     
+ 4       ♝         
+ 3       ♞   ♘     
+ 2                 
+ 1     ♛           
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7         ♚ ♕     
+ 6                 
+ 5                 
+ 4                 
+ 3     ♔           
+ 2                 
+ 1   ♝             
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6             ♚   
+ 5                 
+ 4     ♔           
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8         ♜       
+ 7       ♙       ♙ 
+ 6                 
+ 5   ♕     ♙     ♚ 
+ 4             ♝   
+ 3   ♟ ♟ ♛         
+ 2       ♖     ♕   
+ 1   ♗ ♔ ♖         
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8         ♕       
+ 7     ♙     ♙     
+ 6       ♖         
+ 5                 
+ 4             ♚   
+ 3                 
+ 2   ♜ ♛           
+ 1     ♔           
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8           ♛   ♚ 
+ 7     ♜     ♟     
+ 6   ♗       ♙   ♟ 
+ 5           ♙     
+ 4 ♘               
+ 3                 
+ 2         ♛       
+ 1         ♔   ♞   
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4             ♔   
+ 3                 
+ 2                 
+ 1             ♚   
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8               ♚ 
+ 7                 
+ 6                 
+ 5         ♔       
+ 4                 
+ 3 ♗               
+ 2                 
+ 1           ♛     
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4 ♞             ♔ 
+ 3               ♝ 
+ 2       ♚         
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7           ♔     
+ 6                 
+ 5                 
+ 4     ♕           
+ 3                 
+ 2               ♚ 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8               ♕ 
+ 7                 
+ 6                 
+ 5         ♕       
+ 4             ♚   
+ 3         ♔       
+ 2                 
+ 1                 
+   A B C D E F G H										STALLO.
+
+
+
+ 8                 
+ 7                 
+ 6             ♕ ♕ 
+ 5                 
+ 4           ♙   ♚ 
+ 3 ♞               
+ 2       ♟   ♔     
+ 1                 
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8             ♕ ♚ 
+ 7       ♜       ♗ 
+ 6         ♙       
+ 5   ♞     ♟     ♞ 
+ 4           ♙     
+ 3         ♘     ♙ 
+ 2         ♖     ♟ 
+ 1         ♔       
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8             ♚   
+ 7 ♖               
+ 6               ♖ 
+ 5           ♕     
+ 4               ♙ 
+ 3 ♘         ♔     
+ 2                 
+ 1                 
+   A B C D E F G H										STALLO.
+
+
+
+ 8                 
+ 7               ♜ 
+ 6                 
+ 5                 
+ 4         ♜     ♛ 
+ 3   ♔     ♚       
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8 ♜   ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7       ♟ ♟       
+ 6 ♟   ♞ ♙   ♟ ♕   
+ 5   ♟     ♘   ♟   
+ 4     ♙           
+ 3 ♙ ♙ ♟         ♟ 
+ 2         ♙ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗   ♔ ♗   ♖ 
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8       ♕ ♚       
+ 7     ♙           
+ 6         ♙       
+ 5                 
+ 4         ♝       
+ 3                 
+ 2                 
+ 1           ♔     
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7     ♚           
+ 6                 
+ 5       ♕         
+ 4                 
+ 3               ♕ 
+ 2                 
+ 1           ♔     
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7         ♜       
+ 6               ♔ 
+ 5             ♜   
+ 4           ♚     
+ 3   ♟             
+ 2               ♟ 
+ 1                 
+   A B C D E F G H										STALLO.
+
+
+
+ 8                 
+ 7               ♙ 
+ 6                 
+ 5     ♕     ♘     
+ 4 ♜               
+ 3                 
+ 2 ♟     ♘   ♔     
+ 1 ♚   ♛           
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6       ♖ ♛ ♞   ♝ 
+ 5                 
+ 4                 
+ 3 ♟               
+ 2         ♕       
+ 1 ♔   ♚         ♕ 
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7           ♔     
+ 6                 
+ 5                 
+ 4       ♚         
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8           ♚     
+ 7       ♔         
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8         ♚       
+ 7   ♕             
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1         ♔       
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8         ♛ ♚ ♝   
+ 7                 
+ 6               ♘ 
+ 5                 
+ 4     ♟         ♔ 
+ 3                 
+ 2       ♝         
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8 ♜ ♞ ♝ ♜ ♕       
+ 7 ♚   ♝           
+ 6 ♟               
+ 5     ♘ ♙     ♕ ♟ 
+ 4   ♟     ♟   ♙ ♙ 
+ 3         ♞   ♟   
+ 2 ♖         ♙     
+ 1       ♛     ♔ ♖ 
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8 ♗       ♕       
+ 7   ♖             
+ 6         ♙       
+ 5                 
+ 4       ♔         
+ 3 ♖ ♕             
+ 2           ♚     
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8           ♚     
+ 7                 
+ 6   ♙   ♔         
+ 5     ♗           
+ 4                 
+ 3                 
+ 2                 
+ 1       ♞         
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8   ♗   ♚         
+ 7     ♖       ♙   
+ 6                 
+ 5                 
+ 4               ♔ 
+ 3                 
+ 2         ♕       
+ 1                 
+   A B C D E F G H										STALLO.
+
+
+
+ 8         ♚       
+ 7                 
+ 6       ♝         
+ 5                 
+ 4                 
+ 3       ♔         
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7         ♖   ♙ ♙ 
+ 6       ♙         
+ 5 ♚         ♘   ♗ 
+ 4       ♗         
+ 3 ♙           ♔   
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8 ♚     ♕         
+ 7         ♖       
+ 6                 
+ 5         ♟     ♞ 
+ 4 ♘ ♟             
+ 3     ♘           
+ 2   ♗ ♔     ♝   ♟ 
+ 1 ♜               
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4             ♔   
+ 3       ♚         
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8       ♚         
+ 7 ♕               
+ 6   ♖             
+ 5     ♞   ♕       
+ 4     ♟       ♛   
+ 3     ♟           
+ 2   ♟ ♔           
+ 1     ♞     ♖   ♛ 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8               ♚ 
+ 7   ♕             
+ 6     ♙       ♖   
+ 5                 
+ 4           ♘     
+ 3                 
+ 2                 
+ 1 ♔             ♗ 
+   A B C D E F G H										STALLO.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5 ♝       ♟ ♔     
+ 4                 
+ 3         ♙   ♟   
+ 2         ♕       
+ 1   ♚   ♕         
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7               ♚ 
+ 6                 
+ 5     ♔           
+ 4           ♖     
+ 3                 
+ 2                 
+ 1         ♜       
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7 ♚       ♛       
+ 6         ♔       
+ 5 ♙   ♛           
+ 4                 
+ 3               ♜ 
+ 2         ♟     ♗ 
+ 1 ♝               
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8       ♖         
+ 7 ♙               
+ 6                 
+ 5               ♙ 
+ 4                 
+ 3 ♕     ♟ ♘       
+ 2       ♙         
+ 1   ♚   ♔         
+   A B C D E F G H										STALLO.
+
+
+
+ 8 ♞       ♗   ♚   
+ 7         ♙       
+ 6                 
+ 5                 
+ 4   ♔         ♙   
+ 3                 
+ 2 ♖ ♘             
+ 1   ♖ ♗           
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8             ♕   
+ 7       ♚         
+ 6               ♜ 
+ 5       ♔   ♙     
+ 4 ♟     ♛         
+ 3         ♟ ♗     
+ 2               ♟ 
+ 1 ♝ ♛             
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5         ♚     ♔ 
+ 4                 
+ 3         ♗       
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8           ♞     
+ 7                 
+ 6                 
+ 5                 
+ 4                 
+ 3               ♔ 
+ 2         ♚       
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6             ♚   
+ 5                 
+ 4   ♔             
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8               ♜ 
+ 7     ♟       ♜   
+ 6 ♚         ♞     
+ 5 ♝               
+ 4               ♔ 
+ 3                 
+ 2         ♟       
+ 1                 
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5 ♚         ♞ ♞   
+ 4                 
+ 3                 
+ 2   ♟     ♔     ♜ 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6 ♞         ♜     
+ 5             ♖   
+ 4   ♕   ♟         
+ 3 ♘         ♚     
+ 2                 
+ 1   ♔             
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7           ♘     
+ 6                 
+ 5       ♗         
+ 4                 
+ 3                 
+ 2     ♔           
+ 1 ♚               
+   A B C D E F G H										STALLO.
+
+
+
+ 8           ♝     
+ 7             ♟   
+ 6   ♘       ♚     
+ 5   ♜ ♛ ♟ ♖ ♝   ♜ 
+ 4   ♞ ♖     ♙ ♞ ♙ 
+ 3                 
+ 2                 
+ 1   ♗       ♛   ♔ 
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8 ♜ ♚ ♝         ♕ 
+ 7 ♟               
+ 6             ♙   
+ 5     ♖           
+ 4   ♟       ♘   ♟ 
+ 3 ♗ ♙             
+ 2             ♛   
+ 1     ♖ ♔   ♛ ♞   
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5 ♞               
+ 4             ♔   
+ 3   ♚         ♘   
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8     ♚       ♗   
+ 7                 
+ 6                 
+ 5     ♘           
+ 4     ♞     ♘     
+ 3                 
+ 2                 
+ 1         ♔       
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8             ♞   
+ 7                 
+ 6       ♕         
+ 5         ♖     ♟ 
+ 4     ♟ ♚ ♘       
+ 3                 
+ 2         ♔       
+ 1 ♜             ♝ 
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7   ♚           ♘ 
+ 6                 
+ 5         ♔       
+ 4         ♝       
+ 3                 
+ 2                 
+ 1             ♖   
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5               ♔ 
+ 4     ♚           
+ 3                 
+ 2           ♛     
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5     ♛           
+ 4   ♜       ♖     
+ 3             ♚   
+ 2                 
+ 1           ♔     
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6               ♔ 
+ 5                 
+ 4               ♚ 
+ 3                 
+ 2           ♖     
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8   ♜ ♝       ♞   
+ 7   ♟ ♚ ♟ ♝     ♜ 
+ 6         ♟ ♟     
+ 5             ♘ ♟ 
+ 4 ♟ ♙ ♙   ♙     ♙ 
+ 3 ♘   ♟ ♙ ♗ ♙     
+ 2 ♙       ♕       
+ 1 ♖     ♔   ♗ ♛ ♖ 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8             ♚   
+ 7 ♕               
+ 6           ♛   ♗ 
+ 5       ♙         
+ 4           ♔   ♙ 
+ 3   ♙ ♖     ♝     
+ 2         ♜   ♜   
+ 1     ♖           
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8           ♕     
+ 7                 
+ 6                 
+ 5   ♚       ♔     
+ 4           ♙     
+ 3                 
+ 2       ♘         
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8             ♘ ♕ 
+ 7               ♖ 
+ 6 ♝ ♟             
+ 5     ♚           
+ 4                 
+ 3 ♟   ♙           
+ 2   ♖   ♔         
+ 1       ♛ ♜       
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8           ♛     
+ 7 ♘ ♚       ♙     
+ 6                 
+ 5             ♕   
+ 4                 
+ 3     ♟           
+ 2             ♟ ♞ 
+ 1 ♔               
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8       ♕         
+ 7 ♚               
+ 6 ♗               
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1 ♕ ♔             
+   A B C D E F G H										STALLO.
+
+
+
+ 8 ♜ ♝             
+ 7         ♙ ♖     
+ 6             ♖   
+ 5       ♟     ♚ ♙ 
+ 4       ♛       ♟ 
+ 3             ♘   
+ 2         ♔   ♙ ♗ 
+ 1                 
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7       ♜         
+ 6           ♛     
+ 5           ♞     
+ 4   ♟       ♚   ♟ 
+ 3     ♛         ♟ 
+ 2 ♟     ♟   ♔     
+ 1     ♜           
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5   ♞             
+ 4                 
+ 3                 
+ 2     ♚           
+ 1             ♔   
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8 ♖               
+ 7 ♚           ♝   
+ 6   ♛ ♕ ♔         
+ 5       ♙         
+ 4               ♘ 
+ 3                 
+ 2                 
+ 1             ♜   
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5                 
+ 4       ♝         
+ 3 ♚               
+ 2               ♟ 
+ 1 ♔               
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7     ♘           
+ 6     ♞           
+ 5         ♚       
+ 4 ♙         ♖     
+ 3               ♝ 
+ 2 ♛     ♟ ♞       
+ 1             ♛ ♔ 
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8   ♞             
+ 7   ♗         ♚   
+ 6                 
+ 5       ♔       ♙ 
+ 4               ♛ 
+ 3                 
+ 2                 
+ 1     ♛     ♕     
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8       ♚         
+ 7                 
+ 6       ♔         
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7           ♛     
+ 6     ♖       ♛   
+ 5 ♟             ♚ 
+ 4 ♙               
+ 3                 
+ 2       ♕ ♔       
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8   ♜ ♜     ♚ ♞   
+ 7 ♙     ♘     ♝   
+ 6     ♘       ♗   
+ 5 ♛               
+ 4           ♙     
+ 3   ♟ ♖   ♙     ♙ 
+ 2             ♙ ♟ 
+ 1 ♗       ♔   ♖   
+   A B C D E F G H										Vince il BIANCO.
+
+
+
+ 8               ♜ 
+ 7                 
+ 6                 
+ 5 ♞ ♚             
+ 4 ♞         ♔     
+ 3                 
+ 2       ♟         
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7 ♙               
+ 6                 
+ 5     ♚           
+ 4                 
+ 3       ♗ ♔       
+ 2                 
+ 1   ♕             
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8           ♔     
+ 7                 
+ 6                 
+ 5                 
+ 4       ♚         
+ 3                 
+ 2                 
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8         ♚       
+ 7               ♛ 
+ 6         ♝       
+ 5                 
+ 4   ♔             
+ 3                 
+ 2         ♜   ♛   
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8 ♗   ♝   ♜       
+ 7   ♘   ♟   ♚     
+ 6 ♜   ♞         ♝ 
+ 5   ♟       ♙     
+ 4     ♟     ♛     
+ 3   ♘ ♙ ♟       ♙ 
+ 2 ♙ ♙   ♔         
+ 1 ♖   ♗ ♖     ♛   
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8             ♚ ♜ 
+ 7 ♜   ♞ ♙         
+ 6 ♟         ♝ ♛ ♞ 
+ 5   ♟ ♙       ♟   
+ 4 ♙           ♟   
+ 3     ♕   ♙   ♗ ♔ 
+ 2   ♟         ♗ ♙ 
+ 1 ♖ ♘         ♖   
+   A B C D E F G H										Vince il NERO.
+
+
+
+ 8                 
+ 7           ♝ ♚   
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2                 
+ 1     ♔           
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+
+
+
+ 8                 
+ 7                 
+ 6                 
+ 5             ♚   
+ 4                 
+ 3                 
+ 2             ♔   
+ 1                 
+   A B C D E F G H										PATTA per 50 mosse senza mangiare.
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Js8suxDn"]
+[White "MisterBiggStuff"]
+[Black "explodecomputer"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:40"]
+[WhiteElo "2303"]
+[BlackElo "1743"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Bc4 d6 5. Qb3 e6 6. Nf3 Nc6 7. O-O Na5 8. Qa4+ Bd7 9. Qb4 Nxc4 10. Qxc4 cxb2 11. Bxb2 e5 12. Nc3 Nf6 13. Rfd1 Be7 14. Qb3 b6 15. Ba3 Be6 16. Qa4+ Qd7 17. Qa6 Bg4 18. Nxe5 Qe6 19. Nxg4 Qxg4 20. Bxd6 Bxd6 21. Rxd6 O-O 22. f3 Qf4 23. Rad1 Qe3+ 24. Kh1 Qxc3 25. R6d3 Qe5 26. Qa3 a5 27. g3 b5 28. Qc1 Qh5 29. Qe3 b4 30. g4 Qb5 31. g5 Nh5 32. Rd5 g6 33. Rxb5 a4 34. Rxb4 Rfb8 35. Rxb8+ Rxb8 36. Qa7 Re8 37. Rd7 Rf8 38. Qxa4 Nf4 39. Qd4 Ne6 40. Qd6 Nxg5 41. Rd8 Ne6 42. Rxf8+ Nxf8 43. a4 Ne6 44. a5 Kg7 45. a6 Nf4 46. a7 Ne2 47. a8=Q Ng3+ 48. hxg3 h6 49. Qaf8+ Kh7 50. Qxf7+ Kh8 51. Qdf8# 1-0
+

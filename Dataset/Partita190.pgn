@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/Wmss0Kgf"]
+[White "Thyril"]
+[Black "bradyok"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:45"]
+[WhiteElo "1500"]
+[BlackElo "1679"]
+[WhiteRatingDiff "-108"]
+[BlackRatingDiff "+25"]
+[ECO "D01"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.28] } 2. Nc3 { [%eval 0.11] } 2... d5 { [%eval 0.08] } 3. e3 { [%eval -0.08] } 3... e6 { [%eval -0.13] } 4. Nf3 { [%eval -0.12] } 4... Bd6 { [%eval 0.14] } 5. Ne5?! { [%eval -0.38] } 5... O-O { [%eval -0.44] } 6. f4 { [%eval -0.35] } 6... c5 { [%eval -0.34] } 7. h3 { [%eval -0.81] } 7... cxd4 { [%eval -0.75] } 8. exd4 { [%eval -0.69] } 8... Nc6 { [%eval -0.72] } 9. g3?! { [%eval -1.37] } 9... Qb6 { [%eval -1.13] } 10. Be3?! { [%eval -1.94] } 10... Qxb2?! { [%eval -1.39] } 11. Nb1?? { [%eval -6.72] } 11... Qxa1 { [%eval -6.91] } 12. Nc3?? { [%eval -11.51] } 12... Qxc3+ { [%eval -11.9] } 13. Ke2 { [%eval -13.45] } 13... Ne4 { [%eval -13.37] } 14. Qd3 { [%eval -14.55] } 14... Qxd3+ { [%eval -14.27] } 15. Kxd3 { [%eval -15.85] } 15... Nb4+ { [%eval -15.99] } 16. Ke2 { [%eval -16.0] } 16... Nxg3+ { [%eval -15.87] } 17. Ke1 { [%eval -17.62] } 17... Nxh1 { [%eval -17.8] } 18. Nd3 { [%eval -19.87] } 18... Nxc2+ { [%eval -19.79] } 19. Ke2 { [%eval -23.6] } 19... Ng3+ { [%eval -23.58] } 20. Kf3 { [%eval -23.35] } 20... Nxe3 { [%eval -23.94] } 21. Kf2 { [%eval -27.41] } 21... Ngxf1 { [%eval -27.65] } 22. Kf3 { [%eval -28.17] } 22... Bd7 { [%eval -28.3] } 23. Ne1 { [%eval -30.19] } 23... Nf5 { [%eval -29.87] } 24. Ng2 { [%eval -122.49] } 24... Rfc8 { [%eval #-8] } 25. a3 { [%eval #-3] } 25... Rc2 { [%eval #-2] } 26. Ne3 { [%eval #-1] } 26... Nh2# 0-1
+

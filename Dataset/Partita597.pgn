@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IC8GOiBg"]
+[White "Krowndsy"]
+[Black "-dexter-"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:58"]
+[WhiteElo "1570"]
+[BlackElo "1295"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queenside Fianchetto Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 b6 2. c4 Bb7 3. Nc3 Bxf3 4. gxf3 e6 5. Bg2 g6 6. d4 Nc6 7. e3 Bb4 8. Bd2 Qe7 9. d5 Bxc3 10. Bxc3 exd5 11. Bxh8 f6 12. cxd5 Nb4 13. O-O O-O-O 14. d6 cxd6 15. Rc1+ Nc6 16. f4 Nh6 17. Bxc6 dxc6 18. Rxc6+ Kb7 19. Qf3 Rxh8 20. Rfc1 Nf7 21. Rc7+ 1-0
+

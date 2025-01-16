@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EZvM55YO"]
+[White "reydmus"]
+[Black "komba44"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:55"]
+[WhiteElo "1416"]
+[BlackElo "1560"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-39"]
+[ECO "C44"]
+[Opening "Scotch Game: Benima Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Nf5 Bb4+ 7. c3 Bc5 8. Nxg7+ Kf8 9. Bh6 Kg8 10. Qf3 d6 11. h3 Ne5 12. Qg3 Ng6 13. Nd2 Qe7 14. Nf5 Qe5 15. f4 Nh5 16. Qg5 Qxf4 17. Ne7# 1-0
+

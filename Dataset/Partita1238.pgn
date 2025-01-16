@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bvti4dZR"]
+[White "Slainte321"]
+[Black "Icasper"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:51:08"]
+[WhiteElo "1529"]
+[BlackElo "1676"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C45"]
+[Opening "Scotch Game: Modern Defense"]
+[TimeControl "420+6"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nc3 Bb4 6. Bd3 Nxd4 7. Bd2 Bc5 8. Nd5 Nxc2+ 9. Qxc2 Qxf2+ 10. Kd1 Bd6 11. Nxc7+ Bxc7 12. Qxc7 Qxg2 13. Qe5+ Ne7 14. Kc1 Qxh1+ 0-1
+

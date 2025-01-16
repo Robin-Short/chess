@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1gGYLwCq"]
+[White "stricklw80"]
+[Black "atol"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:27:07"]
+[WhiteElo "1276"]
+[BlackElo "1411"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Qh5 e6 3. Bc4 a6 4. f4 Nc6 5. f5 Nf6 6. Qf3 Ne5 7. Qe2 b5 8. fxe6 dxe6 9. Nf3 Nxc4 10. d3 Nb6 11. Bg5 Be7 12. O-O Nfd7 13. c4 Bxg5 14. Nxg5 Qxg5 15. Qf2 O-O 16. Nd2 Qe5 17. Nf3 Qc7 18. Ng5 Ne5 19. Nxe6 Bxe6 20. Qxf7+ Rxf7 21. Rxf7 Nxf7 22. Rf1 b4 23. Rxf7 Bxf7 24. Kf1 Qe5 25. Ke1 Qxb2 26. Kd1 Qxg2 27. Ke1 Qxh2 28. Kf1 Qxa2 29. Ke1 Qc2 30. d4 cxd4 31. c5 Qxc5 32. e5 Qxe5+ 33. Kd2 Nc4+ 34. Kc1 b3 35. Kb1 Qe4+ 36. Ka1 Ne5 37. Kb2 d3 38. Kc3 Ng6 39. Kd2 Qe2+ 40. Kc1 Qc2# 0-1
+

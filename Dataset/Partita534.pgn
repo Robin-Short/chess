@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gBpM1UyT"]
+[White "JustJack"]
+[Black "Grant14"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:21:19"]
+[WhiteElo "1429"]
+[BlackElo "1414"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. g3 Nc6 3. Bg2 e5 4. d3 Bb4+ 5. c3 Be7 6. O-O Nf6 7. Nbd2 O-O 8. e4 d4 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nb3 Qd8 12. d4 exd4 13. Nxd4 Bd7 14. e5 Ng4 15. Bxb7 Rb8 16. Bg2 Nxe5 17. Nf3 Bf6 18. Rb1 Bb5 19. Re1 a6 20. Qxd8 Rbxd8 21. Be3 Nxf3+ 22. Bxf3 c6 23. b3 a5 24. Rbc1 a4 25. Bxc6 Bxc6 26. Rxc6 axb3 27. axb3 Rb8 28. Rb1 Rb5 29. Kg2 Rfb8 30. h4 Rxb3 31. Rxb3 Rxb3 32. Rc8+ Bd8 33. Rxd8# 1-0
+

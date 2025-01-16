@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3kST2Xa7"]
+[White "edmario"]
+[Black "prtprtprt"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:09:41"]
+[WhiteElo "1555"]
+[BlackElo "1347"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-62"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Black Mustang Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.2] } 1... Nc6 { [%eval 0.3] } 2. g3 { [%eval -0.12] } 2... Nf6 { [%eval 0.04] } 3. Bg2 { [%eval -0.14] } 3... h6?! { [%eval 0.36] } 4. O-O { [%eval 0.23] } 4... a6 { [%eval 0.56] } 5. d3 { [%eval 0.33] } 5... e6 { [%eval 0.32] } 6. c4 { [%eval 0.44] } 6... d6 { [%eval 0.42] } 7. Nc3 { [%eval 0.32] } 7... b6? { [%eval 1.77] } 8. Rb1? { [%eval 0.77] } 8... g6? { [%eval 1.82] } 9. a3?! { [%eval 0.85] } 9... Bg7?! { [%eval 1.79] } 10. Re1? { [%eval 0.41] } 10... Bb7 { [%eval 0.5] } 11. b4 { [%eval 0.41] } 11... Ra7 { [%eval 0.62] } 12. e4 { [%eval 0.75] } 12... Rh7?! { [%eval 1.74] } 13. d4 { [%eval 1.55] } 13... Ke7?! { [%eval 2.33] } 14. Be3?! { [%eval 1.74] } 14... Nxe4? { [%eval 3.94] } 15. Nxe4 { [%eval 3.83] } 15... Nxd4? { [%eval 6.81] } 16. Bxd4 { [%eval 6.84] } 16... c6?? { [%eval 12.89] } 17. Bxg7 { [%eval 9.97] } 17... f6 { [%eval 29.55] } 18. Bxf6+ { [%eval 29.59] } 18... Ke8 { [%eval 31.68] } 19. Bxd8 { [%eval 32.82] } 19... Kxd8?! { [%eval #9] } 20. Qxd6+ { [%eval 98.48] } 20... Ke8?! { [%eval #4] } 21. Ne5 { [%eval #3] } 21... h5 { [%eval #1] } 22. Nf6# 1-0
+

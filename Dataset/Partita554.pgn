@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DBgJ6r0S"]
+[White "traktniven"]
+[Black "Werbles"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:27"]
+[WhiteElo "1460"]
+[BlackElo "1159"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-4"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 e6 4. Bb5 Bd7 5. Bxc6 Bxc6 6. O-O Bd6 7. Qe2 b5 8. a3 a6 9. Bd2 Nf6 10. Nc3 O-O 11. Ne5 Bxe5 12. dxe5 Ne4 13. Nxe4 dxe4 14. Bb4 Re8 15. Rad1 Qg5 16. f4 Qh6 17. c4 Red8 18. Rxd8+ Rxd8 19. Rd1 Rxd1+ 20. Qxd1 g6 21. Be7 f5 22. Qd8+ Kf7 23. Qxc7 Be8 24. Bg5+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JXahfNOh"]
+[White "elpaquis"]
+[Black "sirenavarada"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:31:12"]
+[WhiteElo "1260"]
+[BlackElo "1430"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-16"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. c3 h6 5. d4 cxd4 6. cxd4 Nge7 7. Bf4 d5 8. exd5 exd5 9. Bb3 g6 10. Ne5 Bg7 11. Nxc6 Nxc6 12. Nc3 Be6 13. Be3 Qd7 14. O-O a6 15. f3 f5 16. Ba4 O-O-O 17. Qe2 Qc7 18. b3 f4 19. Bf2 g5 20. Qxe6+ Kb8 21. Bxc6 bxc6 22. Rfe1 Rhe8 23. Qf5 Rf8 24. Qe6 h5 25. Re2 g4 26. fxg4 hxg4 27. Bh4 Rde8 28. Qxe8+ Rxe8 29. Rxe8+ Kb7 30. Bd8 Qf7 31. Re7+ 1-0
+

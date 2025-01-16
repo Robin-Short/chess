@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/P6FTGE5w"]
+[White "etelepon"]
+[Black "jc04"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:21"]
+[WhiteElo "1961"]
+[BlackElo "1828"]
+[WhiteRatingDiff "+35"]
+[BlackRatingDiff "-6"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Janowski Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 a6 4. Nf3 dxc4 5. a4 Bb4 6. e3 Bxc3+ 7. bxc3 Qd5 8. Qe2 b5 9. axb5 Qxb5 10. Qxc4 Qxc4 11. Bxc4 Bb7 12. O-O Bxf3 13. gxf3 Ne7 14. Ba3 Nbc6 15. e4 h6 16. d5 exd5 17. exd5 Ne5 18. Bb3 Nxf3+ 19. Kg2 Ne5 20. Rfe1 N5g6 21. Ba4+ Kd8 22. c4 Rb8 23. Rad1 Rb6 24. c5 Rb8 25. d6 cxd6 26. Rxd6+ Kc8 27. Rxa6 Rd8 28. c6 Nd5 29. Ra7 Ngf4+ 30. Kf1 Nc7 31. Bc1 Nfd5 32. Ba3 Re8 33. Rxe8+ Nxe8 34. Bc5 Nec7 35. Kg2 f6 36. Bc2 Kd8 37. Bf5 g6 38. Bxg6 h5 39. Bxh5 Rc8 40. Bg4 Rb8 41. Bd6 f5 42. Bxc7+ Nxc7 43. Bxf5 Nd5 44. Kf3 Ke8 45. Ke4 1-0
+

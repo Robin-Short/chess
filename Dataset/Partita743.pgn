@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KcKDtO2c"]
+[White "vfakhe"]
+[Black "sajuru"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:55"]
+[WhiteElo "1697"]
+[BlackElo "1371"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Be2 Bd6 9. Nc3 h6 10. Nge4 Nxe4 11. Nxe4 f5 12. Nxd6+ Qxd6 13. O-O O-O 14. c3 Nb7 15. Bc4+ Be6 16. Bxe6+ Qxe6 17. d4 e4 18. Be3 Kh8 19. f4 Nd6 20. b3 Nb5 21. c4 Nc7 22. Qc2 Rfd8 23. Rad1 Na6 24. Qc3 Qd6 25. Rd2 Nb4 26. Rfd1 Nd3 27. c5 Qd5 28. g3 a5 29. Rxd3 exd3 30. Qxd3 Re8 31. Bf2 Re4 32. Qd2 Qe6 33. Qd3 Re8 34. d5 cxd5 35. Qxd5 Qe7 36. Qxf5 Re2 37. a4 Rxf2 38. Qd7 Qe2 39. Qxe8+ Qxe8 40. Kxf2 Qc6 41. Rc1 Kg8 42. Rc2 Kf7 43. Ke2 Ke6 44. Kd3 Kf5 45. Rc3 Qe4+ 46. Kd2 Qg2+ 47. Kc1 Qxh2 48. c6 Qg1+ 49. Kb2 Qf2+ 50. Ka3 Qb6 51. c7 Qd6+ 52. Kb2 Qd2+ 53. Rc2 Qd4+ 54. Ka2 1-0
+

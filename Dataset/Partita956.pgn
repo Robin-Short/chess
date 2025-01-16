@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9zj9URmo"]
+[White "northern"]
+[Black "sadikh"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:05"]
+[WhiteElo "1635"]
+[BlackElo "1622"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "D94"]
+[Opening "Gruenfeld Defense: Three Knights Variation, Burille Variation"]
+[TimeControl "120+3"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 c6 6. Qc2 O-O 7. Bd2 Nbd7 8. b3 Re8 9. Be2 e5 10. cxd5 Nxd5 11. Nxd5 cxd5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Bc3 Qf6 15. Bxe5 Qxe5 16. O-O Bf5 17. Bd3 Be4 18. Rae1 Rac8 19. Qd2 Qc3 20. Qxc3 Rxc3 21. Bb1 Rec8 22. Rd1 Kf8 23. Bxe4 dxe4 24. Rd4 f5 25. Ra4 a6 26. Rb4 R8c7 27. a4 Ke7 28. g3 Kd6 29. Rb1 Kc5 30. Rd4 a5 31. b4+ axb4 32. Rdxb4 Kc6 33. a5 Ra3 34. Rb6+ Kc5 35. Rxb7 Rxb7 36. Rxb7 Rxa5 37. Rxh7 Ra6 38. Rd7 Kc4 39. Kg2 Kc3 40. h3 1-0
+

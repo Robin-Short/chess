@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/loyVi2Rr"]
+[White "chycha"]
+[Black "King1ouis"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:31"]
+[WhiteElo "1480"]
+[BlackElo "1033"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e3 d5 2. a3 g6 3. h3 Nf6 4. g4 b6 5. Bg2 Bb7 6. g5 Nh5 7. h4 Bg7 8. Nc3 Bxc3 9. bxc3 f5 10. Bb2 O-O 11. c4 e6 12. Nf3 d4 13. Bxd4 Qd7 14. Rg1 Na6 15. Ne5 Qc8 16. f3 f4 17. e4 Qd8 18. c3 c6 19. Qb3 c5 20. Bf2 Qd6 21. Ng4 Rad8 22. Rd1 b5 23. Qxb5 Qd7 24. Qxd7 Rxd7 25. Ne5 Re7 26. Rb1 h6 27. Nxg6 Rff7 28. Nxe7+ Rxe7 29. gxh6 Nf6 30. Bh3+ Kh7 31. Rg5 Kxh6 32. Bxc5 Rg7 33. Rxg7 Kxg7 34. Rxb7+ Kg6 35. Bxe6 Nxc5 36. Bf7+ Kh6 37. Rxa7 Nd3+ 38. Ke2 Ne5 39. Bd5 Nfd7 40. Ra6+ Kh5 41. Rd6 Kxh4 42. Be6 Kg3 43. Bxd7 Nxf3 44. Rg6+ Kh2 1-0
+

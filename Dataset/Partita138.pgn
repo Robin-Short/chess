@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dT8qxvbS"]
+[White "NahuelCastrignano"]
+[Black "jacktheripper75"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:36"]
+[WhiteElo "1628"]
+[BlackElo "1374"]
+[WhiteRatingDiff "-81"]
+[BlackRatingDiff "+15"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. g3 e5 2. c4 Qf6 3. Bg2 Bc5 4. e3 Ne7 5. d4 exd4 6. exd4 Bxd4 7. Nf3 Qe6+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wt56kj0e"]
+[White "montycantsin"]
+[Black "archie_18"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:11"]
+[WhiteElo "1549"]
+[BlackElo "1545"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-11"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "1200+20"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.34] } 2. Nf3 { [%eval 0.34] } 2... d6 { [%eval 0.26] } 3. Bc4 { [%eval 0.28] } 3... h6 { [%eval 0.55] } 4. Nc3 { [%eval 0.31] } 4... e5 { [%eval 0.31] } 5. b4 { [%eval 0.27] } 5... b6?? { [%eval 3.56] } 6. Bd5 { [%eval 3.57] } 6... Nc6? { [%eval 5.05] } 7. Bxc6+ { [%eval 4.96] } 1-0
+

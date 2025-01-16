@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uRdznsiR"]
+[White "GATOFELIX"]
+[Black "Hiko1980"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:25"]
+[WhiteElo "1584"]
+[BlackElo "1621"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "240+5"]
+[Termination "Normal"]
+
+1. e3 d5 2. Be2 e5 3. d3 f5 4. f3 Nf6 5. Bd2 c6 6. Nc3 Bd6 7. f4 e4 8. d4 O-O 9. Bf1 Be6 10. g3 Kh8 11. Qe2 Nbd7 12. Bh3 b5 13. a3 a5 14. Qf2 b4 15. axb4 axb4 16. Rxa8 Qxa8 17. Nd1 Qa1 18. Ne2 c5 19. dxc5 Bxc5 20. O-O Qa4 21. b3 Qb5 22. Nd4 Bxd4 23. exd4 g6 24. Kh1 Kg7 25. Ne3 h5 26. Rg1 Ng4 27. Bxg4 hxg4 28. Qe1 Rb8 29. Qa1 Qb6 30. c3 bxc3 31. Bxc3 Qxb3 32. Nd1 Qc2 33. Qa7 Rb1 34. Qa6 Kf6 35. Qf1 Nb6 36. h3 gxh3 37. g4 h2 38. g5+ Kg7 39. Ne3 hxg1=Q+ 40. Kxg1 Rxf1+ 41. Kxf1 Qxc3 42. Nxf5+ 0-1
+

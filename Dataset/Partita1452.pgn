@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4dijZwrg"]
+[White "1962"]
+[Black "laurawilson"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:02:04"]
+[WhiteElo "1274"]
+[BlackElo "1315"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-14"]
+[ECO "C42"]
+[Opening "Petrov's Defense #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 Nxe4 5. Qe2 d5 6. f3 Ng3 7. hxg3 c5 8. c3 cxd4 9. cxd4 Qb4+ 10. Nc3 Nc6 11. Nd3+ Be7 12. Nxb4 Nxb4 13. Qb5+ Nc6 14. Nxd5 Bd6 15. Bd3 a6 16. Qb3 Nb4 17. O-O Nxd5 18. Re1+ Kd7 19. Qxd5 Kc7 20. Bf4 Bxf4 21. Qc4+ Kd8 22. d5 Bd6 23. Qe4 Bd7 24. Bxa6 b6 25. Rac1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LsHVuOQL"]
+[White "Railbird80"]
+[Black "hashemian"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:34"]
+[WhiteElo "1744"]
+[BlackElo "2282"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "480+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.27] } 2. d4 { [%eval 0.27] } 2... d5 { [%eval 0.27] } 3. exd5 { [%eval 0.2] } 3... exd5 { [%eval 0.18] } 4. c4 { [%eval 0.0] } 4... Qe7+?! { [%eval 0.51] } 5. Be3 { [%eval 0.62] } 5... Qb4+ { [%eval 0.84] } 6. Qd2?! { [%eval 0.26] } 6... dxc4 { [%eval 0.5] } 7. a3 { [%eval 0.25] } 7... Qb3?! { [%eval 1.12] } 8. Nc3 { [%eval 1.15] } 8... Nf6 { [%eval 0.41] } 9. Nf3 { [%eval 0.98] } 9... Nbd7 { [%eval 0.9] } 10. Be2 { [%eval 1.08] } 10... Bd6 { [%eval 1.13] } 11. O-O?! { [%eval 0.61] } 11... O-O { [%eval 0.77] } 12. a4 { [%eval 0.31] } 12... a5 { [%eval 0.15] } 13. Rfc1 { [%eval -0.28] } 13... Nb6 { [%eval -0.31] } 14. Bd1 { [%eval -0.38] } 14... Qb4 { [%eval -0.37] } 15. Qc2 { [%eval -0.32] } 15... Be7 { [%eval -0.26] } 16. Ne5 { [%eval -0.71] } 16... c6 { [%eval -0.84] } 17. Qe2 { [%eval -0.67] } 17... Be6 { [%eval -0.82] } 18. Bd2 { [%eval -1.01] } 18... Qd6 { [%eval -0.87] } 19. Be3 { [%eval -1.0] } 19... Rfe8 { [%eval -0.82] } 20. f3?! { [%eval -1.39] } 20... Nfd5 { [%eval -1.18] } 21. Ne4?! { [%eval -1.68] } 21... Qb4 { [%eval -1.7] } 22. Bf2 { [%eval -1.41] } 22... Nf4 { [%eval -1.78] } 23. Qc2? { [%eval -3.73] } 23... f6 { [%eval -4.18] } 24. Be1?? { [%eval #-1] } 24... Qxe1# 0-1
+

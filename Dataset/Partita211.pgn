@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9DOr4p1I"]
+[White "Vana-Tallinn"]
+[Black "sdr"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:21"]
+[WhiteElo "1465"]
+[BlackElo "1487"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-12"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 a6 5. Ba4 b5 6. Bb3 h6 7. O-O d6 8. d4 Bg4 9. h3 Bxf3 10. Qxf3 Ng6 11. Qxf7# 1-0
+

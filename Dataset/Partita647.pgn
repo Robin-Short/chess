@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4fUXFPY1"]
+[White "AI-I"]
+[Black "mehmetuca78"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:00"]
+[WhiteElo "1419"]
+[BlackElo "1379"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queenside Fianchetto Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 b6 2. g3 Bb7 3. Bg2 e6 4. O-O Bc5 5. d4 Bd6 6. c3 h5 7. e4 h4 8. Nbd2 hxg3 9. fxg3 f5 10. e5 Be7 11. Nc4 Nc6 12. Ne3 d6 13. Bd2 dxe5 14. Nxe5 Nxe5 15. dxe5 Qd7 16. Bxb7 Rb8 17. Bf3 g5 18. Nc4 f4 19. gxf4 gxf4 20. Bxf4 Nh6 21. Bxh6 Rxh6 22. Qe2 Rg6+ 23. Kh1 Kd8 24. Rad1 Bd6 25. exd6 cxd6 26. Rxd6 Qxd6 27. Nxd6 Ke7 28. Ne4 Rbg8 29. Rg1 Kf7 30. Rxg6 Rxg6 31. Nd6+ Kg7 32. Be4 Rf6 33. Qg2+ Kf8 34. Nc8 Ke8 35. Bc6+ Kf7 36. Qe4 Kg7 37. Qg4+ Kf7 38. h3 Kf8 39. Kh2 Kf7 40. Qg7+ Kxg7 41. Ne7 Kf7 42. Be4 Kf8 43. Nc8 Kf7 44. Nd6+ 1-0
+

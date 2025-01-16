@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7iUGd5w4"]
+[White "saman123"]
+[Black "alto"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:15:10"]
+[WhiteElo "1292"]
+[BlackElo "1229"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-9"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e6 4. e4 Nc6 5. Bxc4 Nxd4 6. Nf3 c5 7. Be3 Nf6 8. Nxd4 cxd4 9. Bxd4 e5 10. Bxe5 Qxd1+ 11. Rxd1 Nd7 12. Bc7 Be7 13. Nd5 Bc5 14. O-O O-O 15. Rfe1 Ne5 16. Bxe5 Re8 1-0
+

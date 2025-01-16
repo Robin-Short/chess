@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/djmN2QH2"]
+[White "phil13"]
+[Black "farmer1144"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:52"]
+[WhiteElo "1478"]
+[BlackElo "1196"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-29"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "600+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... Nc6 { [%eval 0.39] } 2. Bc4?! { [%eval -0.12] } 2... e6 { [%eval -0.11] } 3. Nc3 { [%eval -0.13] } 3... a6?! { [%eval 0.39] } 4. a4?! { [%eval -0.36] } 4... d5?! { [%eval 0.54] } 5. exd5 { [%eval 0.6] } 5... exd5 { [%eval 0.56] } 6. Nxd5 { [%eval 0.7] } 6... Be6 { [%eval 0.71] } 7. Ne3 { [%eval 0.74] } 7... Bxc4 { [%eval 0.8] } 8. Nxc4 { [%eval 0.68] } 8... Nf6 { [%eval 0.87] } 9. Qe2+ { [%eval 0.76] } 9... Be7 { [%eval 0.76] } 10. d3 { [%eval 0.48] } 10... Kf8? { [%eval 1.52] } 11. Nf3 { [%eval 1.58] } 11... g6 { [%eval 1.63] } 12. Bh6+ { [%eval 1.68] } 12... Kg8 { [%eval 1.73] } 13. O-O { [%eval 1.68] } 13... Ng4 { [%eval 1.4] } 14. h3?? { [%eval -2.18] } 14... Nxh6 { [%eval -2.13] } 15. Qe3 { [%eval -2.46] } 15... Nf5 { [%eval -2.45] } 16. Qd2 { [%eval -2.59] } 16... Kg7 { [%eval -2.86] } 17. Rfe1 { [%eval -2.82] } 17... Bf6 { [%eval -2.83] } 18. c3 { [%eval -2.67] } 18... Rf8 { [%eval -2.36] } 19. d4 { [%eval -2.53] } 19... Qd5 { [%eval -2.54] } 20. Ne3 { [%eval -2.53] } 20... Nxe3 { [%eval -2.46] } 21. fxe3 { [%eval -2.76] } 21... Rfe8 { [%eval -2.39] } 22. Re2 { [%eval -2.78] } 22... Na5 { [%eval -2.65] } 23. Qc2 { [%eval -2.87] } 23... Nc4? { [%eval -1.84] } 24. Rae1?! { [%eval -2.77] } 24... Nd6? { [%eval 0.1] } 25. e4 { [%eval 0.1] } 25... Qc6 { [%eval 0.12] } 26. e5 { [%eval 0.13] } 26... Nf5? { [%eval 2.52] } 27. exf6+ { [%eval 2.46] } 27... Qxf6?? { [%eval 6.03] } 28. Rxe8 { [%eval 6.05] } 28... Rxe8 { [%eval 6.04] } 29. Rxe8 { [%eval 6.12] } 29... Ng3?! { [%eval 6.83] } 1-0
+

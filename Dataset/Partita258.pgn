@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FzIVsCW9"]
+[White "tomi36"]
+[Black "robovlas"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:17"]
+[WhiteElo "1796"]
+[BlackElo "1786"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 1-0
+

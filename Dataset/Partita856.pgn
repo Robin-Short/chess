@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LKGkpoqv"]
+[White "guppless"]
+[Black "hernype"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:42"]
+[WhiteElo "1451"]
+[BlackElo "1423"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "240+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 c6 3. h3 f6 4. Qf3 d6 5. Ne2 g5 6. Qh5+ Ke7 7. Ng3 Be6 8. Be2 Nh6 9. Nf5+ Nxf5 10. exf5 Bf7 11. Qf3 Bd5 12. Qg3 h5 13. Nd2 h4 14. Qg4 Bh6 15. Ne4 Nd7 16. c4 Bf7 17. O-O Qe8 18. Qf3 Bh5 19. Qe3 Bf7 20. Qd2 a6 21. Bg4 b6 22. b4 d5 23. cxd5 Bxd5 24. a3 b5 25. Qc2 Rc8 26. Nc5 Nxc5 27. Qxc5+ Kf7 28. Bh5+ Kg7 29. Bxe8 Rhxe8 30. Re1 e4 31. dxe4 Bxe4 32. Rxe4 Rxe4 33. Be3 Kg8 34. Rd1 Bf8 35. Qc2 Rc4 36. Qd3 Be7 37. Qd7 Rd8 38. Qe6+ Kf8 39. Rxd8+ Bxd8 40. Bc5+ Kg7 41. Qd7+ Kh6 42. Qxd8 Rc1+ 43. Kh2 g4 44. Qxf6+ Kh5 45. Qg6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/tFItSrAJ"]
+[White "MisterBiggStuff"]
+[Black "TrialB"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:46"]
+[WhiteElo "2240"]
+[BlackElo "1929"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d3 d5 3. Nd2 dxe4 4. dxe4 Be7 5. Ngf3 b6 6. g3 Bb7 7. Bg2 Nf6 8. Qe2 O-O 9. O-O c5 10. Rd1 Qc8 11. e5 Nd5 12. c4 Nb4 13. a3 Nc2 14. Rb1 Nd4 15. Nxd4 cxd4 16. Ne4 Rd8 17. Qh5 Nd7 18. b3 Nc5 19. Nxc5 bxc5 20. Bxb7 Qxb7 21. Bg5 Bxg5 22. Qxg5 Qe4 23. Re1 Qc2 24. Qc1 Qf5 25. Qf4 Qxf4 26. gxf4 g6 27. Kg2 a5 28. Kf3 Rab8 29. Ke4 Rb7 30. Red1 Rdb8 31. Rd3 Kg7 32. b4 axb4 33. axb4 Rxb4 34. Rc1 Rb3 35. Rd2 Rh3 36. Ra1 Rxh2 37. Ra5 Rh4 38. Rxc5 g5 39. Kxd4 Rxf4+ 40. Ke3 Rb3+ 41. Ke2 Rbf3 42. Ke1 g4 43. Rc2 Re4+ 44. Kd1 Rd4+ 45. Kc1 Rfd3 46. Rc7 g3 47. fxg3 Rxg3 48. Kb2 Re3 49. Rf2 Rxe5 50. Rfxf7+ Kg6 51. Rg7+ Kf5 52. Rxh7 Re3 53. Rh5+ Ke4 54. Rh4+ Kd3 55. Rxd4+ Kxd4 56. c5 Kd5 57. Rc8 1-0
+

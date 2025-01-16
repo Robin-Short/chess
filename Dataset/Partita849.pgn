@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zrL0hmKr"]
+[White "patrimpas"]
+[Black "helgust"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:36"]
+[WhiteElo "2010"]
+[BlackElo "1447"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "C01"]
+[Opening "French Defense: Mediterranean Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 Nf6 3. e5 Nd5 4. c4 Nb4 5. a3 N4c6 6. Nf3 d5 7. cxd5 Qxd5 8. Nc3 Qa5 9. Bd2 Qb6 10. Na4 Qb5 11. Bxb5 1-0
+

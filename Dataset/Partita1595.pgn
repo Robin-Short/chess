@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e9qa06py"]
+[White "woofo"]
+[Black "checkmatekingdom"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:22"]
+[WhiteElo "1432"]
+[BlackElo "1224"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+24"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Mosquito Gambit"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Qh4 3. Nf3 Qe4 4. Qd3 Qxd3 5. cxd3 Be7 6. Nc3 Nc6 7. Nd5 Rb8 8. Nxe7 Ngxe7 9. d4 Nf5 10. e4 Nfxd4 11. Nxd4 Nxd4 12. Bd3 b6 13. Be3 Ne6 14. O-O O-O 15. Rac1 Nd8 16. Rxc7 Re8 17. Bf4 Ne6 18. Bg3 Nxc7 19. Rc1 Ne6 20. f4 Bb7 21. f5 Ng5 22. e6 dxe6 23. Bxb8 Rxb8 24. fxe6 Nxe6 25. Bc4 Nd4 26. b3 b5 27. Bd5 Ne2+ 28. Kh1 Nxc1 29. Bxb7 Rxb7 30. h3 Rd7 31. e5 Rd1+ 32. Kh2 Nxa2 33. e6 fxe6 34. g4 e5 35. Kg3 Rf1 36. Kg2 Rf8 0-1
+

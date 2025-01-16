@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PS6f0bNM"]
+[White "Eisbrecher_arg"]
+[Black "srxa"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:28"]
+[WhiteElo "1389"]
+[BlackElo "1427"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. c3 Nc6 4. Nf3 a6 5. d4 Nf6 6. Qd3 b5 7. Bb3 Bb7 8. d5 c4 9. Qd1 exd5 10. Bc2 dxe4 11. Nd4 Nxd4 12. cxd4 Be7 13. Nc3 b4 14. Ne2 a5 15. b3 c3 16. O-O Ng4 17. h3 h5 18. hxg4 hxg4 19. Ng3 Qc7 20. Bxe4 Bxe4 21. Qxg4 Bb7 22. Re1 Rh4 23. Qg5 f6 24. Qxg7 O-O-O 25. Rxe7 Rdh8 26. Qxf6 Rh2 27. Bf4 Rxg2+ 28. Kf1 Ba6+ 29. Ne2 Rh1+ 30. Kxg2 Qb7+ 31. f3 Rxa1 32. Re8# 1-0
+

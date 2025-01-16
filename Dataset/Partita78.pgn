@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/R8vL6P2Z"]
+[Site "https://lichess.org/DKGDYqQ8"]
+[White "amirsalarkhan"]
+[Black "darko399"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:03:06"]
+[WhiteElo "1623"]
+[BlackElo "1584"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 c5 4. Be3 cxd4 5. Qxd4 Nf6 6. Nc3 Qxd4 7. Bxd4 Nc6 8. Bxf6 gxf6 9. O-O-O Bh6+ 10. Kb1 a6 11. Nd5 Be6 12. Nc7+ 1-0
+

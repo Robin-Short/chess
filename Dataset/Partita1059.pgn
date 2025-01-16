@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/z4t6aA17"]
+[White "Lord-Orochimaru"]
+[Black "catchmorris"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:42:21"]
+[WhiteElo "2020"]
+[BlackElo "1751"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+21"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c3 e6 3. Nf3 c6 4. Bf4 h6 5. e3 Nf6 6. Nbd2 Nbd7 7. Bd3 Be7 8. e4 b6 9. e5 Ng8 10. O-O g5 11. Be3 Bb7 12. Ne1 Qc7 13. Qh5 c5 14. f4 O-O-O 15. Qxf7 Bf8 16. Qxe6 Kb8 17. fxg5 Bc8 18. g6 cxd4 19. cxd4 Nc5 20. Qf7 Qxf7 21. Rxf7 Nxd3 22. Nxd3 Ne7 23. g7 Bxg7 24. Rxg7 Nc6 25. Nb3 Be6 26. Rf1 h5 27. h3 h4 28. Rg6 Rde8 29. Rff6 Bd7 30. Rxc6 Bxc6 31. Rxc6 Kb7 32. Rd6 Rd8 33. Rf6 a6 34. Nf4 a5 35. a4 Rc8 36. Nxd5 Rc2 37. Rxb6+ Ka7 38. Nxa5 Rg8 39. Nc7 Rgxg2+ 40. Kf1 Kxb6 41. d5+ Kxc7 42. d6+ Kd7 43. Bc5 Rxc5 44. Nb7 Rcc2 45. Nc5+ Rxc5 46. b4 Rcc2 47. b5 Rgd2 48. b6 Rd1# 0-1
+

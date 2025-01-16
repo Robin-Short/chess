@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yvYU5oNL"]
+[White "Tarama"]
+[Black "VEGETAL"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:26"]
+[WhiteElo "1895"]
+[BlackElo "1764"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lopez Countergambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 f5 4. d4 fxe4 5. Nxe5 dxe5 6. Qh5+ g6 7. Qxe5+ Qe7 8. Qxh8 Nf6 9. Bg5 Nbd7 10. Nc3 c6 11. O-O-O b5 12. Bb3 Bb7 13. Rhe1 O-O-O 14. Bxf6 Nxf6 15. Qg8 Bh6+ 16. f4 Bxf4+ 17. Kb1 Rxg8 18. Bxg8 Nxg8 19. Rxe4 Qc7 20. Rde1 Ba6 21. Re8+ Kb7 22. Rxg8 b4 23. Rge8 bxc3 24. R8e7 Bc4 25. Rxc7+ Bxc7 26. b3 Bd5 27. a4 Bxg2 28. Re2 Bf3 29. Re3 Bd5 30. Rxc3 c5 31. Rxc5 Bb6 32. Rxd5 Bxd4 33. Rxd4 Kc6 34. Rc4+ Kd5 35. Rc7 a5 36. Ra7 h5 37. Rh7 Ke5 38. Rh6 Kf5 39. Rh7 Kg5 40. Ra7 h4 41. Rxa5+ Kg4 42. Ra6 g5 43. Rg6 Kh5 44. Rxg5+ Kxg5 45. Kb2 Kg4 46. a5 Kh3 47. a6 Kxh2 48. a7 Kg2 49. a8=Q+ Kh3 50. Qh1+ Kg3 51. b4 Kg4 0-1
+

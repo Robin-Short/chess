@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yayXqlW5"]
+[White "mmj"]
+[Black "woodswoods"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:23"]
+[WhiteElo "1500"]
+[BlackElo "1411"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Qe2+ Qe7 5. Nc3 Nc6 6. Qxe7+ Ngxe7 7. Nf3 Bg4 8. Be2 O-O-O 9. Be3 g6 10. h3 Be6 11. Bg5 Bg7 12. O-O-O Rde8 13. Bb5 a6 14. Bxe7 Rxe7 15. Bxc6 bxc6 16. Rde1 Rhe8 17. Re3 Kd7 18. Rhe1 Bh6 19. Ne5+ Kd6 20. Na4 Bxe3+ 21. Rxe3 f6 22. Nf3 Bd7 23. Kd2 Rxe3 24. fxe3 Bf5 25. Nc5 a5 26. a4 Be4 27. Nb7+ Kd7 28. b3 Bxf3 29. gxf3 Kc8 30. Nxa5 Re6 31. c4 Kb8 32. c5 Ka7 33. b4 h5 34. Nb3 g5 35. Ke2 f5 36. Kf2 g4 37. hxg4 hxg4 38. f4 Rh6 39. Nc1 Rh1 40. Ne2 Rb1 41. Ng3 Rxb4 42. Nxf5 Rxa4 43. Nh6 Ra2+ 44. Kg3 Re2 45. Kxg4 Rxe3 46. f5 Re4+ 47. Kg5 Rxd4 48. f6 Rd3 49. f7 Rg3+ 50. Kf6 d4 51. f8=Q Rf3+ 52. Nf5 1-0
+

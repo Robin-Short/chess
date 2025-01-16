@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1YA2OPBC"]
+[White "arpouille"]
+[Black "sicko72"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:57:48"]
+[WhiteElo "2070"]
+[BlackElo "1964"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. Nf3 Nf6 5. Qe2+ Be7 6. d4 O-O 7. Bg5 c6 8. O-O-O Bb4 9. Kb1 Bf5 10. Ne5 Bxc3 11. bxc3 Qa5 12. Bxf6 gxf6 13. Ng4 Qxc3 14. Nxf6+ Kh8 15. g4 Bg6 16. f4 Na6 17. f5 Nb4 18. Rd3 Nxd3 19. Qxd3 Qe1+ 20. Kb2 Qb4+ 21. Kc1 Qe1+ 22. Qd1 Qe3+ 23. Qd2 Qa3+ 24. Kb1 Qd6 25. Qg5 Qb4+ 26. Kc1 Qe1+ 27. Kb2 Qb4+ 28. Kc1 Qxd4 29. fxg6 fxg6 30. Nxh7 Kxh7 31. Bd3 Qf4+ 32. Qxf4 Rxf4 33. Re1 Kg7 34. Re7+ Rf7 35. Re6 g5 36. Rg6+ Kf8 37. Rxg5 Re8 38. h4 Re1+ 39. Kb2 Rg1 40. h5 Rg7 41. Rf5+ Kg8 42. Be2 R1xg4 43. Bxg4 Rxg4 0-1
+

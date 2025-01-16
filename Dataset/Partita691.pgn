@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kq2o5Qd2"]
+[White "qulko"]
+[Black "outlier"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:27:52"]
+[WhiteElo "1975"]
+[BlackElo "2094"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+19"]
+[ECO "C26"]
+[Opening "Vienna Game: Stanley Variation, Reversed Spanish"]
+[TimeControl "360+4"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. Bc4 Bb4 4. d3 c6 5. Bb3 d5 6. Bd2 O-O 7. Nge2 d4 8. Nb1 a5 9. Bxb4 axb4 10. Nd2 Qe7 11. O-O Nbd7 12. f4 exf4 13. Nxf4 Ne5 14. h3 Ng6 15. Nxg6 hxg6 16. Qf3 Nh5 17. Rae1 Be6 18. Nc4 b5 19. Nd2 Qg5 20. Rf2 Bxb3 21. axb3 f5 22. e5 f4 23. Qxc6 Rac8 24. Qe6+ Kh7 25. Ne4 Qf5 26. Qxf5 Rxf5 27. Nd6 Rc7 28. Nxf5 gxf5 29. Rf3 g5 30. Kh2 Kg6 31. Ra1 Rxc2 32. Ra6+ Kf7 33. e6+ Ke7 34. Rb6 g4 35. hxg4 fxg4 36. Rf1 f3 37. Rb7+ Kxe6 38. Re1+ Kd6 39. Rg1 f2 40. Rf1 g3+ 41. Kh3 Re2 42. Ra7 Nf4+ 43. Kxg3 Nxd3 44. Kf3 Re3+ 45. Kg4 Re1 46. Ra1 Rxa1 47. Rxa1 Ne1 0-1
+

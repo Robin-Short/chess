@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/aIrmdWME"]
+[White "BearJr"]
+[Black "E-Online"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:41:51"]
+[WhiteElo "1808"]
+[BlackElo "1916"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nf3 c6 3. Nc3 Nf6 4. d4 d5 5. e5 Ne4 6. Nxe4 dxe4 7. Ng5 Bf5 8. c3 h6 9. g4 hxg5 10. gxf5 gxf5 11. Bxg5 Bh6 12. Bxh6 Rxh6 13. Qd2 Rh8 14. O-O-O e6 15. Be2 Nd7 16. f3 Nb6 17. fxe4 fxe4 18. Qf4 Qd5 19. Rhf1 O-O-O 20. h4 Qxa2 21. Kc2 Qa4+ 22. Kb1 Nd5 23. Qxe4 a5 24. Qc2 Qxc2+ 25. Kxc2 Ne3+ 26. Kd3 Nxd1 27. Rxd1 Rxh4 28. Rf1 Rh3+ 29. Kd2 Rf8 30. Bg4 Rh2+ 31. Kc1 Kc7 32. Bxe6 Kb6 33. Bxf7 Kb5 34. e6 Ka4 35. e7 Rfh8 36. e8=Q Rxe8 37. Bxe8 b5 38. Bf7 b4 39. Be8 Kb3 40. Bxc6 bxc3 41. bxc3 Rc2+ 42. Kd1 Ra2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1vG6F3P2"]
+[White "yesse2"]
+[Black "laloli"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:01:05"]
+[WhiteElo "1338"]
+[BlackElo "1241"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nc6 2. c3 h5 3. Bf4 d5 4. Nf3 Bg4 5. Ne5 Nxe5 6. Bxe5 Nh6 7. h3 Bf5 8. Qd2 e6 9. Na3 f6 10. Bf4 Bxa3 11. bxa3 Qe7 12. Rc1 Qxa3 13. f3 O-O-O 14. Kf2 Ng4+ 15. fxg4 hxg4 16. h4 g3+ 17. Bxg3 Bg4 18. c4 Qe7 19. cxd5 exd5 20. Qc3 Qe4 21. Qxc7# 1-0
+

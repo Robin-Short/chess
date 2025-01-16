@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xG0AFdJB"]
+[White "sajadkhani"]
+[Black "ivan62"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:01"]
+[WhiteElo "1903"]
+[BlackElo "1698"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Bd3 Nh6 6. Nf3 Nd7 7. O-O c5 8. c3 Rc8 9. Be3 Be7 10. Ng5 Bxd3 11. Qxd3 Nf5 12. Nd2 h6 13. Ngf3 cxd4 14. Nxd4 Nxd4 15. cxd4 O-O 16. f5 exf5 17. Qxf5 Bg5 18. Bxg5 hxg5 19. Nf3 f6 20. exf6 Nxf6 21. Nxg5 Nh7 22. Qxh7# 1-0
+

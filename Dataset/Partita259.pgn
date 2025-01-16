@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PFXvxtJs"]
+[White "bernino"]
+[Black "kaspar0ff"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:13"]
+[WhiteElo "1724"]
+[BlackElo "1747"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 a6 5. d3 h6 6. Be3 b6 7. Nh3 Bb7 8. O-O g5 9. Bg4 Qg6 10. f4 h5 11. f5 Qg7 12. Be2 f6 13. Nf2 g4 14. Nfe4 Nd7 15. Bf4 O-O-O 16. g3 Nh6 17. Bxh6 Rxh6 18. Qd2 Ne5 19. Qf4 h4 20. gxh4 Rxh4 21. Ng3 Qh7 22. Rf2 Bh6 23. Qb4 Be3 24. Rf1 Rxh2 25. Bxg4 Rg2# 0-1
+

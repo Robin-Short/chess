@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZB1ktLQY"]
+[White "robovlas"]
+[Black "espinacla"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:48"]
+[WhiteElo "1789"]
+[BlackElo "1855"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.25] } 1... e6 { [%eval 0.26] } 2. Bf4 { [%eval 0.2] } 2... d5 { [%eval 0.24] } 3. Bg3 { [%eval -0.17] } 3... Nf6 { [%eval -0.11] } 4. Nf3 { [%eval -0.14] } 4... Bd6 { [%eval 0.03] } 5. Bxd6 { [%eval -0.14] } 5... cxd6 { [%eval -0.15] } 6. e3 { [%eval -0.13] } 6... O-O { [%eval -0.13] } 7. c3 { [%eval -0.27] } 7... e5?! { [%eval 0.29] } 8. dxe5 { [%eval 0.42] } 8... dxe5 { [%eval 0.52] } 9. Nxe5 { [%eval 0.52] } 9... Nc6 { [%eval 0.66] } 10. Nf3 { [%eval 0.54] } 10... Ne4 { [%eval 0.62] } 11. Be2 { [%eval 0.62] } 11... Bg4 { [%eval 0.77] } 12. Nbd2 { [%eval 0.72] } 12... Nxd2 { [%eval 0.96] } 13. Nxd2 { [%eval 0.65] } 13... Re8?? { [%eval 4.22] } 14. Bxg4 { [%eval 4.12] } 14... Ne5 { [%eval 4.6] } 15. Be2 { [%eval 4.65] } 15... f5 { [%eval 4.99] } 16. O-O { [%eval 4.9] } 16... f4? { [%eval 6.19] } 17. exf4 { [%eval 6.26] } 17... Ng4?? { [%eval 9.92] } 18. Bxg4 { [%eval 9.86] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xGa6eXp2"]
+[White "TheY2AProblem"]
+[Black "PedroMarhaJimenez"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:01:12"]
+[WhiteElo "1210"]
+[BlackElo "1219"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+13"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. c3 d6 5. d4 Qe7 6. d5 Na5 7. b4 Nxc4 0-1
+

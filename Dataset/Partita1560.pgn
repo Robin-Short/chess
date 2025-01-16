@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/jt1IxFgX"]
+[White "sigma0"]
+[Black "Tsiri86"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:07:37"]
+[WhiteElo "1336"]
+[BlackElo "1806"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Alekhine Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. Nxf6+ Nxf6 7. Nf3 Bg4 8. O-O e6 9. h3 Bh5 10. b3 Bd6 11. Bb2 Nd5 12. Re1 O-O 13. Nh4 Bxd1 0-1
+

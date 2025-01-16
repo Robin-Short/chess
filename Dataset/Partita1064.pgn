@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eTzUdJ9o"]
+[White "insidejob911"]
+[Black "Mooossieurpatate"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:41:55"]
+[WhiteElo "1695"]
+[BlackElo "1681"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. c3 { [%eval -0.03] } 1... b6 { [%eval 0.31] } 2. d3 { [%eval 0.05] } 2... Bb7 { [%eval 0.09] } 3. e4 { [%eval 0.02] } 3... e6 { [%eval 0.0] } 4. Qc2 { [%eval -0.28] } 4... Nf6 { [%eval -0.27] } 5. Nf3 { [%eval -0.32] } 5... d5 { [%eval -0.14] } 6. Bg5 { [%eval -0.28] } 6... dxe4 { [%eval -0.05] } 7. Bxf6 { [%eval -0.39] } 7... Qxf6 { [%eval -0.48] } 8. dxe4 { [%eval -0.35] } 8... Nd7 { [%eval -0.39] } 9. Bd3?! { [%eval -0.9] } 9... Nc5?! { [%eval -0.23] } 10. Nbd2 { [%eval -0.58] } 10... O-O-O { [%eval -0.52] } 11. Be2 { [%eval -0.6] } 11... Bd6 { [%eval -0.68] } 12. O-O-O? { [%eval -1.72] } 12... Bf4 { [%eval -1.74] } 13. Kb1 { [%eval -1.75] } 13... Qh6? { [%eval 0.06] } 14. b4 { [%eval 0.0] } 14... Nxe4? { [%eval 1.98] } 15. Nxe4 { [%eval 2.01] } 15... Rxd1+ { [%eval 2.22] } 16. Rxd1 { [%eval 2.22] } 16... Bxe4? { [%eval 4.19] } 17. Qxe4 { [%eval 3.99] } 17... Bg5?? { [%eval #1] } 18. Qa8# 1-0
+

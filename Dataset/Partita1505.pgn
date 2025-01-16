@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MYoskZoD"]
+[White "diegor"]
+[Black "maulwurf"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:10"]
+[WhiteElo "1952"]
+[BlackElo "1905"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. Nc3 d5 3. b3 Nf6 4. Bb2 a6 5. Nf3 Bd6 6. d4 e4 7. Ne5 Nbd7 8. Nxd7 Bxd7 9. Qd2 Qe7 10. O-O-O Ba3 11. h3 Bxb2+ 12. Kxb2 a5 13. a4 O-O 14. g4 Rfb8 15. g5 Ne8 16. Nxd5 Qd6 17. c4 c6 18. Nb6 Ra7 19. c5 Qe7 20. Bg2 f5 21. gxf6 Nxf6 22. Rhg1 Be6 23. f3 Bd5 0-1
+

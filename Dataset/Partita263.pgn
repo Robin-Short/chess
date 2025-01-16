@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UNeBNnaM"]
+[White "VonChessewitz"]
+[Black "VEGETAL"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:29"]
+[WhiteElo "1631"]
+[BlackElo "1719"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 f6 3. f4 d5 4. fxe5 fxe5 5. Bxe5 Nc6 6. Bb2 d4 7. Nf3 Bg4 8. e4 dxe3 9. d3 Bc5 10. Be2 Nf6 11. d4 Bxf3 12. Bxf3 Bxd4 13. Bxd4 Qxd4 14. Qxd4 Nxd4 15. Bxb7 Rb8 16. Ba6 Nxc2+ 17. Ke2 Nxa1 18. Nc3 Nc2 19. Kd3 Nb4+ 0-1
+

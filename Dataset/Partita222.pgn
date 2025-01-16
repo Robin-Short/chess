@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sHxzA2U4"]
+[White "Antonis"]
+[Black "lawlit"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:51"]
+[WhiteElo "1786"]
+[BlackElo "1545"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "C25"]
+[Opening "Vienna Game: Vienna Gambit, Steinitz Gambit, Knight Variation"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Nf6 5. d4 Bb4 6. Bd3 O-O 7. O-O Re8 8. e5 Ng4 9. Bxf4 f6 10. exf6 Qxf6 11. Bg5 Qd6 12. Nb5 1-0
+

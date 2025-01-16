@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Wkc5v5QT"]
+[White "DankoJ"]
+[Black "marqeuz"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:53:59"]
+[WhiteElo "1809"]
+[BlackElo "1591"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C28"]
+[Opening "Vienna Game: Vienna Gambit"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nf6 3. Nc3 exf4 4. d4 Bb4 5. Bd3 O-O 6. Nf3 Re8 7. e5 Nd5 8. Bd2 Bxc3 9. bxc3 d6 10. c4 Ne3 11. Bxe3 fxe3 12. Qe2 dxe5 13. dxe5 Nc6 14. O-O Nd4 15. Qxe3 Nf5 16. Qf4 Ne7 17. Ng5 Rf8 18. Bxh7+ Kh8 19. Qh4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pulYAHlQ"]
+[White "nanokio"]
+[Black "danial666"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:15"]
+[WhiteElo "1462"]
+[BlackElo "1790"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. h3 Ne7 6. c4 c6 7. c5 Bc7 8. b4 a6 9. a4 Bf5 10. Bd3 Bxd3 11. Qxd3 Nd7 12. O-O O-O 13. Ng5 Ng6 14. h4 Nf6 15. Nf3 Ne4 16. h5 Nf4 17. Bxf4 Bxf4 18. g3 Bh6 19. Nc3 Re8 20. Nxe4 dxe4 21. Qc3 exf3 22. Qxf3 Qg5 23. Rad1 Re7 24. d5 cxd5 25. Rxd5 Qf6 26. Qd3 Rae8 27. Rd8 g6 28. Rxe8+ Rxe8 29. hxg6 hxg6 30. Qd5 Qe7 31. b5 axb5 32. axb5 Rc8 33. c6 bxc6 34. bxc6 Qe8 35. Qh1 Bg7 36. Rc1 Bd4 37. Kg2 Rxc6 38. Rxc6 Qxc6+ 39. f3 Qc2+ 40. Kh3 Kg7 41. f4 Qf5+ 42. Kh2 Bf2 43. Qa1+ f6 44. Qb2 Bc5 45. Qb7+ Kh6 46. Qf3 Qh5+ 47. Kg2 Qxf3+ 48. Kxf3 Kh5 49. g4+ Kh4 50. f5 g5 51. Ke4 Kxg4 52. Kd5 Kxf5 53. Kxc5 g4 54. Kd5 Kf4 55. Ke6 g3 56. Kxf6 g2 57. Ke6 g1=Q 58. Kd5 Qe3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hBztIYhK"]
+[White "whitebaron"]
+[Black "juanjeins"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:46"]
+[WhiteElo "1585"]
+[BlackElo "1362"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A42"]
+[Opening "Sicilian Defense: Hyperaccelerated Fianchetto"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. h4 Nc6 6. Nxc6 bxc6 7. h5 Nf6 8. h6 Bf8 9. e5 Nh5 10. g4 Ng7 11. hxg7 Bxg7 12. f4 O-O 13. Nc3 d6 14. Ne4 dxe5 15. Qxd8 Rxd8 16. Ng5 Bxg4 17. Be3 exf4 18. Bxf4 h6 19. Ne4 Bxb2 20. Rb1 g5 21. Be3 Bg7 22. Be2 Bf5 23. Bd3 Rab8 24. Rxb8 Rxb8 25. Kd2 Rb2 26. Nc5 Bxd3 27. Kxd3 Rxa2 28. Rb1 Ra3+ 29. Ke2 Ra2 30. Kd1 f5 31. Ne6 Kf7 32. Nxg7 Kxg7 33. Rb7 Kf6 34. Bxa7 f4 35. Bc5 Ra1+ 36. Ke2 Ra2 37. Kd3 Ra1 38. Bxe7+ Kf5 39. Rc7 Rd1+ 40. Ke2 Rc1 41. Rxc6 Kg4 42. Bf8 h5 43. Bh6 f3+ 44. Kd2 Rh1 45. Rg6 Rh2+ 46. Kd3 Rxc2 47. Rxg5+ Kh4 48. Kxc2 1-0
+

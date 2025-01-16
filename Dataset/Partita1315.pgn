@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/V8TxhIsM"]
+[White "atikus"]
+[Black "vanely"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:55:31"]
+[WhiteElo "1802"]
+[BlackElo "1652"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+16"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Qe7 4. e5 d6 5. d4 dxe5 6. dxe5 Nc6 7. Bxf4 Bg4 8. Bb5 Qb4+ 9. Qd2 Qxb5 0-1
+

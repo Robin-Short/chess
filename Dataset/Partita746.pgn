@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/s23dmjC8"]
+[White "BiscuitMaster"]
+[Black "Philosopher12"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:55"]
+[WhiteElo "919"]
+[BlackElo "1377"]
+[WhiteRatingDiff "+49"]
+[BlackRatingDiff "-9"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack #2"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. d3 e5 4. cxd5 cxd5 5. exd5 Nf6 6. Qa4+ Bd7 7. Qe4 Nxe4 8. dxe4 Bb4+ 9. Nc3 Bxc3+ 10. bxc3 O-O 11. c4 b5 12. cxb5 a6 13. Nf3 Bxb5 14. Bxb5 axb5 15. Rb1 Qa5+ 16. Bd2 Qxa2 17. Rxb5 Qa1+ 18. Ke2 Qxh1 19. Nxe5 Qxh2 20. d6 Qxe5 21. Rxe5 Nd7 22. Re7 Ra7 23. Be3 Rb7 24. e5 f6 25. e6 Nc5 26. Bxc5 Rxe7 27. dxe7 Re8 28. f4 f5 29. g4 g6 30. gxf5 gxf5 31. Kd3 h5 32. Ke3 Kh7 33. Kf3 Kg6 34. Kg3 Kf6 35. Kh4 Kxe6 36. Kxh5 Kd5 37. Ba3 Ke6 38. Kg6 Rg8+ 39. Kh7 Re8 40. Kg7 Ra8 41. Bc5 Kd5 42. Bb4 Ke4 43. Kf7 Kxf4 44. e8=Q Rxe8 45. Kxe8 Ke4 46. Bd2 f4 47. Kf7 f3 48. Be1 Kd3 49. Kf6 Ke2 50. Bg3 f2 51. Bxf2 1/2-1/2
+

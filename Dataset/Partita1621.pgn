@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RGTXzXiw"]
+[White "ro61"]
+[Black "bjagus"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:17"]
+[WhiteElo "1747"]
+[BlackElo "1493"]
+[WhiteRatingDiff "-20"]
+[BlackRatingDiff "+19"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. g4 e6 2. Bg2 d5 3. c4 Nf6 4. cxd5 exd5 5. h3 h5 6. Nc3 Ne4 7. Nxe4 dxe4 8. Bxe4 hxg4 9. hxg4 Rxh1 10. Bxh1 Bc5 11. Qc2 Na6 12. Nf3 Bxg4 13. Bg2 Qf6 14. Qe4+ Qe6 15. Qxb7 Rb8 16. Ng5 Qxe2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4UsfkcjZ"]
+[White "x23"]
+[Black "denko"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:44"]
+[WhiteElo "1832"]
+[BlackElo "1632"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+16"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bg5 f6 3. Bh4 e6 4. e3 Bd6 5. c4 Ne7 6. c5 g5 7. Qh5+ Ng6 8. cxd6 gxh4 9. dxc7 Qxc7 10. Nc3 Bd7 11. Nf3 Na6 12. a3 O-O-O 13. Bxa6 bxa6 14. Rc1 Bb5 15. Na2 Bc6 16. O-O Qb7 17. Nb4 Rd6 18. Rc5 Kb8 19. Rfc1 Bb5 20. Rc7 Qxc7 21. Rxc7 Kxc7 22. Nxh4 Nxh4 23. Qxh4 a5 24. Qxf6 Rc8 25. Qe7+ Rd7 26. Qc5+ Kd8 27. Qxb5 Rc1+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eq5DrRby"]
+[White "E-Online"]
+[Black "tuskerking"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:09"]
+[WhiteElo "1900"]
+[BlackElo "1912"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. Ne2 c5 3. Ng3 Nf6 4. Nh5 g6 5. Nxf6+ exf6 6. b3 Bg7 7. Bb2 O-O 8. Nc3 Nc6 9. Ne2 Bg4 10. h3 Bxe2 11. Qxe2 f5 12. h4 Bxb2 13. Rb1 Bg7 14. h5 Qf6 15. h6 Bh8 16. g3 Rfe8 17. Bg2 d4 18. Bd5 dxe3 19. fxe3 Nd4 20. Qc4 b5 21. Qd3 Rad8 22. e4 Rxd5 23. Kd1 fxe4 24. Qe3 Nf3 25. Rf1 Rxd2+ 26. Qxd2 Nxd2 27. Rxf6 Nxb1 28. Rc6 Bd4 29. Ke2 Nc3+ 30. Ke1 Nd5 31. Ke2 Ne3 32. a4 bxa4 33. bxa4 Nxc2 34. Rc7 Ne3 35. Rxa7 Ng4 36. Rc7 Nxh6 37. a5 Nf5 38. a6 Nxg3+ 0-1
+

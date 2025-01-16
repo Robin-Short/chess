@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QcKlqk1t"]
+[White "bijean"]
+[Black "caralperu"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:45"]
+[WhiteElo "1378"]
+[BlackElo "1312"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "360+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bc4 Bc5 4. d4 exd4 5. e5 Qc6 6. Nxd4 Qe4+ 7. Ne2 Qxc4 8. O-O Ne7 9. b3 Qe6 10. Bb2 Nbc6 11. Nf4 Qf5 12. Nd5 Nxd5 13. Qxd5 O-O 14. Qxc5 Nxe5 15. Qxc7 f6 16. Bxe5 fxe5 17. Nd2 b5 18. Rae1 d6 19. c4 bxc4 20. Qxc4+ Kh8 21. Qc6 Bd7 22. Qxd6 Rad8 23. Qxe5 Qd3 24. Nc4 Bb5 25. Qxb5 Rd5 26. Qb4 Rfd8 27. Ne3 Rd4 28. Qe7 R4d7 29. Qh4 Rd4 30. Qg3 Qc2 31. Nf5 Qxf5 32. Re7 Qf6 33. Rxa7 Rd1 34. Qe3 Rxf1+ 35. Kxf1 Qa1+ 36. Ke2 Qb2+ 37. Kf3 Rf8+ 38. Kg3 Qf6 39. h3 h6 0-1
+

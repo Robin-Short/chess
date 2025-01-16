@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DufWS2BM"]
+[White "rey8"]
+[Black "sadikh"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:13"]
+[WhiteElo "1597"]
+[BlackElo "1595"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Vehre Variation"]
+[TimeControl "120+3"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 Nf6 3. d4 Nc6 4. Bg5 Nxe4 5. Nxe4 dxe4 6. d5 Ne5 7. c4 h6 8. Bf4 Ng6 9. Ne2 e6 10. g3 Bb4+ 11. Nc3 O-O 12. Bg2 Bxc3+ 13. bxc3 exd5 14. cxd5 Qf6 15. O-O Nxf4 16. gxf4 Qxf4 17. c4 Bg4 18. f3 exf3 19. Bxf3 Bxf3 20. Rxf3 Qxc4 21. Rc1 Qxa2 22. Rxc7 b6 23. d6 Rad8 24. d7 f5 25. Rc8 Qe6 26. Rd3 Rxc8 27. dxc8=N Rxc8 28. Rd8+ Rxd8 29. Qxd8+ Kh7 30. Qd3 a5 31. Kf2 Qe4 32. Qb5 Qd4+ 33. Kg3 f4+ 34. Kf3 Qe3+ 35. Kg4 f3 36. Qf5+ Kg8 37. Qc8+ Kf7 38. Qc4+ Qe6+ 39. Qxe6+ Kxe6 40. Kxf3 Kd5 41. Ke3 Kc4 42. Kd2 Kb3 43. Kc1 b5 44. Kb1 a4 45. h3 b4 46. h4 g6 47. h5 gxh5 48. Ka1 h4 49. Kb1 h3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HfKaS6P6"]
+[White "toronga123"]
+[Black "Regisantos"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:25:15"]
+[WhiteElo "1580"]
+[BlackElo "1424"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "720+10"]
+[Termination "Normal"]
+
+1. b4 { [%eval -0.51] } 1... e5 { [%eval -0.61] } 2. b5 { [%eval -0.82] } 2... d5 { [%eval -0.84] } 3. Bb2 { [%eval -0.69] } 3... Bd7?! { [%eval -0.01] } 4. e3 { [%eval -0.15] } 4... e4 { [%eval 0.0] } 5. a4 { [%eval -0.01] } 5... Nf6 { [%eval -0.09] } 6. d3 { [%eval -0.39] } 6... Bf5 { [%eval 0.03] } 7. c4?! { [%eval -0.81] } 7... exd3?! { [%eval -0.13] } 8. Bxd3 { [%eval -0.31] } 8... Bb4+?! { [%eval 0.28] } 9. Nc3?! { [%eval -0.37] } 9... O-O?? { [%eval 2.96] } 10. Bxf5 { [%eval 2.82] } 10... Ne4? { [%eval 4.34] } 11. Bxe4 { [%eval 4.31] } 11... dxe4 { [%eval 4.27] } 12. f3? { [%eval 2.42] } 12... Qxd1+? { [%eval 3.98] } 13. Rxd1 { [%eval 3.85] } 13... exf3 { [%eval 3.88] } 14. Nxf3 { [%eval 3.93] } 14... Re8 { [%eval 4.13] } 15. O-O { [%eval 4.09] } 15... Rxe3?? { [%eval 11.7] } 16. Nd5? { [%eval 8.25] } 1-0
+

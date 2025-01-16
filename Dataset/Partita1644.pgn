@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PtgI7V5Z"]
+[White "Faen"]
+[Black "Alexiv4"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:09"]
+[WhiteElo "1283"]
+[BlackElo "1038"]
+[WhiteRatingDiff "-22"]
+[BlackRatingDiff "+23"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Qh4 3. Qf3 Nh6 4. g3 Qg4 5. d3 Bb4+ 6. c3 Qxf3 7. Nxf3 Bc5 8. Nxe5 Rf8 9. b4 d6 10. Nf3 Bb6 11. Bxh6 gxh6 12. Na3 Bh3 13. Bd5 Nc6 14. Nb5 Bg2 15. O-O-O Bxf3 16. c4 Bxd1 17. Kxd1 a6 18. Bxc6+ bxc6 19. Nc3 Bd4 20. Ne2 Be5 21. Rf1 Rb8 22. f4 Bf6 23. a3 a5 24. bxa5 Rb1+ 25. Kc2 Rxf1 26. Kb3 Rf2 27. Nc3 Bxc3 28. Kxc3 Rf3 29. Kb4 Ke7 30. a6 Ra8 31. Ka5 Rxd3 32. e5 Rxa3+ 33. Kb4 R8xa6 34. c5 d5 35. f5 d4 36. f6+ Ke6 37. Kc4 d3 38. Kd4 d2 39. Ke4 0-1
+

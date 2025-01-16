@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kkL96CKq"]
+[White "javadnav"]
+[Black "JeSuisEnEchec"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:15"]
+[WhiteElo "1376"]
+[BlackElo "1135"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+19"]
+[ECO "C22"]
+[Opening "Center Game: Normal Variation"]
+[TimeControl "240+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qc3 Nf6 5. e5 Nd5 6. Qd3 Ndb4 7. Qb3 Nxe5 8. Qxb4 Bxb4+ 9. c3 Bc5 10. Nd2 O-O 11. Ne4 Bb6 12. f4 Ng4 13. Nh3 Re8 14. Bd3 d5 15. Nf2 Bxf2+ 16. Kf1 dxe4 17. h3 Nf6 18. Kxf2 exd3 19. Rd1 Ne4+ 20. Kf3 d2 21. Bxd2 Nxd2+ 22. Kg3 Qd3+ 23. Kh2 Nf3+ 24. gxf3 Qe2+ 25. Kg3 Qe6 26. Re1 Qxh3+ 27. Kf2 Qh2+ 28. Kf1 Bh3# 0-1
+

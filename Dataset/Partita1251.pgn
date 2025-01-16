@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qdyIyWMg"]
+[White "arpouille"]
+[Black "sicko72"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:51:50"]
+[WhiteElo "2100"]
+[BlackElo "1933"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+16"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation, Alekhine Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nf6 7. Bg5 O-O 8. Nxe4 Nbd7 9. Bd3 c6 10. c3 Qa5 11. h4 Nxe4 12. Bxe4 h6 13. Bd2 e5 14. O-O exd4 15. cxd4 Qc7 16. Qf3 Nf6 17. Bd3 Bg4 18. Qf4 Qd7 19. f3 Be6 20. Bc3 Nd5 21. Qe4 f5 22. Qe5 Rae8 23. Rfe1 f4 24. Rad1 Rf6 25. Qh5 Bf7 26. Qg4 Qxg4 27. fxg4 f3 28. g5 f2+ 29. Kh2 fxe1=Q 30. Bxe1 hxg5 31. hxg5 Rf4 32. Bg3 Rg4 33. g6 Bxg6 0-1
+

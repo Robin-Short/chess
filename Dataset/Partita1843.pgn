@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SEjXdEd8"]
+[White "mihael"]
+[Black "coledavis"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:06"]
+[WhiteElo "1155"]
+[BlackElo "1456"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 f5 4. Ng5 e6 5. exf5 d5 6. Bb3 Qxg5 7. d3 Qxf5 8. g4 Qf7 9. h4 b6 10. O-O Bb7 11. d4 c4 12. Ba4 a6 13. Bxc6+ Bxc6 14. Re1 Nf6 15. Re2 Nxg4 16. Qe1 Bd7 17. a4 a5 18. Kg2 Be7 19. Kg3 h5 20. Na3 Bd6+ 21. Kh3 Qf3# 0-1
+

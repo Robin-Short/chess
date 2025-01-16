@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Wj5JAmn7"]
+[White "ChiefTimeKeeper"]
+[Black "helgust"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:14:06"]
+[WhiteElo "1590"]
+[BlackElo "1460"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-10"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Mokele Mbembe, Vavra Defense"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 Nf6 3. e5 Ne4 1-0
+

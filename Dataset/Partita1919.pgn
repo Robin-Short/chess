@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZOZJeS3E"]
+[White "Philosopher12"]
+[Black "Escorpion"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:28:05"]
+[WhiteElo "1382"]
+[BlackElo "1159"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Mengarini's Opening"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. a3 Bc5 3. Nc3 d6 4. Nf3 h6 5. Bc4 Qf6 6. d3 Be6 7. Nd5 Qd8 8. O-O c6 9. Ne3 d5 10. exd5 cxd5 11. Bb5+ Nc6 12. Bxc6+ bxc6 13. d4 exd4 14. Nxd4 Qg5 15. Nxe6 fxe6 16. Nc4 Qe7 17. Re1 Nf6 18. Ne5 Bd6 19. Nxc6 Qf7 20. Ne5 Bxe5 21. Rxe5 Ng4 22. Qxg4 O-O 23. Qxe6 Kh8 24. Qxf7 Rxf7 25. Be3 Rd8 26. c3 d4 27. Bxd4 a6 28. Rae1 Rff8 29. b4 Kh7 30. h3 Rf6 31. Re8 Rxe8 32. Rxe8 h5 33. Bxf6 gxf6 34. Re6 Kg6 35. Rxa6 Kg5 36. c4 f5 37. b5 h4 38. c5 Kf4 39. c6 Ke4 40. b6 f4 41. b7 f3 42. c7 fxg2 43. Kxg2 Kd3 44. c8=Q Kd4 45. Qd8+ Kc4 46. Rc6+ Kb3 47. Qd5+ Kxa3 48. Qb5 Ka2 49. Ra6# 1-0
+

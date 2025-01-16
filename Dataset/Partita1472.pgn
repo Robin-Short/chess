@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/552FB7Gv"]
+[White "raflig"]
+[Black "-dexter-"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:03:11"]
+[WhiteElo "1802"]
+[BlackElo "1283"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Bg4 5. d4 Qxe2+ 6. Ngxe2 Bxe2 7. Nxe2 Nc6 8. c3 Rd8 9. Qa4 Nf6 10. Bf4 e5 11. dxe5 b5 12. Qxb5 Rd5 13. Qxc6+ Kd8 14. exf6 Bd6 15. Qxd5 c6 16. Qxd6+ Ke8 1-0
+

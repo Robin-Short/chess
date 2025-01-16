@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2oV4wOnU"]
+[White "mammaletto"]
+[Black "djarfur"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:14:41"]
+[WhiteElo "1434"]
+[BlackElo "1397"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A36"]
+[Opening "English Opening: Symmetrical Variation, Fianchetto Variation"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 e6 4. Bg2 Nf6 5. Nf3 Be7 6. d3 O-O 7. Bg5 d5 8. cxd5 Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. O-O Be6 12. e3 Rab8 13. Rc1 b6 14. b3 Nb4 15. Qd2 Bf5 16. d4 cxd4 17. Qxb4 dxe3 18. Qxe7 1-0
+

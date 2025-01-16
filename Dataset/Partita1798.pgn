@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7ptp9Bzz"]
+[White "letmeplaynow"]
+[Black "chess1552"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:21:41"]
+[WhiteElo "1743"]
+[BlackElo "1722"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+[ECO "E00"]
+[Opening "Indian Game: Seirawan Attack"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 Nf6 3. Bg5 Be7 4. Nc3 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. Bxe7 Qxe7 8. a3 c6 9. e3 Nd7 10. Bd3 N7f6 11. h3 b5 12. O-O Bb7 13. Ne5 Qd6 14. Qc2 c5 15. Nxb5 Qe7 16. Rfe1 a6 17. Nc3 cxd4 18. exd4 Rac8 19. Qd2 Nxc3 20. bxc3 Bd5 21. Qc2 Qb7 22. Rab1 Qa8 23. f3 g6 24. Rb6 Nh5 25. Rxa6 Qb7 26. Ra4 Bb3 27. Rb4 Bxc2 28. Rxb7 Bxd3 29. Nxd3 Rxc3 30. Ne5 Rxa3 31. Reb1 Rfa8 32. Rxf7 R3a7 33. Rxa7 Rxa7 34. Rb6 Re7 35. Kf2 Nf4 36. h4 Kg7 37. Rd6 Nd5 38. Rd7 Kf6 39. Rxe7 Nxe7 40. g4 g5 41. hxg5+ Kxg5 42. Kg3 h6 43. Nf7+ Kg6 44. Nd8 Kf6 45. Kf4 Nd5+ 46. Ke4 Nc3+ 47. Kd3 Nd5 48. Nc6 Kg5 49. Ke4 Kf6 50. f4 Nc3+ 51. Kd3 Nd5 52. Ke4 Nc3+ 53. Kf3 Nd5 54. Ne5 Ne7 55. Ke4 Nd5 56. f5 Nc3+ 57. Kd3 Nd5 58. fxe6 Kxe6 59. Ke4 Nf6+ 60. Kf4 Kd5 61. Kf5 Nxg4 62. Nxg4 Kxd4 63. Nxh6 1/2-1/2
+

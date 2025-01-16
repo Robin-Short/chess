@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4wFul4m8"]
+[White "mavaisuchesscube"]
+[Black "vitaminccc"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:06"]
+[WhiteElo "1855"]
+[BlackElo "1829"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B07"]
+[Opening "Pirc Defense #5"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 g6 3. f4 Bg7 4. c3 e6 5. g3 Ne7 6. Bg2 O-O 7. Nf3 f5 8. e5 dxe5 9. dxe5 Nd5 10. O-O Nc6 11. Qe2 Nde7 12. Rd1 Qe8 13. Be3 b6 14. Na3 Bb7 15. Nb5 Rd8 16. Nxc7 Rxd1+ 17. Rxd1 Qc8 18. Nb5 a6 19. Nd6 Qc7 20. Nxb7 Qxb7 21. Nd4 Nxd4 22. Rxd4 Qc7 23. Qd3 Nd5 24. c4 Nb4 25. Qd1 Nxa2 26. Rd7 Qc6 27. Bxc6 Nb4 28. Bb7 a5 29. Rc7 Re8 30. Rc8 Rxc8 31. Bxc8 Bf8 32. Bxe6+ Kg7 33. Qd7+ Kh6 34. g4 fxg4 35. f5+ Kh5 36. f6 g3 37. Bg4+ Kh4 38. h3 g2 39. Kxg2 h6 40. e6 g5 41. e7 Bxe7 42. fxe7 Nc2 43. e8=Q Nxe3+ 44. Kf3 Nf5 45. Bxf5 h5 46. Qxh5+ Kxh5 47. Qh7# 1-0
+

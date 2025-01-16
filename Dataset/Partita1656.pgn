@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MB8uuSj9"]
+[White "mgolum"]
+[Black "Pancho1994"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:48"]
+[WhiteElo "1555"]
+[BlackElo "1549"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Bd7 4. e4 b5 5. Nf3 e6 6. d5 exd5 7. exd5 Bb4 8. Qc2 Qe7+ 9. Be3 Nf6 10. Be2 O-O 11. Rd1 c6 12. O-O cxd5 13. Nxd5 Nxd5 14. Rxd5 Bc6 15. Rd4 Nd7 16. Rfd1 Rad8 17. a3 Bc5 18. R4d2 Bxe3 19. fxe3 Qxe3+ 20. Kh1 Qe8 21. Nd4 Be4 22. Qc3 Nc5 23. Bg4 Nd3 24. Qa5 Rxd4 25. Qxa7 Bxg2+ 26. Kxg2 Rxg4+ 27. Kh1 Qc6+ 28. Rg2 Qxg2# 0-1
+

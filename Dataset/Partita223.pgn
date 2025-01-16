@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/FWWEDbZT"]
+[White "Argonn3007"]
+[Black "karimov"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:07"]
+[WhiteElo "1776"]
+[BlackElo "2016"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-20"]
+[ECO "D08"]
+[Opening "Queen's Gambit Refused: Albin Countergambit"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.19] } 1... d5 { [%eval 0.2] } 2. c4 { [%eval 0.21] } 2... e5 { [%eval 0.38] } 3. cxd5 { [%eval 0.25] } 3... exd4 { [%eval 0.52] } 4. e3?! { [%eval -0.25] } 4... c6?! { [%eval 0.32] } 5. exd4 { [%eval 0.24] } 5... cxd5 { [%eval 0.05] } 6. Bf4 { [%eval -0.1] } 6... Nf6 { [%eval -0.06] } 7. Nf3 { [%eval -0.11] } 7... Nc6 { [%eval -0.2] } 8. Bb5 { [%eval -0.09] } 8... Bb4+ { [%eval -0.04] } 9. Nc3 { [%eval 0.0] } 9... Kf8? { [%eval 1.22] } 10. O-O { [%eval 1.19] } 10... Bg4 { [%eval 1.4] } 11. Bxc6 { [%eval 1.17] } 11... bxc6 { [%eval 1.11] } 12. h3 { [%eval 0.95] } 12... Bh5?! { [%eval 1.51] } 13. g4 { [%eval 1.19] } 13... Bg6 { [%eval 1.29] } 14. Ne5 { [%eval 1.27] } 14... Ne4?! { [%eval 2.09] } 15. Nxe4 { [%eval 1.98] } 15... Bxe4 { [%eval 2.27] } 16. Re1? { [%eval -0.69] } 16... Bxe1 { [%eval -0.35] } 17. Qxe1 { [%eval -0.56] } 17... Qh4?! { [%eval 0.21] } 18. f3 { [%eval 0.06] } 18... Qxh3? { [%eval 1.55] } 19. fxe4 { [%eval 1.7] } 19... dxe4?? { [%eval 5.5] } 20. Qg3?? { [%eval 0.55] } 20... Qxg3+ { [%eval 0.51] } 21. Bxg3 { [%eval 0.67] } 21... f6 { [%eval 0.55] } 22. Nxc6 { [%eval 0.76] } 22... Rc8?! { [%eval 1.32] } 23. Nb4? { [%eval -0.21] } 23... Rc4 { [%eval -0.33] } 24. a3 { [%eval -0.51] } 24... Rxd4 { [%eval -0.53] } 25. Rc1 { [%eval -0.36] } 25... Kf7 { [%eval -0.34] } 26. Rc7+ { [%eval -0.53] } 26... Kg6 { [%eval -0.54] } 27. Nc2?! { [%eval -1.1] } 27... Rd2?! { [%eval -0.45] } 28. Rc3? { [%eval -1.48] } 1-0
+

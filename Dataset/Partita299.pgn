@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IS1Xp4x5"]
+[White "koooootah"]
+[Black "explodecomputer"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:34"]
+[WhiteElo "1940"]
+[BlackElo "1962"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N5c3 f5 7. Bb5 f4 8. O-O Nf6 9. Nd5 Nxe4 10. Qe2 Bf5 11. Nxf4 exf4 12. Nc3 d5 13. Rd1 Be7 14. Rxd5 Qb6 15. Rxf5 O-O-O 16. Qxe4 Rd4 17. Qe6+ Kb8 18. Bxc6 Rhd8 19. Bxf4+ Ka8 20. Qxe7 Qxb2 21. Bxb7+ Qxb7 22. Qxb7+ Kxb7 23. Rb1+ Ka8 24. h3 g6 25. Rf7 Rc8 26. Ne2 Rdc4 27. Rfb7 Rxc2 28. Rb8+ 1-0
+

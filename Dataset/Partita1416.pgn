@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/siZNbfTT"]
+[White "Tsiri86"]
+[Black "soldierbr"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:01"]
+[WhiteElo "1800"]
+[BlackElo "1594"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Rosenthal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 c3 5. Nxc3 Nf6 6. Bd3 Bb4 7. O-O Nc6 8. Qe2 Bd7 9. Rd1 Qc8 10. e4 O-O 11. e5 Nd5 12. Bxh7+ Kxh7 13. Ng5+ Kg8 14. Qh5 f6 15. Qh7# 1-0
+

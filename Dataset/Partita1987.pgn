@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rmLcvn3c"]
+[White "Beatnick"]
+[Black "salagonic"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:31:42"]
+[WhiteElo "1624"]
+[BlackElo "1440"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-15"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "480+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. c3 Nf6 5. d4 exd4 6. cxd4 Nxe4 7. O-O Nf6 8. Re1+ Be7 9. d5 O-O 10. Nc3 c6 11. dxc6 Nxc6 12. Nd5 Nxd5 13. Bxd5 Nb4 14. Be4 Bg4 15. Qb3 Bxf3 16. Bxf3 Qb6 17. Be3 Qb5 18. Bd2 a5 19. Rxe7 a4 20. Qxb4 Qf5 21. Qxd6 Rad8 22. Qb4 Qc2 23. Rd1 Rd3 24. Re3 Rfd8 25. Rxd3 Rxd3 26. h3 Rxf3 27. gxf3 Qxd1+ 28. Kg2 b5 29. Be3 Qa1 30. a3 Qb1 31. Qxb5 Qg6+ 32. Kh2 Qd6+ 33. f4 g5 34. Kg3 h5 35. Qxg5+ Kf8 36. Qxh5 1-0
+

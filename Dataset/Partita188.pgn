@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/WXveJ0Aa"]
+[White "bernes"]
+[Black "karimov"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:35"]
+[WhiteElo "1569"]
+[BlackElo "2014"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 e5 3. c4 exd4 4. exd4 Nf6 5. c5 c6 6. a3 b6 7. cxb6 axb6 8. b4 c5 9. Bb2 cxb4 10. axb4 Rxa1 11. Bxa1 Bxb4+ 12. Nd2 Bd6 13. Qb3 O-O 14. Bc3 Re8+ 15. Be2 Qe7 16. Ngf3 Qxe2# 0-1
+

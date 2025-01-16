@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qRgrNgny"]
+[White "SmashingU"]
+[Black "JekyllHyde"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:11:10"]
+[WhiteElo "1362"]
+[BlackElo "1674"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+11"]
+[ECO "E61"]
+[Opening "Indian Game: West Indian Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. e3 d6 4. Nf3 Bg7 5. Nbd2 O-O 6. Be2 Nbd7 7. O-O Re8 8. a3 e5 9. dxe5 Nxe5 10. Nxe5 dxe5 11. b4 Qe7 12. Bb2 b6 13. Rc1 Bb7 14. Bf3 Rad8 15. Bxb7 Nd7 16. Bc6 f5 17. Qc2 Rf8 18. Bxd7 Rxd7 19. Rfd1 Rfd8 20. Nf3 Qe6 21. Rxd7 Rxd7 22. c5 Re7 23. cxb6 e4 24. Nd4 Bxd4 25. Bxd4 axb6 26. Qc4 Qxc4 27. Rxc4 Rd7 28. Rc6 Kf7 29. Be5 Rd1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CWoAM4sI"]
+[White "lpaulmp"]
+[Black "makina"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:19:27"]
+[WhiteElo "1467"]
+[BlackElo "1598"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-16"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bxf3 5. Qxf3 Qf6 6. Qxf6 Nxf6 7. d3 c6 8. c3 d5 9. exd5 cxd5 10. Bb3 Nc6 11. Bg5 Be7 12. Bxf6 Bxf6 13. Bxd5 O-O 14. O-O Rad8 15. Be4 h6 16. Nd2 Ne7 17. Nf3 Ng6 18. Bxb7 Nf4 19. d4 exd4 20. cxd4 Bxd4 21. Nxd4 Rxd4 22. Rad1 Rxd1 23. Rxd1 a5 24. b3 Ne6 25. Kh2 Nc5 26. Bd5 Na6 27. Bc4 Nb4 28. Rd6 Nxa2 29. Ra6 Nc3 30. Rxa5 Ne4 31. Re5 Nxf2 32. Kg3 Nd1 33. Rb5 Nc3 34. Rb7 Ne4+ 35. Kf4 Nf2 36. h4 Nd1 37. g4 Nc3 38. g5 hxg5+ 39. hxg5 Nd1 40. Kf5 Ne3+ 41. Ke4 Ng4 42. Kf4 Nh2 43. g6 Kh8 44. gxf7 g5+ 45. Kxg5 Nf3+ 46. Kg6 Ne5+ 47. Kf6 Nxc4 48. bxc4 Kh7 49. c5 Rc8 50. f8=Q+ Rc7 51. Rxc7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kW43EDVo"]
+[White "maulwurf"]
+[Black "rubiking"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:59"]
+[WhiteElo "1955"]
+[BlackElo "1957"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Be3 d6 4. Qd2 Nf6 5. Nf3 O-O 6. Bd3 Ng4 7. Bf4 e5 8. dxe5 dxe5 9. Bg3 f5 10. exf5 gxf5 11. Bc4+ Kh8 12. Qxd8 Rxd8 13. Ng5 Nh6 14. Nc3 c6 15. O-O b5 16. Bb3 a5 17. a4 b4 18. Ne2 f4 19. Bh4 Bf6 20. Nf7+ Nxf7 21. Bxf6+ Kg8 22. Bxd8 Na6 23. Bxf7+ Kxf7 24. Bb6 Bg4 25. f3 Bh5 26. Rad1 Rg8 27. Rd7+ Ke6 28. Ra7 Nb8 29. Ra8 Bxf3 30. Rxf3 Rd8 31. Bxd8 Kd7 32. Rxb8 c5 33. Rb7+ Kc8 34. Rxh7 Kxd8 35. Rfh3 Ke8 36. Ra7 Kf8 37. Rh8# 1-0
+

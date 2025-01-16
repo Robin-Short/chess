@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T4Rb2EUw"]
+[White "hazael"]
+[Black "jiHymas"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:28:06"]
+[WhiteElo "1902"]
+[BlackElo "1825"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-8"]
+[ECO "B99"]
+[Opening "Sicilian Defense: Najdorf Variation, Main Line"]
+[TimeControl "300+2"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.22] } 1... c5 { [%eval 0.33] } 2. Nf3 { [%eval 0.35] } 2... d6 { [%eval 0.27] } 3. d4 { [%eval 0.27] } 3... cxd4 { [%eval 0.28] } 4. Nxd4 { [%eval 0.2] } 4... Nf6 { [%eval 0.33] } 5. Nc3 { [%eval 0.17] } 5... a6 { [%eval 0.2] } 6. Bg5 { [%eval 0.27] } 6... e6 { [%eval 0.21] } 7. f4 { [%eval 0.13] } 7... Be7 { [%eval 0.0] } 8. Qf3 { [%eval 0.0] } 8... Qc7 { [%eval 0.22] } 9. O-O-O { [%eval 0.08] } 9... Nbd7 { [%eval 0.29] } 10. g4 { [%eval 0.04] } 10... b5 { [%eval 0.05] } 11. Bxf6 { [%eval 0.18] } 11... Nxf6 { [%eval 0.1] } 12. g5 { [%eval 0.17] } 12... Nd7 { [%eval 0.39] } 13. h4?! { [%eval -0.24] } 13... Nc5?! { [%eval 0.56] } 14. Bg2?! { [%eval -0.23] } 14... b4 { [%eval 0.0] } 15. Nce2 { [%eval -0.16] } 15... Bb7 { [%eval 0.0] } 16. Ng3 { [%eval -0.27] } 16... Rc8 { [%eval 0.0] } 17. Qe2 { [%eval -0.44] } 17... Qa5?! { [%eval 0.25] } 18. Kb1 { [%eval 0.27] } 18... Qc7?! { [%eval 0.77] } 19. Rhe1 { [%eval 0.29] } 19... O-O { [%eval 0.2] } 20. h5?! { [%eval -0.38] } 20... e5 { [%eval -0.44] } 21. Ndf5 { [%eval -0.51] } 21... g6 { [%eval -0.15] } 22. Nh6+ { [%eval -0.3] } 22... Kh8 { [%eval -0.14] } 23. hxg6 { [%eval 0.07] } 23... fxg6 { [%eval 0.18] } 24. f5 { [%eval 0.3] } 24... Bxg5 { [%eval 0.78] } 25. Ng4? { [%eval -2.15] } 25... gxf5? { [%eval -0.53] } 26. Nxf5 { [%eval -0.63] } 26... Nxe4? { [%eval 1.31] } 27. Bxe4 { [%eval 0.98] } 27... Bxe4? { [%eval 3.53] } 28. Qxe4 { [%eval 3.24] } 1-0
+

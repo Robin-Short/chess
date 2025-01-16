@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MTQiQU7w"]
+[White "tuskerking"]
+[Black "Berezkin"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:03:02"]
+[WhiteElo "1908"]
+[BlackElo "1937"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C45"]
+[Opening "Scotch Game: Scotch Gambit, Advance Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Bc4 Nf6 5. e5 d5 6. exd6 Bxd6 7. O-O O-O 8. c3 dxc3 9. Nxc3 Ne5 10. Bb3 Bg4 11. Bg5 Nxf3+ 12. gxf3 Bh3 13. Re1 h6 14. Bh4 g5 15. Bg3 Nh5 16. Qd5 Bxg3 17. hxg3 Qxd5 18. Nxd5 c6 19. Ne7+ Kg7 20. g4 Nf4 21. Nf5+ Kf6 22. Kh2 h5 23. Kg3 hxg4 24. fxg4 Rh8 25. Nd6 Bg2 26. f3 Rh3+ 27. Kf2 Rxf3+ 28. Kg1 Rh8 29. Ne4+ Kg7 0-1
+

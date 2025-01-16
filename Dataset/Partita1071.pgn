@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RbhHbOrn"]
+[White "Ramram"]
+[Black "nemanja18"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:42:50"]
+[WhiteElo "1479"]
+[BlackElo "1536"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "240+10"]
+[Termination "Normal"]
+
+1. e4 d5 2. f3 dxe4 3. fxe4 e6 4. d3 g6 5. Nc3 Nh6 6. h3 Nc6 7. Bxh6 Bxh6 8. Nf3 Qf6 9. g4 Be3 10. Qe2 Nd4 11. Nxd4 Bxd4 12. O-O-O Bxc3 13. bxc3 Qxc3 14. d4 Qa1+ 15. Kd2 Qxa2 16. d5 Qa5+ 17. c3 exd5 18. exd5+ Kf8 19. Bg2 Bd7 20. Ra1 Qb6 21. Rhb1 Qf6 22. Rf1 Qg5+ 23. Kd1 a6 24. Qc4 Rd8 25. d6 Kg7 26. dxc7 Be6+ 27. Qd3 Rxd3+ 28. Kc2 Qd2+ 29. Kb1 Qxg2 30. c8=R Rxc8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bqorHWFh"]
+[White "kors"]
+[Black "Vicious"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:58:12"]
+[WhiteElo "1742"]
+[BlackElo "1850"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A46"]
+[Opening "Torre Attack #2"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nf3 e6 3. d5 1-0
+

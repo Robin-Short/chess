@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8k8eEKYJ"]
+[White "messi1234"]
+[Black "Proggy"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:33"]
+[WhiteElo "1536"]
+[BlackElo "1316"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+18"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. Bxc6 Qxc6 5. Nxe5 Qxe4+ 6. Qe2 Qxe2+ 0-1
+

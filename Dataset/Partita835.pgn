@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/i8lKBuOt"]
+[White "hazael"]
+[Black "Yaguarete"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:38"]
+[WhiteElo "1979"]
+[BlackElo "2011"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B94"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7 8. Qf3 e6 9. O-O-O b5 10. g4 Bb7 11. Bxf6 Nxf6 12. g5 b4 13. gxf6 bxc3 14. Qxc3 Qxc3 15. bxc3 gxf6 16. Bd3 Bh6 17. Rdf1 Ke7 18. Kd1 Rhg8 19. Rf2 Rg4 20. Rhf1 Rag8 21. Ke1 Rc8 22. c4 Rcg8 23. c3 Rg2 24. Ne2 e5 25. f5 Be3 26. Rf3 Bc5 27. Rh3 R8g4 28. Rxh7 Bxe4 29. Bxe4 Rxe4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4GnEzs7V"]
+[White "Manni1957"]
+[Black "alex222"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:24"]
+[WhiteElo "1005"]
+[BlackElo "1420"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. c4 e5 2. e4 Nf6 3. Nc3 Bb4 4. d3 Nc6 5. a3 Ba5 6. b4 Bb6 7. Nd5 Nd4 8. Be3 d6 9. c5 dxc5 10. bxc5 Bxc5 11. Bxd4 Bxd4 12. Rc1 c6 13. Nxf6+ Qxf6 14. Qa4 Qxf2+ 15. Kd1 Qxf1+ 16. Kc2 Qf2+ 17. Kb1 Qb2# 0-1
+

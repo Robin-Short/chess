@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CvMfyvma"]
+[White "LuckWins"]
+[Black "probando"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:37:15"]
+[WhiteElo "1293"]
+[BlackElo "1731"]
+[WhiteRatingDiff "-24"]
+[BlackRatingDiff "+2"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. Be2 c5 6. Nc3 Nc6 7. Bb5 Qb6 8. h3 Bxf3 9. Qxf3 cxd4 10. Bxc6+ Qxc6 11. Ne2 Qxc2 12. O-O Qe4 13. Qb3 Qxe5 14. Qxb7 Qb8 15. Qc6+ Kd8 16. Nxd4 Qc7 17. Bg5+ f6 18. Bxf6+ Nxf6 19. Nxe6+ Ke7 20. Nxc7 Rc8 21. Nxd5+ Nxd5 22. Qxc8 Kf7 23. Rfe1 Be7 24. Qf5+ Nf6 25. Rad1 Bb4 26. Qe6+ Kg6 27. Re4 Re8 28. Qg4+ Nxg4 29. Rxg4+ Kf7 30. Rxb4 Re7 31. Rdd4 h6 32. Rf4+ Kg6 33. Rbc4 Kh7 34. b4 Rb7 35. Rf8 a6 36. a4 Ra7 37. Rfc8 Rb7 38. R8c7 Rb6 39. R7c6 Rb7 40. Rc7 Rb6 41. b5 axb5 42. a5 Ra6 43. Rb7 Rxa5 44. Rcc7 Kg6 45. Rxg7+ Kf5 0-1
+

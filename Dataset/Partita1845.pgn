@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Lk5Aebdb"]
+[White "fischerman"]
+[Black "zinderi"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:21"]
+[WhiteElo "1597"]
+[BlackElo "1516"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense, Big Center Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 Nf6 3. Bg5 Be7 4. Nc3 h6 5. Bh4 d5 6. exd5 Nxd5 7. Bxe7 Qxe7 8. Nxd5 exd5+ 9. Be2 Bg4 10. Qd3 O-O 11. O-O-O Be6 12. Nf3 c5 13. dxc5 Nc6 14. Nd4 Qxc5 15. Nxe6 fxe6 16. Bg4 Nb4 17. Bxe6+ Kh8 18. Qc3 Nxa2+ 19. Kb1 Nxc3+ 20. bxc3 Qxc3 21. Bxd5 Rad8 22. Rd3 Qb4+ 23. Rb3 Qd2 24. Bxb7 Qxf2 25. Ba6 Qxg2 26. Bb7 Qg6 27. Rg3 Qb6+ 28. Rb3 Qc7 29. Rg1 Rb8 0-1
+

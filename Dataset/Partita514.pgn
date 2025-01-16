@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PkJrCSCJ"]
+[White "lespa"]
+[Black "checkmatekingdom"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:59"]
+[WhiteElo "1435"]
+[BlackElo "1331"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C21"]
+[Opening "Center Game #2"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 Qh4 3. dxe5 Qxe4+ 4. Be3 Qxe5 5. Bc4 Bc5 6. Nf3 Qe7 7. O-O Bxe3 8. fxe3 Qxe3+ 9. Kh1 Nf6 10. Re1 Qxe1+ 11. Qxe1+ Kf8 12. Ne5 d6 13. Nxf7 Rg8 14. Nxd6 Rh8 15. Nxc8 Nc6 16. Be6 Nd4 17. Qb4+ c5 18. Qxc5+ Ke8 19. Qe7# 1-0
+

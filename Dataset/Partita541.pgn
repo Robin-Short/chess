@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/StI7qKQm"]
+[White "henriquefacundes"]
+[Black "arabal"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:01"]
+[WhiteElo "1665"]
+[BlackElo "1691"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Ragozin Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Bb4 5. Qb3 Nc6 6. e3 dxc4 7. Bxc4 Ne4 8. O-O Nd6 9. Bd3 O-O 10. a3 Ba5 11. Qc2 Bd7 12. b4 Bb6 13. Na4 h6 14. Nxb6 axb6 15. Bb2 Qe7 16. a4 Ne8 17. b5 Na5 18. Ba3 Nd6 19. Qxc7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1bSC3j6l"]
+[White "rubiking"]
+[Black "seigneur"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:15"]
+[WhiteElo "2157"]
+[BlackElo "2032"]
+[WhiteRatingDiff "-79"]
+[BlackRatingDiff "+17"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Pawn Center Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. g3 cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. Kg2 O-O 12. Bd3 f5 13. h3 a5 14. g4 Nxd4 15. Be3 Bc5 16. Nxd4 Bxd4 17. Bxd4 Qxd4 18. Nf3 Qxf4 19. gxf5 Nxe5 20. Nxe5 Qxe5 21. Re1 Qxb2+ 22. Re2 Qf6 23. Qb3 Qxa1 24. fxe6 Qf1+ 25. Kg3 Rf3+ 26. Kh4 Bxe6 27. Bxh7+ Kxh7 28. Qc2+ Bf5 29. Qc7 Qxe2 30. a4 Qe4+ 31. Kg5 Qe3+ 32. Kh4 Rxh3# 0-1
+

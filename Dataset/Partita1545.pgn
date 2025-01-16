@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/y1M3m10P"]
+[White "cmath"]
+[Black "chessnew"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:07:20"]
+[WhiteElo "1611"]
+[BlackElo "1578"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Marshall Counterattack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 d5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. O-O Be7 8. Re1 Ngf6 9. dxc5 O-O 10. c6 Re8 11. cxd7 Qxd7 12. Ne5 Bd6 13. Nxd7 Nxd7 14. Rxe8+ Rxe8 15. Be3 b6 16. Nd2 Ne5 17. Nf3 Nxf3+ 18. Qxf3 f6 19. Qxd5+ Kf8 20. Qxd6+ Re7 21. Qd8+ Kf7 22. Qxe7+ Kxe7 23. Rd1 Ke6 24. Bxb6 Kf5 25. Bxa7 Kg6 26. Bb8 Kh6 27. Bd6 g6 28. Bf8+ Kh5 29. Be7 g5 30. Bxf6 h6 31. Bxg5 hxg5 32. c4 Kg4 33. b4 Kh4 34. a4 g4 35. c5 g3 36. hxg3+ Kg4 37. f3+ Kf5 38. c6 1-0
+

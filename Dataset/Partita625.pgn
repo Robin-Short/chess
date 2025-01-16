@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qaUOdxKy"]
+[White "Corgatha"]
+[Black "insidejob911"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:24:45"]
+[WhiteElo "1645"]
+[BlackElo "1698"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-13"]
+[ECO "A41"]
+[Opening "Queen's Pawn Game: Anglo-Slav Opening"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.24] } 1... c6 { [%eval 0.5] } 2. c4 { [%eval 0.36] } 2... d6 { [%eval 0.56] } 3. Nc3 { [%eval 0.58] } 3... Qc7 { [%eval 0.74] } 4. e4 { [%eval 0.6] } 4... e5 { [%eval 0.53] } 5. d5 { [%eval 0.43] } 5... Nf6 { [%eval 0.51] } 6. f4?! { [%eval 0.0] } 6... Bg4 { [%eval 0.23] } 7. Be2 { [%eval 0.22] } 7... Be7? { [%eval 3.2] } 8. Bxg4 { [%eval 3.33] } 8... Nxg4?! { [%eval 3.84] } 9. Qxg4 { [%eval 3.81] } 1-0
+

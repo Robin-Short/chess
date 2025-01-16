@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/11WYCZlm"]
+[White "Mahach01"]
+[Black "parisa-shz72"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:46:06"]
+[WhiteElo "1717"]
+[BlackElo "1683"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Horwitz Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. b3 c6 3. Bb2 d5 4. exd5 cxd5 5. d3 Nf6 6. g3 Be7 7. Bg2 Nc6 8. Nf3 a6 9. O-O O-O 10. Nbd2 h6 11. a4 d4 12. Nc4 Bb4 13. Nh4 Re8 14. Bxc6 bxc6 15. Nf3 c5 16. Ba3 a5 17. Bxb4 axb4 18. Kg2 Bb7 19. Kg1 Qd5 20. Ncd2 Ng4 21. Kg2 e5 22. Re1 f5 23. h3 Nf6 24. Qe2 e4 25. dxe4 fxe4 26. Ng1 e3+ 27. Ndf3 exf2 28. Qxf2 Ne4 29. Qe2 Nf6 30. Qd3 Ba6 31. Rxe8+ Rxe8 32. Qxa6 Qe4 33. Qd3 Qe3 34. Qxe3 dxe3 35. Re1 Nd5 36. Ne2 g5 37. a5 Kg7 38. g4 Kg6 39. a6 h5 40. a7 h4 41. Ra1 Ra8 42. Ne1 Kf6 43. Nd3 Nb6 44. Nxc5 Nc8 45. Kf3 Rxa7 46. Rxa7 Nxa7 47. Kxe3 Nc6 48. Nd4 Ne5 49. Ne4+ Kg6 50. Nf2 Kf6 51. Ke4 Nd7 52. Kd5 Nb6+ 53. Kc5 Nd7+ 54. Kxb4 Ne5 55. Ne4+ Kg6 56. c4 Nd3+ 57. Kb5 Nf2 58. Nxf2 1-0
+

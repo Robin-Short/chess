@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/tA3lPXI8"]
+[White "kors"]
+[Black "Vicious"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:32"]
+[WhiteElo "1752"]
+[BlackElo "1839"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. c4 Nf6 2. a4 e6 3. d4 1-0
+

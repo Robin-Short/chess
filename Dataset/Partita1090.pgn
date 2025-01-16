@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3n5qoKN9"]
+[White "hsn"]
+[Black "Josh63"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:43:55"]
+[WhiteElo "1518"]
+[BlackElo "1550"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-15"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "1800+10"]
+[Termination "Normal"]
+
+1. c4 e6 2. d4 d5 3. c5 Nf6 4. Nf3 h6 5. Nc3 Be7 6. e3 O-O 7. h3 c6 8. Ne5 Nbd7 9. Qh5 Nxe5 10. Qxe5 Nd7 11. Qh5 Nf6 12. Qf3 Qe8 13. e4 dxe4 14. Nxe4 Nxe4 15. Qxe4 Qd7 16. Bd3 f5 17. Qe5 Bf6 18. Qg3 Qxd4 19. Bxh6 Qe5+ 20. Be3 Qxg3 21. fxg3 Bxb2 22. Rd1 Bc3+ 23. Bd2 Bxd2+ 24. Rxd2 Rd8 25. O-O g6 26. Kh2 Rd5 27. g4 Kg7 28. gxf5 exf5 29. Rc1 Be6 30. Rdd1 Rad8 31. Be2 Rxd1 32. Bxd1 Bxa2 33. Bf3 Rd2 34. Kg3 Bd5 35. Kf4 Bxf3 36. gxf3 Kf6 37. Re1 Rd4+ 38. Kg3 Rc4 39. Rd1 Rxc5 40. Rd6+ Kg7 41. Kh4 Kh6 42. f4 a5 43. Rd8 b5 44. Rh8+ Kg7 45. Rd8 a4 46. Kg5 Rc3 47. Rd7+ Kf8 48. Kf6 Rxh3 49. Rd8# 1-0
+

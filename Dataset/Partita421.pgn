@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MWZDbqYw"]
+[White "robovlas"]
+[Black "VEGETAL"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:17:04"]
+[WhiteElo "1814"]
+[BlackElo "1729"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c3 d5 3. Nf3 c5 4. Bf4 c4 5. Bg5 Be7 6. Bf4 f6 7. Bg3 Bd6 8. e3 Bxg3 9. hxg3 b5 10. b3 a5 11. Nbd2 Nc6 12. a3 Nge7 13. a4 b4 14. cxb4 axb4 15. bxc4 dxc4 16. Nxc4 Ba6 17. Qb3 Bxc4 18. Bxc4 Nd5 19. O-O O-O 20. e4 Nb6 21. Bxe6+ Kh8 22. Bc4 Nxc4 23. Qxc4 Rc8 24. Rfc1 Re8 25. Nd2 g6 26. d5 Ne5 27. Qxb4 Rxc1+ 28. Rxc1 Nd3 29. Qc3 Nxc1 30. Qxc1 Qd7 31. Qd1 Rc8 32. f3 Qc7 33. Qe2 Qc1+ 34. Kh2 Qc2 35. g4 Qxa4 36. Qe3 Qe8 37. Nf1 Qf8 38. Ng3 Re8 39. Qd4 Kg7 40. f4 Qf7 41. e5 fxe5 42. fxe5 Qf6 43. exf6+ Kf7 44. d6 Re6 45. Qd5 Kxf6 46. Ne4+ Rxe4 47. Qxe4 1-0
+

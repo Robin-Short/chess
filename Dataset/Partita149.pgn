@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Xk79zbec"]
+[White "Rad1"]
+[Black "redmond"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:06:01"]
+[WhiteElo "1858"]
+[BlackElo "1859"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 d6 2. e3 e6 3. Nf3 g6 4. a3 Bg7 5. b4 b6 6. Bb2 Bb7 7. Be2 Nd7 8. O-O Ne7 9. Nbd2 O-O 10. Rb1 c6 11. h3 a5 12. Ne4 Nf6 13. Nxf6+ Bxf6 14. b5 c5 15. dxc5 Bxb2 16. cxd6 Bxa3 17. dxe7 Bxe7 18. Qxd8 Rfxd8 19. Rbd1 Rd6 20. Ne5 Rad8 21. Nc4 Rxd1 22. Rxd1 Rxd1+ 23. Bxd1 Bc5 24. c3 Bd5 25. Be2 a4 26. Nd2 a3 27. c4 a2 28. Nb3 Be4 29. Bd1 Bd3 30. Na1 Bxc4 31. Ba4 Bb4 32. Bb3 Bxb3 33. Nxb3 Bc3 34. Kf1 a1=R+ 35. Nxa1 Bxa1 36. Ke2 Bc3 37. Kd3 Ba5 38. f4 Kg7 39. Ke4 f6 40. g4 h6 41. Kd4 h5 42. gxh5 gxh5 43. e4 Kg6 44. Kd3 f5 45. exf5+ Kxf5 46. Ke3 Bb4 47. Kd3 Kxf4 0-1
+

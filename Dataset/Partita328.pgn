@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cclUCHzZ"]
+[White "outlier"]
+[Black "qulko"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:16"]
+[WhiteElo "2140"]
+[BlackElo "1959"]
+[WhiteRatingDiff "-46"]
+[BlackRatingDiff "+16"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Ragozin Variation"]
+[TimeControl "360+4"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. Bg5 O-O 6. e3 c5 7. cxd5 exd5 8. Be2 Re8 9. O-O h6 10. Bh4 Bxc3 11. bxc3 cxd4 12. cxd4 Be6 13. Ne5 Nbd7 14. f4 Qa5 15. Qb3 Nxe5 16. fxe5 Ne4 17. Be1 Qb6 18. Qxb6 axb6 19. Bb4 Ra4 20. a3 Rc8 21. Rac1 Raa8 22. Bd3 Rab8 23. a4 Ra8 24. Bb5 Rab8 25. h3 Ra8 26. Rfd1 Rab8 27. Kf1 Ra8 28. Ke2 Rab8 29. Ba3 Ra8 30. Rxc8+ Rxc8 31. Rc1 Rxc1 32. Bxc1 Nc3+ 33. Kd3 Nxb5 34. axb5 Bd7 35. Ba3 Bxb5+ 36. Kd2 Bf1 37. g3 Bxh3 38. Bd6 b5 39. Kc3 Bd7 40. e4 dxe4 41. d5 g5 42. Kd4 Bf5 43. Be7 Kh7 44. Bb4 h5 45. Kc5 h4 46. gxh4 gxh4 47. Be1 h3 48. Bg3 e3 49. Kd4 e2 50. Ke3 h2 0-1
+

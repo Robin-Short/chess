@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NxTSauHJ"]
+[White "sanaz2200"]
+[Black "pulsar"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:58:52"]
+[WhiteElo "1832"]
+[BlackElo "2091"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #4"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c4 cxd4 5. Qxd4 Nc6 6. Qd1 dxc4 7. Qxd8+ Kxd8 8. f4 Nd4 9. Kd1 b5 10. Nc3 Bd7 11. Nge2 Nxe2 12. Bxe2 Bc5 13. Ne4 Be7 14. a4 Bc6 15. Nc3 b4 16. Nb5 a6 17. Nd4 Bd5 18. Be3 Nh6 19. Rc1 Rc8 20. g4 Bh4 21. Rg1 Ke7 22. g5 Nf5 23. Nxf5+ exf5 24. b3 Rhd8 25. bxc4 Be4+ 26. Bd2 Bf2 27. Rg3 Bxg3 28. hxg3 a5 29. Ke1 Ra8 30. c5 b3 31. c6 b2 32. Rd1 Bxc6 0-1
+

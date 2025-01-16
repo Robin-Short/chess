@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RLF4MHl7"]
+[White "sicko72"]
+[Black "arpouille"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:02:29"]
+[WhiteElo "1978"]
+[BlackElo "2056"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. dxc5 e6 3. Be3 Bxc5 4. Bxc5 Qf6 5. Bd4 Nc6 6. Bxf6 1-0
+

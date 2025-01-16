@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cQ9FcbHL"]
+[White "Arsonal"]
+[Black "oldbridge90"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:07"]
+[WhiteElo "1500"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-34"]
+[BlackRatingDiff "+14"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.28] } 2. Nf3 { [%eval 0.32] } 2... d6 { [%eval 0.43] } 3. d4 { [%eval 0.39] } 3... Nd7 { [%eval 0.65] } 4. d5?! { [%eval 0.1] } 4... Be7 { [%eval 0.07] } 5. Bb5 { [%eval -0.2] } 5... Nf6 { [%eval -0.32] } 6. Nc3 { [%eval -0.21] } 6... O-O { [%eval -0.27] } 7. O-O { [%eval -0.25] } 7... Nc5 { [%eval -0.03] } 8. Re1 { [%eval -0.01] } 8... Bg4 { [%eval 0.15] } 9. Bg5? { [%eval -1.1] } 9... a5? { [%eval -0.09] } 10. h3?! { [%eval -0.88] } 10... Bh5?! { [%eval -0.1] } 11. Bxf6 { [%eval -0.12] } 11... Bxf6 { [%eval -0.08] } 12. Be2 { [%eval -0.31] } 12... Be7 { [%eval -0.07] } 13. a3 { [%eval -0.12] } 13... f5?! { [%eval 0.39] } 14. Bd3? { [%eval -1.52] } 14... fxe4 { [%eval -1.39] } 15. Rxe4?! { [%eval -2.35] } 15... Nxe4?! { [%eval -1.54] } 16. Bxe4 { [%eval -1.54] } 16... Rf4 { [%eval -1.12] } 17. Qe2 { [%eval -1.48] } 17... Bf8?! { [%eval -0.96] } 18. Kh2?! { [%eval -1.46] } 18... Qf6 { [%eval -1.17] } 19. b3?! { [%eval -2.15] } 19... Be7 { [%eval -1.98] } 20. a4?! { [%eval -2.5] } 20... Rf8 { [%eval -2.17] } 21. Rf1 { [%eval -2.38] } 21... g5 { [%eval -2.38] } 22. Kg1 { [%eval -2.5] } 22... g4? { [%eval -1.38] } 23. hxg4?! { [%eval -2.25] } 23... Bxg4 { [%eval -2.14] } 24. Bxh7+?? { [%eval -6.58] } 24... Kxh7 { [%eval -6.91] } 25. Ne4?? { [%eval -10.08] } 25... Qh6 { [%eval -9.68] } 26. Neg5+ { [%eval -11.05] } 26... Bxg5 { [%eval -12.75] } 27. Nxg5+ { [%eval -13.75] } 27... Qxg5 { [%eval -12.22] } 28. Qd3+ { [%eval -12.06] } 28... Bf5 { [%eval -17.72] } 29. Qg3 { [%eval -52.56] } 29... Qh5 { [%eval -15.6] } 0-1
+

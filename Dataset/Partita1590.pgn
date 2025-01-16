@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J0elCNCf"]
+[White "catchmorris"]
+[Black "Lord-Orochimaru"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:09:46"]
+[WhiteElo "1751"]
+[BlackElo "2020"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 g6 3. c3 Bg7 4. Nd2 O-O 5. Ngf3 d6 6. Bd3 Nbd7 7. Qe2 Re8 8. h3 e5 9. e4 exd4 10. cxd4 d5 11. e5 c5 12. dxc5 Nxc5 13. Bb5 Nfd7 14. b4 Bxe5 15. bxc5 Bxa1 16. Ne4 Rxe4 17. Be3 Bc3+ 18. Nd2 Bxd2+ 19. Qxd2 d4 20. O-O dxe3 21. fxe3 Qc7 22. Qd3 Nxc5 23. Qc2 Be6 24. Rc1 Rxe3 25. Qf2 Qe5 26. Bf1 Rd8 0-1
+

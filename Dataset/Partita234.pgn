@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QJSq8tlY"]
+[White "nichiren1967"]
+[Black "Vicious"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:31"]
+[WhiteElo "1707"]
+[BlackElo "1793"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Four Pawns Attack, Main Line"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nf3 e6 9. Be2 Bg4 10. O-O Be7 11. h3 Bxf3 12. Bxf3 O-O 13. Nc3 Qd7 14. b3 Rad8 15. Ne2 f6 16. exf6 Bxf6 17. Rb1 Nxd4 18. Nxd4 Bxd4 19. Bxd4 Qxd4+ 20. Qxd4 Rxd4 21. Bg4 Re4 22. Rfe1 Rxe1+ 23. Rxe1 Re8 24. Bxe6+ Kf8 25. Rf1+ Ke7 26. Bf5 h6 27. Bg4 Rd8 28. Rf2 Rd4 29. Bf3 c6 30. Kh2 Nd7 31. Re2+ Kf6 32. Re4 Rd2 33. Re2 Rd3 34. Kg3 Ne5 35. Kf2 Nxf3 36. gxf3 Rd7 37. Re3 Rd2+ 38. Re2 Rd1 39. a4 Rb1 40. Re3 Rh1 41. Kg2 Rb1 42. Rd3 Ke6 43. Kg3 Rb2 44. Re3+ Kd6 45. Kh4 g6 46. Kg4 Rg2+ 47. Kf4 Rh2 48. Re8 Rxh3 49. Rb8 Kc7 50. Rg8 g5+ 51. Kg4 Rh4+ 52. Kg3 Rf4 53. Rg7+ Kb6 54. Rh7 Rf6 55. Kg4 Ka6 56. b4 b5 57. cxb5+ cxb5 58. a5 Rc6 59. Kh5 Rc4 60. Rxh6+ Kb7 61. Kxg5 Rxb4 62. Rh7+ Kb8 63. a6 Ra4 64. Rh6 Kc7 65. f4 b4 66. f5 Ra5 67. Kg6 b3 68. f6 Re5 69. f7 Re6+ 70. Kf5 Re1 71. Rf6 Rf1+ 72. Ke6 Re1+ 73. Kd5 Rd1+ 74. Kc4 b2 75. f8=Q b1=Q 76. Qc5+ Kd7 77. Rf7+ Ke6 78. Qe7# 1-0
+

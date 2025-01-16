@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ULEJoVr2"]
+[White "Grumms"]
+[Black "Laos"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:34"]
+[WhiteElo "1211"]
+[BlackElo "1507"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack, Normal Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... Nc6 { [%eval 0.46] } 2. Nf3 { [%eval 0.31] } 2... e5 { [%eval 0.13] } 3. Bc4 { [%eval 0.14] } 3... Nf6 { [%eval 0.14] } 4. Ng5 { [%eval -0.12] } 4... d5 { [%eval -0.22] } 5. exd5 { [%eval -0.01] } 5... Ne7? { [%eval 1.48] } 6. d6? { [%eval 0.41] } 6... Be6?? { [%eval 4.25] } 7. Bxe6 { [%eval 3.86] } 7... fxe6 { [%eval 3.86] } 8. dxe7 { [%eval 3.96] } 8... Qxe7 { [%eval 3.96] } 9. O-O { [%eval 3.76] } 9... O-O-O { [%eval 3.97] } 10. d3 { [%eval 3.7] } 10... Nd5?! { [%eval 4.33] } 11. Nf3?! { [%eval 3.75] } 11... h6?! { [%eval 4.46] } 12. a3? { [%eval 3.29] } 12... Qc5? { [%eval 4.74] } 13. Bd2 { [%eval 4.55] } 13... a6 { [%eval 4.78] } 14. Nc3 { [%eval 4.76] } 14... Nxc3 { [%eval 4.97] } 15. Bxc3 { [%eval 5.06] } 15... Bd6 { [%eval 5.05] } 16. Re1 { [%eval 4.75] } 16... h5?! { [%eval 5.49] } 17. Nxe5 { [%eval 5.45] } 17... Bxe5?! { [%eval 6.27] } 18. Bxe5? { [%eval 5.21] } 18... h4?! { [%eval 5.75] } 19. Bxg7?! { [%eval 5.11] } 19... Rhg8 { [%eval 5.34] } 20. Bc3 { [%eval 5.24] } 20... h3 { [%eval 5.67] } 21. g3 { [%eval 5.75] } 21... Qd5 { [%eval 5.85] } 22. Re5?? { [%eval #-1] } 22... Qg2# 0-1
+

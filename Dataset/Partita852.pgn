@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sn2c6Vhp"]
+[White "Darkith"]
+[Black "descubriendo"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:55"]
+[WhiteElo "1476"]
+[BlackElo "1365"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-32"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "1500+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.18] } 2. f4 { [%eval -0.3] } 2... Nc6 { [%eval 0.09] } 3. Nf3 { [%eval 0.21] } 3... Nf6? { [%eval 1.51] } 4. fxe5 { [%eval 1.34] } 4... Nxe4 { [%eval 1.34] } 5. d4? { [%eval 0.29] } 5... d6 { [%eval 0.78] } 6. Bc4? { [%eval -0.45] } 6... dxe5 { [%eval -0.34] } 7. O-O { [%eval -0.42] } 7... exd4? { [%eval 1.48] } 8. Bxf7+? { [%eval -0.29] } 8... Kxf7 { [%eval -0.28] } 9. Ne5+?? { [%eval -3.38] } 9... Ke6?? { [%eval 2.32] } 10. Qg4+?? { [%eval -3.2] } 10... Kxe5 { [%eval -2.7] } 11. Qf4+?! { [%eval -3.55] } 11... Ke6?? { [%eval 0.56] } 12. Qxe4+ { [%eval 0.21] } 12... Ne5 { [%eval -0.15] } 13. Qf5+ { [%eval 0.0] } 13... Kd5? { [%eval 1.5] } 14. c4+?! { [%eval 0.89] } 14... Kd6 { [%eval 0.95] } 15. c5+?! { [%eval 0.0] } 15... Kd5?? { [%eval 6.21] } 16. Nc3+ { [%eval 3.93] } 16... dxc3?? { [%eval 9.83] } 17. Rd1+ { [%eval 9.27] } 17... Kxc5?! { [%eval 11.45] } 18. Qxe5+? { [%eval 8.05] } 18... Kc6 { [%eval 8.31] } 19. Rxd8 { [%eval 8.18] } 1-0
+

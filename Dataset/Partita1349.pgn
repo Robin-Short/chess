@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5rLLxMFf"]
+[White "escalibut"]
+[Black "payman7"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:55"]
+[WhiteElo "1931"]
+[BlackElo "1947"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. e5 Nd5 7. d4 cxd4 8. cxd4 O-O 9. Nc3 Nxc3 10. bxc3 Qa5 11. Bxc6 dxc6 12. Bd2 Bg4 13. h3 Bf5 14. Qb3 Bd3 15. c4 Bxc4 16. Qxc4 Qd8 17. Be3 e6 18. Rfd1 Re8 19. Rab1 Qd7 20. Bg5 h6 21. Bf4 Kh7 22. Qc1 Bf8 23. Qe3 Rab8 24. Nh2 h5 25. Bg5 Qd5 26. Nf3 a5 27. Bf6 Qxa2 28. Ng5+ Kg8 29. Qf4 b6 30. Bd8 f5 31. Bf6 Bh6 32. Qg3 Bxg5 33. Qxg5 Kf7 34. Rbc1 Rbc8 35. Re1 Qd5 36. Qh6 Rg8 37. Qh7+ 1-0
+

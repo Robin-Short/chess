@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/donxMCW9"]
+[White "ChucksMate"]
+[Black "leonariel"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:29:41"]
+[WhiteElo "1182"]
+[BlackElo "1401"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "480+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. d5 Ne7 5. Bg5 Nxe4 6. Nxe5 Nxg5 7. Qh5 Nxd5 8. Qe2 Bd6 9. Nxf7+ Kxf7 0-1
+

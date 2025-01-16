@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UJpInMAs"]
+[White "sirenavarada"]
+[Black "ever145"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:02:57"]
+[WhiteElo "1413"]
+[BlackElo "1399"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-13"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nc6 3. c3 Nf6 4. h3 h6 5. Nbd2 Bf5 6. e3 Ne4 7. Nxe4 Bxe4 8. Nd2 f5 9. f3 e6 10. fxe4 Qh4+ 11. Ke2 fxe4 12. Qe1 Qh5+ 13. g4 Qg6 14. Kd1 O-O-O 15. Nb3 Bd6 16. Bd2 Rhf8 17. Kc2 e5 18. Bb5 exd4 19. cxd4 Nb4+ 20. Bxb4 Bxb4 21. Qxb4 Rf2+ 22. Nd2 c6 23. Ba4 b5 24. Bb3 Re2 25. Qa5 Rd7 26. Rae1 Rf2 27. Kb1 Qf7 28. Rc1 Kb7 29. Rhf1 g5 30. a4 a6 31. axb5 axb5 32. Kc2 Rd8 33. Rxf2 Qxf2 34. Ra1 Kc8 35. Qa6+ Kd7 36. Qa7+ Ke6 37. Rf1 Qxe3 38. Qf7+ Kd6 39. Rf6# 1-0
+

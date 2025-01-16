@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eLJO5agl"]
+[White "JekyllHyde"]
+[Black "SmashingU"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:10"]
+[WhiteElo "1685"]
+[BlackElo "1358"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-4"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Deferred"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.33] } 2. d4 { [%eval 0.16] } 2... e6 { [%eval 0.35] } 3. c3 { [%eval 0.23] } 3... cxd4 { [%eval 0.21] } 4. Nf3 { [%eval 0.09] } 4... dxc3 { [%eval 0.05] } 5. Nxc3 { [%eval 0.03] } 5... Nc6 { [%eval 0.06] } 6. Bd3 { [%eval 0.05] } 6... Nf6 { [%eval 0.06] } 7. O-O { [%eval -0.23] } 7... Bb4?! { [%eval 0.29] } 8. Re1 { [%eval -0.19] } 8... Bxc3?! { [%eval 0.67] } 9. bxc3 { [%eval 0.7] } 9... Qa5 { [%eval 0.45] } 10. Qc2 { [%eval 0.18] } 10... Ng4 { [%eval 0.45] } 11. Bd2 { [%eval 0.06] } 11... Nge5 { [%eval 0.17] } 12. Nxe5 { [%eval 0.09] } 12... Nxe5 { [%eval 0.39] } 13. Rab1?! { [%eval -0.18] } 13... Nxd3 { [%eval 0.06] } 14. Qxd3 { [%eval 0.13] } 14... Qxa2?? { [%eval 4.13] } 15. Qd4?? { [%eval 0.0] } 15... O-O { [%eval -0.06] } 16. e5?! { [%eval -0.84] } 16... b6 { [%eval -0.9] } 17. c4 { [%eval -0.84] } 17... Bb7 { [%eval -0.94] } 18. Bc3?! { [%eval -1.75] } 18... Bc6?! { [%eval -0.88] } 19. Rb2 { [%eval -0.92] } 19... Qa4 { [%eval -0.85] } 20. Rbe2?! { [%eval -1.51] } 20... Qa6?! { [%eval -0.94] } 21. Bd2 { [%eval -0.85] } 21... Qb7?! { [%eval 0.0] } 22. Qg4? { [%eval -1.17] } 22... g6? { [%eval 0.0] } 23. Bh6 { [%eval -0.34] } 23... a5? { [%eval 1.06] } 24. Qf4? { [%eval 0.0] } 24... a4?? { [%eval #2] } 25. Qf6 { [%eval #1] } 25... Bxg2 { [%eval #1] } 26. Qg7# 1-0
+

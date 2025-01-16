@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1jqCAlwn"]
+[White "alta"]
+[Black "alexey87"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:10:05"]
+[WhiteElo "1597"]
+[BlackElo "1587"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nc6 5. d4 Bf5 6. Bd2 Qb6 7. Nd5 Qxb2 8. Rb1 Qxc2 9. Nxc7+ Kd7 10. Qxc2 Bxc2 11. Rxb7 Rc8 12. Nb5+ Ke8 13. d5 Nd8 14. Nxa7 Ra8 15. Bb5+ Nc6 16. Bxc6+ Kd8 17. Ba5# 1-0
+

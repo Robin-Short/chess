@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/D3OLWzHz"]
+[White "yesse2"]
+[Black "subteacher"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:10"]
+[WhiteElo "1153"]
+[BlackElo "1538"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+3"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. e3 d5 3. c4 Nf6 4. Bd2 e6 5. Nc3 Be7 6. c5 b6 7. Nf3 bxc5 8. Qc2 cxd4 9. Nxd4 c5 10. Nf3 O-O 11. Bd3 Nbd7 12. Ng5 h6 13. Nh7 Nxh7 14. Bxh7+ Kh8 15. e4 Nf6 16. Bxh6 Nxh7 17. Qd2 gxh6 18. Qxh6 Bg5 19. Qh5 Qf6 20. O-O Qg6 21. Qh3 e5 22. Ne2 Bxh3 23. gxh3 Be3+ 24. Kh1 Bf4 25. Ng3 Bxg3 26. hxg3 Qxe4+ 27. Kh2 f5 28. f3 Qe2+ 29. Kg1 Qe3+ 30. Rf2 Qh6 31. Raf1 f4 0-1
+

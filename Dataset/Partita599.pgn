@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xjZ5VcBF"]
+[White "sadikh"]
+[Black "_Sora"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:24:01"]
+[WhiteElo "1425"]
+[BlackElo "1578"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-47"]
+[ECO "B41"]
+[Opening "Sicilian Defense: Kan Variation, Maroczy Bind, Reti Variation"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nc6 6. Nc3 d5 7. exd5 exd5 8. cxd5 Nxd4 9. Qxd4 Nf6 10. Bg5 Be7 11. O-O-O O-O 12. Bc4 h6 13. Bh4 Nh5 14. Bxe7 Qxe7 15. g3 Qg5+ 16. Kb1 Bf5+ 17. Ka1 b5 18. Bd3 Bxd3 19. Qxd3 Rfd8 20. f4 Qf6 21. Qf3 Qf5 22. g4 Qxf4 23. Qxf4 Nxf4 24. Rhf1 g5 25. d6 Rd7 26. Ne4 Rad8 27. Nf6+ 1-0
+

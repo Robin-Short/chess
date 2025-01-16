@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/CogxQgHE"]
+[White "matias96"]
+[Black "amirsalarkhan"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:57:50"]
+[WhiteElo "1161"]
+[BlackElo "1645"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+2"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. b4 { [%eval -0.66] } 1... e5 { [%eval -0.47] } 2. Bb2 { [%eval -0.48] } 2... Bxb4 { [%eval -0.39] } 3. Bxe5 { [%eval -0.33] } 3... Nc6?? { [%eval 4.98] } 4. a3?? { [%eval -0.75] } 4... f6? { [%eval 0.36] } 5. Bc3 { [%eval 0.22] } 5... Bxc3 { [%eval 0.22] } 6. Nxc3 { [%eval 0.09] } 6... d6 { [%eval 0.31] } 7. d4 { [%eval 0.22] } 7... Bf5?! { [%eval 0.75] } 8. d5 { [%eval 0.54] } 8... Ne5 { [%eval 0.47] } 9. e4 { [%eval 0.46] } 9... Bg6 { [%eval 0.6] } 10. Bb5+?! { [%eval 0.01] } 10... c6 { [%eval -0.02] } 11. dxc6 { [%eval -0.06] } 11... bxc6 { [%eval 0.0] } 12. Bxc6+? { [%eval -2.74] } 12... Nxc6 { [%eval -2.71] } 13. Nd5?! { [%eval -3.62] } 13... Nge7 { [%eval -3.5] } 14. Nxe7 { [%eval -3.78] } 14... Qxe7 { [%eval -3.54] } 15. Nf3? { [%eval -4.67] } 15... O-O?! { [%eval -3.88] } 16. Qd5+ { [%eval -3.87] } 16... Kh8 { [%eval -3.81] } 17. Qxc6? { [%eval -5.1] } 17... Bxe4 { [%eval -4.97] } 18. O-O?? { [%eval -11.59] } 18... Bxc6 { [%eval -11.52] } 19. Rfe1 { [%eval -11.83] } 19... Qc7 { [%eval -11.13] } 20. Rad1 { [%eval -12.7] } 20... Bxf3 { [%eval -12.4] } 21. gxf3 { [%eval -12.64] } 21... Qxc2 { [%eval -12.65] } 22. Rxd6 { [%eval -13.03] } 22... Qc3 { [%eval -12.46] } 23. Kg2 { [%eval -19.45] } 23... Qxe1 { [%eval #-9] } 24. Rd3 { [%eval #-8] } 24... Qe2?! { [%eval -18.46] } 25. Re3 { [%eval -22.52] } 25... Qd2 { [%eval -27.25] } 0-1
+

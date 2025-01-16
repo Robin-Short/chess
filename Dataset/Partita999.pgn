@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nEamVBCF"]
+[White "explodecomputer"]
+[Black "spojar"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:02"]
+[WhiteElo "1973"]
+[BlackElo "2084"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B07"]
+[Opening "Rat Defense: Harmonist"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. e4 d6 2. f4 Nf6 3. Nc3 e5 4. f5 d5 5. d3 d4 6. Nce2 c5 7. Ng3 Nc6 8. Bg5 h6 9. Bxf6 Qxf6 10. Nf3 g5 11. fxg6 fxg6 12. Be2 Bg7 13. O-O Qe7 14. Nd2 Be6 15. a3 O-O-O 16. Qb1 h5 17. b4 h4 18. Nh1 Bh6 19. Nc4 Bxc4 20. dxc4 Be3+ 21. Nf2 h3 22. Bg4+ Kb8 23. Bxh3 Rxh3 24. gxh3 Qh4 25. Kg2 Bxf2 26. Rxf2 Qxe4+ 27. Kg1 d3 28. Qe1 Qh4 29. b5 d2 30. Qe2 Qg5+ 31. Rg2 Nd4 32. Qxd2 Nf3+ 33. Kh1 Rxd2 34. Rxg5 Rxh2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nLOV1c84"]
+[White "Slainte321"]
+[Black "Aramix"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:23"]
+[WhiteElo "1524"]
+[BlackElo "1309"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "420+6"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... e5 { [%eval 0.25] } 2. Nf3 { [%eval 0.27] } 2... d6 { [%eval 0.41] } 3. d4 { [%eval 0.34] } 3... exd4 { [%eval 0.36] } 4. Nxd4 { [%eval 0.36] } 4... Be6 { [%eval 0.79] } 5. Nxe6 { [%eval 0.89] } 5... fxe6 { [%eval 0.74] } 6. Qh5+ { [%eval 0.79] } 6... g6 { [%eval 0.79] } 7. Qg4 { [%eval 0.42] } 7... e5?! { [%eval 1.12] } 8. Qe6+ { [%eval 1.2] } 8... Be7 { [%eval 1.28] } 9. Bg5? { [%eval 0.23] } 9... Nc6 { [%eval 0.63] } 10. Bb5?! { [%eval -0.04] } 10... a6 { [%eval 0.37] } 11. Bxc6+ { [%eval 0.46] } 11... bxc6 { [%eval 0.11] } 12. O-O { [%eval -0.1] } 12... Rb8?! { [%eval 0.51] } 13. b3?! { [%eval -0.03] } 13... h6? { [%eval 1.68] } 14. Bxe7?! { [%eval 0.76] } 14... Nxe7 { [%eval 0.75] } 15. Nc3 { [%eval 0.43] } 15... g5 { [%eval 0.81] } 16. Na4 { [%eval 0.51] } 16... h5?! { [%eval 1.18] } 17. c4 { [%eval 1.01] } 17... a5?! { [%eval 1.65] } 18. c5 { [%eval 1.56] } 18... dxc5?? { [%eval 6.19] } 19. Nxc5?? { [%eval 1.82] } 19... Rb5?? { [%eval 6.07] } 20. Rad1 { [%eval 6.68] } 20... Qc8?? { [%eval 14.02] } 21. Qxe5?? { [%eval 6.03] } 21... Rh6 { [%eval 6.02] } 22. a4 { [%eval 5.56] } 22... Rb4?? { [%eval 14.56] } 23. Qxg5?? { [%eval 6.4] } 23... Rg6 { [%eval 6.13] } 24. Qxh5? { [%eval 4.98] } 24... Kf8?? { [%eval 12.33] } 25. Qh8+?! { [%eval 9.05] } 25... Ng8?! { [%eval 14.29] } 26. Rd7 { [%eval 13.09] } 26... Rh6?! { [%eval #2] } 27. Qe5?! { [%eval 14.08] } 27... Qe8?! { [%eval #1] } 28. Qg7# 1-0
+

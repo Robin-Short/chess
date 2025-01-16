@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/qdaWB4za"]
+[White "letmeplaynow"]
+[Black "novatojugad"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:45"]
+[WhiteElo "1734"]
+[BlackElo "1850"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 d6 3. c4 e5 4. dxe6 fxe6 5. Nf3 Nf6 6. Bg5 Be7 7. Nc3 O-O 8. e3 Nc6 9. Bd3 Bd7 10. O-O Ng4 11. Bxe7 Qxe7 12. h3 Nge5 13. Nxe5 Nxe5 14. Be4 Nxc4 15. Bxb7 Rab8 16. b3 Ne5 17. Be4 d5 18. Bc2 Bc6 19. f4 Nd7 20. Qd3 Nf6 21. Rab1 Rfd8 22. a4 d4 23. Ne2 Be4 24. Qc4 d3 0-1
+

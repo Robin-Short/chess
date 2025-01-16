@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5ClHstUW"]
+[White "mazorra"]
+[Black "ant77777"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:50"]
+[WhiteElo "1614"]
+[BlackElo "1749"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-23"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.13] } 1... c5 { [%eval 0.36] } 2. Bc4 { [%eval 0.02] } 2... e6 { [%eval 0.01] } 3. d3 { [%eval -0.29] } 3... a6 { [%eval 0.08] } 4. Nc3 { [%eval -0.04] } 4... b5 { [%eval 0.06] } 5. Bb3 { [%eval 0.0] } 5... Qc7 { [%eval 0.17] } 6. Qf3 { [%eval -0.04] } 6... Bb7 { [%eval 0.06] } 7. Nge2 { [%eval -0.08] } 7... b4 { [%eval 0.37] } 8. Na4 { [%eval 0.45] } 8... Nf6 { [%eval 0.33] } 9. Be3?! { [%eval -0.36] } 9... Be7?! { [%eval 0.52] } 10. h4? { [%eval -0.69] } 10... Bc6? { [%eval 0.68] } 11. g4? { [%eval -0.78] } 11... Bxa4? { [%eval 1.11] } 12. Bxa4 { [%eval 1.0] } 12... Nc6 { [%eval 1.13] } 13. e5? { [%eval -0.18] } 13... Nxe5?? { [%eval 3.66] } 14. Qxa8+ { [%eval 3.48] } 14... Bd8 { [%eval 3.52] } 1-0
+

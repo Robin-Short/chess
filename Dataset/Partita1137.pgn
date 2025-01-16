@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/42T8uGkb"]
+[White "amayem"]
+[Black "donairo"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:46:39"]
+[WhiteElo "1843"]
+[BlackElo "1890"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. d3 d6 5. Ng5 Nh6 6. Qh5 O-O 7. O-O Bg4 8. Qh4 Nd4 9. Bb3 Ne2+ 10. Kh1 Nxc1 11. Rxc1 Qf6 12. f3 Bd7 13. Nc3 Be3 14. Nd5 Qxg5 15. Qxg5 Bxg5 16. Rf1 c6 17. Nc3 b5 18. a3 a5 19. Rad1 b4 20. Nb1 a4 21. Bc4 Rab8 22. axb4 Rxb4 23. b3 axb3 24. Bxb3 Rfb8 25. Na3 Rxb3 26. cxb3 Be3 27. Nc4 Bc5 28. Ra1 f6 29. Ra7 Be6 30. Re7 Bxc4 31. bxc4 Rb2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BcUeo6iz"]
+[White "zurka"]
+[Black "chessaddict4"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:16"]
+[WhiteElo "1516"]
+[BlackElo "1583"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 { [%eval -0.22] } 1... Nf6 { [%eval 0.02] } 2. Bb2 { [%eval 0.02] } 2... g6 { [%eval 0.13] } 3. e3 { [%eval 0.16] } 3... Bg7 { [%eval 0.16] } 4. d3 { [%eval -0.05] } 4... O-O { [%eval -0.01] } 5. g3 { [%eval -0.39] } 5... d5 { [%eval -0.32] } 6. h4 { [%eval -0.71] } 6... e5 { [%eval -0.31] } 7. f3?! { [%eval -1.29] } 7... d4 { [%eval -0.99] } 8. e4 { [%eval -0.94] } 8... Re8 { [%eval -0.81] } 9. g4 { [%eval -0.82] } 9... c5 { [%eval -0.77] } 10. h5 { [%eval -0.82] } 10... Nfd7 { [%eval -0.49] } 11. hxg6 { [%eval -0.46] } 11... Nb6? { [%eval 1.51] } 12. gxh7+ { [%eval 1.21] } 12... Kf8?? { [%eval 4.41] } 13. Nh3? { [%eval 2.73] } 13... Ke7 { [%eval 3.02] } 14. Ng5? { [%eval 1.92] } 14... f6 { [%eval 1.81] } 15. Nh3 { [%eval 1.65] } 15... Bh6? { [%eval 4.07] } 16. a3? { [%eval 1.99] } 16... Be3 { [%eval 1.67] } 17. Nd2 { [%eval 1.28] } 17... N6d7? { [%eval 2.94] } 18. g5 { [%eval 2.68] } 18... Rh8 { [%eval 2.82] } 19. gxf6+? { [%eval 1.72] } 19... Kxf6? { [%eval 4.06] } 20. Qe2?! { [%eval 3.46] } 20... Ke6?! { [%eval 4.39] } 21. Ng5+?? { [%eval -0.91] } 21... Kd6?? { [%eval 15.2] } 22. Nf7+ { [%eval 14.63] } 22... Kc7 { [%eval 14.72] } 23. Nxd8 { [%eval 15.13] } 23... Kxd8 { [%eval 17.71] } 24. Nc4 { [%eval 15.54] } 24... Kc7 { [%eval 14.46] } 25. Bh3 { [%eval 10.2] } 25... b5 { [%eval 13.98] } 26. Bxd7 { [%eval 13.01] } 26... bxc4 { [%eval 14.43] } 27. Bxc8 { [%eval 14.08] } 27... Kxc8 { [%eval 14.55] } 28. dxc4 { [%eval 12.67] } 28... Kb7 { [%eval 13.8] } 29. Qg2 { [%eval 14.08] } 29... Ka6 { [%eval 35.01] } 30. Qg6+ { [%eval 26.23] } 30... Nc6?! { [%eval #2] } 31. Qxc6+ { [%eval #1] } 31... Ka5 { [%eval #1] } 32. Qxc5+?! { [%eval #1] } 32... Ka6 { [%eval #1] } 33. b4?! { [%eval 121.63] } 33... Rac8?! { [%eval #1] } 34. Qb5# 1-0
+

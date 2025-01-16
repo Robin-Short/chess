@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bdROOGnF"]
+[White "bernino"]
+[Black "1917rio"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:02"]
+[WhiteElo "1707"]
+[BlackElo "1340"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Qe7 4. d5 a6 5. Nc3 Nd7 6. Bg5 f6 7. Bh4 Nc5 8. Bd3 Bg4 9. h3 Bxf3 10. Qxf3 O-O-O 11. b3 Nxd3+ 12. Qxd3 Rd7 13. O-O g5 14. Bg3 Kb8 15. Ne2 Qd8 16. f3 Qc8 17. Bf2 c6 18. Qe3 c5 19. c4 b5 20. Ng3 b4 21. Nf5 Ne7 22. a3 Nxf5 23. exf5 a5 24. axb4 axb4 25. Ra4 Ra7 26. Rxb4+ Rb7 27. Ra4 Kc7 28. Rfa1 Bg7 29. Ra7 Qe8 30. Qd2 Qf7 31. Qa5+ Kb8 32. Ra8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LuzQuMcK"]
+[White "Arcticpenguin"]
+[Black "Castell"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:58"]
+[WhiteElo "1503"]
+[BlackElo "1454"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+13"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Bd7 5. Nc3 Nc6 6. Bf4 Nxd4 7. Qxd4 Nf6 8. Bg5 Be7 9. e5 dxe5 10. Qxe5 O-O 11. O-O-O Re8 12. Qd4 b6 13. Bxf6 Bxf6 14. Qxd7 Bxc3 15. Qxd8 Raxd8 16. Rxd8 Bxb2+ 17. Kxb2 Rxd8 18. Bd3 c5 19. Re1 g6 20. Bb5 Rd2 21. Re2 Rd4 22. c3 Rf4 23. g3 Rf5 24. h4 Rd5 25. f4 Rd6 26. g4 Rf6 27. Re4 Rd6 28. h5 gxh5 29. gxh5 h6 30. Re7 Rf6 31. Re4 Kg7 32. f5 Rd6 33. Rf4 Kf6 34. Bc4 a6 35. a4 b5 36. axb5 axb5 37. Bxb5 Rb6 38. c4 Ke5 39. Rf1 Ke4 40. Kc3 Ke3 41. f6 Ke2 42. Rf5 Ke3 43. Re5+ Kf4 44. Rxc5 Rb8 45. Rc7 Rf8 46. Re7 Kg5 47. Re5+ Kxf6 48. Re1 Rg8 49. Rf1+ Ke7 50. Ba4 Kf8 51. Bc2 Rg3+ 52. Kb2 Rg2 53. Rf6 Kg7 54. Rf1 f6 55. Rh1 Rf2 56. Kb3 f5 57. Bd3 Kf6 58. Kc3 Rf3 59. Rf1 Rxf1 60. Bxf1 Kg5 61. Bd3 f4 62. Bf1 Kxh5 63. c5 Kg4 64. c6 f3 65. c7 Kg3 66. Bc4 Kf2 67. c8=Q Ke1 68. Qf5 f2 69. Bf1 Kxf1 70. Qd3+ Kg1 71. Qd1+ f1=Q 72. Qg4+ Qg2 73. Qxg2+ Kxg2 0-1
+

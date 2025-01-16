@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DiEjXcHm"]
+[White "drvce"]
+[Black "rishabh_m18"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:46"]
+[WhiteElo "1553"]
+[BlackElo "1413"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.19] } 1... c5 { [%eval 0.51] } 2. dxc5 { [%eval 0.21] } 2... Nc6 { [%eval 0.26] } 3. c3 { [%eval 0.08] } 3... Nf6 { [%eval -0.02] } 4. g3 { [%eval -0.18] } 4... e6 { [%eval -0.06] } 5. b4 { [%eval -0.03] } 5... a5 { [%eval -0.07] } 6. Ba3? { [%eval -1.43] } 6... axb4 { [%eval -1.33] } 7. Bxb4 { [%eval -1.4] } 7... Nxb4 { [%eval -1.52] } 8. cxb4 { [%eval -1.39] } 8... b6 { [%eval -0.95] } 9. Bg2 { [%eval -0.95] } 9... Rb8 { [%eval -0.95] } 10. cxb6?! { [%eval -1.45] } 10... Qxb6? { [%eval -0.01] } 11. a3 { [%eval 0.0] } 11... Bb7 { [%eval 0.34] } 12. Bxb7 { [%eval 0.28] } 12... Qxb7 { [%eval 0.5] } 13. f3? { [%eval -0.75] } 13... Ra8 { [%eval -0.28] } 14. Nh3? { [%eval -2.17] } 14... Bxb4+ { [%eval -2.05] } 15. axb4? { [%eval -3.77] } 15... Rxa1 { [%eval -3.73] } 16. O-O?! { [%eval -4.23] } 16... O-O?! { [%eval -3.57] } 17. Qb3 { [%eval -3.62] } 17... Nd5 { [%eval -3.73] } 18. Nd2 { [%eval -4.0] } 18... Rfa8 { [%eval -4.01] } 19. Ne4?? { [%eval -8.12] } 19... Qb6+ { [%eval -8.15] } 20. Kg2? { [%eval -13.89] } 20... R1a3 { [%eval -9.64] } 21. Qc4 { [%eval -17.0] } 21... h6?? { [%eval -4.77] } 22. Nc5?? { [%eval -16.94] } 22... Rc8?? { [%eval -5.93] } 23. Re1?? { [%eval -14.63] } 23... Nxb4?? { [%eval -3.3] } 24. Nxd7 { [%eval -3.43] } 24... Rxc4 { [%eval -3.36] } 25. Nxb6 { [%eval -3.22] } 25... Rc2 { [%eval -3.17] } 26. Nd7? { [%eval -4.82] } 26... Raa2? { [%eval -3.52] } 27. Nf4? { [%eval -5.68] } 27... Nd3?? { [%eval -0.11] } 28. Rd1?? { [%eval -6.24] } 28... Nxf4+ { [%eval -6.67] } 29. Kf1?? { [%eval -17.45] } 29... Rxe2?? { [%eval -6.47] } 30. Nf6+?? { [%eval -47.46] } 1-0
+

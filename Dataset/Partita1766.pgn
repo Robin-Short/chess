@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1vvvTBsV"]
+[White "jean-pierre7ch"]
+[Black "cercliste"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:19:03"]
+[WhiteElo "1618"]
+[BlackElo "1519"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "D02"]
+[Opening "Queen's Gambit Refused: Baltic Defense"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. Nf3 Bb4 5. Bd2 Nc6 6. e3 Bg4 7. Rc1 Nf6 8. cxd5 exd5 9. Bd3 O-O 10. O-O Bd6 11. Be2 Ne4 12. a3 Bxf3 13. Bxf3 Qh4 14. g3 Qh3 15. Nxe4 dxe4 16. Bxe4 Rfe8 17. Bg2 Qh6 18. e4 Nxd4 19. Bxh6 gxh6 20. Qxd4 Be5 21. Qe3 b6 22. Qxh6 Re6 23. Qg5+ Bg7 24. f4 c6 25. f5 Re5 26. Rxc6 Kf8 27. Rd1 h6 28. Qd2 Rae8 29. Rc7 Bf6 30. Qb4+ Be7 31. Rxe7 R5xe7 32. f6 Kg8 33. fxe7 a5 34. Qd6 Kg7 35. e5 b5 36. Qf6+ Kg8 37. Rd8 Rxd8 38. exd8=Q+ Kh7 39. Qdh8# 1-0
+

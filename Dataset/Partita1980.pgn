@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/VHT1VRcb"]
+[White "Shotiko"]
+[Black "lpaulmp"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:31:57"]
+[WhiteElo "1555"]
+[BlackElo "1486"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. e4 g6 0-1
+

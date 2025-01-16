@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/MsKQgura"]
+[White "asghar1022"]
+[Black "kasa"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:21"]
+[WhiteElo "1403"]
+[BlackElo "1542"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "1500+10"]
+[Termination "Normal"]
+
+1. g3 e5 2. e4 Nf6 3. Bg2 Bc5 4. Nc3 d6 5. h3 O-O 6. Nf3 Bb4 7. O-O Bxc3 8. dxc3 Nxe4 9. Nxe5 Nxc3 10. Nxf7 Nxd1 11. Nxd8 Nxf2 12. Rxf2 Rxd8 13. Bg5 Re8 14. Rd1 Nc6 15. c3 Bd7 16. Rdf1 Rf8 17. Bxc6 Bxc6 18. Be7 Rxf2 19. Rxf2 Re8 20. Re2 Kf7 21. Kf2 Rxe7 22. Rxe7+ Kxe7 23. h4 Ke6 24. Ke3 Ke5 25. a3 b5 26. b4 Bd5 27. Kd3 c5 28. Ke3 cxb4 29. cxb4 Bc4 30. Kf3 d5 31. Ke3 d4+ 32. Kd2 Ke4 33. Kd1 Kf3 34. g4 Kxg4 35. Kd2 Kxh4 36. a4 bxa4 37. b5 Bxb5 38. Kc1 a3 39. Kb1 d3 40. Ka2 d2 41. Ka1 d1=Q+ 42. Ka2 Qc1 43. Kb3 Qb2# 0-1
+

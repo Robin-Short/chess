@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/J5IS2eGz"]
+[Site "https://lichess.org/RiRivKda"]
+[White "asxetos1"]
+[Black "vadimdim"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:33"]
+[WhiteElo "1583"]
+[BlackElo "1252"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed French"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. d4 exd4 3. Qxd4 c6 4. Qd1 1-0
+

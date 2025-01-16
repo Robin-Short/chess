@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hDQMTBQw"]
+[White "falsoreti"]
+[Black "libi"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:12:33"]
+[WhiteElo "1526"]
+[BlackElo "1746"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "C31"]
+[Opening "King's Gambit Declined: Falkbeer Countergambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d5 3. fxe5 dxe4 4. h4 Bc5 5. Bc4 Ne7 6. Nc3 O-O 7. g4 Nd5 8. Nxd5 Bxg1 9. g5 Bc5 10. Qe2 c6 11. Ne3 Qe7 12. b3 Qxe5 13. c3 b5 14. d4 exd3 15. Qxd3 Re8 16. Rh3 bxc4 17. bxc4 Bxh3 18. Ke2 0-1
+

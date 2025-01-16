@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/E7GSJOHQ"]
+[White "Snowden"]
+[Black "Grumms"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:32"]
+[WhiteElo "1525"]
+[BlackElo "1695"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 c6 0-1
+

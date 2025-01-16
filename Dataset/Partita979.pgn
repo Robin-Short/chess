@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EHFebmmP"]
+[White "wheresmybelt"]
+[Black "Mahach01"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:38:45"]
+[WhiteElo "1595"]
+[BlackElo "1709"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. e5 Bg7 3. d4 e6 4. Nf3 h5 5. Bc4 Ne7 6. Bd2 b6 7. Qe2 Bb7 8. Nc3 d6 9. O-O-O Bxf3 10. Qxf3 d5 11. Bb5+ Nd7 12. h3 Nf5 13. Bf4 Bh6 14. Bxh6 Nxh6 15. Qd3 Qe7 16. f3 O-O-O 17. Bc6 Nb8 18. Bb5 c6 19. Ba6+ Nxa6 20. Qxa6+ Qb7 21. Qxb7+ Kxb7 22. g4 Ng8 23. a4 a5 24. b3 Rc8 25. Ne2 c5 26. Kb2 Ne7 27. c4 cxd4 28. Nxd4 dxc4 29. Nb5 Rcd8 30. Nd6+ Kc6 31. Nxc4 Nd5 32. Nd6 Rhf8 33. Rc1+ Kd7 34. Rc2 Nf4 35. Rhc1 Nd3+ 0-1
+

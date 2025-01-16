@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0YCPH6lr"]
+[White "ivan62"]
+[Black "Bouchard"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:11"]
+[WhiteElo "1702"]
+[BlackElo "1783"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense, Big Center Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.2] } 1... Nf6 { [%eval 0.25] } 2. Bg5 { [%eval 0.09] } 2... e6 { [%eval 0.18] } 3. e4 { [%eval 0.18] } 3... Be7 { [%eval 0.28] } 4. Bxf6 { [%eval -0.1] } 4... Bxf6 { [%eval -0.1] } 5. e5 { [%eval -0.15] } 5... Be7 { [%eval -0.17] } 6. Nf3 { [%eval -0.15] } 6... c5 { [%eval 0.05] } 7. c3 { [%eval -0.15] } 7... Qa5?! { [%eval 0.37] } 8. Qd2 { [%eval -0.03] } 8... Nc6 { [%eval 0.01] } 9. Be2 { [%eval 0.01] } 9... d5 { [%eval 0.22] } 10. O-O?! { [%eval -0.36] } 10... cxd4 { [%eval -0.22] } 11. cxd4 { [%eval -0.18] } 11... Qxd2 { [%eval -0.24] } 12. Nbxd2 { [%eval -0.29] } 12... Bd7 { [%eval -0.27] } 13. a3 { [%eval -0.24] } 13... O-O { [%eval -0.29] } 14. Rac1 { [%eval -0.22] } 14... g5 { [%eval -0.33] } 15. Bb5? { [%eval -2.12] } 15... g4 { [%eval -2.1] } 16. Bxc6 { [%eval -2.05] } 16... Bxc6 { [%eval -2.18] } 17. Ne1 { [%eval -2.14] } 17... Bg5?! { [%eval -1.19] } 18. f4 { [%eval -1.18] } 18... gxf3 { [%eval -1.26] } 19. Nexf3 { [%eval -1.17] } 19... Bxd2? { [%eval 0.38] } 20. Nxd2 { [%eval 0.34] } 20... Kh8 { [%eval 0.67] } 21. Nb3 { [%eval 0.75] } 21... b6?? { [%eval 4.83] } 22. Rxc6 { [%eval 4.81] } 1-0
+

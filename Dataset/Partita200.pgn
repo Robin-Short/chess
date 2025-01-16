@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XrLwcB4z"]
+[White "faulschlamm1"]
+[Black "RRsS"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:24"]
+[WhiteElo "2085"]
+[BlackElo "1916"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-22"]
+[ECO "D01"]
+[Opening "Queen's Pawn Game: Veresov Attack, Classical Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.27] } 1... Nf6 { [%eval 0.18] } 2. Nc3 { [%eval -0.02] } 2... e6 { [%eval 0.12] } 3. d4 { [%eval -0.03] } 3... d5 { [%eval -0.04] } 4. Bg5 { [%eval -0.09] } 4... h6 { [%eval 0.29] } 5. Bh4 { [%eval -0.13] } 5... Nbd7 { [%eval -0.1] } 6. a3 { [%eval -0.08] } 6... c5 { [%eval -0.12] } 7. e4 { [%eval -0.11] } 7... Qb6? { [%eval 0.98] } 8. dxc5?! { [%eval 0.42] } 8... Qxb2?? { [%eval 4.7] } 9. Na4 { [%eval 4.66] } 9... Qxa1 { [%eval 4.86] } 10. Qxa1 { [%eval 4.9] } 10... Nxe4 { [%eval 4.93] } 11. Bb5 { [%eval 5.0] } 11... a6? { [%eval 6.67] } 12. Bxd7+ { [%eval 6.63] } 12... Bxd7 { [%eval 7.05] } 13. Nb6 { [%eval 6.8] } 13... Rc8 { [%eval 7.02] } 14. Nxd7? { [%eval 4.51] } 14... Kxd7 { [%eval 4.79] } 15. Ne5+ { [%eval 4.72] } 15... Ke8 { [%eval 4.72] } 16. Nd3? { [%eval 3.42] } 16... Bxc5?? { [%eval 6.84] } 17. Nxc5? { [%eval 5.62] } 17... Rxc5? { [%eval 7.08] } 18. Qxg7 { [%eval 6.9] } 18... Rf8 { [%eval 7.17] } 19. Qxh6? { [%eval 5.8] } 19... Rxc2?! { [%eval 6.39] } 20. O-O { [%eval 6.15] } 20... Ra2?? { [%eval 10.22] } 21. Rc1 { [%eval 10.44] } 21... Rxa3 { [%eval 11.53] } 22. f3 { [%eval 12.08] } 22... Nc3 { [%eval 20.18] } 23. Qf6 { [%eval 20.54] } 23... Ne2+?! { [%eval #3] } 24. Kf2 { [%eval #2] } 1-0
+

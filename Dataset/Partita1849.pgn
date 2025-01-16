@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e2TWH7ZK"]
+[White "franktaolin"]
+[Black "sadikh"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:33"]
+[WhiteElo "1505"]
+[BlackElo "1614"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "C22"]
+[Opening "Center Game: Normal Variation"]
+[TimeControl "120+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 d6 5. h3 Nf6 6. Nc3 Be7 7. Bb5 Bd7 8. Nf3 O-O 9. O-O Re8 10. Nd2 a6 11. Ba4 b5 12. Bb3 Nd4 13. Nd5 c5 14. c3 Nxb3 15. axb3 Bf8 16. Qf3 Nxd5 17. exd5 f5 18. Qg3 Qf6 19. Nf3 h6 20. Be3 Be7 21. Rae1 Rf8 22. b4 f4 23. Bd4 fxg3 24. Bxf6 gxf2+ 25. Rxf2 Bxf6 26. Ref1 cxb4 0-1
+

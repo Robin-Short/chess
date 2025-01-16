@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GiMcuIPG"]
+[White "falsoreti"]
+[Black "libi"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:19:15"]
+[WhiteElo "1516"]
+[BlackElo "1756"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Bf4 Bd6 5. e3 f5 6. c5 Bxf4 7. exf4 Nf6 8. Bd3 O-O 9. h3 Nbd7 10. Qc2 b6 11. b4 a5 12. b5 bxc5 13. dxc5 Nxc5 14. bxc6 Nxd3+ 15. Qxd3 Qd6 16. Nf3 Qxc6 17. O-O Ba6 18. Qd4 Bxf1 19. Kxf1 Rfc8 20. Rc1 Ne4 21. Ne5 Qc7 22. Ne2 Qb7 23. Rxc8+ Rxc8 24. g3 Qb1+ 25. Kg2 Qe1 26. Ng1 Rc2 27. Nef3 Rxf2+ 28. Kh1 Nxg3# 0-1
+

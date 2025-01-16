@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QABlVIEN"]
+[White "y59"]
+[Black "SebPlaul"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:29:28"]
+[WhiteElo "1643"]
+[BlackElo "1486"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "A45"]
+[Opening "Canard Opening"]
+[TimeControl "120+6"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. f4 g6 3. e3 Bg7 4. Nf3 O-O 5. Bd3 d6 6. O-O e5 7. fxe5 dxe5 8. Nxe5 Nbd7 9. Nxd7 Bxd7 10. c3 Ne8 11. e4 f5 12. e5 c6 13. Nd2 Qb6 14. Kh1 Nc7 15. Nc4 Qa6 16. Nd6 b5 17. a4 Qb6 18. a5 Qa6 19. Bg5 Nd5 20. Qb3 Rab8 21. c4 bxc4 22. Qxc4 Qxc4 23. Bxc4 h6 24. Be7 Rxb2 25. Bxf8 Kxf8 26. Bxd5 cxd5 27. Rab1 Ra2 28. Rb8+ Ke7 29. Nb7 Ra4 30. Rd1 Rb4 31. Rg8 Bf8 32. Nc5 Rb5 33. a6 Bc8 34. Rh8 Kf7 35. Rh7+ Bg7 36. Re1 Rb6 37. e6+ Bxe6 0-1
+

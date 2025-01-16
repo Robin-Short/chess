@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/48LFIIIP"]
+[White "subteacher"]
+[Black "Laos"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:41:06"]
+[WhiteElo "1745"]
+[BlackElo "1511"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. f3 e5 3. d3 Nf6 4. Be3 Bb4+ 5. Nd2 Bxd2+ 6. Qxd2 d6 7. Ne2 O-O 8. g3 Bd7 9. Bg2 Qc8 10. a3 Re8 11. O-O a6 12. f4 Rb8 13. f5 Nh5 14. h3 Nf6 15. g4 h6 16. Ng3 Nh7 17. h4 Qd8 18. Rf2 Qxh4 19. Rf3 Ng5 20. Bxg5 Qxg5 21. Qf2 h5 22. Nxh5 Qxg4 23. Ng3 f6 24. Rf1 Qg5 25. Ne2 Qh5 26. Rh3 Qf7 27. Qg3 Kf8 28. Qg4 Ke7 29. Ng3 Kd8 30. Rh7 Rg8 31. Nh5 Nd4 32. Rxg7 Rxg7 33. Qxg7 Qxg7 34. Nxg7 c6 35. c3 Nb3 36. Ne6+ Bxe6 37. fxe6 Ke7 38. Bh3 1-0
+

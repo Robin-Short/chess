@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3kKwrzLF"]
+[White "aderbalco"]
+[Black "vanzan"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:11"]
+[WhiteElo "1580"]
+[BlackElo "1856"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "780+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. d4 Nc6 6. Nf3 Bg4 7. c3 e5 8. Qe2 Bxf3 9. gxf3 O-O-O 10. Bh3+ Kb8 11. Bg5 f6 12. Bh4 exd4 13. O-O-O Qxa2 14. Kc2 Qa4+ 15. Kb1 Bc5 16. Bf5 d3 17. Qd2 Qxh4 18. h3 Qxf2 19. Qxf2 Bxf2 20. Rh2 Bb6 21. Bxd3 Ne5 22. Kc2 Nxf3 23. Rg2 g6 24. Re2 Ne5 25. Bxg6 Rxd1 26. Kxd1 hxg6 27. Rh2 Ng4 28. Re2 Nf2+ 29. Kc2 Nxh3 30. Re6 Rf8 31. c4 c6 32. b4 Nf4 33. Re4 Bc7 34. c5 f5 35. Re6 a6 36. Re7 g5 37. Rg7 g4 38. Rg5 Nd5 39. Kb3 g3 40. Rg7 f4 0-1
+

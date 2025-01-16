@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6wdIdqIh"]
+[White "sezwho"]
+[Black "ribarisah"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:33:44"]
+[WhiteElo "2032"]
+[BlackElo "2011"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queenside Fianchetto Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 b6 2. b3 Bb7 3. Bb2 Nf6 4. e3 g6 5. Be2 Bg7 6. d4 O-O 7. Nbd2 e6 8. O-O d5 9. c4 Nbd7 10. cxd5 Nxd5 11. Rc1 Rc8 12. Ne4 c5 13. Qd2 cxd4 14. Nxd4 Nc5 15. Nxc5 Rxc5 16. Rxc5 bxc5 17. Nf3 Bxb2 18. Qxb2 Nb4 19. Rd1 Qe7 20. Ne5 Rd8 21. Ng4 Rxd1+ 22. Bxd1 Nd3 23. Nh6+ Kf8 24. Qh8# 1-0
+

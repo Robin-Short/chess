@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xqeUQYRa"]
+[White "Bill-Hicks"]
+[Black "Shotiko"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:15:29"]
+[WhiteElo "1580"]
+[BlackElo "1559"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "0+2"]
+[Termination "Normal"]
+
+1. e4 d6 2. Bc4 e5 3. Bxf7+ Kxf7 4. Qh5+ g6 5. Qf3+ Nf6 6. Qb3+ Ke8 7. Nf3 Qe7 8. Ng5 Bg7 9. Nf3 Qe6 10. d3 Qxb3 11. axb3 Nc6 12. c4 Nd4 13. Nc3 Nc2+ 14. Kd2 Nxa1 15. d4 Nxb3+ 16. Ke3 Nxc1 17. Rxc1 exd4+ 18. Nxd4 Kf7 19. Kd3 Re8 20. f3 Be6 21. Re1 c6 22. Nxe6 Rxe6 23. Ne2 Rae8 24. Nf4 R6e7 25. Nh3 d5 26. g4 dxc4+ 27. Kxc4 b5+ 28. Kb3 a5 29. Nf4 c5 30. Ka2 c4 31. Ne2 Rd7 32. Nf4 Rd2 33. e5 Nd5 34. e6+ Ke7 35. Nxd5+ Rxd5 36. Ka3 Re5 37. Rd1 Kxe6 38. Rd2 Rd5 39. Rg2 Red8 40. f4 Rd2 41. Rg3 R8d3+ 42. Ka2 Rxg3 43. Ka1 Rg1+ 44. Ka2 Rxb2+ 45. Ka3 Ra1# 0-1
+

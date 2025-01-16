@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/D26wrnjU"]
+[White "Shotiko"]
+[Black "chessnew"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:26:48"]
+[WhiteElo "1555"]
+[BlackElo "1519"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d3 e5 3. Nf3 d6 4. Be3 Nc6 5. Nc3 Nf6 6. g3 Ng4 7. Bg2 Nxe3 8. fxe3 f6 9. O-O Be7 10. Qd2 O-O 11. Rad1 Bg4 12. d4 cxd4 13. exd4 exd4 14. Nd5 Qd7 15. h3 Be6 16. Nxd4 Nxd4 17. Qxd4 Bxd5 18. Qxd5+ Kh8 19. c3 Qc6 20. Rd2 Qc5+ 21. Kh2 Qxd5 22. Rxd5 Rfc8 23. Rfd1 Rc6 24. Bf1 Rd8 25. Bb5 Rb6 26. a4 a6 27. Bc4 Rxb2+ 28. R1d2 Rxd2+ 29. Rxd2 g6 30. Kg2 Kg7 31. Kf3 Rb8 32. Rb2 b5 33. axb5 axb5 34. Rxb5 Rxb5 35. Bxb5 Bd8 36. Ke3 Bb6+ 37. Kf4 Kf7 0-1
+

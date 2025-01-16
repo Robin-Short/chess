@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CnGpUVW6"]
+[White "ujura"]
+[Black "molinerov"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:29:13"]
+[WhiteElo "2020"]
+[BlackElo "1838"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 g6 4. Nf3 Bg7 5. d4 O-O 6. Be2 c5 7. O-O Nc6 8. dxc5 Bg4 9. a3 Be6 10. b4 a6 11. Nbd2 Na7 12. Nb3 Nb5 13. Nbd4 Nxd4 14. Nxd4 Bc8 15. Bf3 e5 16. Nb3 e4 17. Be2 Bd7 18. Nd4 Rc8 19. c4 dxc4 20. Bxc4 Ne8 21. Qe2 Nc7 22. Rfd1 Qe8 23. h3 Kh8 24. Rac1 Kg8 25. Rd2 Be6 26. Nxe6 Nxe6 27. Bxg7 Nxg7 28. Rd6 Nf5 29. Rd5 Ne7 30. Rd4 Nc6 31. Rd6 Qe7 32. Rcd1 Rcd8 33. Qg4 Rxd6 34. Rxd6 Rd8 35. Rxd8+ Qxd8 36. Qxe4 Qd1+ 37. Kh2 Qd8 38. g3 Qe7 39. Qf3 Kg7 40. h4 f6 41. h5 Qe5 42. hxg6 hxg6 43. Kg2 Qb2 44. Qd5 Qe5 45. Qg8+ Kh6 46. Qh8+ Kg5 47. Qh4+ Kf5 48. Bd3+ Ke6 49. Qg4+ f5 50. Qg5 Qe4+ 51. Bxe4 1-0
+

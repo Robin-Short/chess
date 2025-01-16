@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZiTyzvqE"]
+[White "Richard10"]
+[Black "makina"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:21:17"]
+[WhiteElo "1582"]
+[BlackElo "1583"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bxf3 5. Qxf3 Qf6 6. Qxf6 Nxf6 7. Nc3 Ke7 8. d3 Ke8 9. O-O Nc6 10. Be3 a6 11. a3 Kd7 12. Bxf7 Rd8 13. f4 g6 14. fxe5 Nh5 15. e6+ Ke7 16. Bg5+ Nf6 17. Bxf6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/gL4bWOtv"]
+[White "ojot"]
+[Black "woodswoods"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:23:42"]
+[WhiteElo "1585"]
+[BlackElo "1400"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C16"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Nc6 5. Nf3 b6 6. Bb5 Bd7 7. O-O Nge7 8. Ne2 a6 9. Bxc6 Bxc6 10. c3 Bb5 11. cxb4 Bc4 12. b3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/X3oR3tVi"]
+[White "galopealegre"]
+[Black "xalberte"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:29:18"]
+[WhiteElo "1312"]
+[BlackElo "1709"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+3"]
+[ECO "A22"]
+[Opening "English Opening: King's English Variation, Two Knights Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Nf6 3. d4 exd4 4. Qxd4 Nc6 5. Qh4 Be7 6. Bg5 h6 7. Bxf6 Bxf6 8. Qe4+ Ne7 9. Nd5 O-O 10. Nxf6+ gxf6 11. e3 d6 12. Qh4 Kh7 13. Bd3+ Bf5 14. Bxf5+ Nxf5 15. Qe4 Qc8 16. g4 c6 17. gxf5 Qd7 18. O-O-O Rac8 19. Nf3 d5 20. Qh4 Qxf5 21. Nd4 Qe5 22. c5 b6 23. cxb6 axb6 24. Qh3 c5 25. Qf5+ Kh8 26. Qxe5 fxe5 27. Nf5 d4 28. Nxh6 Kg7 29. Nf5+ Kf6 30. Nd6 Ra8 31. a3 Ke6 32. Nc4 b5 33. Nd2 d3 34. Nb3 c4 35. Nc5+ Kd5 36. Nd7 b4 37. Nb6+ Kc5 38. Nxa8 bxa3 39. bxa3 Rxa8 40. Kb2 Rb8+ 41. Kc1 Rb3 42. Kd2 Rb2+ 43. Ke1 e4 44. Kf1 c3 45. Kg2 c2 46. f3 cxd1=Q+ 0-1
+

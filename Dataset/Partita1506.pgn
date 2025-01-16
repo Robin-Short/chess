@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qrtVGSAF"]
+[White "anopows"]
+[Black "s_dvoryanchikov"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:22"]
+[WhiteElo "1206"]
+[BlackElo "1313"]
+[WhiteRatingDiff "+29"]
+[BlackRatingDiff "-18"]
+[ECO "A46"]
+[Opening "Yusupov-Rubinstein System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.29] } 1... e6 { [%eval 0.28] } 2. e3 { [%eval 0.17] } 2... Nf6 { [%eval 0.18] } 3. Nf3 { [%eval 0.18] } 3... Be7 { [%eval 0.12] } 4. Be2 { [%eval 0.15] } 4... O-O { [%eval 0.08] } 5. O-O { [%eval 0.14] } 5... a6 { [%eval 0.25] } 6. c4 { [%eval 0.27] } 6... c5 { [%eval 0.4] } 7. Bd2 { [%eval 0.08] } 7... cxd4 { [%eval 0.08] } 8. exd4 { [%eval -0.14] } 8... Nc6 { [%eval -0.15] } 9. b3 { [%eval -0.13] } 9... d5 { [%eval -0.2] } 10. cxd5 { [%eval -0.68] } 10... Nxd5 { [%eval -0.25] } 11. Bc4?! { [%eval -0.89] } 11... Bf6 { [%eval -0.48] } 12. Bxd5 { [%eval -0.79] } 12... Qxd5 { [%eval -0.65] } 13. Be3 { [%eval -0.72] } 13... e5?! { [%eval -0.16] } 14. Nc3 { [%eval -0.2] } 14... Qd6?! { [%eval 0.68] } 15. dxe5 { [%eval 0.2] } 15... Bxe5 { [%eval 0.12] } 16. Qc2 { [%eval -0.16] } 16... Bxc3 { [%eval 0.08] } 17. Qxc3 { [%eval 0.05] } 17... b5? { [%eval 2.73] } 18. Rad1? { [%eval 1.18] } 18... Qg6 { [%eval 0.87] } 19. Bc5 { [%eval 0.72] } 19... Bh3?? { [%eval 5.69] } 20. Nh4 { [%eval 5.74] } 20... Qf6 { [%eval 6.05] } 21. Qxf6 { [%eval 5.98] } 21... gxf6 { [%eval 6.12] } 22. Bxf8 { [%eval 6.03] } 22... Bxg2 { [%eval 6.45] } 23. Nxg2 { [%eval 6.17] } 23... Rxf8 { [%eval 6.48] } 24. Rd6 { [%eval 6.56] } 24... Ne7 { [%eval 6.67] } 25. Rxf6 { [%eval 6.65] } 25... Kh8?! { [%eval 7.53] } 26. Rxa6 { [%eval 7.49] } 26... Rg8 { [%eval 7.89] } 27. a4?! { [%eval 7.37] } 27... Nf5 { [%eval 7.75] } 28. f3?! { [%eval 7.16] } 28... Nh4?! { [%eval 7.84] } 29. Rf2 { [%eval 7.88] } 29... Nxg2? { [%eval 15.89] } 30. Rxg2 { [%eval 17.01] } 30... Rxg2+?! { [%eval #12] } 31. Kxg2 { [%eval #11] } 31... bxa4 { [%eval #11] } 32. bxa4 { [%eval #10] } 32... Kg7 { [%eval #10] } 33. Rb6 { [%eval #9] } 1-0
+

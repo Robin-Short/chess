@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BhduF5Vd"]
+[White "brzigonzalez"]
+[Black "explodecomputer"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:57"]
+[WhiteElo "1988"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[TimeControl "120+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 a6 7. N5c3 f5 8. f3 f4 9. Ne2 Be7 10. g3 g5 11. Nbc3 Nf6 12. Nd5 Be6 13. h4 gxh4 14. gxf4 Bxd5 15. exd5 Nd4 16. fxe5 Nxf3+ 17. Kf2 Nxe5 18. Bh3 Qb6+ 19. Ke1 Nxc4 20. Nf4 Qb4+ 21. Bd2 Qxb2 22. Rc1 Nxd2 23. Qxd2 Qxd2+ 24. Kxd2 Ne4+ 25. Ke3 Ng5 26. Ne6 Nxh3 27. Nc7+ Kd7 28. Nxa8 Rxa8 29. Rcf1 Ng5 30. Rxh4 Rc8 31. Kd3 Rc5 32. Rd4 Ra5 33. Rf2 Ra3+ 34. Kc4 Ra4+ 35. Kc3 Rxd4 36. Kxd4 h5 37. Rf4 h4 38. Ke3 h3 39. Rh4 Kc7 40. Rh5 Kb6 41. Kd4 Bf6+ 42. Kc4 Kc7 43. Rh6 b5+ 44. Kb4 Be5 45. Rh5 Bf4 46. Kc3 Kb6 47. Kd4 Be5+ 48. Ke3 h2 49. Kf2 Kc5 50. Kg2 Ne4 51. Rh4 Nc3 52. a3 Nxd5 53. Rh7 Nc3 54. Ra7 Kb6 55. Re7 Nb1 56. Re8 Nxa3 57. Rb8+ Kc5 58. Rc8+ Kd5 59. Ra8 Nc4 60. Rxa6 Nd2 61. Ra5 Kc4 62. Ra8 b4 63. Rc8+ Kb3 64. Rc6 Ka2 65. Ra6+ Kb2 66. Rb6 b3 67. Rb7 Kc1 68. Rc7+ Kd1 0-1
+

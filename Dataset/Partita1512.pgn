@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wE5i0DMh"]
+[White "javadnav"]
+[Black "juanjeins"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:15"]
+[WhiteElo "1403"]
+[BlackElo "1370"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[TimeControl "240+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 g6 3. d3 Bg7 4. Qc2 Nf6 5. h3 O-O 6. Bd2 a6 7. Bc3 Nc6 8. Qd2 d6 9. g4 b5 10. cxb5 axb5 11. a3 b4 12. Bxb4 cxb4 13. a4 Nd4 14. Kd1 b3 15. Qb4 Nc2 16. Ra3 Be6 17. Rxb3 Bxb3 18. Qxb3 Nd4 19. Qc4 Nd7 20. Bg2 Rc8 21. Qd5 Nb6 22. Qa2 e6 23. Ne2 Nxe2 24. Kxe2 d5 25. exd5 exd5 26. Nc3 Re8+ 27. Kd2 Qg5+ 28. Kc2 d4 29. Qb3 dxc3 30. Qxb6 cxb2+ 31. Kb1 Rc1+ 32. Rxc1 bxc1=Q+ 33. Ka2 Re2+ 0-1
+

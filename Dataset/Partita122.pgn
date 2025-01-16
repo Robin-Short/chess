@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LIuVxIVb"]
+[White "el_peor"]
+[Black "DBAA"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:08"]
+[WhiteElo "1529"]
+[BlackElo "1792"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bc5 6. Nxc6 bxc6 7. Bd3 O-O 8. h3 Re8 9. O-O d6 10. Be3 Bb6 11. Na4 Nxe4 12. Nxb6 cxb6 13. f3 Nc3 14. bxc3 Rxe3 15. Qd2 Re8 16. f4 Qf6 17. f5 Bb7 18. Rae1 d5 19. g4 Qh4 20. Rf3 c5 21. g5 d4 22. Rxe8+ Rxe8 23. Rf4 Qg3+ 24. Kf1 Qxh3+ 25. Kf2 0-1
+

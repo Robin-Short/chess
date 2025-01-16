@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YU9UhFnT"]
+[White "JackDuffy"]
+[Black "SebPlaul"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:29"]
+[WhiteElo "1418"]
+[BlackElo "1501"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "120+8"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 g6 3. Bd3 Bg7 4. f4 d6 5. Nf3 O-O 6. O-O Nbd7 7. Ng5 e5 8. fxe5 dxe5 9. dxe5 Nxe5 10. Nc3 Nh5 11. e4 Nxd3 12. cxd3 f5 13. exf5 Bxf5 14. g4 Bxd3 15. Rxf8+ Kxf8 16. gxh5 Qd4+ 17. Kh1 Rd8 18. Nxh7+ Kg8 19. hxg6 Be4+ 20. Nxe4 Qxd1+ 21. Kg2 Qc2+ 22. Kf3 Qd3+ 23. Kf4 Bh6+ 24. Ke5 Re8+ 25. Kf5 Qd5+ 26. Kg4 Qxe4+ 27. Kh5 Re5+ 28. Ng5 Bxg5 29. Bxg5 Rxg5+ 30. Kxg5 Qg2+ 31. Kh6 Qxh2+ 32. Kg5 Qg3+ 33. Kf6 Qf4+ 34. Ke6 Qg5 35. Rf1 Qxg6+ 36. Rf6 Qe4+ 37. Kd7 c6 38. Rd6 Kf8 39. Kc7 Qe7+ 40. Rd7 Qb4 41. Rd8+ Ke7 42. Rd7+ Ke6 43. Rd6+ Qxd6+ 44. Kxb7 c5 45. Kxa7 c4 46. b3 cxb3 47. axb3 Qa3+ 48. Kb7 Qxb3+ 49. Kc7 Qd5 50. Kb6 Kd6 51. Ka7 Qb3 52. Ka6 Kc6 53. Ka7 Qb6+ 54. Ka8 Qb7# 0-1
+

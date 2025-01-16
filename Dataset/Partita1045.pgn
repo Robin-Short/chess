@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bsiMJaXt"]
+[White "mavaisuchesscube"]
+[Black "vitaminccc"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:50"]
+[WhiteElo "1850"]
+[BlackElo "1833"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.13] } 1... d5 { [%eval 0.56] } 2. exd5 { [%eval 0.63] } 2... Qxd5 { [%eval 0.71] } 3. Nf3 { [%eval 0.59] } 3... Qe4+?! { [%eval 1.13] } 4. Be2 { [%eval 1.12] } 4... Bg4 { [%eval 1.27] } 5. O-O { [%eval 1.21] } 5... Bxf3?! { [%eval 1.81] } 6. Bxf3 { [%eval 1.96] } 6... Qb4 { [%eval 1.82] } 7. c3 { [%eval 1.77] } 7... Qb6 { [%eval 1.72] } 8. d4 { [%eval 1.86] } 8... c6 { [%eval 1.77] } 9. Be3 { [%eval 1.44] } 9... Qd8?! { [%eval 2.01] } 10. Nd2 { [%eval 1.87] } 10... g6?! { [%eval 2.53] } 11. Nc4 { [%eval 2.25] } 11... Bg7 { [%eval 2.67] } 12. Qb3 { [%eval 2.47] } 12... b5?! { [%eval 3.43] } 13. Ne5 { [%eval 3.42] } 13... Bxe5 { [%eval 3.22] } 14. dxe5 { [%eval 3.39] } 14... e6 { [%eval 3.41] } 15. Rad1?! { [%eval 2.43] } 15... Qc7 { [%eval 2.72] } 16. c4?! { [%eval 1.98] } 16... bxc4 { [%eval 2.4] } 17. Qxc4 { [%eval 1.97] } 17... Ne7 { [%eval 1.86] } 18. Qh4?! { [%eval 1.13] } 18... Nd5? { [%eval 2.62] } 19. Bh6?! { [%eval 1.91] } 19... Nd7 { [%eval 2.08] } 20. Rc1 { [%eval 2.03] } 20... f6? { [%eval 4.96] } 21. Bg7? { [%eval 2.74] } 21... Rg8? { [%eval 3.83] } 22. exf6 { [%eval 3.58] } 22... O-O-O { [%eval 4.04] } 23. Bxd5 { [%eval 3.73] } 23... exd5 { [%eval 3.56] } 24. Qh3 { [%eval 3.28] } 24... Qd6? { [%eval 4.39] } 25. Qb3? { [%eval 1.58] } 25... Nb6? { [%eval 3.02] } 26. a4 { [%eval 2.54] } 26... a5?? { [%eval 16.4] } 27. Qb5?? { [%eval 2.82] } 27... Kc7?! { [%eval 3.72] } 28. Qxa5 { [%eval 3.39] } 28... Rb8? { [%eval 4.41] } 29. b4? { [%eval 2.86] } 29... Rgd8? { [%eval 4.7] } 30. b5 { [%eval 4.63] } 30... c5?! { [%eval 5.34] } 31. Rfd1? { [%eval 3.57] } 31... c4?? { [%eval 7.05] } 32. Qa7+?? { [%eval 3.7] } 32... Rb7 { [%eval 3.79] } 33. Qa5?? { [%eval 0.0] } 33... Ra8?? { [%eval 6.75] } 34. Qc3?! { [%eval 5.9] } 34... Rxa4?? { [%eval 12.46] } 35. Qe3?? { [%eval 5.41] } 35... Rb4?? { [%eval 14.86] } 36. Re1? { [%eval 8.69] } 1-0
+

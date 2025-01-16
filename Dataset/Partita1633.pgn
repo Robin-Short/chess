@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YzJ88Hzb"]
+[White "kihalily"]
+[Black "castorscito"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:46"]
+[WhiteElo "1783"]
+[BlackElo "1731"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+14"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 Be7 3. c3 b6 4. Bd3 Bb7 5. Ne2 d5 6. e5 c5 7. Nf4 Nc6 8. Bc2 Qc7 9. O-O O-O-O 10. Qg4 g6 11. Be3 h5 12. Qg3 Nh6 13. Qf3 Nf5 14. Nd2 Kb8 15. Nh3 cxd4 16. cxd4 Ncxd4 17. Bxd4 Nxd4 18. Qxf7 Nxc2 19. Qxe6 Nd4 20. Qxg6 Ne2+ 21. Kh1 Rdg8 22. Qd3 d4 23. f3 Qxe5 24. Rfe1 Ng3+ 25. hxg3 Qxg3 26. Re2 Bd6 27. Kg1 Qxh3 28. Ne4 Qd7 29. Nf6 Qa4 30. Nxg8 Rxg8 31. Qh7 Re8 32. Rae1 Rxe2 33. Rxe2 d3 34. Qg8+ Bc8 35. Re8 Qd4+ 36. Kf1 Qc5 37. Qe6 Bg3 38. Qe3 Qxe3 39. Rxe3 Ba6 40. Re8+ Kb7 41. Re7+ Kc6 42. Re6+ Kd7 43. Re5 d2+ 44. Re2 d1=Q# 0-1
+

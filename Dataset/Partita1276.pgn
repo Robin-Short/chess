@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dcLYEppd"]
+[White "kors"]
+[Black "Vicious"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:53:06"]
+[WhiteElo "1778"]
+[BlackElo "1812"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 e6 3. Bxf6 Qxf6 4. e4 d5 5. e5 Qd8 6. Nf3 c5 7. dxc5 Nc6 8. a3 Bxc5 9. b4 Be7 10. b5 Nb8 11. a4 Nd7 12. Nbd2 a6 13. bxa6 bxa6 14. Be2 Bb7 15. O-O Nc5 16. Nd4 O-O 17. Rb1 Ne4 18. N2f3 Bc8 19. Bd3 Qc7 20. Qe2 Nc3 21. Qd2 Nxb1 22. Rxb1 Rb8 23. Rc1 Rb7 24. c4 Bd7 25. c5 Bc6 26. Nxc6 Qxc6 27. Qc3 Rc7 28. Nd4 Qxc5 29. Qd2 Qxc1+ 0-1
+

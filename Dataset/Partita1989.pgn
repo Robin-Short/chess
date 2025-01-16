@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AC7y2wfF"]
+[White "marcoocram1979"]
+[Black "ches_acc_cuandrej"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:32:32"]
+[WhiteElo "1577"]
+[BlackElo "1174"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "D26"]
+[Opening "Queen's Gambit Accepted: Normal Variation, Traditional System"]
+[TimeControl "120+5"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 dxc4 5. Bxc4 Bb4+ 6. Bd2 Nc6 7. a3 Bxd2+ 8. Nbxd2 Na5 9. Qa4+ Nc6 10. Rd1 Bd7 11. Bb5 O-O 12. Qc2 a6 13. Bd3 e5 14. dxe5 Ng4 15. Nc4 f6 16. e6 f5 17. exd7 Qxd7 18. O-O 1-0
+

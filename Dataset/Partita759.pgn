@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/g0ECziJZ"]
+[White "sezwho"]
+[Black "ribarisah"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:23"]
+[WhiteElo "2033"]
+[BlackElo "2010"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. f4 g6 2. Nf3 Bg7 3. e3 c6 4. d4 d5 5. Bd3 Nf6 6. Nbd2 e6 7. c3 b6 8. O-O Bb7 9. Qe1 Nbd7 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Nf6 13. Bc2 O-O 14. Ne5 Nd7 15. Be4 Qc7 16. Qh4 f6 17. Nf3 Rae8 18. b3 c5 19. Ba3 Bxe4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1gu2p5yl"]
+[White "etelepon"]
+[Black "CaicoAmaral"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:34"]
+[WhiteElo "2091"]
+[BlackElo "2042"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-9"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Stonewall Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 c6 4. e3 e6 5. Nf3 Ne4 6. Bd3 f5 7. O-O Bd6 8. Qc2 O-O 9. c5 Bc7 10. b4 Bd7 11. Bb2 Be8 12. Ne2 Nd7 13. a4 Qe7 14. a5 a6 15. Ne5 Nxe5 16. dxe5 Bh5 17. f3 Ng5 18. Qd2 h6 19. Nf4 Be8 20. Rad1 Rd8 21. Qe1 Kh7 22. g4 Nf7 23. gxf5 Qg5+ 24. Kh1 Nxe5 25. Nxe6 Qh5 26. Nxf8+ Kg8 27. Qg3 Nxd3 28. Qxg7# 1-0
+

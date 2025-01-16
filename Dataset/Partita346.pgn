@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/iHVNpsai"]
+[White "lpaulmp"]
+[Black "makina"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:59"]
+[WhiteElo "1458"]
+[BlackElo "1607"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bc4 Bc5 4. Nc3 Ne7 5. d3 h6 6. Qe2 d6 7. Be3 Be6 8. Bxe6 Qxe6 9. Bxc5 dxc5 10. O-O O-O 11. Nd2 Nbc6 12. Nc4 Nd4 13. Qd2 b5 14. Ne3 b4 15. Ne2 Nxe2+ 16. Qxe2 c6 17. Nc4 Ng6 18. f3 Nf4 19. Qf2 Qg6 20. g3 Nh3+ 21. Kg2 Nxf2 22. Kxf2 0-1
+

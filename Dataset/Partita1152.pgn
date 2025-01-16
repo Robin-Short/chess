@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ggGq2eaS"]
+[White "leguizcaro"]
+[Black "IXS-210714"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:09"]
+[WhiteElo "1914"]
+[BlackElo "1637"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 e5 4. Nb5 a6 5. N5c3 Bb4 6. a3 Bxc3+ 7. Nxc3 Ne7 8. e3 d5 9. Be2 Be6 10. O-O Nbc6 11. b3 Rc8 12. Bb2 Qc7 13. Na4 O-O 14. Nc5 Bf5 15. Bg4 d4 16. Bxf5 Nxf5 17. Qf3 Nce7 18. Ne4 Qxc2 19. Rab1 b5 20. b4 Qc6 21. Rbc1 Qb7 22. Qg4 Qb6 23. Nc5 Rxc5 24. bxc5 Qf6 25. exd4 exd4 26. Rfd1 Nc6 27. Qe4 Rd8 28. Rd3 Qe6 29. Qxe6 fxe6 30. Re1 e5 31. Re4 g6 32. f4 exf4 33. Rxf4 Re8 34. Kf2 Re3 35. Rxe3 dxe3+ 36. Ke2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JF2v0T7w"]
+[White "princechess"]
+[Black "azc"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:47"]
+[WhiteElo "1578"]
+[BlackElo "1391"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "3600+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Bxd5 Qxd5 7. Nc3 Qd6 8. Qe2 Nc6 9. O-O Nd4 10. Nxd4 Qxd4 11. Be3 Qd7 12. Rae1 Qg4 13. f3 Qe6 14. Bg5 Bb4 15. Qxe5 Bxc3 1-0
+

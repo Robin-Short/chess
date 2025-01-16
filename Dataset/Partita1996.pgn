@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/480NkTuD"]
+[White "edmario"]
+[Black "CaseMoney"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:32:14"]
+[WhiteElo "1574"]
+[BlackElo "1734"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+17"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. Bc4 e6 5. Nc3 Be7 6. Ngxe4 O-O 7. d3 Nc6 8. Be3 Ne5 9. O-O Bd7 10. Qe2 Bc6 11. Nxf6+ Bxf6 12. Ne4 Nxc4 13. Nxf6+ Qxf6 14. dxc4 Qxb2 15. Rab1 Qxa2 16. Bd4 Rae8 17. Be5 Qa5 18. Ra1 Qc5 19. Rfe1 f6 20. Bxc7 Qg5 21. f4 Qg6 22. Rxa7 e5 23. Qf2 exf4 24. Rxe8 Rxe8 25. Bxf4 Re1+ 26. Qxe1 Qxg2# 0-1
+

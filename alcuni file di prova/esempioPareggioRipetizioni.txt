@@ -1,0 +1,163 @@
+esempioPareggioRipetizioni.txt
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 
+ 6                 
+ 5                 
+ 4                 
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 
+ 6                 
+ 5                 
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟   ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟   ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♔ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕   ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♚ ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♔ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕   ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♚ ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟   ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟   ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♔ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕   ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♚ ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♔ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕   ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♚ ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟   ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙   ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟   ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♔ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕   ♗ ♘ ♖ 
+   A B C D E F G H
+
+
+ 8 ♜ ♞ ♝ ♛   ♝ ♞ ♜ 
+ 7 ♟ ♟ ♟ ♟ ♚ ♟ ♟ ♟ 
+ 6                 
+ 5         ♟       
+ 4         ♙       
+ 3                 
+ 2 ♙ ♙ ♙ ♙ ♔ ♙ ♙ ♙ 
+ 1 ♖ ♘ ♗ ♕   ♗ ♘ ♖ 
+   A B C D E F G H
+
+Sequenza Mosse:
+
+	0.	e2e4 giocata dal BIANCO	in 4.513 s
+	1.	e7e5 giocata dal NERO	in 7.53 s
+	2.	e1e2 giocata dal BIANCO	in 3.674 s
+	3.	e8e7 giocata dal NERO	in 2.054 s
+	4.	e2e1 giocata dal BIANCO	in 2.424 s
+	5.	e7e8 giocata dal NERO	in 2.3 s
+	6.	e1e2 giocata dal BIANCO	in 1.701 s
+	7.	e8e7 giocata dal NERO	in 2.688 s
+	8.	e2e1 giocata dal BIANCO	in 2.113 s
+	9.	e7e8 giocata dal NERO	in 3.228 s
+	10.	e1e2 giocata dal BIANCO	in 3.326 s
+	11.	e8e7 giocata dal NERO	in 3.242 s
+
+Totale Tempo impiegato dal BIANCO: 17.753 s
+Totale Tempo impiegato dal NERO:   21.045 s
+
+Vincitore: PATTA.

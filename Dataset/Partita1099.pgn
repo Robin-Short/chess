@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JWYJeJPn"]
+[White "escalibut"]
+[Black "seigneur"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:44:40"]
+[WhiteElo "1952"]
+[BlackElo "2021"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 Qb6 6. Bxc6+ bxc6 7. O-O Ba6 8. d3 c4+ 9. Kh1 cxd3 10. cxd3 Ne7 11. Re1 Nf5 12. d4 Be7 13. Nc3 O-O 14. a3 Bc4 15. b4 a5 16. Na4 Qd8 17. Bd2 axb4 18. axb4 Qc7 19. Nc5 h6 20. Qc2 Nh4 21. Nxh4 Bxh4 22. g3 Be7 23. f5 Bxc5 24. bxc5 exf5 25. Qxf5 Qe7 26. Qg4 Kh8 27. Qh5 Qe6 28. Bf4 Qg6 29. Qxg6 fxg6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jbn0rupy"]
+[White "ctejas"]
+[Black "dannyflack"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:58"]
+[WhiteElo "1449"]
+[BlackElo "1490"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "480+8"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. e4 c6 3. a3 d5 4. Nc3 Bc5 5. exd5 cxd5 6. d4 Bb6 7. Bb5+ Bd7 8. a4 a6 9. Bg5 Nf6 10. Bxd7+ Nbxd7 11. Ne5 O-O 12. Nxd7 Qxd7 13. Bxf6 gxf6 14. a5 Ba7 15. Qg4+ Kh8 16. Qf3 Bxd4 17. O-O Rac8 18. Na4 Rxc2 19. Qd3 Rc4 20. Nb6 Qb5 21. Nxc4 Bxb2 22. Rab1 Qxc4 23. Qxc4 dxc4 24. Rxb2 Rc8 25. Rc2 c3 26. Rb1 Rc7 27. Rb3 f5 28. Rbxc3 Rd7 29. g3 e5 30. Rc7 Rd5 31. Rxf7 Rxa5 32. Rc8# 1-0
+

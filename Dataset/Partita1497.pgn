@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/minVtHyw"]
+[White "laurawilson"]
+[Black "1962"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:28"]
+[WhiteElo "1301"]
+[BlackElo "1294"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-17"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nc3 e6 3. Nf3 c5 4. Bf4 cxd4 5. Nb5 a6 6. Nc7+ Qxc7 7. Bxc7 Nc6 8. Bf4 Bd7 9. Ng5 Be7 10. Nf3 f6 11. g4 e5 12. Bg3 Bb4+ 13. c3 dxc3 14. bxc3 Bxc3+ 15. Nd2 Bxa1 16. Qxa1 Rc8 17. Qb1 Na5 18. Nb3 Nc4 19. e3 Ba4 20. e4 d4 21. g5 Ne7 22. g6 hxg6 23. h4 g5 24. Ke2 Rh5 25. Bg2 Bb5 26. Bf3 Na3+ 27. Kd1 Nxb1 28. Bxh5+ Kf8 29. hxg5 Rc3 30. gxf6 Bd3 31. fxg7+ Kg8 32. Bxe5 Ng6 33. Bf6 1-0
+

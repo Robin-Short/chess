@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UjJV01go"]
+[White "ro61"]
+[Black "bjagus"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:20:41"]
+[WhiteElo "1738"]
+[BlackElo "1502"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. g4 e6 2. Bg2 d5 3. c4 Nc6 4. cxd5 exd5 5. Nc3 Bxg4 6. Nxd5 Be6 7. Nf4 Bd7 8. Qb3 b6 9. a3 Bd6 10. d3 Qf6 11. Nd5 Qe6 12. Kd2 Nf6 13. Nxf6+ Qxf6 14. Qc2 O-O 15. Bxc6 Bxc6 16. e3 Bxh1 17. f4 Qh4 18. Ne2 Qxh2 19. Kc3 Bf3 20. Nd4 Qxc2+ 21. Kxc2 Bh5 22. Bd2 Rfe8 23. e4 Bc5 24. Nf5 Bg6 25. Nh4 Rad8 26. f5 Bh5 27. Ng2 Bf3 28. Nh4 Be2 29. b4 Bxd3+ 30. Kc3 Bf2 31. Nf3 Bxe4 32. Ng5 Rd3+ 33. Kc4 Bxf5 34. Bf4 Rd4+ 35. Kc3 Rxf4 36. Rf1 Bd4+ 37. Kc4 b5+ 38. Kd5 c6+ 39. Kxc6 Rxf1 40. Kxb5 Bd3+ 41. Ka4 Rb8 42. Nf3 Bb5+ 43. Ka5 Bb6+ 44. Kxb5 Ra1 45. Kc4 Rxa3 46. Ne5 Re3 47. Nc6 1-0
+

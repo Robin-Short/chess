@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0Xd2GZP1"]
+[White "ehpotsirhk"]
+[Black "MrXZK"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:49"]
+[WhiteElo "1411"]
+[BlackElo "1273"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+22"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nc3 Bc5 6. d4 exd4 7. Nxd4 Qf6 8. Be3 Bxd4 9. Bxd4 Qg5 10. O-O d5 11. Re1 Bh3 12. g3 Nf6 13. e5 Ne4 14. Nxe4 dxe4 15. Rxe4 Qf5 16. Qe1 Qf3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kVC9Ro0M"]
+[White "ntiy"]
+[Black "iel87"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:45:19"]
+[WhiteElo "1205"]
+[BlackElo "1425"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+20"]
+[ECO "B07"]
+[Opening "Rat Defense: Antal Defense"]
+[TimeControl "60+3"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nd7 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 g6 6. Bb5 Bg7 7. h4 c6 8. Bd3 Bxd4 9. Qf3 Ne5 10. Qf4 Ne7 11. Be3 Bxc3+ 12. bxc3 O-O 13. Bd4 Nxd3+ 14. cxd3 f5 15. Qh6 Rf7 16. exf5 Nxf5 17. Qg5 Qxg5 18. hxg5 Nxd4 19. cxd4 Bf5 0-1
+

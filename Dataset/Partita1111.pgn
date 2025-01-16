@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yPLM1VSb"]
+[White "spojar"]
+[Black "explodecomputer"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:45:27"]
+[WhiteElo "2091"]
+[BlackElo "1966"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A10"]
+[Opening "English Opening"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. c4 b6 2. Nc3 Bb7 3. e4 Nf6 4. d3 d6 5. Nf3 e5 6. Be2 Be7 7. O-O O-O 8. h3 h6 9. a4 Nc6 10. Be3 Nh7 11. d4 exd4 12. Nxd4 Nf6 13. Bd3 Ne5 14. Nd5 Nxd3 15. Qxd3 c6 16. Nxe7+ Qxe7 17. f3 Rad8 18. Rfe1 Qc7 19. Rac1 Rfe8 20. Nf5 Re6 21. Bd4 Rde8 22. Qc3 c5 23. Bf2 Bxe4 24. fxe4 Nxe4 25. Qxg7# 1-0
+

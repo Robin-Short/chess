@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NSdJohER"]
+[White "serge_vw1"]
+[Black "vectra"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:36"]
+[WhiteElo "2028"]
+[BlackElo "1687"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 O-O 7. O-O Bd7 8. f4 Nc6 9. Be3 a6 10. a4 Nxd4 11. Bxd4 Be6 12. Bd3 Nd7 13. f5 Bxf5 14. exf5 Bf6 15. Bxf6 Nxf6 16. Ne4 d5 17. Nxf6+ Qxf6 18. c3 c6 19. Qf3 Rad8 20. g4 h6 21. Qg3 Qg5 22. h4 Qd2 23. Rf2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mKMNBK3h"]
+[White "mehmetuca78"]
+[Black "AI-I"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:02:17"]
+[WhiteElo "1351"]
+[BlackElo "1446"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 { [%eval -0.26] } 1... e6 { [%eval 0.01] } 2. Bb2 { [%eval 0.02] } 2... d5 { [%eval -0.06] } 3. e3 { [%eval 0.08] } 3... f6?! { [%eval 0.82] } 4. Bb5+?! { [%eval 0.22] } 4... c6 { [%eval 0.24] } 5. Bf1 { [%eval -0.09] } 5... e5 { [%eval -0.15] } 6. g3 { [%eval -0.39] } 6... Nd7 { [%eval -0.29] } 7. Nf3 { [%eval -0.37] } 7... Bd6 { [%eval -0.17] } 8. Nh4 { [%eval -0.62] } 8... Ne7 { [%eval -0.62] } 9. Nc3 { [%eval -0.77] } 9... O-O { [%eval -0.85] } 10. Ne2 { [%eval -1.13] } 10... Ng6?! { [%eval -0.22] } 11. Nf3?! { [%eval -1.13] } 11... Nb6 { [%eval -0.79] } 12. h4 { [%eval -1.12] } 12... Be6?! { [%eval -0.62] } 13. h5 { [%eval -0.63] } 13... Ne7 { [%eval -0.5] } 14. h6 { [%eval -0.51] } 14... g6 { [%eval -0.45] } 15. Nh4?! { [%eval -1.0] } 15... g5 { [%eval -0.65] } 16. Nf3 { [%eval -0.59] } 16... e4 { [%eval -0.68] } 17. Nh2 { [%eval -0.68] } 17... c5 { [%eval -0.43] } 18. f4? { [%eval -2.05] } 18... d4? { [%eval 0.18] } 19. Ng4?? { [%eval -4.6] } 19... Bxg4 { [%eval -4.67] } 20. Bh3 { [%eval -4.59] } 20... Qd7 { [%eval -4.28] } 21. Bxg4 { [%eval -4.56] } 21... Qxg4 { [%eval -4.73] } 22. exd4? { [%eval -5.9] } 22... cxd4? { [%eval -4.06] } 23. Bxd4 { [%eval -3.73] } 23... Nbd5 { [%eval -4.26] } 24. Rc1? { [%eval -5.77] } 24... Rac8? { [%eval -4.62] } 25. c3 { [%eval -4.94] } 25... gxf4 { [%eval -5.72] } 26. Nxf4? { [%eval -7.67] } 26... Nxf4?? { [%eval 8.19] } 27. Qxg4+ { [%eval 8.01] } 27... Neg6 { [%eval 8.27] } 28. gxf4 { [%eval 8.56] } 28... Bxf4? { [%eval 19.79] } 29. Rg1 { [%eval 11.36] } 29... Rc6 { [%eval 14.49] } 30. Qxf4 { [%eval 14.46] } 30... f5 { [%eval 20.44] } 31. Qg5 { [%eval 14.58] } 31... Rcf6?! { [%eval #7] } 32. Bxf6 { [%eval #6] } 32... Rxf6 { [%eval #2] } 33. Qxf6 { [%eval #1] } 1-0
+

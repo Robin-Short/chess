@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G4845sda"]
+[White "nizzakrum"]
+[Black "gutmann"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:02"]
+[WhiteElo "1303"]
+[BlackElo "1566"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+[TimeControl "120+8"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Bb4 3. e4 Bxc3 4. bxc3 d6 5. Rb1 c5 6. h3 b6 7. d3 Bb7 8. h4 Nd7 9. Bg5 f6 10. Be3 Ne7 11. g4 Qc7 12. a4 a5 13. Nh3 h6 14. Bg2 g5 15. h5 Bc6 16. f3 Nf8 17. O-O Qd7 18. Rxb6 Bxa4 19. Rxd6 Bxd1 20. Rxd7 Kxd7 21. Rxd1 Ne6 22. Rb1 Rhb8 23. Rb5 Rxb5 24. cxb5 a4 25. c4 Nd4 0-1
+

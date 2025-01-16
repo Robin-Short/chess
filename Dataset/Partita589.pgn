@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pXjemgnB"]
+[White "DAYSTRUM"]
+[Black "Yaguarete"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:23:35"]
+[WhiteElo "1795"]
+[BlackElo "2006"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "E76"]
+[Opening "King's Indian Defense: Four Pawns Attack"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. e5 Ne8 7. h3 dxe5 8. fxe5 c5 9. d5 Bxe5 10. Be3 Nd7 11. Nf3 Bg7 12. Bd3 Nd6 13. O-O b6 14. Qd2 Nf6 15. Bh6 Bf5 16. Bxg7 Kxg7 17. Nh4 Bxd3 18. Qxd3 Rb8 19. Rae1 a6 20. a3 b5 21. b3 bxc4 22. bxc4 Rb3 23. Qg3 Qa5 24. Re3 Nxc4 25. Ref3 Nd6 26. Nf5+ Nxf5 27. Rxf5 Rxc3 28. Qg5 Qxa3 29. R5f3 Rxf3 30. Rxf3 Qa1+ 31. Kh2 Rd8 32. h4 Rxd5 33. Qg3 Qe5 34. Qxe5 Rxe5 0-1
+

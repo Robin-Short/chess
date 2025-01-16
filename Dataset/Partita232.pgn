@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HIh01GuX"]
+[White "jagos2"]
+[Black "oto"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:25"]
+[WhiteElo "1677"]
+[BlackElo "1819"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 f5 4. exf6 Nxf6 5. Nf3 Bd6 6. h3 O-O 7. Be2 c6 8. c3 Nbd7 9. Be3 Ne4 10. Nbd2 Qf6 11. Nxe4 dxe4 12. Bg5 Qg6 13. Qd2 exf3 14. Bxf3 Nf6 15. Qe2 Nd5 16. h4 h6 17. Bd2 Nf4 18. Bxf4 Bxf4 19. h5 Qf6 20. Qe4 Bd7 21. b4 Rae8 22. Be2 Bg5 23. f3 e5 24. Bc4+ Kh8 25. Be2 exd4 26. Qxd4 Qxd4 27. cxd4 a6 28. a4 Re3 29. a5 Rfe8 30. Ra2 Rb3 31. Kf2 Be3+ 32. Kg3 Rxb4 33. Bd3 Bxd4 34. Bg6 Rf8 35. Rd1 Be5+ 36. Kf2 Rd4 37. Rxd4 Bxd4+ 38. Ke2 c5 39. Rc2 Bb5+ 40. Ke1 Kg8 41. Rc1 Rd8 42. Rc2 Kf8 43. Be4 Rd7 44. g4 Ke7 45. f4 Kf6 46. Bf5 Re7+ 47. Kd1 Ba4 48. Kd2 Bxc2 49. Kxc2 Re2+ 50. Kd3 Ra2 51. Be4 Ra3+ 52. Kc4 Rxa5 53. Bxb7 Ra1 54. Kd5 a5 55. Kc4 a4 56. Kb5 a3 57. Ka4 c4 58. Bd5 c3 59. Kb3 Rf1 60. Kxa3 c2 61. Bc4 Rg1 62. g5+ hxg5 63. fxg5+ Kxg5 64. h6 gxh6 65. Bb3 c1=Q+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YYvU9TfW"]
+[White "nabov"]
+[Black "dub_m"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:02:32"]
+[WhiteElo "1162"]
+[BlackElo "1070"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+57"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 d6 3. Nf3 h6 4. Be3 Bg4 5. Qd2 Nc6 6. h3 Bxf3 7. gxf3 Nf6 8. h4 Be7 9. Bh3 O-O 10. Qc3 Nh5 11. f4 Bxh4 12. Nd2 exf4 13. O-O-O fxe3 14. Nf3 Bxf2 15. Rhf1 e2 16. Rxf2 exd1=Q+ 17. Kxd1 Qe7 18. Rg2 Qf6 19. e5 Qxf3+ 20. Kd2 Qxh3 21. Re2 Ng3 22. Re3 Nf1+ 23. Kd1 Qxe3 24. exd6 cxd6 25. Qe1 Qf3+ 26. Kc1 Rfe8 27. Qd1 Re2 28. c4 Nd4 29. b4 Ne3 30. Qa4 Qf1+ 31. Qd1 Nxd1 32. c5 Nc3# 0-1
+

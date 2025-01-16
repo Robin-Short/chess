@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FGk8rD8k"]
+[White "JackDuffy"]
+[Black "hotdog"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:21:02"]
+[WhiteElo "1387"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-241"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "120+8"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 e6 3. Bd3 g5 4. f4 gxf4 5. exf4 Nc6 6. Nf3 d5 7. c3 e5 8. Nxe5 a6 9. O-O b5 10. b4 Bh6 11. f5 Bxc1 12. Qxc1 O-O 13. Qg5+ Kh8 14. Qh6 Nxe5 15. dxe5 Ng4 16. Qh5 Nxe5 17. f6 Nxd3 18. Qh6 Bf5 19. Qg7# 1-0
+

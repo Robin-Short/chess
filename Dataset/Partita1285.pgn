@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2EJ5LXyS"]
+[White "MateGrinder"]
+[Black "edmario"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:53:45"]
+[WhiteElo "1388"]
+[BlackElo "1586"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-18"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Re1 d6 6. c3 Bd7 7. d4 O-O 8. dxe5 Nxe5 9. Nxe5 dxe5 10. Bc4 c6 11. Bg5 Qc7 12. Nd2 Rad8 13. Nf3 Bg4 14. Qe2 h6 15. Bxf6 Bxf6 16. h3 Bh5 17. Qe3 b6 18. a4 Rd6 19. a5 Rfd8 20. axb6 axb6 21. Bb3 c5 22. Bd5 g5 23. c4 Qd7 24. Qc3 Re8 25. Rab1 g4 26. hxg4 Bxg4 27. Nd2 Kh7 28. b4 Rg8 29. Re3 Bd8 30. b5 Rdg6 31. f3 Be6 32. Re2 Bg5 33. Qxe5 Bxd2 34. Rxd2 Bxd5 35. Qxd5 Qh3 36. Rbb2 R8g7 37. Ra2 Qg3 38. Qd3 h5 39. Qe3 h4 40. Qf2 h3 41. Qxg3 Rxg3 42. Rf2 hxg2 43. Rxg2 Rxf3 44. Rxg7+ Kxg7 45. Kh2 Rc3 46. Ra4 Re3 47. Ra6 Rxe4 48. Rxb6 Rxc4 49. Rc6 Rc2+ 50. Kg3 c4 51. Kf4 Rb2 52. Rc5 Kg6 53. Ke4 1-0
+

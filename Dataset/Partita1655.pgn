@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sf3gr8De"]
+[White "HoracioCesar"]
+[Black "vanzan"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:12:37"]
+[WhiteElo "1838"]
+[BlackElo "1860"]
+[WhiteRatingDiff "-42"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "300+9"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. d4 Nxc3 5. bxc3 Bf5 6. Nf3 c6 7. Bc4 e6 8. Be3 Nd7 9. O-O Nb6 10. Bb3 Bd6 11. c4 Bc7 12. c5 Nd5 13. Bg5 f6 14. Bd2 O-O 15. c4 Ne7 0-1
+

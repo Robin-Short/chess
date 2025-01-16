@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ASFplJTp"]
+[White "JekyllHyde"]
+[Black "Maconouchi"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:08:10"]
+[WhiteElo "1633"]
+[BlackElo "1665"]
+[WhiteRatingDiff "+41"]
+[BlackRatingDiff "-12"]
+[ECO "B00"]
+[Opening "King's Pawn Game: Nimzowitsch Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. d4 e6 3. Nc3 d6 4. Be3 a6 5. f3 Be7 6. Bd3 h6 7. Qe2 Nf6 8. O-O-O O-O 9. Kb1 Nh7 10. Nh3 f6 11. Nf2 e5 12. d5 Nb8 13. Ng4 Bxg4 14. fxg4 Qe8 15. h4 Nd7 16. g5 fxg5 17. hxg5 Bxg5 18. Bxg5 Nxg5 19. Qg4 Qe7 20. Ne2 Rf2 21. Ng3 Rf4 22. Qh5 Raf8 23. Nf5 Qf6 24. g3 Rf3 25. Be2 Rf2 26. Rde1 c6 27. Bg4 c5 28. Rhf1 Rxf1 29. Rxf1 Qd8 30. Be2 Nb6 31. Qg4 Nc4 32. b3 Nb6 33. Bd3 Nh7 34. Nxh6+ Kh8 35. Nf7+ Rxf7 36. Rxf7 Qg5 37. Qxg5 Nxg5 38. Rxb7 Na4 39. Rb8+ Kh7 40. bxa4 Nf3 41. Rb7 1-0
+

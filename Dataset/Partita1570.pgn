@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3tzgDlot"]
+[White "nemanja18"]
+[Black "iefacio"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:36"]
+[WhiteElo "1220"]
+[BlackElo "1571"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Reversed Nimzowitsch"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. Nc3 e5 2. b3 h6 3. Bb2 Nf6 4. d3 d5 5. e4 d4 6. Nce2 Nc6 7. Nf3 Bd6 8. g3 Be6 9. Bg2 Qd7 10. Qd2 g5 11. O-O-O O-O-O 12. h4 gxh4 13. gxh4 Kb8 14. Neg1 Rhg8 15. Bh3 Bxh3 16. Nxh3 Bb4 17. c3 dxc3 18. Bxc3 Ba3+ 19. Kb1 Qd6 20. Bb2 Nd7 21. Rc1 f6 22. h5 Nb6 23. Ne1 Nd4 24. Nc2 Bxb2 25. Kxb2 Nf3 26. Qe2 Qxd3 27. Qxd3 Rxd3 28. Rcd1 Rgd8 29. a3 Rxd1 0-1
+

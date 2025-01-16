@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/x3lP314d"]
+[White "rasko"]
+[Black "t-o-l-y"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:34"]
+[WhiteElo "1780"]
+[BlackElo "1874"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "360+10"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.22] } 2. c3 { [%eval -0.01] } 2... g6 { [%eval 0.15] } 3. Bg5 { [%eval 0.2] } 3... Bg7 { [%eval 0.09] } 4. Nd2 { [%eval 0.14] } 4... d5 { [%eval 0.15] } 5. Ngf3 { [%eval 0.11] } 5... O-O { [%eval 0.11] } 6. e3 { [%eval 0.15] } 6... Nbd7 { [%eval 0.11] } 7. Bd3 { [%eval 0.14] } 7... c5 { [%eval 0.08] } 8. a3 { [%eval 0.0] } 8... h6 { [%eval -0.03] } 9. Bh4 { [%eval 0.06] } 9... cxd4 { [%eval 0.25] } 10. exd4 { [%eval 0.06] } 10... Qc7?! { [%eval 0.64] } 11. Bg3 { [%eval 0.2] } 11... Qb6 { [%eval 0.2] } 12. Qc2 { [%eval 0.05] } 12... Re8 { [%eval 0.41] } 13. O-O-O { [%eval 0.35] } 1-0
+

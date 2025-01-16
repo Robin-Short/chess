@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Is2zI1q7"]
+[White "PILOTVE"]
+[Black "rt0306"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:26:15"]
+[WhiteElo "1564"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-23"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 c5 2. Nc3 d5 3. e4 d4 4. Nb1 Nc6 5. Bc4 e5 6. d3 f6 7. a3 Qe7 8. Bxg8 Be6 9. Bxe6 Qxe6 10. h3 O-O-O 11. Bd2 Kb8 12. Qe2 Bd6 13. c3 dxc3 14. Nxc3 Bf8 15. O-O g5 16. Nd5 h5 17. b4 h4 18. bxc5 Bxc5 19. Nb4 Ne7 20. Rfb1 Ka8 21. Be3 Bxe3 22. Qxe3 g4 23. hxg4 Qxg4 24. Nd2 Rdg8 25. Qf3 Qe6 26. Kf1 h3 27. g3 h2 28. Ke2 Ng6 29. Nc4 Rh3 30. Qf5 Qe7 31. Nd5 Qc5 32. Qd7 Qc6 33. Nc7+ Kb8 34. Na6+ Ka8 35. Qxc6 bxc6 36. Nc5 Ne7 37. Nd6 Rgh8 38. Rh1 Ng6 39. Nf5 Nf8 40. Ne6 Nxe6 41. Nd6 Nc5 42. Nf5 Ne6 43. a4 R8h5 44. a5 Rh7 45. Rac1 Kb7 46. Rb1+ Kc7 47. a6 Kc8 48. Rb7 Rxb7 49. axb7+ Kxb7 50. Nd6+ Kc7 51. Nc4 Nd4+ 52. Ke3 Rh6 53. Na5 a6 54. Rc1 Nc2+ 55. Rxc2 h1=Q 56. Rxc6+ Kd7 57. Rxa6 1-0
+

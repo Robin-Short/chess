@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Wpg7vRLq"]
+[White "Permanganato"]
+[Black "guardman"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:15:07"]
+[WhiteElo "1712"]
+[BlackElo "1789"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "B56"]
+[Opening "Sicilian Defense: Classical Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Nb3 g6 8. O-O Bg7 9. Bg5 O-O 10. Qd2 a6 11. Bxc6 bxc6 12. f3 a5 13. a4 Be6 14. Rad1 Bxb3 15. cxb3 Qb6+ 16. Kh1 Qxb3 17. Bh6 Rab8 18. Bxg7 Kxg7 19. Ne2 Qxb2 20. Nd4 Qxd2 21. Rxd2 c5 22. Nb5 Nd7 23. Rc2 Nb6 24. Ra1 Nxa4 25. Nxd6 exd6 26. Kg1 Nb6 27. Rxa5 Rfd8 28. Ra6 c4 29. Kf2 d5 30. exd5 Nxd5 31. Rxc4 Rb2+ 32. Kg3 Rxg2+ 33. Kxg2 Ne3+ 34. Kg3 Nxc4 35. Rc6 Rd4 36. Rc7 Ne5 37. Rc5 Nd3 38. Rc6 Nf4 39. Rc7 Nh5+ 40. Kg2 Rd3 41. Rc4 Nf6 42. Rf4 h5 43. h4 Rd2+ 44. Kg3 Nd7 45. Re4 Nc5 46. Rf4 Ne6 47. Re4 Nd4 48. Rf4 Nf5+ 49. Kh3 Rd1 50. Kg2 Rd2+ 51. Kh3 Kf6 52. Rb4 Rd1 53. Rb6+ Kg7 54. Rb4 Rh1+ 55. Kg2 Rxh4 56. Rxh4 Nxh4+ 57. Kg3 Nf5+ 58. Kf4 Kf6 59. Ke4 g5 60. f4 g4 0-1
+

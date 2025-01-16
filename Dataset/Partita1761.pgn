@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Gp5MuPiR"]
+[White "nengahsuta"]
+[Black "Catrocketmoo"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:58"]
+[WhiteElo "1490"]
+[BlackElo "1281"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-12"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. e5 f6 4. d4 fxe5 5. Nxe5 Qe7 6. Qh5+ g6 7. Nxg6 Qb4+ 8. c3 Qd6 9. Nxh8+ Kd8 10. Nf7+ Kd7 11. Nxd6 Kxd6 12. Bf4+ e5 13. Qxe5+ Kc6 14. Qxc7# 1-0
+

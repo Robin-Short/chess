@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KyX2Z3Gk"]
+[White "tuskerking"]
+[Black "E-Online"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:45"]
+[WhiteElo "1916"]
+[BlackElo "1897"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 c6 3. Bc4 Nf6 4. e5 Nh5 5. Nf3 Ng7 6. Ng5 d5 7. exd6 e6 8. O-O Bxd6 9. c3 Be7 10. Nf3 h5 11. Nbd2 Nf5 12. Ne4 Nd7 13. Ng3 Nb6 14. Bd3 Nxg3 15. fxg3 h4 16. Be3 hxg3 17. hxg3 Qd5 18. Bf4 Qh5 19. Kf2 Nd5 20. Rh1 Qxh1 21. Qxh1 Rxh1 22. Rxh1 Nxf4 23. gxf4 Kd7 24. Rh7 b5 25. Rxf7 Bb7 26. Ne5+ Kd6 27. Bxg6 Rg8 28. Bh5 c5 29. Bf3 Bxf3 30. Nxf3 cxd4 31. Nxd4 Bd8 32. Rxa7 Bb6 33. Ra6 Kc7 34. Ra3 e5 35. fxe5 Rf8+ 36. Ke3 Rg8 37. Ke4 Rg4+ 38. Kd5 Rxg2 39. Rb3 Rd2 40. Rxb5 Bxd4 41. cxd4 Rd1 42. b4 Kd7 43. a4 Ke7 44. a5 Kf7 45. a6 Kg6 46. Rb7 Kg5 47. a7 Kf4 48. b5 Ke3 49. b6 Rxd4+ 50. Kc5 Rd1 51. Kc6 Ke4 52. Kb5 Rc1 53. Rc7 Rb1+ 54. Kc6 Ra1 55. Kb7 Rb1 56. Rc4+ Kd5 57. Re4 Rxb6+ 58. Kxb6 Kxe4 59. e6 Ke5 60. e7 Kf5 61. e8=Q Kg5 62. Kb7 Kg4 63. a8=Q Kg3 64. Qad8 Kf2 65. Qde7 Kf1 66. Q7f7+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/oJNFtJRA"]
+[White "ribarisah"]
+[Black "sezwho"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:31:15"]
+[WhiteElo "2021"]
+[BlackElo "2022"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 c6 2. Bg2 d5 3. Nf3 Nd7 4. O-O e5 5. d4 e4 6. Ne1 f5 7. f3 Ngf6 8. fxe4 fxe4 9. Bg5 Bd6 10. c3 Qe7 11. Nc2 Nf8 12. Ne3 Ng6 13. c4 Be6 14. cxd5 cxd5 15. Nc3 Qf7 16. Qa4+ Bd7 17. Qb3 Bc6 18. Rf2 Ne7 19. Raf1 O-O-O 20. Bxf6 gxf6 21. Rxf6 Qh5 22. g4 Qg5 23. Nexd5 Nxd5 24. Nxd5 Bxd5 25. Qc2+ Kb8 26. R6f5 Qe3+ 27. Kh1 Be6 28. Rb5 Bxg4 29. Qb3 Qxb3 30. Rxb3 Rhe8 31. Re1 Be6 32. e3 Bxb3 33. axb3 Bb4 34. h3 Bxe1 35. Kh2 Bf2 36. h4 Bxe3 37. Kh3 Bxd4 38. Kg4 Be5 39. Bxe4 Bxb2 40. Bxh7 Bc1 41. Bg6 Rg8 42. h5 Rxg6+ 43. hxg6 Rg8 44. Kf5 Rxg6 45. Kxg6 Bd2 46. Kf5 Bb4 47. Ke4 a5 48. Kd3 Kc7 49. Kc4 Kc6 50. Kd4 b5 51. Kd3 Kc5 52. Kc2 Kd5 53. Kb1 Kd4 54. Kc2 Ke4 0-1
+

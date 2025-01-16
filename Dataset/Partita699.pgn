@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nIbhCUpz"]
+[White "Vicious"]
+[Black "alberto1949"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:27:09"]
+[WhiteElo "2042"]
+[BlackElo "1824"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... b6?! { [%eval 0.83] } 2. Nc3 { [%eval 0.71] } 2... Ba6?! { [%eval 1.26] } 3. d4?! { [%eval 0.67] } 3... Bxf1 { [%eval 0.67] } 4. Kxf1 { [%eval 0.74] } 4... e6 { [%eval 0.62] } 5. Nf3 { [%eval 0.36] } 5... Bb4 { [%eval 0.62] } 6. Ne2 { [%eval 0.32] } 6... Be7 { [%eval 0.62] } 7. c3 { [%eval 0.27] } 7... a5 { [%eval 0.59] } 8. Be3 { [%eval 0.35] } 8... Na6 { [%eval 0.56] } 9. g3 { [%eval 0.43] } 9... Nf6 { [%eval 0.5] } 10. Kg2?! { [%eval -0.39] } 10... O-O?! { [%eval 0.37] } 11. e5 { [%eval 0.37] } 11... Nd5 { [%eval 0.48] } 12. Bd2 { [%eval 0.36] } 12... f5? { [%eval 1.6] } 13. Nf4? { [%eval 0.25] } 13... Nxf4+ { [%eval 0.18] } 14. Bxf4 { [%eval 0.37] } 14... h6 { [%eval 0.36] } 15. h4 { [%eval 0.36] } 15... c6 { [%eval 0.34] } 16. Qd2 { [%eval 0.18] } 16... Kh7 { [%eval 0.37] } 17. Ng5+ { [%eval 0.3] } 17... hxg5 { [%eval -0.46] } 18. hxg5+ { [%eval 0.25] } 18... Kg8 { [%eval -0.22] } 19. g6 { [%eval 0.21] } 19... Nc7?? { [%eval #9] } 20. Qe2?! { [%eval 21.05] } 20... Nd5?! { [%eval #3] } 21. Rh8+ { [%eval #2] } 21... Kxh8 { [%eval #2] } 22. Qh5+ { [%eval #1] } 1-0
+

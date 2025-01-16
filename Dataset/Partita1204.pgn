@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/wzJIBL9A"]
+[White "-dexter-"]
+[Black "Queenlml"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:49:34"]
+[WhiteElo "1246"]
+[BlackElo "1265"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-12"]
+[ECO "A00"]
+[Opening "Mieses Opening: Reversed Rat"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. d3 e5 2. Bd2 d5 3. Ba5 e4 4. dxe4 dxe4 5. Qxd8+ Kxd8 6. Bc3 f6 7. Nd2 Bc5 8. e3 Bg4 9. f3 exf3 10. gxf3 Bh5 11. O-O-O Bxe3 12. Kb1 Kc8 13. Nc4 Bxg1 14. Rxg1 Bxf3 15. Rd3 Be4 16. Re3 Bd5 17. Rxg7 Bxc4 18. Bxc4 Ne7 19. Rgxe7 Nc6 20. Be6+ Kb8 21. Re8+ Rxe8 22. Bxf6 Nd4 23. Bxd4 b6 24. Bd5 c6 25. Bxc6 Kc7 26. Bxe8 Rxe8 1-0
+

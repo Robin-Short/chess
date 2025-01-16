@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DRcw7qP8"]
+[White "tosquiman1"]
+[Black "wbtit"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:32:28"]
+[WhiteElo "1442"]
+[BlackElo "1272"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-31"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Bc4 e6 4. Qxd4 Nc6 5. Qd1 Nf6 6. Bg5 Qa5+ 7. Bd2 Bb4 8. c3 Bc5 9. b4 Bxf2+ 10. Kxf2 Nxe4+ 11. Ke2 Qe5 12. Nf3 Ng5+ 13. Nxe5 1-0
+

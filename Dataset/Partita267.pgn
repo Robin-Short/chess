@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MQGg4Y6z"]
+[White "ujura"]
+[Black "BearJr"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:10:36"]
+[WhiteElo "1969"]
+[BlackElo "1810"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 d5 2. Bb2 c6 3. e3 Nd7 4. Nf3 e6 5. d4 Ngf6 6. Be2 Bd6 7. O-O Qe7 8. h3 e5 9. dxe5 Nxe5 10. Nxe5 Bxe5 11. Bxe5 Qxe5 12. Nd2 O-O 13. Nf3 Qd6 14. c4 Rd8 15. Qc2 dxc4 16. Bxc4 Be6 17. Rad1 Qe7 18. Ne5 Bxc4 19. Nxc4 Rxd1 20. Rxd1 Rd8 21. Re1 Qd7 22. Ne5 Qd2 23. Qb1 Kf8 24. Nf3 Qd3 25. Qa1 Ne4 26. Nd4 Nc3 27. Qb2 c5 28. Nf3 Ne2+ 29. Qxe2 Qxe2 30. Rxe2 Rd1+ 31. Re1 Rd3 32. Rc1 b6 33. Ne5 Rd2 34. Ra1 f6 35. Nc4 Rc2 36. Na3 Rd2 37. Nb5 Rd7 38. Rc1 a6 39. Nc3 Rd2 40. Na4 Rxa2 41. Nxb6 Rb2 42. Rc3 a5 43. Na4 Rb1+ 44. Kh2 Kf7 45. Nxc5 Rb2 46. Kg3 Ra2 47. Nb7 h6 48. Rc5 Kg6 49. Rxa5 Rb2 50. Rb5 Rb1 51. Nc5 Rb2 52. Ne4 Rb1 53. Nd6 Kh7 54. Nc4 h5 55. Nd2 Rb2 56. Nc4 Rc2 57. Nd6 Rc6 58. Nf5 g6 59. Ne7 Re6 60. Nc6 Kh6 61. Nd4 Rd6 62. Ne6 Rd5 63. Kh2 1-0
+

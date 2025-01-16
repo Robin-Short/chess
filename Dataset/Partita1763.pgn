@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NZRx1Hrw"]
+[White "Gul_Sno"]
+[Black "random2112"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:58"]
+[WhiteElo "1731"]
+[BlackElo "2019"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+60"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. c3 d5 4. exd5 Qxd5 5. d4 cxd4 6. Nxd4 Bg7 7. Be3 Nf6 8. Bb5+ Bd7 9. Bxd7+ Nbxd7 10. O-O O-O 11. Nd2 Rad8 12. N2f3 Ng4 13. Bf4 e5 14. h3 Nxf2 15. Rxf2 exf4 16. Qc1 Ne5 17. Qxf4 Nd3 0-1
+

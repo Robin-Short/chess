@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QnkuFnLU"]
+[White "Yaguarete"]
+[Black "hazael"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:40:44"]
+[WhiteElo "2022"]
+[BlackElo "1969"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "B97"]
+[Opening "Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O Nc6 12. Nxc6 bxc6 13. Kh1 O-O 14. e5 dxe5 15. fxe5 Nd5 16. Bxe7 Qxe7 17. Ne4 Qh4 18. Bd3 Ra7 19. c4 Ne7 20. Nd6 Bd7 21. Qe3 Raa8 22. Rf4 Qh6 23. Rbf1 Nc8 24. Qf2 Nxd6 25. Rh4 Qg6 26. Bxg6 fxg6 27. Qxf8+ Rxf8 28. Rxf8+ Kxf8 29. exd6 h6 30. c5 Ke8 31. Kg1 g5 32. Rb4 1-0
+

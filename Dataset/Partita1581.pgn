@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tpcb0n8V"]
+[White "Philosopher12"]
+[Black "Andre729"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:09:11"]
+[WhiteElo "1379"]
+[BlackElo "1269"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d5 4. e5 e6 5. Nc3 Nc6 6. Bb5 Ne7 7. O-O O-O 8. Bg5 Bd7 9. Re1 a6 10. Bxc6 Bxc6 11. b4 b5 12. a4 bxa4 13. Nxa4 Bxa4 14. Rxa4 Qd7 15. c3 Qc6 16. Bxe7 Rfe8 17. Bc5 f5 18. exf6 Bxf6 19. Ne5 Bxe5 20. Rxe5 Rab8 21. h3 Kg7 22. Ra1 Qb5 23. Qf1 Qd7 24. Rxa6 Kf6 25. Qe2 Kg7 26. Raxe6 Rxe6 27. Rxe6 Qa4 28. Qe5+ Kg8 29. Re8+ Rxe8 30. Qxe8+ Qxe8 31. b5 Qxb5 32. g3 0-1
+

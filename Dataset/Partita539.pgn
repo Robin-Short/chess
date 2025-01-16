@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fJVRWWBS"]
+[White "moises86"]
+[Black "vladimir108"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:21:46"]
+[WhiteElo "1734"]
+[BlackElo "1650"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "1200+10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. Be2 a6 5. O-O Nc6 6. Re1 Be6 7. d4 h6 8. c4 Nf6 9. Qb3 Bb4 10. Bd2 a5 11. cxd5 a4 12. Qc4 Bxd2 13. dxe6 Bxe1 14. exf7+ Kf8 15. Nxe1 Qe7 16. d5 Ne5 17. Qe4 Nxe4 18. Na3 Kxf7 19. Nec2 Rhd8 20. Re1 Kf8 21. Nd4 Rxd5 22. Nf5 Qf6 23. g4 h5 24. h3 hxg4 25. hxg4 Rd2 26. Nc4 Nxc4 27. Bxc4 Nxf2 28. Re6 Nh3+ 29. Kf1 Qxb2 30. Ke1 Qc1# 0-1
+

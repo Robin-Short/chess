@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xHQuTLRZ"]
+[White "Arcticpenguin"]
+[Black "reydmus"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:39:05"]
+[WhiteElo "1493"]
+[BlackElo "1220"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-4"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Ne5 5. Nc3 Qh4 6. g3 Qf6 7. f4 Bb4 8. fxe5 Qxe5 9. a3 Ba5 10. Qe2 Nf6 11. Nf3 Bxc3+ 12. bxc3 Qxc3+ 13. Bd2 Qxa1+ 14. Kf2 O-O 15. Bh3 Qxa3 16. Bg5 Qc5+ 17. Kg2 d6 18. Bxf6 Bxh3+ 19. Kxh3 gxf6 20. Nh4 Kh8 21. Nf5 Rg8 22. Nh6 Qg5 23. Nxf7+ Kg7 24. Nxg5 1-0
+

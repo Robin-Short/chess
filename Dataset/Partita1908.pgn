@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3z5QVKEo"]
+[White "Richard10"]
+[Black "makina"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:27:35"]
+[WhiteElo "1581"]
+[BlackElo "1584"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. cxd5 Qxd5 4. Nc3 Qd8 5. Nf3 Bb4 6. Bd2 Bxc3 7. Bxc3 Nf6 8. Qc2 Nc6 9. e3 Bd7 10. O-O-O O-O 11. Bb5 a6 12. Bxc6 Bxc6 13. Qe2 Bb5 14. Qc2 Nd5 15. e4 Nxc3 16. bxc3 a5 17. c4 Bd7 18. Ne5 c6 19. Nxd7 Qxd7 20. d5 exd5 21. exd5 cxd5 22. Rxd5 Qc6 23. Qb3 a4 24. Qb5 Qh6+ 25. Kc2 Rac8 26. Rc5 Qg6+ 27. Kb2 Qf6+ 28. Ka3 Rcd8 29. Rb1 Rd6 30. Qxb7 Rd3+ 31. Kxa4 h6 32. Rc8 Rdd8 33. Rxd8 Rxd8 34. Qb6 Ra8+ 35. Kb5 Qe7 36. c5 Qd7+ 37. Qc6 Rb8+ 38. Kc4 Qxc6 39. Rxb8+ Kh7 40. Rb6 Qa4+ 41. Kd5 Qxa2+ 42. Kd6 Qxf2 43. Kc7 Qxc5+ 44. Rc6 Qd5 0-1
+

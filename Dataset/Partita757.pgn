@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JVTIZdNR"]
+[White "zev105"]
+[Black "sekw"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:30:11"]
+[WhiteElo "1464"]
+[BlackElo "1278"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+45"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. Nc3 Nc6 5. O-O Na5 6. Bd5 c6 7. b4 cxd5 8. bxa5 Nf6 9. exd5 b6 10. axb6 axb6 11. Qe2 O-O 12. Qb5 Ra5 13. Qc4 Bb7 14. Rb1 Nxd5 15. Nxd5 Bxd5 16. Qg4 Bxa2 17. Rb4 Be6 18. Qg3 d5 19. d3 Bxb4 20. Bh6 g6 21. Qxe5 f6 22. Qxe6+ Rf7 23. Rb1 Bf8 24. Bxf8 Qxf8 25. h3 Kg7 26. Qxb6 Raa7 27. Qb5 Rab7 28. Qxb7 Rxb7 29. Rxb7+ Kg8 30. Nd4 Qc8 31. Rb5 Qa6 32. Rxd5 Qb7 33. Rb5 Qd7 34. c3 Kg7 35. Rb4 f5 36. Kf1 Qc8 37. Ke2 Qxc3 38. Rb7+ Kh6 39. Ne6 Qe5+ 40. Kd2 Qxe6 0-1
+

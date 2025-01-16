@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BTLAibBB"]
+[White "danilober"]
+[Black "MisterY"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:15:35"]
+[WhiteElo "1591"]
+[BlackElo "1801"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 a6 5. Nc3 h6 6. a4 Be7 7. Bc4 Nf6 8. O-O O-O 9. Re1 Re8 10. h3 c6 11. Bb3 Nbd7 12. Nf5 Ne5 13. Nxe7+ Rxe7 14. a5 Be6 15. Be3 Bxb3 16. cxb3 Qc7 17. Bb6 Qd7 18. f4 Ng6 19. Qf3 Rae8 20. Rad1 c5 21. e5 Qf5 22. Rxd6 Nh7 23. Bxc5 Qxf4 24. Rxg6 Qxf3 25. gxf3 Rxe5 26. Rxe5 Rxe5 27. Rd6 Rxc5 28. Rd8+ Nf8 29. b4 Rc7 30. Kf2 g6 31. Ke3 Kg7 32. Ke4 Ne6 33. Rd5 Ng5+ 34. Kd4 Nxf3+ 35. Ke3 Ng5 36. h4 Re7+ 37. Kd4 Nf3+ 38. Kc5 Re6 39. Rd6 Re2 40. Rd7 Rxb2 41. Rxb7 Nxh4 42. Rb6 Rc2 43. Kc4 Nf5 44. Rxa6 h5 45. b5 h4 46. b6 h3 47. b7 Rb2 48. Rb6 Rxb6 49. axb6 h2 50. b8=Q h1=Q 51. Qe5+ Kh7 52. Qe4 Nd6+ 53. Kd5 Nxe4 54. Nxe4 Qd1+ 55. Ke5 Kg7 56. Kf4 Qb3 57. Nc3 Qxb6 58. Ke4 Qb4+ 59. Ke5 Qxc3+ 60. Ke4 f5+ 61. Kf4 Qd4+ 62. Kg5 Qg4# 0-1
+

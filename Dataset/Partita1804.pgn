@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JzafgUjO"]
+[White "JaiSkiesNY"]
+[Black "Shotiko"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:31"]
+[WhiteElo "1504"]
+[BlackElo "1571"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. c3 e6 3. d4 Nc6 4. Bd3 Nf6 5. f3 1-0
+

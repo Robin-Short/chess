@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OTTpKjqq"]
+[White "Tarama"]
+[Black "cmath"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:24:29"]
+[WhiteElo "1877"]
+[BlackElo "1648"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B80"]
+[Opening "Sicilian Defense: Scheveningen Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bf4 e5 7. Nf5 exf4 8. Qd2 Bxf5 9. exf5 Nbd7 10. O-O-O Be7 11. Bc4 O-O 12. Nd5 a6 13. Nxe7+ Qxe7 14. Rhe1 Qd8 15. Bb3 Nc5 16. Qxd6 Qxd6 17. Rxd6 Nxb3+ 18. axb3 Rfd8 19. Red1 Rxd6 20. Rxd6 Kf8 21. g3 Ke7 22. gxf4 Kxd6 23. h4 Ne4 24. h5 Nxf2 25. f6 gxf6 26. h6 Nh3 27. f5 Nf4 28. Kd2 Ne6 29. Kc3 Nf4 30. b4 Re8 31. Kb3 Re5 32. c3 Rxf5 33. b5 Rxb5+ 34. Kc2 Rxb2+ 35. Kxb2 Ne2 36. Kb3 Nxc3 37. Kxc3 Ke5 38. Kb4 Ke4 39. Kc4 Ke3 40. Kd5 b5 41. Kd6 b4 42. Ke7 b3 43. Kxf6 b2 44. Kg7 b1=Q 45. Kxf7 Qg6+ 46. Kf8 Qf6+ 47. Kg8 Qf7+ 48. Kh8 a5 1/2-1/2
+

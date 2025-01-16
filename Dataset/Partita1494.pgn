@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TlgXNr2A"]
+[White "grubert10"]
+[Black "Bule"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:04:24"]
+[WhiteElo "1564"]
+[BlackElo "1511"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense"]
+[TimeControl "420+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nc6 3. Bf4 e5 4. dxe5 Nxe5 5. Bxe5 Bb4+ 6. Nc3 dxc4 7. Qxd8+ Kxd8 8. Rd1+ Bd7 9. e3 f6 10. Bg3 b5 11. a3 Bxc3+ 12. bxc3 c6 13. Be2 Ne7 14. Bg4 f5 15. Bh3 g5 16. f3 h5 17. Bd6 g4 18. Bxe7+ Kxe7 19. fxg4 hxg4 20. Bxg4 fxg4 21. Ne2 Rae8 22. Nf4 g3 23. Ng6+ Kd8 24. Nxh8 Rxh8 25. h3 Kc7 26. O-O Kb6 27. Rxd7 Re8 28. Rf3 a6 29. Rxg3 Ka5 30. Ra7 Kb6 31. Rd7 Ka5 32. h4 Ka4 33. Ra7 a5 34. h5 Rh8 35. Rh3 Rd8 36. h6 Rd3 37. h7 Rxc3 38. h8=Q Rc1+ 39. Kh2 c3 40. Qd8 c2 41. Qxa5+ Kb3 42. e4+ Ka2 43. Qd2 Kb2 44. a4 Rd1 45. Qc3+ Kb1 46. Qb3+ Kc1 47. Rc3 Kd2 48. Qxc2+ Ke1 49. Qxd1+ Kf2 50. Qd2+ Kf1 51. Rc1# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9i6d7O7v"]
+[White "macabro"]
+[Black "dague"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:08:24"]
+[WhiteElo "1278"]
+[BlackElo "1425"]
+[WhiteRatingDiff "-76"]
+[BlackRatingDiff "+6"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. c4 e5 2. e3 Bc5 3. Nc3 c6 4. a3 Nf6 5. b4 Be7 6. g3 d6 7. Bg2 Bd7 8. a4 Qc8 9. b5 h6 10. Nf3 O-O 11. O-O Bh3 12. Bb2 Bxg2 13. Kxg2 Qg4 14. h3 Qh5 15. bxc6 bxc6 16. Qb3 Na6 17. Qb7 Nc5 18. Qxc6 e4 19. Nh4 Rfc8 20. Qb5 Rab8 21. Qa5 Nb3 22. Qxa7 Nxa1 23. Bxa1 Bd8 24. Nb5 Qc5 25. Qxc5 dxc5 26. Nd6 Rc6 27. Nhf5 Kh7 28. Nxf7 Kg6 29. N7d6 Bc7 30. a5 Bxd6 31. Nxd6 Rxd6 32. h4 Ra8 0-1
+

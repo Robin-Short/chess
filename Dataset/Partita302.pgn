@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5KIgdTQQ"]
+[White "timtim"]
+[Black "HoxHound"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:12:02"]
+[WhiteElo "1250"]
+[BlackElo "1501"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+12"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. Bc4 Nf6 5. d3 g6 6. Be3 Ng4 7. h3 Nxe3 8. fxe3 Bg7 9. O-O O-O 10. Ng5 e6 11. h4 Na5 12. Bb3 Nxb3 13. axb3 e5 14. Nd5 h6 15. Nf3 Bg4 16. Qe1 Bxf3 17. Rxf3 b5 18. Qf2 a5 19. Rf1 Ra7 20. Nf6+ Bxf6 21. Rxf6 Kg7 22. h5 g5 23. Qf5 Qe8 24. Rf3 Rd7 25. Rg3 Rg8 26. Rg6+ fxg6 27. Qxg6+ Qxg6 28. hxg6 Kxg6 29. Rf3 Rf7 30. Rxf7 Kxf7 31. Kh2 0-1
+

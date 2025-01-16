@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f3A6OmsI"]
+[White "samocska"]
+[Black "Catrocketmoo"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:54"]
+[WhiteElo "1161"]
+[BlackElo "1265"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+18"]
+[ECO "A00"]
+[Opening "Mieses Opening: Reversed Rat"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d3 e5 2. e3 d5 3. Nc3 Nc6 4. f4 Bb4 5. fxe5 Nxe5 6. Nf3 Bg4 7. h3 Bxc3+ 8. bxc3 Bxf3 9. gxf3 Qh4+ 10. Ke2 O-O-O 11. e4 dxe4 12. fxe4 Qh5+ 13. Kf2 Qxd1 14. Be2 Qxc2 15. a4 Qxc3 16. Ra3 Qc2 17. Rd1 Nf6 18. Kf1 Qc5 19. Bb2 Nxe4 20. dxe4 Rxd1+ 21. Bxd1 Qc4+ 22. Be2 Qc2 23. Bc3 Qc1+ 24. Kf2 Qxa3 25. Be1 Qxa4 26. Kf1 Rd8 27. Kf2 Nc4 28. Kf1 Ne3+ 29. Kf2 Nc2 30. Bc3 Qxe4 31. Bf3 Qe3+ 32. Kg3 Qxc3 33. Kg4 g6 34. Kg3 f5 35. h4 Rd3 36. h5 Rxf3+ 37. Kh4 Qc4+ 38. Kg5 Qc6 39. Kh6 Qc3 40. hxg6 Qe3+ 41. Kg7 Qe7+ 42. Kh8 Qe8+ 43. Kxh7 Re3 44. g7 Re7 45. Kh6 Rxg7 46. Kxg7 Qe7+ 47. Kh6 Qf7 48. Kg5 Qg8+ 0-1
+

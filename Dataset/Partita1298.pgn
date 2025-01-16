@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AogTCoCe"]
+[White "lichinut"]
+[Black "DxDeathusu"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:43"]
+[WhiteElo "1636"]
+[BlackElo "1326"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. Re1 O-O 6. c3 d6 7. d4 Bg4 8. dxc5 dxc5 9. Qxd8 Raxd8 10. Bg5 Rd3 11. Bxd3 Nd7 1-0
+

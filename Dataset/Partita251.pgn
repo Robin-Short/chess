@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/liX4Ckq5"]
+[White "Peter79"]
+[Black "pmlove"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:19"]
+[WhiteElo "1241"]
+[BlackElo "1129"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-17"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.27] } 2. d4 { [%eval 0.01] } 2... Nc6?! { [%eval 0.59] } 3. d5 { [%eval 0.64] } 3... Nd4? { [%eval 2.86] } 4. Be3? { [%eval 0.95] } 4... c5?! { [%eval 1.74] } 5. Nc3? { [%eval 0.32] } 5... d6 { [%eval 0.45] } 6. Bb5+?! { [%eval -0.31] } 6... Bd7?! { [%eval 0.37] } 7. Bxd7+ { [%eval 0.25] } 7... Qxd7 { [%eval 0.31] } 8. Qd3 { [%eval 0.0] } 8... Nf6 { [%eval 0.15] } 9. Bxd4 { [%eval -0.16] } 9... exd4 { [%eval -0.14] } 10. Qb5?? { [%eval -3.83] } 10... Qxb5?? { [%eval -0.41] } 11. Nxb5 { [%eval -0.54] } 11... Nxe4?! { [%eval 0.35] } 12. Nc7+ { [%eval 0.34] } 12... Kd7 { [%eval 0.33] } 13. Nxa8 { [%eval 0.3] } 13... g5 { [%eval 0.72] } 14. O-O-O? { [%eval -1.32] } 14... Bg7? { [%eval 0.47] } 15. Nh3?! { [%eval -0.08] } 15... Rxa8 { [%eval 0.24] } 16. Rhe1 { [%eval 0.29] } 16... Nf6 { [%eval 0.72] } 17. Nxg5 { [%eval 0.68] } 17... Nxd5 { [%eval 0.66] } 18. Nxf7?! { [%eval -0.14] } 18... d3?? { [%eval 3.24] } 19. Rxd3 { [%eval 3.19] } 19... c4?? { [%eval 8.49] } 20. Rxd5 { [%eval 8.58] } 20... c3? { [%eval #4] } 21. Rxd6+ { [%eval #3] } 21... Kc7 { [%eval #2] } 22. Re7+ { [%eval #1] } 1-0
+

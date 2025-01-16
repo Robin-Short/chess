@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/i6TwSDGk"]
+[White "Benjito"]
+[Black "Joueurfel"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:05:08"]
+[WhiteElo "1543"]
+[BlackElo "1503"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Be7 3. Nc3 d6 4. Bb5+ Nd7 5. Bxd7+ Bxd7 6. O-O Bc6 7. d3 Qd7 8. Be3 b6 9. a3 Bb7 10. d4 Nf6 11. e5 Ne4 12. Nxe4 Bxe4 13. Re1 Bxf3 14. Qxf3 dxe5 15. Qxa8+ Bd8 16. dxe5 O-O 17. Qf3 Qa4 18. b3 Qb5 19. Rab1 Be7 20. a4 Qa6 21. Qg3 f5 22. Bh6 g6 23. Bxf8 Bxf8 24. Qd3 Qb7 25. Qc4 Qc8 26. Rbd1 Kg7 27. Qb5 Kh6 28. Qd3 Bb4 29. Re3 Bc5 30. Rh3+ Kg7 31. Qb5 c6 32. Qd3 Be7 33. Qd7 Qf8 34. Qxe6 c5 35. Rd7 Kh8 36. Rxe7 Qd8 37. Rexh7# 1-0
+

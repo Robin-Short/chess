@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3kaqXNn0"]
+[White "Pekka-1953"]
+[Black "keydi"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:55"]
+[WhiteElo "1489"]
+[BlackElo "1148"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-4"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d3 Na5 5. Bd5 Ne7 6. Ng5 f6 7. Nf7 Qd7 8. Nxh8 Nxd5 9. exd5 Ke7 10. O-O g6 11. Nc3 Qe8 12. f4 Bg7 13. Nxg6+ Qxg6 14. f5 Qf7 15. d4 b6 16. Re1 Bxf5 17. h3 Nc4 18. Nb5 Rg8 19. Nxc7 Kd7 20. Ne6 Bxe6 21. dxe6+ Qxe6 22. b3 d5 23. bxc4 dxc4 24. c3 b5 25. dxe5+ Ke7 26. Ba3+ Kf7 27. Qh5# 1-0
+

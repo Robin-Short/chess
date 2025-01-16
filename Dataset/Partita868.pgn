@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kbi2HQsg"]
+[White "gutmann"]
+[Black "DMKA"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:03"]
+[WhiteElo "1561"]
+[BlackElo "1195"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[TimeControl "120+8"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. d3 c5 3. e4 e5 4. Nc3 d6 5. Nf3 Bg4 6. Be2 Nc6 7. O-O Nd4 8. Nxd4 cxd4 9. Bxg4 Nxg4 10. Qxg4 dxc3 11. bxc3 g6 12. Rb1 h5 13. Qf3 b6 14. Bg5 Qxg5 15. d4 Rc8 16. dxe5 Qxe5 17. Qd3 h4 18. f4 Qc5+ 19. Kh1 Rh5 20. Qh3 Qxc4 21. Rfc1 Qxe4 22. Qxc8+ Ke7 23. Re1 Rc5 24. Rxe4+ Kf6 25. Qd8+ Kg7 26. c4 f5 27. Qd7+ Kh6 28. Re8 Bg7 29. Rg8 Bf6 30. Qxd6 Rxc4 31. Qxf6 Rxf4 32. Qxg6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VX9sc2ZG"]
+[White "novatojugad"]
+[Black "sajuru"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:23"]
+[WhiteElo "1608"]
+[BlackElo "1368"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.24] } 1... e5 { [%eval 0.22] } 2. f4 { [%eval -0.25] } 2... Nc6 { [%eval 0.21] } 3. Nf3 { [%eval 0.06] } 3... d6 { [%eval 0.19] } 4. c3 { [%eval -0.2] } 4... Nf6 { [%eval 0.1] } 5. d3 { [%eval 0.06] } 5... Be7 { [%eval 0.03] } 6. Be2 { [%eval 0.03] } 6... Bg4 { [%eval 0.18] } 7. O-O { [%eval 0.18] } 7... h6 { [%eval 0.24] } 8. fxe5 { [%eval 0.36] } 8... Bxf3? { [%eval 3.19] } 9. exf6 { [%eval 3.25] } 9... Bxe2 { [%eval 3.25] } 10. fxe7 { [%eval 3.24] } 10... Bxd1 { [%eval 3.25] } 11. exd8=R+ { [%eval 3.28] } 11... Rxd8 { [%eval 3.28] } 12. Rxd1 { [%eval 3.28] } 12... Ne5 { [%eval 3.42] } 13. Bf4 { [%eval 3.47] } 13... Ng4 { [%eval 3.87] } 14. h3 { [%eval 3.66] } 14... Nf6 { [%eval 3.96] } 15. Na3 { [%eval 3.84] } 15... a6 { [%eval 3.86] } 16. Kf2 { [%eval 3.75] } 16... O-O { [%eval 3.8] } 17. Nc2 { [%eval 3.64] } 17... Nd7 { [%eval 3.89] } 18. d4 { [%eval 3.55] } 18... f5 { [%eval 3.7] } 19. e5 { [%eval 3.61] } 19... dxe5 { [%eval 3.67] } 20. dxe5 { [%eval 3.18] } 20... g5?? { [%eval 6.61] } 21. e6 { [%eval 6.68] } 21... Nc5 { [%eval 6.99] } 22. e7 { [%eval 7.12] } 22... Ne4+? { [%eval 8.31] } 23. Ke2?? { [%eval 5.31] } 23... Rxd1? { [%eval 7.48] } 24. exf8=Q+ { [%eval 7.56] } 24... Kxf8 { [%eval 7.34] } 25. Rxd1 { [%eval 7.49] } 25... gxf4 { [%eval 7.61] } 26. Kf3 { [%eval 7.6] } 1-0
+

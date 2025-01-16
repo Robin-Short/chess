@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ca73124B"]
+[White "thelonious"]
+[Black "danilober"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:03:48"]
+[WhiteElo "1600"]
+[BlackElo "1725"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B56"]
+[Opening "Sicilian Defense: Venice Attack"]
+[TimeControl "600+8"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+ Nbd7 7. Nf5 Qb6 8. Bg5 a6 9. Bxd7+ Bxd7 10. Bxf6 Bxf5 11. Nd5 Qc5 12. Bxg7 Bxg7 13. exf5 O-O 14. f6 Bh6 15. O-O Kh8 16. c4 Rg8 17. Qh5 Qxc4 18. Ne7 Bg5 19. Nxg8 Rxg8 20. Rac1 Qe6 21. Qf3 e4 22. Qh5 Bxc1 23. Rxc1 Qxf6 24. Rc7 Qg7 25. Rxb7 Qxg2# 0-1
+

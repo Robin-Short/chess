@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sezMoFmJ"]
+[White "gutmann"]
+[Black "bleka"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:28:50"]
+[WhiteElo "1556"]
+[BlackElo "1300"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-26"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+[TimeControl "120+8"]
+[Termination "Normal"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qd6 4. d4 e5 5. Be3 exd4 6. Qxd4 Qxd4 7. Bxd4 f6 8. Nd5 Bd6 9. e4 c6 10. Nc3 c5 11. Be3 Nc6 12. Bb5 a6 13. Bxc6+ bxc6 14. Nf3 Rb8 15. O-O-O c4 16. Rxd6 Rb6 17. Bxb6 Bd7 18. Rhd1 g6 19. Rxd7 Kf8 20. Bc5+ Ne7 21. Rxe7 Kg8 22. Rd8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/mBDSmrSe"]
+[White "elpulltrigger"]
+[Black "youssef985"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:06:01"]
+[WhiteElo "1480"]
+[BlackElo "1316"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 d6 3. Nf3 Nc6 4. d4 dxe5 5. Be3 exd4 6. Nxd4 Nxd4 7. Qxd4 Qe7 8. Nd2 Bd7 9. Ne4 b6 10. a4 Nf6 11. Nxf6+ gxf6 12. Ba6 e5 13. Qh4 Bg7 14. O-O Rg8 15. Bh6 Bc6 16. c3 e4 17. g3 e3 18. fxe3 f5 19. b4 Bf6 20. Qh3 f4 21. exf4 Qe3+ 22. Rf2 Bxc3 23. Rf1 Qe4 24. Rg2 Bd4+ 25. Kh1 Qe2 26. Bxe2 Rd8 27. Bb5 Bxb5 28. axb5 Rd6 29. Re2+ Kd8 30. Bg5+ f6 31. Bh4 Re8 32. g4 Rxe2 33. g5 Be3 34. gxf6 Rd3 35. f7# 1-0
+

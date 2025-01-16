@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pkbgSTFf"]
+[White "TobbeF"]
+[Black "Enrique005"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:22:35"]
+[WhiteElo "1374"]
+[BlackElo "1445"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-20"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. Be2 Bxf3 5. Bxf3 h6 6. c3 Be7 7. d4 exd4 8. cxd4 Bg5 9. O-O Bxc1 10. Qxc1 Nf6 11. Nc3 O-O 12. Re1 a6 13. e5 dxe5 14. dxe5 Nfd7 15. Bxb7 Ra7 16. Bd5 Nb6 17. Qe3 Nxd5 18. Qxa7 Nxc3 19. bxc3 Nc6 20. Qc5 Qe8 21. Rab1 Nxe5 22. Rxe5 Qd7 23. Qd4 Qxd4 24. cxd4 Rd8 25. Rd1 Rb8 26. Ra5 Rb6 27. d5 Kf8 28. g3 Ke7 29. Rd3 Kf6 30. Raa3 Kg5 31. Rab3 Rd6 32. Rb7 Rd7 33. Ra7 Rd6 34. Rxc7 Kg6 35. Rc6 1-0
+

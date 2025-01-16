@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HEzKIytb"]
+[White "Arsonal"]
+[Black "hamid73"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:11:00"]
+[WhiteElo "1438"]
+[BlackElo "1751"]
+[WhiteRatingDiff "-33"]
+[BlackRatingDiff "+3"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. h3 Nf6 5. Nc3 Nc6 6. d4 exd4 7. Nxd4 Nxd4 8. Qxd4 c5 9. Qd1 O-O 10. Bf4 a6 11. Qe2 b5 12. Bd5 Rb8 13. O-O Re8 14. e5 Nxd5 15. Nxd5 dxe5 16. Bxe5 Bd6 17. f4 Bxe5 18. fxe5 Qxd5 19. Rae1 Bb7 20. b3 Rxe5 21. c4 Rxe2 22. cxd5 Rxe1 23. Rxe1 Bxd5 24. Re7 c4 25. Rd7 Be6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uIUjKMym"]
+[White "Hiko1980"]
+[Black "HoxHound"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:04:04"]
+[WhiteElo "1514"]
+[BlackElo "1534"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-33"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Krause Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 e6 4. b4 a5 5. c3 axb4 6. cxb4 Qf6 7. Qd4 Nc6 8. Qxf6 Nxf6 9. Bd2 Be7 10. e3 Ne4 11. Bb5 Bd7 12. Bxc6 Bxc6 13. Nd4 Bf6 14. f3 Nxd2 15. Nxd2 Bb5 16. f4 Bd3 17. Kf2 Ra4 18. a3 e5 19. fxe5 Bxe5 20. Ra2 O-O 21. Rc1 Bxh2 22. g3 Re8 23. Kg2 Bxg3 24. Kxg3 Rxe3+ 25. Kf2 Re2+ 26. Nxe2 Bxe2 27. Kxe2 Ra5 28. bxa5 h6 29. c6 bxc6 30. a6 c5 31. a7 c4 32. a8=Q+ Kh7 33. Qxd5 c3 34. Qf5+ Kg8 35. Rxc3 g6 36. Qf6 h5 37. Rc8+ Kh7 38. Rh8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GeQfxXtq"]
+[White "Morie1213"]
+[Black "ludonissa"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:36:23"]
+[WhiteElo "1834"]
+[BlackElo "1808"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+17"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.24] } 2. d3 { [%eval -0.02] } 2... d5 { [%eval -0.16] } 3. Qe2 { [%eval -0.3] } 3... Be7 { [%eval -0.25] } 4. f4 { [%eval -0.28] } 4... Nf6 { [%eval -0.02] } 5. e5 { [%eval -0.03] } 5... Nfd7 { [%eval -0.03] } 6. d4?! { [%eval -0.62] } 6... c5 { [%eval -0.51] } 7. c3 { [%eval -0.61] } 7... Nc6 { [%eval -0.7] } 8. Nf3 { [%eval -0.61] } 8... Qb6 { [%eval -0.25] } 9. b3?! { [%eval -1.22] } 9... cxd4 { [%eval -1.31] } 10. cxd4? { [%eval -2.37] } 10... Nxd4 { [%eval -2.31] } 11. Nxd4? { [%eval -3.72] } 11... Qxd4 { [%eval -2.86] } 12. Bb2?? { [%eval -6.72] } 12... Bb4+ { [%eval -6.74] } 13. Nd2 { [%eval -6.98] } 13... Qxb2 { [%eval -6.86] } 14. Rd1 { [%eval -6.94] } 14... Bxd2+? { [%eval -4.32] } 15. Rxd2 { [%eval -4.72] } 15... Qc1+ { [%eval -4.67] } 16. Kf2 { [%eval -5.11] } 16... O-O { [%eval -4.67] } 17. g3 { [%eval -4.68] } 17... Qc5+ { [%eval -4.53] } 18. Kg2 { [%eval -4.59] } 18... b6 { [%eval -4.68] } 19. Qh5?! { [%eval -5.62] } 19... d4 { [%eval -5.65] } 20. Kh3 { [%eval -5.62] } 20... Bb7 { [%eval -5.68] } 21. Rg1 { [%eval -4.84] } 21... Nf6 { [%eval -4.66] } 22. Qe2? { [%eval -7.0] } 22... Nd5? { [%eval -4.86] } 23. Bg2 { [%eval -5.2] } 23... d3 { [%eval -5.14] } 24. Rxd3?? { [%eval -9.77] } 24... Qxg1 { [%eval -9.82] } 25. Bxd5 { [%eval -10.25] } 0-1
+

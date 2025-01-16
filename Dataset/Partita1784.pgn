@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/933QqYPi"]
+[White "chessnew"]
+[Black "Arcticpenguin"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:20:28"]
+[WhiteElo "1543"]
+[BlackElo "1492"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+23"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. e3 Nf6 4. Nc3 Bb4 5. Nf3 c5 6. a3 Bxc3+ 7. bxc3 Nc6 8. Qc2 O-O 9. g3 cxd4 10. Nxd4 dxc4 11. Nxc6 bxc6 12. Bb2 Ba6 13. Rd1 Qb6 14. Be2 Rad8 15. O-O Rxd1 16. Rxd1 Rd8 17. Rxd8+ Qxd8 18. Qd1 Qxd1+ 19. Bxd1 Ne4 20. Ba4 c5 21. Kg2 Nd2 22. f4 Nb3 23. Bxb3 cxb3 24. Kf3 c4 25. e4 Kf8 26. Ke3 Ke7 27. Kd4 Kd6 28. e5+ Kc6 29. g4 Bb5 30. f5 exf5 31. gxf5 a5 32. h4 a4 33. h5 g6 34. fxg6 fxg6 35. hxg6 hxg6 36. Ke4 Kd7 37. Kf4 Ke6 38. Ke4 g5 39. Kd4 g4 40. Kc5 Ba6 41. Kb4 g3 42. Kxa4 g2 43. Kb4 g1=Q 44. a4 Qb6+ 45. Ka3 Qc5# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jRxMvTpC"]
+[White "robovlas"]
+[Black "vitaminccc"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:21:16"]
+[WhiteElo "1809"]
+[BlackElo "1862"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. c3 g6 3. Nf3 Bg7 4. Bf4 f6 5. e3 Nc6 6. Bd3 e5 7. dxe5 dxe5 8. Bg3 Nge7 9. Bc2 Qxd1+ 10. Bxd1 O-O 11. Bb3+ Kh8 12. O-O e4 13. Nfd2 f5 14. Bxc7 Ne5 15. Bxe5 Bxe5 16. Nc4 Bg7 17. Nbd2 b5 18. Na3 a6 19. c4 b4 20. Nc2 a5 21. a3 bxa3 22. Rxa3 Nc6 23. Rfa1 Bd7 24. Ba4 Rfd8 25. R1a2 Ne5 26. Bxd7 Nxd7 27. Nb3 Bf8 28. Rxa5 Rxa5 29. Rxa5 Bg7 30. Ra7 Ne5 31. Ncd4 Nxc4 32. Nc5 Bxd4 33. Ne6 Rd5 34. Ra8+ Rd8 35. Rxd8# 1-0
+

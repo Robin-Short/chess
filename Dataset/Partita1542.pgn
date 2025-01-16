@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KSIvGNai"]
+[White "kerekeza26"]
+[Black "khan"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:06:11"]
+[WhiteElo "1652"]
+[BlackElo "1432"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.24] } 1... d5 { [%eval 0.2] } 2. e3 { [%eval 0.17] } 2... Nf6 { [%eval 0.12] } 3. c4 { [%eval 0.17] } 3... e6 { [%eval 0.11] } 4. c5?! { [%eval -0.65] } 4... Bd7?! { [%eval 0.0] } 5. Bd3 { [%eval -0.41] } 5... b6 { [%eval -0.35] } 6. b4 { [%eval -0.65] } 6... bxc5? { [%eval 0.37] } 7. bxc5 { [%eval 0.35] } 7... Be7 { [%eval 0.59] } 8. Nc3 { [%eval 0.7] } 8... a6 { [%eval 0.89] } 9. Nf3 { [%eval 0.86] } 9... Bb5 { [%eval 1.25] } 10. Nxb5 { [%eval 1.21] } 10... axb5 { [%eval 1.24] } 11. Bxb5+ { [%eval 1.41] } 11... c6 { [%eval 1.2] } 12. Bd3 { [%eval 1.39] } 12... O-O { [%eval 1.36] } 13. Ne5 { [%eval 1.18] } 13... Qa5+ { [%eval 1.59] } 14. Bd2 { [%eval 1.67] } 14... Qa4 { [%eval 1.7] } 15. O-O { [%eval 1.75] } 15... Qxd1 { [%eval 1.87] } 16. Rfxd1 { [%eval 1.88] } 16... Ne4 { [%eval 1.9] } 17. Bxe4 { [%eval 1.72] } 17... dxe4 { [%eval 1.98] } 18. Rdb1 { [%eval 1.63] } 18... f6 { [%eval 1.68] } 19. Nc4 { [%eval 1.61] } 19... e5 { [%eval 2.06] } 20. dxe5?! { [%eval 1.5] } 20... fxe5 { [%eval 1.79] } 21. Nxe5? { [%eval -0.51] } 21... Bf6 { [%eval -0.63] } 22. Bc3?! { [%eval -1.33] } 22... Bxe5?? { [%eval 1.91] } 23. Bxe5 { [%eval 1.88] } 23... Nd7 { [%eval 1.94] } 24. Bd6 { [%eval 1.98] } 24... Rf5 { [%eval 1.74] } 25. Rc1 { [%eval 1.74] } 25... Ra5?! { [%eval 2.32] } 26. Rc4 { [%eval 2.18] } 26... Nxc5 { [%eval 2.1] } 27. Bxc5?! { [%eval 1.2] } 27... Raxc5?! { [%eval 1.7] } 28. Rxe4 { [%eval 1.76] } 28... Rfd5 { [%eval 2.01] } 29. g3 { [%eval 2.13] } 29... Rc2 { [%eval 2.08] } 30. Rf4 { [%eval 1.81] } 30... g5 { [%eval 1.79] } 31. Rf3 { [%eval 1.8] } 31... g4?! { [%eval 2.42] } 32. Rf4 { [%eval 2.42] } 32... h5 { [%eval 2.31] } 33. a4 { [%eval 2.5] } 33... c5 { [%eval 2.6] } 34. a5 { [%eval 2.68] } 34... c4? { [%eval 4.43] } 35. a6 { [%eval 4.42] } 35... c3?? { [%eval 10.01] } 36. a7 { [%eval 9.58] } 36... Rd8 { [%eval 9.8] } 37. a8=Q { [%eval 18.8] } 37... Rxa8 { [%eval 9.41] } 38. Rxa8+ { [%eval 9.24] } 38... Kg7 { [%eval #7] } 39. Rc8? { [%eval 9.82] } 39... Rc1+ { [%eval 10.18] } 40. Kg2 { [%eval 9.91] } 40... c2 { [%eval 10.26] } 41. Rfc4 { [%eval 10.17] } 41... h4 { [%eval 11.0] } 42. gxh4 { [%eval 10.68] } 42... g3 { [%eval 49.9] } 43. hxg3 { [%eval 47.23] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XmNIHvvK"]
+[White "edmario"]
+[Black "JustJack"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:12:02"]
+[WhiteElo "1562"]
+[BlackElo "1453"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. Bc4 e6 5. Nc3 Qd4 6. Qe2 Nc6 7. Ngxe4 Nxe4 8. Nxe4 Be7 9. c3 Qe5 10. d4 Qa5 11. Bd2 Qb6 12. Be3 Qa5 13. O-O O-O 14. a4 Qf5 15. Bd3 Qd5 16. Rad1 e5 17. c4 Nxd4 18. cxd5 Nxe2+ 19. Bxe2 1-0
+

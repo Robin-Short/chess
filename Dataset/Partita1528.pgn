@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ud3z8NVk"]
+[White "Regisantos"]
+[Black "emigrant_bird"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:42"]
+[WhiteElo "1409"]
+[BlackElo "1413"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-11"]
+[ECO "B44"]
+[Opening "Sicilian Defense: Paulsen Variation"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.3] } 2. Nf3 { [%eval 0.32] } 2... e6 { [%eval 0.34] } 3. d4 { [%eval 0.35] } 3... cxd4 { [%eval 0.4] } 4. Nxd4 { [%eval 0.19] } 4... Nc6 { [%eval 0.24] } 5. Bb5 { [%eval -0.14] } 5... Nxd4?! { [%eval 0.46] } 6. Qxd4 { [%eval 0.43] } 6... Nf6 { [%eval 0.32] } 7. O-O { [%eval 0.2] } 7... Be7?! { [%eval 0.74] } 8. e5 { [%eval 0.63] } 8... Nd5 { [%eval 0.75] } 9. Qg4 { [%eval 0.73] } 9... O-O { [%eval 1.07] } 10. Bd3? { [%eval -0.12] } 10... g6 { [%eval 0.32] } 11. Bh6 { [%eval 0.34] } 11... Re8 { [%eval 0.62] } 12. c4?! { [%eval -0.04] } 12... Nb4 { [%eval -0.03] } 13. Rd1 { [%eval -0.08] } 13... f6?? { [%eval #6] } 14. Bxg6 { [%eval #5] } 14... f5 { [%eval #2] } 15. Bxh7+ { [%eval #1] } 15... Kxh7 { [%eval #1] } 16. Qg7# 1-0
+

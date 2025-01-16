@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/60ib0g7r"]
+[White "mcamac"]
+[Black "djarfur"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:03:31"]
+[WhiteElo "1381"]
+[BlackElo "1398"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "60+2"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e4 d5 3. exd5 Qxd5 4. Nf3 Qd8 5. Nc3 Nf6 6. Bg5 Be7 7. Be2 O-O 8. O-O c5 9. dxc5 Qxd1 10. Raxd1 Bxc5 11. Bxf6 gxf6 12. Ne4 Be7 13. Bc4 f5 14. Neg5 h6 15. Nh3 Nc6 16. a4 a6 17. b3 b6 18. Rfe1 a5 19. Ne5 Nxe5 20. Rxe5 Bf6 21. Ree1 Ba6 22. Bxa6 Rxa6 23. Rd3 Ra7 24. c3 Rc8 25. Rc1 Rac7 26. c4 Bb2 27. Rb1 Bf6 28. Nf4 Bg5 29. Rd4 e5 30. Rd5 exf4 31. Rxf5 Rd8 32. h3 Rd2 33. f3 Re7 34. Kh2 Ree2 35. Rg1 Rb2 36. Rd5 Rxb3 0-1
+

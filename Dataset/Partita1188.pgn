@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pKw0NF1O"]
+[White "Darkith"]
+[Black "spooky"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:48:17"]
+[WhiteElo "1484"]
+[BlackElo "1814"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.13] } 1... c5 { [%eval 0.31] } 2. f4 { [%eval 0.01] } 2... Nc6 { [%eval -0.06] } 3. Nf3 { [%eval 0.16] } 3... e6 { [%eval -0.07] } 4. c3 { [%eval -0.39] } 4... d5 { [%eval -0.29] } 5. exd5 { [%eval -0.67] } 5... exd5 { [%eval -0.45] } 6. Ne5?! { [%eval -1.16] } 6... Qe7?! { [%eval -0.27] } 7. d4? { [%eval -2.1] } 7... f6 { [%eval -2.01] } 8. Qh5+?! { [%eval -2.79] } 8... g6 { [%eval -2.81] } 9. Qe2 { [%eval -2.85] } 9... fxe5 { [%eval -2.72] } 10. fxe5? { [%eval -4.96] } 10... cxd4 { [%eval -4.74] } 11. e6?! { [%eval -5.33] } 11... Bxe6 { [%eval -5.21] } 12. Na3?! { [%eval -5.93] } 12... dxc3 { [%eval -5.92] } 13. Nb5 { [%eval -5.54] } 13... cxb2?! { [%eval -4.94] } 14. Bxb2 { [%eval -4.94] } 14... Bg7? { [%eval -2.06] } 15. Bxg7 { [%eval -1.9] } 15... Qxg7 { [%eval -2.12] } 16. Qxe6+ { [%eval -2.34] } 16... Nge7? { [%eval -0.15] } 17. Nc7+?? { [%eval -4.65] } 17... Kf8?? { [%eval -0.71] } 18. Nxa8?? { [%eval -7.35] } 18... Qxa1+ { [%eval -7.23] } 19. Kf2 { [%eval -7.5] } 19... Qd4+? { [%eval -4.67] } 20. Kg3?? { [%eval -17.47] } 20... Nf5+ { [%eval -15.6] } 21. Kf3 { [%eval -16.56] } 21... Ne5+ { [%eval -16.25] } 22. Ke2 { [%eval -17.13] } 22... Qg4+ { [%eval -13.55] } 23. Ke1 { [%eval -16.33] } 23... Qe4+ { [%eval -16.64] } 24. Be2 { [%eval -17.42] } 24... Nd3+ { [%eval -17.85] } 25. Kd2 { [%eval -18.32] } 25... Qxe6 { [%eval -18.32] } 26. Bxd3 { [%eval -21.22] } 26... Kg7 { [%eval -14.72] } 27. Bxf5 { [%eval -19.37] } 27... Qxf5 { [%eval -49.24] } 28. Nc7?! { [%eval #-10] } 28... Qf4+ { [%eval #-8] } 29. Kc2 { [%eval #-7] } 29... Qxc7+ { [%eval #-6] } 30. Kb1 { [%eval #-6] } 0-1
+

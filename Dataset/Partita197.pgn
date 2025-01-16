@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uQ0uT3P6"]
+[White "ren"]
+[Black "ban-ban"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:07:50"]
+[WhiteElo "1657"]
+[BlackElo "1616"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. c5 b6 4. b4 a5 5. Ba3 Nf6 6. e3 Nc6 7. b5 Na7 8. c6 Bxa3 9. Nxa3 O-O 10. Bd3 Qe7 11. Nc2 Ne4 12. Bxe4 dxe4 13. Qg4 Nxb5 14. Qxe4 Nc3 15. Qd3 Nd5 16. Nf3 h6 17. O-O Ba6 18. Qe4 Bxf1 19. Kxf1 Nb4 20. Na3 Nxc6 21. Qxc6 Qxa3 22. Ne5 Qd6 23. Qc2 f6 24. Nf3 e5 25. dxe5 fxe5 26. Nh4 Qf6 27. Ng6 Rf7 28. f3 c5 29. Rd1 Rc8 30. Qe4 Re8 31. Rd5 Qf5 32. Qxf5 Rxf5 33. Rd6 Rf6 34. Rxf6 gxf6 35. Ke2 Kg7 36. Nh4 b5 37. Nf5+ Kg6 38. Nd6 Rb8 39. Kd3 h5 40. Kc3 c4 41. Ne4 Rc8 42. a3 Rd8 43. Nc5 Rd5 44. Nb7 a4 45. e4 Rd3+ 46. Kb4 Rb3+ 47. Kc5 c3 48. Nd6 c2 49. Nxb5 c1=Q+ 50. Kb6 Rxb5+ 51. Kxb5 Qxa3 0-1
+

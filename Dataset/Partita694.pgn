@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2qCUEdNE"]
+[White "topaloro"]
+[Black "JLM777"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:27:56"]
+[WhiteElo "1224"]
+[BlackElo "1493"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B49"]
+[Opening "Sicilian Defense: Paulsen Variation, Bastrikov Variation"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 a6 6. Nc3 Qc7 7. Be2 Nf6 8. Bg5 Be7 9. Bxf6 Bxf6 10. Nxc6 Bxc3+ 11. bxc3 Qxc6 12. Qd4 O-O 13. O-O b5 14. Rad1 Rd8 15. Bf3 Bb7 16. e5 Qc7 17. Bxb7 Qxb7 18. f3 Rac8 19. Rd3 Rc4 20. Qe3 Rdc8 21. Rfd1 R4c7 22. h3 h6 23. Kh1 Qc6 24. g4 Rd8 25. Kg2 Qc4 26. Qd4 Qxa2 27. R1d2 Qc4 28. Qxc4 Rxc4 29. Kf2 Rc7 30. Ke3 Kf8 31. f4 Ke7 32. h4 Rc4 33. Kf3 a5 34. g5 hxg5 35. hxg5 b4 36. cxb4 axb4 37. Ke3 Rc3 38. Rxc3 bxc3 39. Rd3 Rc8 40. Kd4 f6 41. gxf6+ gxf6 42. exf6+ Kxf6 43. Rxc3 Rxc3 44. Kxc3 Kf5 45. Kd4 Kxf4 46. c4 e5+ 47. Kd3 e4+ 48. Ke2 Ke5 49. Ke3 d6 0-1
+

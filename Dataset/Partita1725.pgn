@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Tk98P5PM"]
+[White "elpaquis"]
+[Black "hazes"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:16:19"]
+[WhiteElo "1167"]
+[BlackElo "1905"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Bg5 Be7 7. Nc3 d6 8. a3 Bg4 9. b4 Nd4 10. h3 Nxf3+ 11. gxf3 Bxh3 12. Ne2 Bxf1 13. Qxf1 d5 14. exd5 Nxd5 15. Bxe7 Nxe7 16. Rd1 Ng6 17. Qh3 Qg5+ 18. Kf1 Nf4 19. Nxf4 Qxf4 20. Re1 Rad8 21. Qg4 Rd6 22. Qxf4 exf4 23. Re5 g6 24. Re7 Rc6 25. a4 Kg7 26. b5 Rc5 27. a5 Kf6 28. Rd7 h5 29. b6 axb6 30. axb6 cxb6 31. Rxb7 Rc6 32. Ke2 h4 33. Kd2 h3 34. Bd5 Rd6 35. Be4 h2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oRP4D6HX"]
+[White "DiCh"]
+[Black "felix777"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:06:30"]
+[WhiteElo "1529"]
+[BlackElo "1629"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B06"]
+[Opening "Modern Defense: Mongredien Defense"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 g6 3. Nc3 Bg7 4. Be3 Bb7 5. Qd2 e6 6. Nge2 Ne7 7. O-O-O a5 8. f4 a4 9. g4 a3 10. b3 b5 11. Nxb5 Bxe4 12. Rg1 Nbc6 13. Ng3 Bd5 14. c4 Bf3 15. Re1 Bxg4 0-1
+

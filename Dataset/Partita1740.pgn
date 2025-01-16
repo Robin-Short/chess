@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DDuc3RZq"]
+[White "felix777"]
+[Black "pampopp"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:17:34"]
+[WhiteElo "1651"]
+[BlackElo "1354"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "60+5"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 e4 3. g3 d5 4. Bg2 Qf6 5. Bxf6 Nxf6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/tlvgdVVN"]
+[White "zurka"]
+[Black "misaaa"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:37"]
+[WhiteElo "1541"]
+[BlackElo "1596"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 { [%eval -0.34] } 1... Nf6 { [%eval 0.02] } 2. Bb2 { [%eval 0.0] } 2... g6 { [%eval 0.18] } 3. g3 { [%eval -0.18] } 3... Bg7 { [%eval -0.17] } 4. Bg2 { [%eval -0.07] } 4... O-O { [%eval -0.12] } 5. e3 { [%eval -0.08] } 5... d6 { [%eval 0.14] } 6. c3 { [%eval -0.08] } 6... c6 { [%eval 0.12] } 7. d3 { [%eval -0.05] } 7... Nbd7 { [%eval 0.04] } 8. Nd2 { [%eval -0.09] } 8... Qc7 { [%eval -0.01] } 9. f3?! { [%eval -0.87] } 9... e5?! { [%eval -0.37] } 10. Qc2 { [%eval -0.65] } 10... Nd5 { [%eval -0.68] } 11. Ne2?? { [%eval -5.03] } 11... Nxe3 { [%eval -4.99] } 12. h3?? { [%eval -15.68] } 12... Nxc2+ { [%eval -16.11] } 13. Kf2 { [%eval -16.63] } 13... Nxa1 { [%eval -15.18] } 14. Rxa1 { [%eval -16.31] } 14... Nf6 { [%eval -14.07] } 15. Rh1 { [%eval -14.75] } 15... Ne8 { [%eval -13.89] } 16. h4 { [%eval -14.42] } 16... f5 { [%eval -13.68] } 17. g4 { [%eval -16.76] } 17... e4 { [%eval -15.18] } 18. gxf5 { [%eval -16.35] } 18... exd3 { [%eval -16.68] } 19. Nf4 { [%eval -19.73] } 19... d5 { [%eval -19.36] } 20. Nxd3 { [%eval -19.41] } 20... Bxf5 { [%eval -19.84] } 21. h5 { [%eval -23.99] } 21... Bxd3 { [%eval -23.91] } 22. hxg6?! { [%eval #-9] } 22... hxg6?! { [%eval -23.21] } 23. Bc1?! { [%eval #-8] } 23... Bxc3?! { [%eval -23.54] } 24. Re1 { [%eval -32.93] } 24... Qb6+ { [%eval -26.75] } 25. Kg3 { [%eval -33.38] } 25... Ng7 { [%eval -30.89] } 26. Rd1?! { [%eval #-3] } 26... Nh5+?! { [%eval #-5] } 27. Kh2 { [%eval #-5] } 27... Qf2?! { [%eval #-5] } 28. Ne4 { [%eval #-5] } 28... Be5+ { [%eval #-4] } 29. Kh3 { [%eval #-3] } 29... Bxe4 { [%eval #-2] } 30. fxe4 { [%eval #-1] } 30... Qg3# 0-1
+

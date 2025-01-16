@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RPcQLL7y"]
+[White "benick"]
+[Black "GATOFELIX"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:00"]
+[WhiteElo "1741"]
+[BlackElo "1590"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B46"]
+[Opening "Sicilian Defense: Paulsen Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 e6 6. a3 Bc5 7. Be3 e5 8. Nxc6 dxc6 9. Qxd8+ Kxd8 10. Bxc5 Ne7 11. O-O-O+ Ke8 12. Bxe7 Kxe7 13. g3 Bg4 14. Be2 Bh3 15. f4 exf4 16. gxf4 Rhe8 17. Rhg1 Kf8 18. Rg3 Bd7 19. Rxd7 1-0
+

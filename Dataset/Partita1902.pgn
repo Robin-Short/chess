@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8JC6024M"]
+[White "andm2"]
+[Black "mks"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:27:17"]
+[WhiteElo "1963"]
+[BlackElo "1516"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #2"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qa5 5. Nf3 Nc6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Qc7 9. Re1 a6 10. Bf4 Nb8 11. Rc1 Qb6 12. Na4 Qa5 13. Rxc8+ Ke7 14. Bg5+ f6 15. exf6+ gxf6 16. Bh4 b5 17. Nc5 Kf7 18. Nxe6 Qxa2 19. Rxf8+ Ke7 20. Nfd4 Qxb2 21. Nf5+ Kd7 22. Rd8+ Kc6 23. Ned4+ Kc7 24. Ne6+ Kc6 25. Qc1+ Qxc1 26. Rxc1+ Kb6 27. Bxf6 Nxf6 28. Rxh8 b4 29. Rcc8 a5 30. Rxb8+ Rxb8 31. Rxb8+ Ka7 32. Rb5 Ng4 33. Rxa5+ Kb6 34. Rxd5 b3 35. Rb5+ Kc6 36. Rxb3 Ne5 37. Be4+ Kd7 38. Nf8+ Ke8 39. Nxh7 Nf3+ 40. Bxf3 1-0
+

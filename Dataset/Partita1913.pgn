@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Arkfnbro"]
+[White "E-Online"]
+[Black "tuskerking"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:27:52"]
+[WhiteElo "1873"]
+[BlackElo "1940"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "A11"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. f4 Nf6 4. cxd5 cxd5 5. Nf3 Nc6 6. Ne5 Bf5 7. Nxc6 bxc6 8. e4 Nxe4 9. Nxe4 Bxe4 10. Be2 e6 11. Rg1 Bc5 12. Rh1 Bxg2 13. Bf3 Bxh1 14. Bxh1 O-O 15. Qc2 Bd4 16. d3 Qh4+ 17. Ke2 Qxh2+ 18. Kd1 Qxh1+ 19. Ke2 Qg2+ 20. Kd1 Qf1+ 21. Kd2 Qf2+ 22. Kd1 Qxc2+ 23. Kxc2 c5 24. Kd2 c4 25. dxc4 dxc4 26. Rb1 Rfd8 27. Kc2 Rab8 28. Bd2 Rdc8 29. Ba5 Rb5 30. b4 cxb3+ 31. Kd3 Rxa5 32. Rxb3 Rd5 33. Ke4 Bf6 34. Kf3 h6 35. Kg4 a5 36. a4 Rc4 37. Rb8+ Kh7 38. Rb7 Kg6 39. Rb5 Rxa4 40. Rb6 Rdd4 41. Kg3 Rxf4 42. Kg2 Rfb4 43. Kg3 Rxb6 44. Kf3 Ra2 45. Ke3 Rb4 46. Kd3 Ra3+ 47. Kc2 Rh4 48. Kd1 Rh2 49. Ke1 Ra1# 0-1
+

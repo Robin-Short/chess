@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xX6UmWGz"]
+[White "The-cooler"]
+[Black "marwed"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:55:55"]
+[WhiteElo "1634"]
+[BlackElo "1472"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 a6 6. Bxc6+ bxc6 7. e5 d5 8. a3 Be6 9. Nc3 c5 10. Qa4+ Qd7 11. Qxd7+ Bxd7 12. Nxd5 Rc8 13. O-O c6 14. Nb6 Rc7 15. Nxd7 Rxd7 16. Bf4 Re7 17. Rfe1 g6 18. Bg5 Re6 19. Bf4 Bg7 20. Ng5 Re7 21. c3 Nh6 22. Nf3 O-O 23. Bg5 Ree8 24. Bf6 Bxf6 25. exf6 Ng4 26. Rxe8 Rxe8 27. h3 Nxf6 28. Kf1 c4 29. Nd4 Rc8 30. Re1 Kg7 31. Nf3 Nd5 32. Ne5 Nb6 33. Ng4 Na4 34. Re2 c5 35. Ne5 Nb6 36. Rd2 Re8 37. Nc6 Re4 38. Nb8 a5 39. Nc6 a4 40. Nd8 Nc8 41. Nb7 Re5 42. Na5 Re4 43. f3 Rf4 44. Kf2 Ne7 45. g3 Rf5 46. Nxc4 Nd5 47. Nd6 Re5 48. Ne4 Nb6 49. Nd6 Re6 50. Ne4 Nc4 51. Rc2 Nd6 52. Nxc5 Re5 53. Nd3 Rd5 54. Nb4 Rd3 55. Nxd3 Nc4 56. Nc5 Nd6 57. Nxa4 Nb5 58. Nc5 Nd6 59. Ne4 Nb5 60. c4 Nd6 61. Nxd6 1-0
+

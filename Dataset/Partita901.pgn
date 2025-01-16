@@ -1,0 +1,24 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yUlZkKAr"]
+[White "erindreki"]
+[Black "JekyllHyde"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:35:10"]
+[WhiteElo "2246"]
+[BlackElo "1716"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. e4 Bg7 5. Nf3 O-O 6. Be2 Nbd7 7. Be3 Re8 8. 
+Qd2 e5 9. d5 b6 10. Bh6 a5 11. Bxg7 Kxg7 12. h4 Nc5 13. Qe3 Bg4 14. Ng5 Nh5 15. 
+Bxg4 Rf8 16. Bxh5 gxh5 17. Nf3 f5 18. Qg5+ Kh8 19. Qxd8 Raxd8 20. exf5 Rxf5 21. 
+Ke2 Rdf8 22. Rhf1 e4 23. Ng5 h6 24. Nh3 Kg7 25. f4 exf3+ 26. gxf3 Re8+ 27. Kf2 
+Nd3+ 28. Kg2 Nxb2 29. Rae1 Rxe1 30. Rxe1 Nxc4 31. Re7+ Kf6 32. Rxc7 Ne3+ 33. 
+Kf2 Nxd5 34. Ne4+ Ke5 35. Rd7 Nf6 36. Nxf6 Rxf6 37. Re7+ Kd5 38. Re4 Re6 39. 
+Nf4+ 1-0
+

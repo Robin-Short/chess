@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7O0RIqYX"]
+[White "jojoone"]
+[Black "yakregent"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:16:19"]
+[WhiteElo "1343"]
+[BlackElo "1365"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "360+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bd3 Nf6 4. O-O d5 5. exd5 Nxd5 6. Re1 Bd6 7. Bb5 f6 8. Bxc6+ bxc6 9. Nd4 Bb7 10. Qh5+ g6 11. Qg4 O-O 12. Qe6+ Rf7 13. Nc3 Nf4 14. Qg4 c5 15. Ne6 Nxe6 16. Qxe6 Bc8 17. Qd5 Bd7 18. d3 c6 19. Qxd6 Qa5 20. Be3 Rb8 21. Bxc5 Rxb2 22. Ne4 Rxa2 23. Rxa2 Qxe1# 0-1
+

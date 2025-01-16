@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iEOrnV4z"]
+[White "jean-pierre7ch"]
+[Black "mks"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:07"]
+[WhiteElo "1620"]
+[BlackElo "1384"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+18"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "240+5"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 a6 3. Nc3 d6 4. Nf3 Bd7 5. e3 b5 6. cxb5 axb5 7. Bxb5 c6 8. Bd3 Qa5 9. O-O d5 10. Qe2 Nf6 11. Bd2 Qb6 12. b3 Bd6 13. Na4 Qc7 14. h3 O-O 15. Rfc1 Re8 16. Qe1 e5 17. dxe5 Bxe5 18. Nxe5 Rxe5 19. Bc3 Rg5 20. Bf1 Bxh3 21. Nc5 Ng4 22. f4 Nf6 23. fxg5 Ng4 0-1
+

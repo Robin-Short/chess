@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bEnz3bWQ"]
+[White "neu"]
+[Black "Alexiv4"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:24"]
+[WhiteElo "1351"]
+[BlackElo "1088"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "240+8"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 e6 3. c4 Nf6 4. Nf3 Na6 5. Bd2 Ne4 6. Ba5 Qd6 7. Nc3 Nb4 8. cxd5 Nxc3 9. bxc3 Qxd5 10. Bxb4 a5 11. Qa4+ Bd7 12. Qb3 a4 13. Qxd5 exd5 14. Bxf8 Rxf8 15. Ne5 Bf5 16. g4 Be4 17. f3 Bg6 18. f4 Be4 19. Rg1 f6 20. f5 c6 21. c4 fxe5 22. dxe5 dxc4 23. Bxc4 Rd8 24. e6 Bd3 25. Bxd3 Rxd3 26. Ke2 Rc3 27. Rab1 b5 28. Kd2 Ra3 29. Rb2 Ke7 30. Rc1 Rd8+ 31. Ke2 Rd6 32. e4 c5 33. Rxc5 Rad3 34. Rc7+ Kf6 35. e7 Kf7 36. e5 R6d5 37. e6+ Kf6 38. g5+ Kxg5 39. e8=Q Re5+ 40. Kxd3 1-0
+

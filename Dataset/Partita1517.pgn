@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2UND7nFb"]
+[White "Vicious"]
+[Black "kors"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:05:49"]
+[WhiteElo "1825"]
+[BlackElo "1766"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "B00"]
+[Opening "Goldsmith Defense"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. e4 h5 2. d4 b5 3. Nf3 Bb7 4. c3 d5 5. Nbd2 dxe4 6. Ng1 f5 7. Ne2 g5 8. f3 e3 9. Nb1 f4 10. g3 Bh6 11. Rg1 fxg3 12. Nxg3 h4 13. Bg2 Nd7 14. Ne2 Ngf6 15. f4 Bxg2 16. Rxg2 gxf4 17. Qd3 f3 18. Qg6+ Kf8 19. Rg1 Rg8 20. Qxg8+ Nxg8 21. Rxg8+ Kxg8 22. Nf4 f2+ 23. Kf1 Bxf4 24. Ke2 Qf8 25. Na3 Bg5 26. Nc2 Nf6 27. b3 Ne4 28. c4 Nc3+ 29. Kd3 b4 30. Ba3 e2 31. Rb1 0-1
+

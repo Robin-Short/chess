@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eBw7LcU1"]
+[White "itsbrasil"]
+[Black "jacktheripper75"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:20:09"]
+[WhiteElo "1363"]
+[BlackElo "1393"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. Nf3 Bg7 3. Bf4 d6 4. e4 Nf6 5. e5 dxe5 6. Bxe5 O-O 7. Bc4 Be6 8. Be2 Nc6 9. c3 Nxe5 10. dxe5 Qxd1+ 11. Bxd1 Ne4 12. O-O f6 13. exf6 Bxf6 14. Bc2 Nd6 15. Nbd2 Bf5 16. Bb3+ Kh8 17. Nd4 Bxd4 18. cxd4 Nb5 19. Rae1 Nxd4 20. Rxe7 Nxb3 21. axb3 Rad8 22. Nc4 b5 23. Ne3 Rc8 24. Nd5 c6 25. Ne3 a5 26. Ra1 a4 27. bxa4 bxa4 28. Rxa4 Rfe8 29. Raa7 Rxe7 30. Rxe7 Ra8 31. h3 Ra1+ 32. Kh2 Ra2 33. Rb7 Be4 34. f3 Bd5 35. Nxd5 cxd5 36. Rb5 d4 37. Rb3 Ra8 38. Kg3 Rd8 39. Kf4 d3 40. Ke3 d2 41. Rd3 d1=Q 42. Rxd1 Rxd1 43. b4 Rb1 44. f4 Rxb4 45. Kf3 Rb3+ 46. Kg4 Rb2 47. g3 Kg7 48. h4 h5+ 49. Kg5 Rb5+ 50. f5 Rxf5# 0-1
+

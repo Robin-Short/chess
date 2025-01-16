@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8avJmFFO"]
+[White "Jim-Phelps"]
+[Black "payman7"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:25:59"]
+[WhiteElo "1816"]
+[BlackElo "1942"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+7"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.46] } 2. Nf3 { [%eval 0.42] } 2... Nc6 { [%eval 0.48] } 3. c3 { [%eval 0.37] } 3... Nf6 { [%eval 0.25] } 4. Bd3?! { [%eval -0.26] } 4... d5 { [%eval -0.38] } 5. e5 { [%eval -0.25] } 5... Ng4 { [%eval 0.12] } 6. Bb5 { [%eval 0.2] } 6... Bd7 { [%eval 0.24] } 7. Bxc6 { [%eval 0.17] } 7... Bxc6 { [%eval 0.24] } 8. h3 { [%eval 0.21] } 8... Nh6 { [%eval 0.2] } 9. d4 { [%eval 0.17] } 9... Nf5 { [%eval 0.52] } 10. Qd3?! { [%eval -0.37] } 10... e6 { [%eval -0.38] } 11. g4 { [%eval -0.58] } 11... c4 { [%eval -0.46] } 12. Qc2 { [%eval -0.36] } 12... Ne7 { [%eval -0.54] } 13. O-O { [%eval -0.69] } 13... Ng6 { [%eval -0.54] } 14. Bg5 { [%eval -0.63] } 14... Be7 { [%eval -0.55] } 15. Bxe7 { [%eval -0.55] } 15... Qxe7 { [%eval -0.48] } 16. Nbd2 { [%eval -0.83] } 16... h5 { [%eval -0.5] } 17. g5 { [%eval -0.47] } 17... Nf4 { [%eval -0.54] } 18. h4 { [%eval -0.55] } 18... O-O-O { [%eval -0.5] } 19. b3 { [%eval -0.47] } 19... f6 { [%eval -0.63] } 20. bxc4 { [%eval -0.78] } 20... dxc4 { [%eval -0.98] } 21. Nxc4?? { [%eval -4.89] } 21... Bxf3 { [%eval -4.97] } 22. Rab1?? { [%eval -9.24] } 22... fxg5 { [%eval -7.43] } 23. Nd6+? { [%eval -10.44] } 23... Rxd6 { [%eval -10.75] } 24. exd6?! { [%eval #-3] } 24... Qxd6? { [%eval -9.08] } 25. Qb3? { [%eval #-1] } 25... Ne2# 0-1
+

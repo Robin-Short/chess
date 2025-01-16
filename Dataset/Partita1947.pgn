@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NADGyYyX"]
+[White "potsy722"]
+[Black "Dolce_Denise"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:28:25"]
+[WhiteElo "1823"]
+[BlackElo "1679"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.2] } 1... e6 { [%eval 0.29] } 2. f4 { [%eval -0.16] } 2... b6 { [%eval 0.02] } 3. Nf3 { [%eval 0.03] } 3... Bb7 { [%eval 0.09] } 4. Nc3 { [%eval 0.0] } 4... Nf6 { [%eval 0.27] } 5. d4?! { [%eval -0.6] } 5... Nxe4 { [%eval -0.56] } 6. Nxe4 { [%eval -0.53] } 6... Bxe4 { [%eval -0.52] } 7. Ng5 { [%eval -0.86] } 7... Bb7 { [%eval -0.85] } 8. Bd3 { [%eval -1.02] } 8... g6 { [%eval -0.74] } 9. O-O { [%eval -0.75] } 9... Be7 { [%eval -0.36] } 10. c4 { [%eval -0.77] } 10... h6 { [%eval -0.72] } 11. Ne4 { [%eval -0.84] } 11... O-O { [%eval -0.74] } 12. Qd2?! { [%eval -1.29] } 12... Kg7?? { [%eval 3.25] } 13. f5 { [%eval 3.16] } 13... g5? { [%eval 5.97] } 14. fxe6?? { [%eval -0.3] } 14... dxe6 { [%eval -0.67] } 15. d5 { [%eval -0.35] } 15... exd5 { [%eval -0.24] } 16. cxd5?! { [%eval -0.93] } 16... Qxd5 { [%eval -1.0] } 17. Qc3+ { [%eval -1.41] } 17... f6 { [%eval -1.29] } 18. Rf2?! { [%eval -1.82] } 18... Na6 { [%eval -1.72] } 19. Be3 { [%eval -1.85] } 19... Rad8 { [%eval -1.36] } 20. Bc2? { [%eval -2.8] } 20... Nc5? { [%eval 0.0] } 21. Nxc5? { [%eval -1.05] } 21... Bxc5 { [%eval -0.91] } 22. Bxc5 { [%eval -1.31] } 22... bxc5?! { [%eval -0.77] } 23. Bb3 { [%eval -1.05] } 23... Qc6 { [%eval -0.58] } 24. Qc4? { [%eval -1.69] } 24... Rd4 { [%eval -1.78] } 25. Qe2 { [%eval -1.72] } 25... Re8 { [%eval -1.89] } 26. Qh5 { [%eval -2.02] } 26... Rh4?? { [%eval 3.15] } 27. Qf7+ { [%eval 3.23] } 27... Kh8 { [%eval 3.27] } 28. Raf1? { [%eval 1.12] } 28... Rf4? { [%eval 2.31] } 29. Qg6? { [%eval -0.5] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JkqMXsft"]
+[White "zzzxxxx"]
+[Black "A_R_A_K_E_L_Y_A_N"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:03:55"]
+[WhiteElo "1534"]
+[BlackElo "1468"]
+[WhiteRatingDiff "+45"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "0+4"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bg5 d5 3. Bxd8 Kxd8 4. Nf3 Be7 5. Ne5 Nf6 6. Nxf7+ 1-0
+

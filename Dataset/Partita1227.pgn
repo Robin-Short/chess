@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zjMEL5cL"]
+[White "capablanca1950"]
+[Black "denko"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:50:40"]
+[WhiteElo "1772"]
+[BlackElo "1672"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 e5 4. d4 cxd4 5. cxd4 exd4 6. Nxd4 Nc6 7. Nc3 Be7 8. Be2 Nf6 9. O-O Bd7 10. Bg5 Qc7 11. Ndb5 Qb8 12. Bxf6 gxf6 13. Re1 a6 14. Nd4 Qc7 15. Rc1 O-O-O 16. Nd5 Qa5 17. Nxe7+ Kb8 18. Nexc6+ bxc6 19. Rxc6 Rc8 20. Rxc8+ Rxc8 21. Bf3 Ba4 22. b3 Bd7 23. Nf5 Rc6 24. Ne3 Qxa2 25. e5 Rb6 26. exd6 Rxb3 27. Qd5 Be6 28. Qa8# 1-0
+

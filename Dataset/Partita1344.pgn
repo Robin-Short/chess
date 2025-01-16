@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KQU58Xyg"]
+[White "Icasper"]
+[Black "yaavarmo"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:56:03"]
+[WhiteElo "1683"]
+[BlackElo "1624"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "420+3"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... e5 { [%eval 0.32] } 2. Bc4 { [%eval 0.11] } 2... Nc6 { [%eval 0.12] } 3. a3 { [%eval 0.08] } 3... a6 { [%eval 0.13] } 4. b4 { [%eval -0.31] } 4... b5 { [%eval -0.18] } 5. Bd5 { [%eval -0.1] } 5... Bb7 { [%eval 0.05] } 6. Qf3?! { [%eval -0.55] } 6... Nf6 { [%eval -0.55] } 7. d3? { [%eval -2.24] } 7... Nxd5 { [%eval -2.21] } 8. exd5 { [%eval -2.31] } 8... Nd4 { [%eval -2.17] } 9. Qd1 { [%eval -2.32] } 9... Bxd5 { [%eval -2.26] } 10. c3?? { [%eval -5.61] } 10... Bxg2? { [%eval -4.17] } 11. cxd4 { [%eval -4.18] } 11... exd4 { [%eval -4.15] } 12. Qe2+?! { [%eval -4.82] } 12... Qe7?! { [%eval -4.13] } 13. Qxe7+?! { [%eval -4.79] } 13... Bxe7 { [%eval -4.86] } 0-1
+

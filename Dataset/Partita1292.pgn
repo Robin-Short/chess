@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PPZbkMeF"]
+[White "maan"]
+[Black "HIGHchess"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:54:09"]
+[WhiteElo "1525"]
+[BlackElo "1601"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Krause Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 c5 3. c3 Bg4 4. Bf4 Nc6 5. e3 f6 6. Bb5 a6 7. Bxc6+ bxc6 8. Nbd2 cxd4 9. cxd4 c5 10. h3 Bh5 11. Qa4+ Qd7 12. Qxd7+ Kxd7 13. dxc5 e5 14. Bh2 Bxc5 15. O-O Bb4 16. Nb3 Bxf3 17. gxf3 Ne7 18. a3 Bd6 19. e4 d4 20. Rad1 Rab8 21. Na5 Rxb2 22. Nc4 Rb3 23. Nxd6 Kxd6 24. f4 Rxh3 25. fxe5+ fxe5 26. f4 exf4 27. Bxf4+ Ke6 28. Rxd4 Rf8 29. Rd6+ Kf7 30. Bg5+ Ke8 31. Rxf8+ Kxf8 32. Rxa6 Rg3+ 33. Kf2 Rxg5 34. Ke3 Re5 35. Kd4 Rh5 36. a4 Kf7 37. Rd6 Rh4 38. a5 Nf5+ 39. Kd5 Nxd6 40. Kxd6 Rxe4 41. a6 Ra4 0-1
+

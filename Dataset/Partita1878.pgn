@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/B2F8JvCh"]
+[White "cmath"]
+[Black "Tarama"]
+[Result "1/2-1/2"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:25:55"]
+[WhiteElo "1655"]
+[BlackElo "1870"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Ponziani Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nxe4 4. dxe5 Qh4 5. Qf3 d6 6. Qxf7+ Kd8 7. g3 Qe7 8. Qf3 Nc5 9. b4 Ne6 10. Ne2 dxe5 11. O-O Nc6 12. Rd1+ Bd7 13. b5 Kc8 14. bxc6 bxc6 15. Ba6+ Kd8 16. Bb7 Rb8 17. Bxc6 Qc5 18. Bxd7 Nd4 19. Nxd4 exd4 20. Bb2 Kxd7 21. Bxd4 Qxc2 22. Bxa7+ Qxd1+ 23. Qxd1+ Bd6 24. Nc3 Rb7 25. Ne4 Rhb8 26. Nxd6 Rxa7 27. Nb5+ Kc6 28. Nxa7+ Kb7 29. Rc1 Kxa7 30. Qa4+ Kb7 31. Rb1+ Kc8 32. Rxb8+ Kxb8 33. Qa6 c6 34. Qxc6 Ka7 35. Qd7+ Kb6 36. Qxg7 Kc5 37. Qxh7 Kc4 1/2-1/2
+

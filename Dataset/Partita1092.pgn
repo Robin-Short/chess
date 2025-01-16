@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4dqUyMPi"]
+[White "c_omar"]
+[Black "Castell"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:43:44"]
+[WhiteElo "1707"]
+[BlackElo "1679"]
+[WhiteRatingDiff "+62"]
+[BlackRatingDiff "-9"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "240+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... e5 { [%eval 0.25] } 2. d4 { [%eval 0.12] } 2... exd4 { [%eval 0.0] } 3. c3 { [%eval -0.19] } 3... dxc3 { [%eval -0.08] } 4. Nxc3 { [%eval -0.05] } 4... Bb4 { [%eval 0.06] } 5. a3 { [%eval -0.4] } 5... Bc5?! { [%eval 0.43] } 6. Nf3 { [%eval 0.29] } 6... d6 { [%eval 0.22] } 7. Bc4 { [%eval 0.21] } 7... h6?! { [%eval 1.07] } 8. O-O { [%eval 0.59] } 8... Bg4? { [%eval 1.81] } 9. Qb3 { [%eval 1.63] } 9... Qf6?? { [%eval 5.3] } 10. Qxb7?! { [%eval 4.77] } 10... Ne7 { [%eval 4.75] } 11. e5? { [%eval 3.53] } 11... Bxf3 { [%eval 3.99] } 12. gxf3 { [%eval 3.5] } 12... Qg6+ { [%eval 3.82] } 13. Kh1 { [%eval 3.63] } 13... O-O { [%eval 3.55] } 14. Qxa8 { [%eval 3.72] } 14... Nd7 { [%eval 4.01] } 15. Qe4 { [%eval 4.02] } 15... Qh5? { [%eval 5.29] } 16. Qg4?! { [%eval 4.6] } 16... Qxe5?? { [%eval 7.92] } 17. Bxh6?! { [%eval 7.34] } 17... Nf6? { [%eval #1] } 1-0
+

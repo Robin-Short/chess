@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RixQikCg"]
+[White "sezwho"]
+[Black "ribarisah"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:53:02"]
+[WhiteElo "2072"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld Defense: Classical Variation, Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 g6 2. Bg2 Bg7 3. d4 Nf6 4. Nf3 O-O 5. O-O d5 6. c4 dxc4 7. Qa4 e6 8. Qxc4 c6 9. Nc3 Nbd7 10. e4 Nb6 11. Qd3 c5 12. Rd1 cxd4 13. Nxd4 Bd7 14. e5 Nfd5 15. Nxd5 Nxd5 16. Bxd5 exd5 17. f4 Bc6 18. Be3 f6 19. exf6 Qxf6 20. Rac1 Rac8 21. Nxc6 bxc6 22. Bd4 Qxd4+ 23. Qxd4 Bxd4+ 24. Rxd4 Kf7 25. b4 Ke6 26. Kf2 Kd6 27. Rc5 Rfe8 28. Rd2 Rb8 29. a3 a6 30. Rdc2 Rec8 31. Ke3 Rb5 32. Kd4 Rxc5 33. Rxc5 Re8 34. Ra5 Ra8 35. a4 Kc7 36. b5 Kb6 37. Rxa6+ Rxa6 38. bxa6 Kxa6 39. g4 Ka5 40. f5 gxf5 41. gxf5 Kxa4 42. f6 Kb4 43. f7 c5+ 44. Kxd5 c4 45. f8=Q+ 1-0
+

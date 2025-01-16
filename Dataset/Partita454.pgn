@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5SUlNTH8"]
+[White "DxDeathusu"]
+[Black "tandr"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:18:17"]
+[WhiteElo "1301"]
+[BlackElo "1469"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-16"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. Nf3 d6 2. d4 e6 3. e4 b6 4. c4 Bb7 5. Bd3 Ne7 6. Bf4 Nd7 7. e5 d5 8. cxd5 Nxd5 9. Qc1 Bb4+ 10. Nc3 Nxf4 11. Qxf4 O-O 12. Ng5 Bxg2 13. Bxh7+ Kh8 14. Bg6 Qe7 15. Qh4+ 1-0
+

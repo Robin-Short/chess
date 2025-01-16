@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QYhTaN2x"]
+[White "King1ouis"]
+[Black "minnesotafrank"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:42"]
+[WhiteElo "1317"]
+[BlackElo "1463"]
+[WhiteRatingDiff "+34"]
+[BlackRatingDiff "-15"]
+[ECO "C20"]
+[Opening "King's Pawn Opening: 2.b3"]
+[TimeControl "420+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. b3 d6 3. Bb5+ c6 4. Bc4 b5 5. Bd3 Nd7 6. Nh3 Ngf6 7. f3 Nc5 8. f4 exf4 9. Qf3 Qe7 10. e5 dxe5 11. Qxc6+ Ncd7 12. Qxa8 Kd8 13. Qxa7 Nc5 14. Qb6+ Qc7 15. Qxb5 Bd7 16. Qc4 Be6 17. Qd4+ Bd6 18. Bc4 exd4 19. Bxe6 fxe6 20. Ng5 d3 21. b4 dxc2 22. Na3 Nd3+ 23. Ke2 Nxb4 24. Nxe6+ Kd7 25. Nxc7 Kxc7 26. Nb5+ Kc6 27. Nxd6 Kxd6 28. Ba3 Rc8 29. Rhc1 Nd5 30. Rf1 Ke6 31. Bxb4 Nxb4 32. Rxf4 c1=Q 33. Rxc1 Rxc1 34. Rxb4 Rg1 35. g3 Rg2+ 36. Kd3 Rxh2 37. a4 Rg2 38. a5 Rxg3+ 39. Kc4 Ra3 40. Kb5 h5 41. Ra4 Rd3 42. a6 Rd8 43. a7 Ra8 44. Kb6 g5 45. d4 g4 46. Kb7 Rxa7+ 47. Rxa7 g3 48. Kc6 h4 49. d5+ Ke5 50. d6 g2 51. Ra1 h3 52. d7 h2 53. d8=Q h1=Q 54. Qe8+ Kd4 55. Qd7+ Ke3 56. Qe6+ Kd3 57. Qd5+ Ke2 58. Qe4+ Kf2 59. Ra2+ Kg1 60. Ra1+ Kh2 61. Qh4# 1-0
+

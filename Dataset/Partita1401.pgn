@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/gjT2o1VU"]
+[White "Queenlml"]
+[Black "-dexter-"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:59:27"]
+[WhiteElo "1263"]
+[BlackElo "1250"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-19"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "60+2"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. e5 d4 3. Nf3 c5 4. Ng5 f6 5. exf6 exf6 6. Ne4 Qe7 7. Qe2 Bf5 8. Nxc5 Qxe2+ 9. Bxe2 Bxc5 10. O-O Bxc2 11. Re1 Bxb1 12. Bd3+ Ne7 13. Bxb1 Nc6 14. d3 O-O-O 15. Bf4 g5 16. Bg3 h5 17. f3 h4 18. Bf2 h3 19. g3 Nf5 20. Bc2 Nb4 21. Bb3 Nxd3 22. Re6 Nxf2 23. Rxf6 d3 24. Rxf5 d2 25. Be6+ Kb8 26. Rxc5 d1=Q+ 27. Rxd1 Nxd1 28. Kf1 Ne3+ 29. Ke2 1-0
+

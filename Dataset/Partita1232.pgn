@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/096JCUD0"]
+[Site "https://lichess.org/L0QLyzzv"]
+[White "AwareTenacious"]
+[Black "geri"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:50:09"]
+[WhiteElo "1666"]
+[BlackElo "1460"]
+[WhiteRatingDiff "+39"]
+[BlackRatingDiff "-6"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.27] } 1... d5 { [%eval 0.28] } 2. Nf3 { [%eval 0.24] } 2... Nc6 { [%eval 0.38] } 3. Bf4 { [%eval 0.07] } 3... Bg4 { [%eval 0.12] } 4. Ne5 { [%eval 0.01] } 4... Nxe5 { [%eval 0.07] } 5. Bxe5 { [%eval 0.03] } 5... e6 { [%eval 0.01] } 6. c3 { [%eval -0.18] } 6... c5?! { [%eval 0.54] } 7. h3 { [%eval 0.36] } 7... Bf5 { [%eval 0.53] } 8. g4?! { [%eval -0.2] } 8... Be4 { [%eval -0.06] } 9. f3 { [%eval -0.03] } 9... Bg6 { [%eval 0.06] } 10. Bg3?! { [%eval -0.55] } 10... cxd4 { [%eval -0.3] } 11. Qxd4 { [%eval -0.51] } 11... Nf6 { [%eval -0.07] } 12. Nd2 { [%eval -0.31] } 12... b6?! { [%eval 0.24] } 13. b4? { [%eval -0.76] } 13... Rc8?! { [%eval 0.0] } 14. Rc1?! { [%eval -0.91] } 14... Bd6 { [%eval -1.0] } 15. Be5 { [%eval -0.84] } 15... Bxe5 { [%eval -0.96] } 16. Qxe5 { [%eval -0.99] } 16... O-O { [%eval -1.03] } 17. h4 { [%eval -1.01] } 17... h6?! { [%eval -0.5] } 18. h5 { [%eval -0.62] } 18... Bh7 { [%eval -0.75] } 19. Nb3 { [%eval -0.97] } 19... Nd7 { [%eval -0.73] } 20. Qe3 { [%eval -0.94] } 20... Qc7 { [%eval -1.0] } 21. g5 { [%eval -1.1] } 21... Qg3+ { [%eval -1.05] } 22. Kd1 { [%eval -1.14] } 22... hxg5 { [%eval -1.11] } 23. h6?! { [%eval -1.78] } 23... g4?? { [%eval 2.59] } 24. hxg7 { [%eval 2.36] } 24... Rfe8 { [%eval 2.54] } 25. Qh6 { [%eval 2.53] } 25... Nf6 { [%eval 2.45] } 26. Qxf6 { [%eval 2.48] } 26... gxf3 { [%eval 2.56] } 27. Qh6? { [%eval 1.45] } 27... fxe2+ { [%eval 1.38] } 28. Bxe2 { [%eval 1.31] } 28... Qg6?! { [%eval 2.26] } 29. Kd2?! { [%eval 1.31] } 29... Qxg7? { [%eval 2.84] } 30. Rcg1 { [%eval 3.83] } 30... Rxc3?? { [%eval #1] } 31. Qxg7# 1-0
+

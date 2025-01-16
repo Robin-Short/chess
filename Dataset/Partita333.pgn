@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RBLq53A6"]
+[White "protea"]
+[Black "atol"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:13:42"]
+[WhiteElo "1257"]
+[BlackElo "1422"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. e5 e6 3. f4 Ne7 4. Ne2 a6 5. Rg1 b5 6. a4 b4 7. c3 Nd5 8. cxb4 Nxb4 9. d3 d6 10. Be3 dxe5 11. fxe5 Bb7 12. a5 Qxd3 13. Qa4+ Bc6 14. Nf4 Qxe3+ 15. Ne2 Bxa4 16. Rxa4 Be7 17. g3 O-O 18. h4 Nc2+ 19. Kd1 Nd4 20. Nbc3 Nxe2 21. Nxe2 Qb3+ 22. Kc1 Qxa4 23. Bg2 Qa1+ 24. Kc2 Qxg1 25. Nxg1 Ra7 26. Ne2 Rc7 27. b3 Nc6 28. Nf4 Nxe5 29. Kb2 Ng4 30. h5 Ne3 31. Bh1 e5 32. Ne2 Bf6 33. g4 Bg5 34. Ka2 f6 35. Kb2 c4 36. Ka2 cxb3+ 37. Kxb3 Rb8+ 38. Ka4 Nxg4 39. Bd5+ Kf8 40. Nc3 Rxc3 41. h6 gxh6 42. Be6 Ne3 43. Bd7 Ke7 44. Bh3 Rc1 45. Ka3 Ra1# 0-1
+

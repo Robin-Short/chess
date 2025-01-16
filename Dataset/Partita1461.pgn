@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W6FB9KGE"]
+[White "c_omar"]
+[Black "mr28554"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:01:56"]
+[WhiteElo "1781"]
+[BlackElo "1370"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-3"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "240+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.11] } 1... d5 { [%eval 0.6] } 2. e5?! { [%eval 0.0] } 2... d4 { [%eval 0.31] } 3. Nf3 { [%eval 0.25] } 3... Nc6 { [%eval 0.38] } 4. d3 { [%eval -0.07] } 4... b6?! { [%eval 0.44] } 5. g3 { [%eval 0.15] } 5... Bg4?! { [%eval 0.72] } 6. h3 { [%eval 0.59] } 6... Bxf3 { [%eval 0.54] } 7. Qxf3 { [%eval 0.54] } 7... Nxe5 { [%eval 0.62] } 8. Qe2? { [%eval -0.85] } 8... g6?? { [%eval 3.56] } 9. Qxe5 { [%eval 3.54] } 9... Nf6?! { [%eval 4.21] } 10. Bg2 { [%eval 4.18] } 10... Rb8?? { [%eval 10.66] } 11. Bc6+ { [%eval 10.5] } 11... Nd7 { [%eval 10.75] } 12. Qxh8 { [%eval 10.53] } 12... e6 { [%eval 11.42] } 13. Qxd4 { [%eval 10.15] } 13... Bd6 { [%eval 13.0] } 14. Bf4?! { [%eval 9.31] } 14... Bxf4 { [%eval 9.57] } 15. Qxd7+?! { [%eval 8.99] } 15... Qxd7 { [%eval 9.03] } 16. Bxd7+ { [%eval 9.03] } 16... Kxd7 { [%eval 8.99] } 17. gxf4 { [%eval 9.01] } 17... Re8 { [%eval 9.08] } 1-0
+

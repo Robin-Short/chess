@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RBFsrMps"]
+[White "libi"]
+[Black "falsoreti"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:09:28"]
+[WhiteElo "1741"]
+[BlackElo "1532"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted, Cunningham Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. h4 d5 5. e5 Be6 6. d4 h6 7. Bxf4 g5 8. hxg5 h5 9. Nc3 Nc6 10. Bb5 Qd7 11. Qd3 a6 12. Ba4 b5 13. Bb3 Bb4 14. O-O-O Nge7 15. Nh4 Na5 16. g6 fxg6 17. Nxg6 Rg8 18. Nxe7 Qxe7 19. g3 Nxb3+ 20. cxb3 c5 21. dxc5 Bxc5 22. Nxd5 Qd7 23. Nf6+ Kf7 24. Nxd7 Bxd7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iXoMIGEl"]
+[White "dague"]
+[Black "Eisbrecher_arg"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:27"]
+[WhiteElo "1406"]
+[BlackElo "1390"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. Nc3 Nf6 5. h3 Bd7 6. d3 Nc6 7. Nd5 Be7 8. Nxe7 Qxe7 9. Be3 a6 10. c3 b5 11. Bb3 b4 12. cxb4 Nxb4 13. a3 Nc6 14. Nh2 O-O 15. Ng4 Bxg4 16. hxg4 Rfe8 17. g5 hxg5 18. Bxg5 Kf8 19. Rh8+ 1-0
+

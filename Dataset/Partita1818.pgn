@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UZwmbtCK"]
+[White "arpouille"]
+[Black "sicko72"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:22:50"]
+[WhiteElo "2058"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C00"]
+[Opening "French Defense: Chigorin Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Qe2 c5 3. Nf3 Nc6 4. c3 Nge7 5. d4 cxd4 6. cxd4 d5 7. Nc3 dxe4 8. Nxe4 Nxd4 9. Nxd4 Qxd4 10. g3 Nd5 11. Bg2 Bb4+ 12. Bd2 Bxd2+ 13. Nxd2 O-O 14. O-O Qxb2 15. Rfb1 Qd4 16. Nb3 Qf6 17. Nc5 Nc3 18. Qc2 Nxb1 19. Rxb1 Rb8 20. Ne4 Qd4 21. Rd1 Qb4 22. Qc7 e5 23. Qxb8 Bg4 24. Rd8 Qe1+ 25. Bf1 Bh3 26. Rxf8# 1-0
+

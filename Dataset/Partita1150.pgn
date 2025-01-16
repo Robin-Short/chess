@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fIDhWbuL"]
+[White "stricklw80"]
+[Black "jlf1975"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:47:07"]
+[WhiteElo "1269"]
+[BlackElo "1317"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "300+1"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nc3 c6 3. h3 Nf6 4. Nf3 h6 5. g4 h5 6. g5 Nfd7 7. e3 e6 8. Bd3 Bb4 9. g6 Bxc3+ 10. bxc3 f6 11. Ba3 Nf8 12. e4 Bd7 13. e5 f5 14. Rg1 Rh6 15. Bxf8 Kxf8 16. Kd2 Be8 17. Rg2 Ke7 18. Qg1 Kd7 19. Rb1 b6 20. a4 Kc7 21. Ng5 Qe7 22. a5 b5 23. a6 Nxa6 24. Ra1 Nb8 25. c4 a6 26. cxb5 cxb5 27. Bxb5 Qb4+ 28. c3 Qxb5 29. Nxe6+ Kd7 30. Nxg7 Qb2+ 31. Kd3 Qb5+ 32. Ke3 Kc8 33. Nxf5 Qd7 34. g7 Bf7 35. g8=Q+ Bxg8 36. Rxg8+ Kc7 37. Qg5 Re6 38. Nd6 Nc6 39. Rxa8 Nb8 40. Ra7+ Kc6 41. Rxd7 Nxd7 42. Nb7 Kxb7 43. Qg7 Kc6 44. Qxd7+ Kxd7 45. Rxa6 Ke7 46. Ra7+ Ke8 47. Ra8+ Kd7 48. f4 Ke7 49. f5 1-0
+

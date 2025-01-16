@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KuZxA3FU"]
+[White "felix777"]
+[Black "philD3"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:09:01"]
+[WhiteElo "1637"]
+[BlackElo "1353"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-15"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+5"]
+[Termination "Time forfeit"]
+
+1. g3 { [%eval -0.27] } 1... e5 { [%eval -0.2] } 2. Bg2 { [%eval -0.38] } 2... d5 { [%eval -0.41] } 3. e3 { [%eval -0.2] } 3... f5 { [%eval 0.02] } 4. b3 { [%eval 0.1] } 4... Nf6 { [%eval -0.05] } 5. Bb2 { [%eval 0.0] } 5... Nc6 { [%eval -0.02] } 6. Ne2 { [%eval -0.03] } 6... Bc5 { [%eval 0.37] } 7. O-O { [%eval 0.16] } 7... Be6 { [%eval 0.48] } 8. d4 { [%eval 0.57] } 8... exd4 { [%eval 0.74] } 9. Nxd4 { [%eval 0.5] } 9... Bxd4 { [%eval 0.51] } 10. Bxd4 { [%eval 0.15] } 10... Nxd4 { [%eval 0.2] } 11. Qxd4 { [%eval 0.17] } 11... Qd6 { [%eval 0.25] } 12. Rd1 { [%eval 0.27] } 12... a6 { [%eval 0.66] } 13. Nc3 { [%eval 0.35] } 13... c5?! { [%eval 1.2] } 14. Qd2?! { [%eval 0.31] } 14... O-O? { [%eval 1.74] } 15. Nxd5 { [%eval 1.77] } 15... Nxd5 { [%eval 1.75] } 16. Bxd5 { [%eval 1.67] } 16... Bxd5 { [%eval 1.75] } 17. Qxd5+ { [%eval 1.76] } 17... Qxd5 { [%eval 1.62] } 18. Rxd5 { [%eval 1.75] } 18... b6 { [%eval 1.85] } 19. c4 { [%eval 1.72] } 19... Rae8 { [%eval 1.79] } 20. Rad1 { [%eval 1.79] } 20... Rf6 { [%eval 2.0] } 21. Rd7 { [%eval 2.16] } 21... h6 { [%eval 2.08] } 22. Ra7 { [%eval 2.18] } 22... b5 { [%eval 2.55] } 23. cxb5 { [%eval 2.68] } 23... axb5 { [%eval 2.6] } 24. Rdd7 { [%eval 2.67] } 1-0
+

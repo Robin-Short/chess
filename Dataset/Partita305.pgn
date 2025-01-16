@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vYf6R3ec"]
+[White "Krpov14"]
+[Black "kurjak"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:12:14"]
+[WhiteElo "1919"]
+[BlackElo "1580"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+19"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 c6 5. b3 Qa5+ 6. Bd2 b4 7. Bxc4 Ba6 8. Qe2 Bxc4 9. Qxc4 Na6 10. Nf3 Qb6 11. a5 Qb5 12. Qxb5 cxb5 13. O-O f6 14. Rc1 e6 15. Rc6 Nb8 16. Rc8+ Kf7 17. Rc7+ Ne7 18. Bxb4 a6 19. Nbd2 Nc6 20. Bxe7 Nxe7 21. Rac1 g5 22. Ne4 Kg6 23. Nc5 Nd5 24. Rc6 Bxc5 25. R1xc5 Rhe8 26. h3 h5 27. Nd2 Nb4 28. Rd6 Nd3 29. Rcc6 Nb4 30. Rb6 Nd3 31. Rxe6 Rxe6 32. Rxe6 Nc1 33. e4 Ne2+ 34. Kf1 Nxd4 35. Rb6 Nc2 36. e5 Re8 37. exf6 Re1# 0-1
+

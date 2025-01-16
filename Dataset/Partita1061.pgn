@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mnnRFuam"]
+[White "zurka"]
+[Black "Bill-Hicks"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:42:31"]
+[WhiteElo "1522"]
+[BlackElo "1606"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 e5 2. Bb2 d6 3. g3 Nd7 4. Bg2 c6 5. f3 Ndf6 6. e3 Ne7 7. d3 Ng6 8. c3 Be7 9. Nd2 Bd7 10. Qc2 Qc8 11. Ne2 Bh3 12. Bxh3 Qxh3 13. Rg1 Qxh2 14. O-O-O Qf2 15. Rgf1 1-0
+

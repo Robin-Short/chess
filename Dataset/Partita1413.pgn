@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/byHGQ5gb"]
+[White "danger79"]
+[Black "nattramnms"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:00:16"]
+[WhiteElo "1294"]
+[BlackElo "1400"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+10"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Myers Attack #2"]
+[TimeControl "420+6"]
+[Termination "Normal"]
+
+1. e4 c5 2. a4 Nc6 3. c3 d6 4. b4 b6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. b5 Bxe4 8. Qe2 Nf6 9. f3 Bf5 10. g4 Bd7 11. g5 Nd5 12. Qe4 e6 13. c4 Nb4 14. Ba3 d5 15. cxd5 Nxd5 16. Ne2 Qxg5 17. f4 Qh4+ 18. Ng3 Nxf4 19. Qxa8+ Ke7 20. Rf1 Nd3+ 21. Kd1 Qxa4+ 22. Ke2 Bxb5 23. Qb7+ Ke8 24. Qc8+ Ke7 25. Qc7+ Ke8 26. Qxf7+ Kd8 27. Nc3 Ne5+ 28. d3 Qc2+ 29. Ke1 Nxd3# 0-1
+

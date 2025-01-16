@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UGrwr2wa"]
+[White "Vax"]
+[Black "clevereduardo"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:18:30"]
+[WhiteElo "1769"]
+[BlackElo "1880"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Four Pawns Attack, Main Line"]
+[TimeControl "120+13"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. d5 Nxe5 9. Bxb6 axb6 10. Nf3 Bg4 11. Be2 Bxf3 12. Bxf3 Nxc4 13. Qa4+ Rxa4 14. b3 0-1
+

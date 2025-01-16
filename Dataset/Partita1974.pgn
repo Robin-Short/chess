@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/tYtWh2lL"]
+[White "JaiSkiesNY"]
+[Black "subteacher"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:30:50"]
+[WhiteElo "1547"]
+[BlackElo "1761"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 c6 2. c3 d5 3. d4 e6 4. Bd3 Nd7 5. f3 Ngf6 6. e4 Be7 7. e5 Ng8 8. Ne2 g6 9. f4 Bf8 10. Be3 Bg7 11. Nd2 Ne7 12. Ng3 c5 13. dxc5 b6 14. cxb6 axb6 15. O-O O-O 16. Bd4 Ba6 17. Bxa6 Rxa6 18. Qe2 Ra8 19. Qg4 Rb8 20. Nf3 h5 21. Qg5 Nf5 22. Nxf5 Qxg5 23. fxg5 exf5 24. e6 Bxd4+ 25. Nxd4 fxe6 26. Nxe6 Rfe8 27. Nc7 Red8 28. Nxd5 Ne5 29. Nf6+ Kg7 30. Rfe1 Ng4 31. Nxg4 hxg4 32. g3 Rd2 33. Re7+ Kf8 34. Rae1 Rbd8 35. R7e2 R2d5 36. c4 Rd4 37. b3 Kf7 38. Re6 R8d7 39. Rxb6 Rd1 40. Rxd1 Rxd1+ 41. Kf2 Rd2+ 42. Kg1 Rxa2 43. c5 Ra1+ 44. Kg2 Ra2+ 45. Kf1 Rc2 0-1
+

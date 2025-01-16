@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DColqgRu"]
+[White "ripcitys24"]
+[Black "chess19277102"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:45:24"]
+[WhiteElo "1538"]
+[BlackElo "1569"]
+[WhiteRatingDiff "+37"]
+[BlackRatingDiff "-11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "900+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nc3 Nc6 3. e3 Bf5 4. h3 e6 5. g4 Bg6 6. h4 Nb4 7. h5 Nxc2+ 8. Kd2 Nxa1 9. hxg6 fxg6 10. b3 Bb4 11. Bb2 Bxc3+ 12. Bxc3 Qd6 13. Bxa1 Qa3 14. Qc2 Rc8 15. Bb2 Qxa2 16. Ne2 Ne7 17. Nc3 Qa5 18. Ke1 c5 19. Bb5+ Nc6 20. dxc5 O-O 21. Ba4 Nb4 22. Qd1 Rxc5 23. e4 dxe4 24. Nxe4 Nd3+ 25. Kf1 Nxb2 26. Qd4 Rc1+ 27. Kg2 Rxh1 28. Kxh1 Qe1+ 29. Kg2 Qe2 30. Bd7 Qxg4+ 31. Kf1 Qh3+ 32. Ke1 Nd3+ 33. Kd2 Nxf2 34. Nxf2 Qh6+ 35. Qe3 Rxf2+ 36. Kd3 1-0
+

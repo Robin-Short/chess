@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Qvty1bl3"]
+[White "Perdosempre"]
+[Black "Alexiv4"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:34:57"]
+[WhiteElo "1268"]
+[BlackElo "1043"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+25"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. h3 Nc6 4. Bc4 Nh6 5. d3 a6 6. Ng5 b5 7. Nxf7 Nxf7 8. Bd5 Bd7 9. Qf3 Qf6 10. Qxf6 gxf6 11. O-O Rb8 12. f4 Nd4 13. fxe5 Ne2+ 14. Kh2 Nxc1 15. Rxc1 Rg8 16. exf6 Rg6 17. Rf1 b4 18. a3 a5 19. c3 b3 20. Nd2 a4 21. Nf3 c6 22. Bxf7+ Kxf7 23. d4 Rh6 24. e5 Bg4 25. exd6 Bxf3 26. Rxf3 Rxf6 27. Raf1 Bg7 28. Re3 Re8 29. Rfe1 Rxe3 30. Rxe3 Rxd6 31. Re4 Bh6 32. Rh4 Rf6 33. Rh5 Bf4+ 34. Kh1 Bc1 35. Rxh7+ Kg6 36. Ra7 Bxb2 37. Rxa4 Bxc3 38. Rc4 Bb2 39. Rb4 Rf1+ 40. Kh2 Bxa3 41. Rxb3 Bd6+ 42. g3 Rf2+ 43. Kg1 Rf6 44. Rc3 Bc7 45. Kg2 Kf5 46. g4+ Ke4 47. Rc5 Kxd4 48. Rf5 Rxf5 49. gxf5 Bd8 50. Kg3 Ke5 51. Kg4 c5 52. h4 c4 53. h5 Bf6 54. h6 c3 0-1
+

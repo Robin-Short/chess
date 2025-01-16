@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1F284bZM"]
+[White "A442"]
+[Black "falsoreti"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "23:17:28"]
+[WhiteElo "1422"]
+[BlackElo "1410"]
+[WhiteRatingDiff "-59"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Nf6 3. f3 Bc5 4. a3 Bxg1 5. Rxg1 d6 6. b4 Be6 7. Bb2 Nc6 8. g4 Qe7 9. c3 h6 10. d4 exd4 11. cxd4 O-O 12. d5 Bxg4 13. dxc6 bxc6 14. fxg4 Qxe4+ 15. Qe2 Qf4 16. Bxf6 Rae8 17. Qxe8 Rxe8+ 18. Kd1 Qxf6 19. Bc4 Qxa1 20. Kd2 Qd4+ 21. Bd3 Qxg1 22. Nc3 Qg2+ 23. Kc1 Re1+ 24. Nd1 Qxg4 25. Kc2 Qg2+ 26. Kc3 Rxd1 27. Bh7+ Kxh7 28. Kb3 Rd3+ 29. Ka4 Qb2 30. Ka5 Qb3 31. Ka6 Qxa3+ 32. Kb7 Qxb4+ 33. Kc8 Qb8+ 34. Kd7 Rd5 35. Kxc6 Rc5+ 36. Kd7 Qb6 37. Ke8 Qc6+ 38. Kxf7 Qe8+ 0-1
+

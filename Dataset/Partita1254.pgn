@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qdtz42Ab"]
+[White "RYAPS"]
+[Black "ivan62"]
+[Result "1-0"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:52:34"]
+[WhiteElo "1655"]
+[BlackElo "1704"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Bg4 5. Be2 Nc6 6. c3 e6 7. Bf4 Bd6 8. Bxd6 Qxd6 9. Nbd2 Nf6 10. O-O O-O 11. Re1 Rac8 12. Ne5 Bxe2 13. Qxe2 Qe7 14. Ndf3 Nxe5 15. Nxe5 Nd7 16. f4 Nxe5 17. fxe5 b5 18. Qxb5 Rb8 19. Qe2 Qb7 20. Rab1 Qa6 21. Qxa6 1-0
+

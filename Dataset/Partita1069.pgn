@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bTbojvjw"]
+[White "tosquiman1"]
+[Black "JohndoThat"]
+[Result "0-1"]
+[UTCDate "2014.07.31"]
+[UTCTime "22:41:48"]
+[WhiteElo "1448"]
+[BlackElo "1253"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+41"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d6 5. Bb5 Bd7 6. dxe5 Nxe5 7. Nxe5 dxe5 8. Bxd7+ Nxd7 9. O-O Bd6 10. Nb5 a6 11. Nxd6+ cxd6 12. Qxd6 Qe7 13. Qxe7+ Kxe7 14. Bg5+ f6 15. Be3 b5 16. Rad1 Rhd8 17. f4 a5 18. fxe5 Nxe5 19. Bf4 Nc4 20. b3 g5 21. bxc4 gxf4 22. cxb5 Rxd1 23. Rxd1 Ke6 24. g3 fxg3 25. hxg3 Ke5 26. Re1 Rb8 27. c4 Rc8 28. b6 Rxc4 29. Rb1 Rc8 30. b7 Rb8 31. Kf2 Kxe4 32. Rb5 f5 33. Kg2 f4 34. gxf4 Kxf4 35. Kh3 Ke3 36. Kh4 Kd4 37. Kh5 Kc4 38. Rb1 Kc5 39. Kh6 Kc6 40. Kxh7 Rxb7+ 41. Rxb7 Kxb7 42. Kg6 Kc6 43. Kf5 Kb5 44. Ke4 Kc4 45. Ke3 Kc3 46. Ke4 Kb2 47. Kd4 a4 48. Kc4 a3 49. Kb4 Kxa2 50. Kc3 Kb1 51. Kb3 a2 52. Ka3 a1=Q+ 53. Kb4 Kc2 54. Kc4 Qc3+ 55. Kd5 Kd3 56. Kd6 Ke4 57. Ke6 Qe5+ 0-1
+
