@@ -2,7 +2,7 @@
 
 Python implementation of chess game.
 Features:
-- Save and load `.png` games
+- Save and load games in Portable Game Notation (`.pgn`)
 - p vs p mode
 - p vs AI (future feature)
 - Simulation of random match
